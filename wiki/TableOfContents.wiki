@@ -1,3 +1,3 @@
   * [https://code.google.com/p/pliniancore/wiki/Introduction# Introduction].
-  * Versions.
-  * Terms.
+  * [https://code.google.com/p/pliniancore/wiki/Versions# Versions].
+  * [https://code.google.com/p/pliniancore/wiki/Terms# Terms].
