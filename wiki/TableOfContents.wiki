@@ -1,4 +1,5 @@
   * [https://code.google.com/p/pliniancore/wiki/StandardsProgress# Standards Progress]
-  * [https://code.google.com/p/pliniancore/wiki/Versions# Versions]
   * [https://code.google.com/p/pliniancore/wiki/Terms# Plinian Core Terms]
   * [http://www.gbif.es/plinian/doku.php# Previous Wiki]
+  * [https://code.google.com/p/pliniancore/wiki/Examples# Examples]
+  * [https://code.google.com/p/pliniancore/wiki/Resources# Resources]
