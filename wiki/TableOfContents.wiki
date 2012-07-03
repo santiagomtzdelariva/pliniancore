@@ -1,4 +1,4 @@
   * [https://code.google.com/p/pliniancore/wiki/Introduction# Introduction]
   * [https://code.google.com/p/pliniancore/wiki/Versions# Versions]
   * [https://code.google.com/p/pliniancore/wiki/Terms# Terms]
-  * [http://www.gbif.es/plinian/doku.php# Old Wiki]
+  * [http://www.gbif.es/plinian/doku.php# Previous Wiki]
