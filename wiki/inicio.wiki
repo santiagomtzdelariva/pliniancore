@@ -84,8 +84,8 @@ Estas son las versiones del esquema plano.
 ||  ||  ||  ||  **[PlinianCore_Creators Creators] (*) **  ||  **[PlinianCore_Creators Creators] (*) **  ||
 ||  **[PlinianCore_Countries Countries] (*) **  ||  **[PlinianCore_Countries Countries] (*) **  ||  **[PlinianCore_Countries Countries] (*) **  ||  ||  ||
 ||  **[PlinianCore_Distribution Distribution]**  ||  **[PlinianCore_Distribution Distribution]**  ||  **[PlinianCore_Distribution Distribution]**  ||  **[PlinianCore_Distribution Distribution]**  ||  **[PlinianCore_Distribution Distribution]**  ||
-||  ||  **[PlinianCore_Abstract|Abstract]**  ||  **[PlinianCore_Abstract Abstract]**  ||  **[PlinianCore_Abstract|Abstract]**  ||  **[PlinianCore_Abstract|Abstract]**  ||
-||  **[PlinianCore_Kingdom Kingdom]**  ||  **[PlinianCore_Kingdom Kingdom]**  ||  **[PlinianCore_Kingdom|Kingdom]**  ||  **[PlinianCore_Kingdom|Kingdom]**  ||  **[PlinianCore_Kingdom|Kingdom]**  ||
+||  ||  **[PlinianCore_Abstract Abstract]**  ||  **[PlinianCore_Abstract Abstract]**  ||  **[PlinianCore_Abstract Abstract]**  ||  **[PlinianCore_Abstract Abstract]**  ||
+||  **[PlinianCore_Kingdom Kingdom]**  ||  **[PlinianCore_Kingdom Kingdom]**  ||  **[PlinianCore_Kingdom Kingdom]**  ||  **[PlinianCore_Kingdom Kingdom]**  ||  **[PlinianCore_Kingdom Kingdom]**  ||
 ||  **[PlinianCore_Phylum Phylum]**  ||  **[PlinianCore_Phylum Phylum]**  ||  **[PlinianCore_Phylum Phylum]**  ||  **[PlinianCore_Phylum Phylum]**  ||  **[PlinianCore_Phylum Phylum]**  ||
 ||  **[PlinianCore_Class Class]**  ||  **[PlinianCore_Class Class]**  ||  **[PlinianCore_Class Class]**  ||  **[PlinianCore_Class Class]**  ||  **[PlinianCore_Class Class]**  ||
 ||  **[PlinianCore_Order Order]**  ||  **[PlinianCore_Order Order]**  ||  **[PlinianCore_Order Order]**  ||  **[PlinianCore_Order Order]**  ||  **[PlinianCore_Order Order]**  ||
@@ -108,14 +108,14 @@ Estas son las versiones del esquema plano.
 ||  **[PlinianCore_Reproduction Reproduction]**  ||  **[PlinianCore_Reproduction Reproduction]**  ||  **[PlinianCore_Reproduction Reproduction]**  ||  **[PlinianCore_Reproduction Reproduction]**  ||  ** [PlinianCore_Reproduction Reproduction]**  ||
 ||  **Seasons**  ||  ||  ||  ||  ||
 ||  **Phenology**  ||  ||  ||  ||  ||
-||  ||  **[PlinianCore_AnnualCycle|AnnualCycle]**  ||  **[PlinianCore_AnnualCycle|AnnualCycle]**  ||  **[PlinianCore_AnnualCycle|AnnualCycle]**  ||  **[PlinianCore_AnnualCycle|AnnualCycle]**   ||
+||  ||  **[PlinianCore_AnnualCycle AnnualCycle]**  ||  **[PlinianCore_AnnualCycle AnnualCycle]**  ||  **[PlinianCore_AnnualCycle AnnualCycle]**  ||  **[PlinianCore_AnnualCycle AnnualCycle]**   ||
 ||  **[PlinianCore_ScientificDescription ScientificDescription]**  ||  **[PlinianCore_ScientificDescription ScientificDescription]**  ||  **[PlinianCore_ScientificDescription ScientificDescription]**  ||  **[PlinianCore_ScientificDescription ScientificDescription]**  ||  **[PlinianCore_ScientificDescription ScientificDescription]**  ||
 ||  **[PlinianCore_BriefDescription BriefDescription]**  ||  **[PlinianCore_BriefDescription BriefDescription]**  ||  **[PlinianCore_BriefDescription BriefDescription]**  ||  **[PlinianCore_BriefDescription BriefDescription]**  ||  **[PlinianCore_BriefDescription BriefDescription]**  ||
 ||  **[PlinianCore_Feeding Feeding]**  ||  **[PlinianCore_Feeding Feeding]**  ||  **[PlinianCore_Feeding Feeding]**  ||  **[PlinianCore_Feeding Feeding]**  ||  ** [PlinianCore_Feeding Feeding]**  ||
 ||  **[PlinianCore_Behavior Behavior]**  ||  **[PlinianCore_Behavior Behavior]**  ||  **[PlinianCore_Behavior Behavior]**  ||  **[PlinianCore_Behavior Behavior]**  ||  ** [PlinianCore_Behavior Behavior]**  ||
 ||  **SymbioticRelationship**  ||  **[PlinianCore_Interactions Interactions]**  ||  **[PlinianCore_Interactions Interactions]**  ||  **[PlinianCore_Interactions Interactions]**  ||  ** [PlinianCore_Interactions Interactions]**  ||
 ||  **[PlinianCore_ChromosomicNumberN ChromosomicNumberN]**  ||  **[PlinianCore_ChromosomicNumberN ChromosomicNumberN]**  ||  **[PlinianCore_ChromosomicNumberN ChromosomicNumberN]**  ||  **[PlinianCore_ChromosomicNumberN ChromosomicNumberN]**  ||  ** [PlinianCore_ChromosomicNumberN ChromosomicNumberN]**  ||
-||  **[PlinianCore_MolecularData|MolecularData]**  ||  **[PlinianCore_MolecularData|MolecularData]**  ||  **[PlinianCore_MolecularData|MolecularData]**  ||  **[PlinianCore_MolecularData|MolecularData]**  ||  ** [PlinianCore_MolecularData|MolecularData]**  ||
+||  **[PlinianCore_MolecularData MolecularData]**  ||  **[PlinianCore_MolecularData MolecularData]**  ||  **[PlinianCore_MolecularData MolecularData]**  ||  **[PlinianCore_MolecularData MolecularData]**  ||  ** [PlinianCore_MolecularData MolecularData]**  ||
 ||  **Population**  ||  ||  ||  ||  ||
 ||  **PopulationState**  ||  ||  ||  ||  ||
 ||  ||  **[PlinianCore_PopulationBiology PopulationBiology]**  ||  **[PlinianCore_PopulationBiology PopulationBiology]**  ||  **[PlinianCore_PopulationBiology PopulationBiology]**  ||  **[PlinianCore_PopulationBiology PopulationBiology]**  ||
@@ -131,14 +131,14 @@ Estas son las versiones del esquema plano.
 ||  **DocumentedUses**  ||  ||  ||  ||  ||
 ||  **TraditionalUses**  ||  ||  ||  ||  ||
 ||  ||  **[PlinianCore_Uses Uses]**  ||  **[PlinianCore_Uses Uses]**  ||  **[PlinianCore_Uses Uses]**  ||  **[PlinianCore_Uses Uses]**  ||
-||  ||  **[PlinianCore_Management|Management]**  ||  **[PlinianCore_Management|Management]**  ||  **[PlinianCore_Management|Management]**  ||  **[PlinianCore_Management|Management]**  ||
+||  ||  **[PlinianCore_Management Management]**  ||  **[PlinianCore_Management Management]**  ||  **[PlinianCore_Management Management]**  ||  **[PlinianCore_Management Management]**  ||
 ||  **[PlinianCore_Folklore Folklore]**  ||  **[PlinianCore_Folklore Folklore]**  ||  **[PlinianCore_Folklore Folklore]**  ||  **[PlinianCore_Folklore Folklore]**  ||  **[PlinianCore_Folklore Folklore]**  ||
 ||  **[PlinianCore_References References]**  ||  **[PlinianCore_References References]**  ||  **[PlinianCore_References References]**  ||  **[PlinianCore_References References]**  ||  **[PlinianCore_References References]**  ||
 ||  ||  **[PlinianCore_UnstructuredDocumentation UnstructuredDocumentation]**  ||  **[PlinianCore_UnstructuredDocumentation UnstructuredDocumentation]**  ||  **[PlinianCore_UnstructuredDocumentation UnstructuredDocumentation]**  ||  **[PlinianCore_UnstructuredDocumentation UnstructuredDocumentation]**  ||
 ||  **[PlinianCore_OtherInformationSources OtherInformationSources]**  ||  **[PlinianCore_OtherInformationSources OtherInformationSources]**  ||  **[PlinianCore_OtherInformationSources OtherInformationSources]**  ||  **[PlinianCore_OtherInformationSources OtherInformationSources]**  ||  **[PlinianCore_OtherInformationSources OtherInformationSources]**  ||
 ||  **[PlinianCore_Papers Papers]**  ||  **[PlinianCore_Papers Papers]**  ||  **[PlinianCore_Papers Papers]**  ||  **[PlinianCore_Papers Papers]**  ||  **[PlinianCore_Papers Papers]**  ||
 ||  ||  **[PlinianCore_IdentificationKeys IdentificationKeys]**  ||  **[PlinianCore_IdentificationKeys IdentificationKeys]**  ||  **[PlinianCore_IdentificationKeys IdentificationKeys]**  ||  **[PlinianCore_IdentificationKeys IdentificationKeys]**  ||
-||  ||  **[PlinianCore_MigratoryData|MigratoryData]**  ||  **[PlinianCore_MigratoryData|MigratoryData]**  ||  **[PlinianCore_MigratoryData|MigratoryData]**  ||  ** [PlinianCore_MigratoryData|MigratoryData]**  ||
+||  ||  **[PlinianCore_MigratoryData MigratoryData]**  ||  **[PlinianCore_MigratoryData MigratoryData]**  ||  **[PlinianCore_MigratoryData MigratoryData]**  ||  ** [PlinianCore_MigratoryData MigratoryData]**  ||
 ||  ||  **[PlinianCore_EcologicalSignificance EcologicalSignificance]**  ||  **[PlinianCore_EcologicalSignificance EcologicalSignificance]**  ||  **[PlinianCore_EcologicalSignificance EcologicalSignificance]**  ||  ** [PlinianCore_EcologicalSignificance EcologicalSignificance]**  ||
 ||  ||  ||  ||  ||  **[PlinianCore_UnstructuredNaturalHistory UnstructuredNaturalHistory]**  ||
 ||  ||  ||  ||  ||  **[PlinianCore_InvasivenessData InvasivenessData]**  ||
