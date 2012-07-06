@@ -73,7 +73,7 @@ Estas son las versiones del esquema plano.
  La constitución actual del Plinian Core plano es la siguiente.
  Para comentar con respecto a cualquier elemento, hacer clic en el elemento.
 
-||  PC 2.2.1  ||  PC 2.2.2  ||  PC 2.2.3  ||  PC 2.2.4  ||  Plinian Core Flat2.3  ||
+||  *PC 2.2.1*  ||  *PC 2.2.2*  ||  *PC 2.2.3*  ||  *PC 2.2.4*  ||  *Plinian Core Flat2.3*  ||
 ||  * ScientificName {{{(*)}}} *  ||  *ScientificName {{{(*)}}} *  ||  *ScientificName {{{(*)}}} *  ||  *[PlinianCore_CanonicalName CanonicalName] {{{(*)}}} *  ||  * [PlinianCore_ScientificName ScientificName] * {{{(*)}}}  ||
 ||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||
 ||  *DateLastModified {{{(*)}}} *  ||  *DateLastModified {{{(*)}}} *  ||  *DateLastModified {{{(*)}}} *  ||  *[PlinianCore_DateModified DateModified] {{{(*)}}} *  ||  *[PlinianCore_DateModified DateLastModified]{{{(*)}}} *  ||
