@@ -78,7 +78,7 @@ Estas son las versiones del esquema plano.
 ||  **[PlinianCore_InstitutionCode InstitutionCode] (*) **  ||  **[PlinianCore_InstitutionCode InstitutionCode] (*) **  ||  **[PlinianCore_InstitutionCode InstitutionCode] (*) **  ||  **[PlinianCore_InstitutionCode InstitutionCode] (*) **  ||  **[PlinianCore_InstitutionCode InstitutionCode] (*) **  |
 ||  **DateLastModified (*) **  ||  **DateLastModified (*) **  ||  **DateLastModified (*) **  ||  **[PlinianCore_DateModified DateModified] (*) **  ||  **[PlinianCore_DateModified DateLastModified](*) **  |
 ||  **Code (*) **  ||  **Code (*) **  ||  **[PlinianCore_TaxonRecordID TaxonRecordID] (*) **  ||  **[PlinianCore_TaxonRecordID TaxonRecordID] (*) **  ||  **[PlinianCore_TaxonRecordID TaxonRecordID] (*) **  |
-||  **[PlinianCore_Language|Language] (*) **  ||  **[PlinianCore_Language Language] (*) **  ||  **[PlinianCore_Language Language] (*) **  ||  **[PlinianCore_Language|Language] (*) **  ||  **[PlinianCore_Language|Language] (*) **  |
+||  **[PlinianCore_Language Language] (*) **  ||  **[PlinianCore_Language Language] (*) **  ||  **[PlinianCore_Language Language] (*) **  ||  **[PlinianCore_Language Language] (*) **  ||  **[PlinianCore_Language Language] (*) **  |
 ||  **Coauthors**  ||  **Coauthors**  ||  **Coauthors**  ||  ||  |
 ||  **SpeciesPageAuthor (*) **  ||  **SpeciesPageAuthor (*) **  ||  **SpeciesPageAuthor (*) **  ||  ||  |
 ||  ||  ||  ||  **[PlinianCore_Creators Creators] (*) **  ||  **[PlinianCore_Creators Creators] (*) **  |
@@ -90,7 +90,7 @@ Estas son las versiones del esquema plano.
 ||  **[PlinianCore_Class Class]**  ||  **[PlinianCore_Class Class]**  ||  **[PlinianCore_Class Class]**  ||  **[PlinianCore_Class Class]**  ||  **[PlinianCore_Class Class]**  |
 ||  **[PlinianCore_Order Order]**  ||  **[PlinianCore_Order Order]**  ||  **[PlinianCore_Order Order]**  ||  **[PlinianCore_Order Order]**  ||  **[PlinianCore_Order Order]**  |
 ||  **[PlinianCore_Family Family]**  ||  **[PlinianCore_Family Family]**  ||  **[PlinianCore_Family Family]**  ||  **[PlinianCore_Family Family]**  ||  **[PlinianCore_Family Family]**  |
-||  **[PlinianCore_Genus Genus]**  ||  **[PlinianCore_Genus Genus]**  ||  **[PlinianCore_Genus Genus]**  ||  **[PlinianCore_Genus|Genus]**  ||  **[PlinianCore_Genus|Genus]**  |
+||  **[PlinianCore_Genus Genus]**  ||  **[PlinianCore_Genus Genus]**  ||  **[PlinianCore_Genus Genus]**  ||  **[PlinianCore_Genus Genus]**  ||  **[PlinianCore_Genus Genus]**  |
 ||  **[PlinianCore_Synonyms Synonyms]**  ||  **[PlinianCore_Synonyms Synonyms]**  ||  **[PlinianCore_Synonyms Synonyms]**  ||  **[PlinianCore_Synonyms Synonyms]**  ||  **[PlinianCore_Synonyms Synonyms]**  |
 ||  **AuthorYearOfScientificName**  ||  **AuthorYearOfScientificName**  ||  **AuthorYearOfScientificName**  ||  ||  ** [AuthorYearOfScientificName] **  |
 ||  ||  ||  ||  **[PlinianCore_CanonicalAuthorship CanonicalAuthorship]**  ||  |
@@ -100,11 +100,11 @@ Estas son las versiones del esquema plano.
 ||  **TypeDepository**  ||  **TypeDepository**  ||  **TypeDepository**  ||  ||  |
 ||  **TypeCollector**  ||  **TypeCollector**  ||  **TypeCollector**  ||  ||  |
 ||  ||  ||  ||  **[PlinianCore_Typification Typification]**  ||  **[PlinianCore_Typification Typification]**  |
-||  ||  ||  ||  **[PlinianCore_GlobalUniqueIdentifier|GlobalUniqueIdentifier]**  ||  **[PlinianCore_GlobalUniqueIdentifier|GlobalUniqueIdentifier]**  |
+||  ||  ||  ||  **[PlinianCore_GlobalUniqueIdentifier GlobalUniqueIdentifier]**  ||  **[PlinianCore_GlobalUniqueIdentifier GlobalUniqueIdentifier]**  |
 ||  **Collaborators**  ||  **Collaborators**  ||  **Collaborators**  ||  **[PlinianCore_Contributors Contributors]**  ||  **[PlinianCore_Contributors Contributors]**  |
 ||  **PublicationDate**  ||  **PublicationDate**  ||  **PublicationDate**  ||  **[PlinianCore_DateCreated DateCreated]**  ||  **[PlinianCore_DateCreated DateCreated]**  |
 ||  **[PlinianCore_Habit Habit]**  ||  **[PlinianCore_Habit Habit]**  ||  **[PlinianCore_Habit Habit]**  ||  **[PlinianCore_Habit Habit]**  ||  ** [PlinianCore_Habit Habit]** |
-||  **[PlinianCore_LifeCycle|LifeCycle]**  ||  **[PlinianCore_LifeCycle|LifeCycle]**  ||  **[PlinianCore_LifeCycle|LifeCycle]**  ||  **[PlinianCore_LifeCycle|LifeCycle]**  ||  ** [PlinianCore_LifeCycle|LifeCycle]**  |
+||  **[PlinianCore_LifeCycle LifeCycle]**  ||  **[PlinianCore_LifeCycle LifeCycle]**  ||  **[PlinianCore_LifeCycle LifeCycle]**  ||  **[PlinianCore_LifeCycle LifeCycle]**  ||  ** [PlinianCore_LifeCycle LifeCycle]**  |
 ||  **[PlinianCore_Reproduction Reproduction]**  ||  **[PlinianCore_Reproduction Reproduction]**  ||  **[PlinianCore_Reproduction Reproduction]**  ||  **[PlinianCore_Reproduction Reproduction]**  ||  ** [PlinianCore_Reproduction Reproduction]**  |
 ||  **Seasons**  ||  ||  ||  ||  |
 ||  **Phenology**  ||  ||  ||  ||  |
@@ -124,10 +124,10 @@ Estas son las versiones del esquema plano.
 ||  ||  ||  **[PlinianCore_ThreatStatus ThreatStatus]**  ||  **[PlinianCore_ThreatStatus ThreatStatus]**  ||  **[PlinianCore_ThreatStatus ThreatStatus]**  |
 ||  **NationalLegislation**  ||  **NationalLegislation**  ||  ||  ||  |
 ||  **RegionalLegislation**  ||  **RegionalLegislation**  ||  ||  ||  |
-||  ||  ||  **[PlinianCore_Legislation|Legislation]**  ||  **[PlinianCore_Legislation|Legislation]**  ||  **[PlinianCore_Legislation|Legislation]**  |
+||  ||  ||  **[PlinianCore_Legislation Legislation]**  ||  **[PlinianCore_Legislation Legislation]**  ||  **[PlinianCore_Legislation Legislation]**  |
 ||  **[PlinianCore_Habitat Habitat]**  ||  **[PlinianCore_Habitat Habitat]**  ||  **[PlinianCore_Habitat Habitat]**  ||  **[PlinianCore_Habitat Habitat]**  ||  **[PlinianCore_Habitat Habitat]**  |
 ||  **[PlinianCore_Territory Territory]**  ||  **[PlinianCore_Territory Territory]**  ||  **[PlinianCore_Territory Territory]**  ||  **[PlinianCore_Territory Territory]**  ||  **[PlinianCore_Territory Territory]**  |
-||  **Endemism**  ||  **Endemism**  ||  **Endemism**  ||  **[PlinianCore_Endemicity|Endemicity]**  ||  **[PlinianCore_Endemicity|Endemicity]**  |
+||  **Endemism**  ||  **Endemism**  ||  **Endemism**  ||  **[PlinianCore_Endemicity Endemicity]**  ||  **[PlinianCore_Endemicity Endemicity]**  |
 ||  **DocumentedUses**  ||  ||  ||  ||  |
 ||  **TraditionalUses**  ||  ||  ||  ||  |
 ||  ||  **[PlinianCore_Uses Uses]**  ||  **[PlinianCore_Uses Uses]**  ||  **[PlinianCore_Uses Uses]**  ||  **[PlinianCore_Uses Uses]**  |
@@ -139,7 +139,7 @@ Estas son las versiones del esquema plano.
 ||  **[PlinianCore_Papers Papers]**  ||  **[PlinianCore_Papers Papers]**  ||  **[PlinianCore_Papers Papers]**  ||  **[PlinianCore_Papers Papers]**  ||  **[PlinianCore_Papers Papers]**  |
 ||  ||  **[PlinianCore_IdentificationKeys IdentificationKeys]**  ||  **[PlinianCore_IdentificationKeys IdentificationKeys]**  ||  **[PlinianCore_IdentificationKeys IdentificationKeys]**  ||  **[PlinianCore_IdentificationKeys IdentificationKeys]**  |
 ||  ||  **[PlinianCore_MigratoryData|MigratoryData]**  ||  **[PlinianCore_MigratoryData|MigratoryData]**  ||  **[PlinianCore_MigratoryData|MigratoryData]**  ||  ** [PlinianCore_MigratoryData|MigratoryData]**  |
-||  ||  **[PlinianCore_EcologicalSignificance|EcologicalSignificance]**  ||  **[PlinianCore_EcologicalSignificance|EcologicalSignificance]**  ||  **[PlinianCore_EcologicalSignificance|EcologicalSignificance]**  ||  ** [PlinianCore_EcologicalSignificance|EcologicalSignificance]**  |
+||  ||  **[PlinianCore_EcologicalSignificance EcologicalSignificance]**  ||  **[PlinianCore_EcologicalSignificance EcologicalSignificance]**  ||  **[PlinianCore_EcologicalSignificance EcologicalSignificance]**  ||  ** [PlinianCore_EcologicalSignificance EcologicalSignificance]**  |
 ||  ||  ||  ||  ||  **[PlinianCore_UnstructuredNaturalHistory UnstructuredNaturalHistory]**  |
 ||  ||  ||  ||  ||  **[PlinianCore_InvasivenessData InvasivenessData]**  |
 ||  ||  ||  **[PlinianCore_TargetAudiences TargetAudiences]**  ||  **[PlinianCore_TargetAudiences TargetAudiences]**  ||  **[PlinianCore_TargetAudiences TargetAudiences]**  |
