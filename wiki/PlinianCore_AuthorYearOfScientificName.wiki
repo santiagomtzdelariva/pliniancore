@@ -1,6 +1,6 @@
-====== AuthorYearOfScientificName ======
+= AuthorYearOfScientificName =
 
-===== Descripción =====
+== Descripción ==
   * **Español:**
  AuthorYearOfScientificName
 
@@ -8,7 +8,7 @@
  AuthorYearOfScientificName
 
 
-===== Historial de Cambios =====
+== Historial de Cambios ==
   * **PC (Plano) 2.2.1:** Se crea el elemento
 
   * **PC (Plano) 2.2.2:** No hay cambios
@@ -20,7 +20,7 @@
   * **Plinian Core Flat2.3: ** Se cambia de CanonicalAuthorship otra vez a AuthorYearOfScientificName
 
 
-===== Comentarios / Sugerencias =====
+== Comentarios / Sugerencias ==
 
   * Este es el formato a seguir para comentarios pero aún no hay ninguno. --- //[[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro]] 2008/07/06 22:47//
 

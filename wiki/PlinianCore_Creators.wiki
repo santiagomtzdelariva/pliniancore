@@ -1,10 +1,10 @@
-====== Creators ======
+= Creators =
 
 
 
 
 
-===== Descripción =====
+== Descripción ==
   * **Español:**
 La persona o entidad principal encargada de crear el recurso. Por ejemplo incluir una persona, una organización e información de contacto.  Generalmente se indica el nombre del creador del registro que hizo pública la información de la especie y la organización a la que pertenece.
 
@@ -19,7 +19,7 @@ standard element "Creators", i.e. Author or editor
 
 
 
-===== Historial de Cambios =====
+== Historial de Cambios ==
   * **PC (Plano) 2.2.1:** No existe tal elemento
 
   * **PC (Plano) 2.2.2:** No existe tal elemento
@@ -31,7 +31,7 @@ standard element "Creators", i.e. Author or editor
   * **PC (Plano) 2.3:** Se mantiene sin cambios.
 
 
-===== Comentarios / Sugerencias =====
+== Comentarios / Sugerencias ==
 
   * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[[jcuadra@inbio.ac.cr|Jose Cuadra]] 2008/05/12 10:54//
 

@@ -1,7 +1,7 @@
-====== ScientificName ======
+= ScientificName =
 
 
-===== Descripción =====
+== Descripción ==
   * **Español:**
  
 
@@ -18,7 +18,7 @@ Class:	http://rs.tdwg.org/dwc/terms/Taxon
 Identifier:	http://rs.tdwg.org/dwc/terms/scientificName
 Class:	http://rs.tdwg.org/dwc/terms/Taxon
 
-===== Historial de Cambios =====
+== Historial de Cambios ==
   * **PC (Plano) 2.2.1:** Su nombre era ScientificName
 
   * **PC (Plano) 2.2.2:** Su nombre era ScientificName
@@ -29,7 +29,7 @@ Class:	http://rs.tdwg.org/dwc/terms/Taxon
 
   * **PC (Plano) 2.2.3:** Se nombró ScientificName
 
-===== Comentarios / Sugerencias =====
+== Comentarios / Sugerencias ==
 
   * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[[jcuadra@inbio.ac.cr|Jose Cuadra]] 2008/05/09 17:00//
 

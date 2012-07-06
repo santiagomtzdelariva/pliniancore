@@ -1,8 +1,8 @@
-====== GlobalUniqueIdentifier ======
+= GlobalUniqueIdentifier =
 
 Se recomienda seguir un lenguaje compatible con LSID
 
-===== Descripción =====
+== Descripción ==
   * **Español:**
  Un identificador unico dentro de la base de datos, para el registro de especies
 
@@ -10,7 +10,7 @@ Se recomienda seguir un lenguaje compatible con LSID
  According to DarwinCore: An Uniform Resource Name (URN) used as an unique identifier of the taxon record.
 
 
-===== Historial de Cambios =====
+== Historial de Cambios ==
   * **PC (Plano) 2.2.1:** No existe
 
   * **PC (Plano) 2.2.2:** No existe
@@ -23,7 +23,7 @@ Se recomienda seguir un lenguaje compatible con LSID
 
 
 
-===== Comentarios / Sugerencias =====
+== Comentarios / Sugerencias ==
 
   * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[[jcuadra@inbio.ac.cr|Jose Cuadra]] 2008/05/12 10:52//
 

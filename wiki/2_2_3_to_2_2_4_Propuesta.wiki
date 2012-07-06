@@ -1,4 +1,4 @@
-====== Propuesta 2.2.3 --> 2.2.4 ======
+= Propuesta 2.2.3 --> 2.2.4 =
 
 http://www.pliniancore.org/test/pl_corev2.2.4.xsd
 

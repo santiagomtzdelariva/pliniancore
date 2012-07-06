@@ -1,8 +1,8 @@
-====== authoryearofscientificname ======
+= authoryearofscientificname =
 
 
 
-===== Descripción =====
+== Descripción ==
   * **Español:**
 Autor y año de publicación del nombre científico. Aplica DarwinCore. [[http://wiki.tdwg.org/twiki/bin/view/DarwinCore/AuthorYearOfScientificName]]
 
@@ -11,7 +11,7 @@ Autor y año de publicación del nombre científico. Aplica DarwinCore. [[http:/
 Author and year of Scientific name publication. DarwinCore. [[http://wiki.tdwg.org/twiki/bin/view/DarwinCore/AuthorYearOfScientificName]]
 
 
-===== Historial de Cambios =====
+== Historial de Cambios ==
   * **PC (Plano) 2.2.1:** Previa existencia
 
   * **PC (Plano) 2.2.2:** Sin cambios
@@ -23,6 +23,6 @@ Author and year of Scientific name publication. DarwinCore. [[http://wiki.tdwg.o
   * **PC (Plano) 2.3:** Se recupera en sustitución de CanonicalAuthorship
 
 
-===== Comentarios / Sugerencias =====
+== Comentarios / Sugerencias ==
 
   * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[[jcuadra@inbio.ac.cr|Jose Cuadra]] 2008/05/12 10:17//
