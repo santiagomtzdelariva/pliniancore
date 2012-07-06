@@ -181,8 +181,8 @@ http://www.pliniancore.org/test/pl_corev2.2.1.xsd
   * Agregar elemento "dataset_code" [F. Pando]
   * Mejorar el tipo de dato a utilizar en el elemento "distribution", pasar de un campo textual a algo que sea útil para poder "pintarlo" sobre un mapa. Además implica  buscar opciones desde el punto de vista técnico. [F. Pando]
   * Elementos que precisan de vocabularios controlados:
-      * [[PlinianCore_Habit|Habit]]
-      * [[PlinianCore_Feeding|Feeding]]
+      * [[plinianore_habit|Habit]]
+      * [[pliniancore_feeding|Feeding]]
       * [[PlinianCore_Behavior|Behavior]]
       * [[PlinianCore_Interactions|Interactions]]
       * [[PlinianCore_ThreatStatus|ThreatStatus]]
