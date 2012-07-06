@@ -74,15 +74,15 @@ Estas son las versiones del esquema plano.
  Para comentar con respecto a cualquier elemento, hacer clic en el elemento.
 
 ||  PC 2.2.1  ||  PC 2.2.2  ||  PC 2.2.3  ||  PC 2.2.4  ||  Plinian Core Flat2.3  ||
-||  * ScientificName (*) *  ||  *ScientificName (*) *  ||  *ScientificName (*) *  ||  *[PlinianCore_CanonicalName CanonicalName] (*) *  ||  * [PlinianCore_ScientificName ScientificName] * (*)  ||
-||  *[PlinianCore_InstitutionCode InstitutionCode] (*) *  ||  *[PlinianCore_InstitutionCode InstitutionCode] (*) *  ||  *[PlinianCore_InstitutionCode InstitutionCode] (*) *  ||  *[PlinianCore_InstitutionCode InstitutionCode] (*) *  ||  *[PlinianCore_InstitutionCode InstitutionCode] (*) *  ||
-||  *DateLastModified (*) *  ||  *DateLastModified (*) *  ||  *DateLastModified (*) *  ||  *[PlinianCore_DateModified DateModified] (*) *  ||  *[PlinianCore_DateModified DateLastModified](*) *  ||
-||  *Code (*) *  ||  *Code (*) *  ||  *[PlinianCore_TaxonRecordID TaxonRecordID] (*) *  ||  *[PlinianCore_TaxonRecordID TaxonRecordID] (*) *  ||  *[PlinianCore_TaxonRecordID TaxonRecordID] (*) *  ||
-||  *[PlinianCore_Language Language] (*) *  ||  *[PlinianCore_Language Language] (*) *  ||  *[PlinianCore_Language Language] (*) *  ||  *[PlinianCore_Language Language] (*) *  ||  *[PlinianCore_Language Language] (*) *  ||
+||  * ScientificName * (*)  ||  *ScientificName * (*)  ||  *ScientificName * (*)  ||  *[PlinianCore_CanonicalName CanonicalName] * (*)  ||  * [PlinianCore_ScientificName ScientificName] * (*)  ||
+||  *[PlinianCore_InstitutionCode InstitutionCode] * (*)  ||  *[PlinianCore_InstitutionCode InstitutionCode] * (*)  ||  *[PlinianCore_InstitutionCode InstitutionCode] * (*)  ||  *[PlinianCore_InstitutionCode InstitutionCode] * (*)  ||  *[PlinianCore_InstitutionCode InstitutionCode] * (*)  ||
+||  *DateLastModified * (*)  ||  *DateLastModified * (*)  ||  *DateLastModified * (*)  ||  *[PlinianCore_DateModified DateModified] * (*)  ||  *[PlinianCore_DateModified DateLastModified]* (*)  ||
+||  *Code * (*)  ||  *Code * (*)  ||  *[PlinianCore_TaxonRecordID TaxonRecordID] * (*)  ||  *[PlinianCore_TaxonRecordID TaxonRecordID] * (*)  ||  *[PlinianCore_TaxonRecordID TaxonRecordID] * (*)  ||
+||  *[PlinianCore_Language Language] * (*)  ||  *[PlinianCore_Language Language] * (*)  ||  *[PlinianCore_Language Language] * (*)  ||  *[PlinianCore_Language Language] * (*)  ||  *[PlinianCore_Language Language] * (*)  ||
 ||  *Coauthors*  ||  *Coauthors*  ||  *Coauthors*  ||  ||  ||
-||  *SpeciesPageAuthor (*) *  ||  *SpeciesPageAuthor (*) *  ||  *SpeciesPageAuthor (*) *  ||  ||  ||
-||  ||  ||  ||  *[PlinianCore_Creators Creators] (*) *  ||  *[PlinianCore_Creators Creators] (*) *  ||
-||  *[PlinianCore_Countries Countries] (*) *  ||  *[PlinianCore_Countries Countries] (*) *  ||  *[PlinianCore_Countries Countries] (*) *  ||  ||  ||
+||  *SpeciesPageAuthor * (*)  ||  *SpeciesPageAuthor * (*)  ||  *SpeciesPageAuthor * (*)  ||  ||  ||
+||  ||  ||  ||  *[PlinianCore_Creators Creators] * (*)  ||  *[PlinianCore_Creators Creators] * (*)  ||
+||  *[PlinianCore_Countries Countries] * (*)  ||  *[PlinianCore_Countries Countries] * (*)  ||  *[PlinianCore_Countries Countries] * (*)  ||  ||  ||
 ||  *[PlinianCore_Distribution Distribution]*  ||  *[PlinianCore_Distribution Distribution]*  ||  *[PlinianCore_Distribution Distribution]*  ||  *[PlinianCore_Distribution Distribution]*  ||  *[PlinianCore_Distribution Distribution]*  ||
 ||  ||  *[PlinianCore_Abstract Abstract]*  ||  *[PlinianCore_Abstract Abstract]*  ||  *[PlinianCore_Abstract Abstract]*  ||  *[PlinianCore_Abstract Abstract]*  ||
 ||  *[PlinianCore_Kingdom Kingdom]*  ||  *[PlinianCore_Kingdom Kingdom]*  ||  *[PlinianCore_Kingdom Kingdom]*  ||  *[PlinianCore_Kingdom Kingdom]*  ||  *[PlinianCore_Kingdom Kingdom]*  ||
