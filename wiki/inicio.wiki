@@ -142,7 +142,7 @@ http://www.pliniancore.org/test/pl_corev2.2.1.xsd
 
   * [2_2_1_to_2_2_2 2.2.1 --> 2.2.2]
   * [2_2_2_to_2_2_3 2.2.2 --> 2.2.3]
-  * [2_2_3_to_2_2_4_propuesta Propuesta 2.2.3 --> 2.2.4]
+  * [2_2_3_to_2_2_4_Propuesta Propuesta 2.2.3 --> 2.2.4]
   * [2_2_3___2_2_4_to_2_3 Versión PlinianCoreFlat 2.3]
 
 
