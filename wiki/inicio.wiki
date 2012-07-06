@@ -1,23 +1,4 @@
-====== Plinian Core Plano ======
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+= Plinian Core Plano =
 
 
 ===== Introducción =====
