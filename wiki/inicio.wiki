@@ -139,11 +139,11 @@ Estas son las versiones del esquema plano.
 Se parte desde la version 2.2.1 del Plinian Core plano.
 http://www.pliniancore.org/test/pl_corev2.2.1.xsd
 
-  * [T2.2.1_to_2.2.2]
-  * [2.2.1_to_2.2.2 2.2.1 --> 2.2.2]
-  * [2.2.2_to_2.2.3 2.2.2 --> 2.2.3]
-  * [2.2.3_to_2.2.4_propuesta Propuesta 2.2.3 --> 2.2.4]
-  * [2.2.3_2.2.4_to_2.3 Versión PlinianCoreFlat 2.3]
+
+  * [2_2_1--2_2_2 2.2.1 --> 2.2.2]
+  * [2.2.2--2.2.3 2.2.2 --> 2.2.3]
+  * [2.2.3--2.2.4_propuesta Propuesta 2.2.3 --> 2.2.4]
+  * [2.2.3_2.2.4--2.3 Versión PlinianCoreFlat 2.3]
 
 
 
