@@ -75,7 +75,7 @@ Estas son las versiones del esquema plano.
 ||  *[PlinianCore_Synonyms Synonyms]*  ||  *[PlinianCore_Synonyms Synonyms]*  ||  *[PlinianCore_Synonyms Synonyms]*  ||  *[PlinianCore_Synonyms Synonyms]*  ||  *[PlinianCore_Synonyms Synonyms]*  ||
 ||  *AuthorYearOfScientificName*  ||  *AuthorYearOfScientificName*  ||  *AuthorYearOfScientificName*  ||  ||  * [AuthorYearOfScientificName] *  ||
 ||  ||  ||  ||  *[PlinianCore_CanonicalAuthorship CanonicalAuthorship]*  ||  ||
-||  *[pliniancore_speciespublicationreference SpeciesPublicationReference]*  ||  *[pliniancore_speciespublicationreference SpeciesPublicationReference]*  ||  *[pliniancore_speciespublicationreference SpeciesPublicationReference]*  ||  *[PlinianCore_PublishedIn PublishedIn]*  ||  *[pliniancore_speciespublicationreference SpeciesPublicationReference]*  ||
+||  *[PlinianCore_SpeciesPublicationReference SpeciesPublicationReference]*  ||  *[PlinianCore_SpeciesPublicationReference SpeciesPublicationReference]*  ||  *[PlinianCore_SpeciesPublicationReference SpeciesPublicationReference]*  ||  *[PlinianCore_PublishedIn PublishedIn]*  ||  *[PlinianCore_SpeciesPublicationReference SpeciesPublicationReference]*  ||
 ||  *[PlinianCore_CommonNames CommonNames]*  ||  *[PlinianCore_CommonNames CommonNames]*  ||  *[PlinianCore_CommonNames CommonNames]*  ||  *[PlinianCore_CommonNames CommonNames]*  ||  *[PlinianCore_CommonNames CommonNames]*  ||
 ||  *TypeLocation*  ||  *TypeLocation*  ||  *TypeLocation*  ||  ||  ||
 ||  *TypeDepository*  ||  *TypeDepository*  ||  *TypeDepository*  ||  ||  ||
