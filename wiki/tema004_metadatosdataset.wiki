@@ -89,7 +89,7 @@ Espero haberme explicado bien, quedo abierto a sugerenciaas.  --- //[jcuadra@inb
 
 [ **Maria Mora:** despues de todo lo expuesto voto por: 
 || **Plinian Core** || **Metadatos TAPIR** ||
-|| InstitutionCode || Title |
+|| InstitutionCode || Title ||
 || Version || Descripcion (que contenga Version y otras) ||
 
 Me parece más representativo llamar al código de la institución InstitutionCode y para algunos proveedores de datos la versión del registro es importante por lo que yo mantendría el concepto versión. Adicionalmente, me parece muy interesante la propuesta de Ángela de mantener en el esquema un puntero a los metadatos con esto si el esqueama se utiliza con otro protocolo que no sea Tapir estaría contemplada la opción de acceso a los metadatos, esto podemos discutirlo para la próxima versión.]
