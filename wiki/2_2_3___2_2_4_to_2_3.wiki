@@ -1,6 +1,6 @@
 = 2.2.3 & 2.2.4 --> 2.3 =
 
-==== Comentarios a la Propuesta 2.2.3 y 2.2.4 ====
+== Comentarios a la Propuesta 2.2.3 y 2.2.4 ==
 
   * [tema001_unstructurednaturalhistory Añadir Unstructured Nat Hist data (UnstrucNatHistData)]
 
