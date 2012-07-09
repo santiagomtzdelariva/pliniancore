@@ -4,7 +4,7 @@
 
   * [tema001_unstructurednaturalhistory Añadir Unstructured Nat Hist data (UnstrucNatHistData)]
 
-  * <del>[tema002_threatstatus Propuesta para cambiar "ProtectionLegaStatus a SpeciesLegalStatus]</del>
+  * ~~[tema002_threatstatus Propuesta para cambiar "ProtectionLegaStatus a SpeciesLegalStatus]~~
 
   * [tema003_placeholderinvasoras Se necesita placeholder para invasoras (conexión con el std de GISIN)]
 
