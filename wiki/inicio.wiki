@@ -26,7 +26,7 @@ Estas son las versiones del esquema plano.
 
   * Versión 2.2.4: http://www.pliniancore.org/test/pl_corev2.2.4.xsd (no disponible)
 
-  * [http://www.gbif.es/plinian/doku.php?id=pliniancoreflat2_3 Plinian Core Flat2.3]
+  * [PlinianCoreFlat2_3 Plinian Core Flat2.3]
 
 
 
