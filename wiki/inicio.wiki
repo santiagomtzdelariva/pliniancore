@@ -172,8 +172,8 @@ http://www.pliniancore.org/test/pl_corev2.2.1.xsd
       * [PlinianCore_TargetAudiences TargetAudiences]
                                            [F. Pando]
 
-Prueba de enlace a "Terms": [pliniancore_terms |Terms]
-y a un término específico: [pliniancore_terms#term_nameinstitutioncode |InstitutionCode ]
+Prueba de enlace a "Terms": [PlinianCore_Terms Terms]
+y a un término específico: [PlinianCore_Terms#term_nameinstitutioncode InstitutionCode ]
 
-o term_namexxxy [pliniancore_terms#term_namexxxy|term: namexxxy]
+o term_namexxxy [PlinianCore_Terms#term_namexxxy term: namexxxy]
  
