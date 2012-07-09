@@ -9,7 +9,7 @@ The table below contains the term information essential for most users. The comp
 ==  Terms  ==
 
 
-===  Term name: ScientificName ===
+===  ScientificName ===
  
 || Identifier: || http://rs.tdwg.org/dwc/terms/scientificName||
 || Class: || http://rs.tdwg.org/dwc/terms/Taxon||
@@ -18,7 +18,7 @@ The table below contains the term information essential for most users. The comp
 || Details: ||http://www.gbif.es/plinian/doku.php?id=pliniancore_scientificname||
 
 
-===  Term name: InstitutionCode  ===
+===  InstitutionCode  ===
  
 || Identifier: || XXX ||
 || Class: || XXX||
@@ -26,56 +26,56 @@ The table below contains the term information essential for most users. The comp
 || Comment: || Could this be the same as http://rs.tdwg.org/dwc/terms/#institutionID ? ||
 || Details: || http://www.gbif.es/plinian/doku.php?id=pliniancore_institutioncode||
 
-===  Term name: XXX  ===
+===  XXX  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||
 || Definition: || XXX||
 || Details: || XXX ||
 
-===  Term name: XXX  ===
+===  XXX  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||
 || Definition: || XXX||
 || Details: || XXX ||
 
-===  Term name: XXX  ===
+===  XXX  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||
 || Definition: || XXX||
 || Details: || XXX ||
 
-===  Term name: XXX  ===
+===  XXX  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||
 || Definition: || XXX||
 || Details: || XXX ||
 
-===  Term name: XXX  ===
+===  XXX  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||
 || Definition: || XXX||
 || Details: || XXX ||
 
-===  Term name: XXX  ===
+===  XXX  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||
 || Definition: || XXX||
 || Details: || XXX ||
 
-===  Term name: XXX  ===
+===  XXX  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||
 || Definition: || XXX||
 || Details: || XXX ||
 
-===  Term name: XXX  ===
+===  XXX  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||
@@ -83,7 +83,7 @@ The table below contains the term information essential for most users. The comp
 || Details: || XXX ||
 
 
-===  Term name: XXXY  ===
+===  XXXY  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||
