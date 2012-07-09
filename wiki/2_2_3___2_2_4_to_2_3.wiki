@@ -2,20 +2,20 @@
 
 ==== Comentarios a la Propuesta 2.2.3 y 2.2.4 ====
 
-  * [[tema001_unstructurednaturalhistory|Añadir Unstructured Nat Hist data (UnstrucNatHistData)]]
+  * [tema001_unstructurednaturalhistory Añadir Unstructured Nat Hist data (UnstrucNatHistData)]
 
-  * <del>[[tema002_threatstatus|Propuesta para cambiar "ProtectionLegaStatus a SpeciesLegalStatus]]</del>
+  * <del>[tema002_threatstatus Propuesta para cambiar "ProtectionLegaStatus a SpeciesLegalStatus]</del>
 
-  * [[tema003_placeholderinvasoras|Se necesita placeholder para invasoras (conexión con el std de GISIN)]]
+  * [tema003_placeholderinvasoras Se necesita placeholder para invasoras (conexión con el std de GISIN)]
 
-  * [[tema004_metadatosdataset|Metadatos]]
+  * [tema004_metadatosdataset Metadatos]
 
-  * [[tema005_scientificcanonical|Sobre los elementos ScientificName, CanonicalName y CanonicalAuthorship]]
+  * [tema005_scientificcanonical Sobre los elementos ScientificName, CanonicalName y CanonicalAuthorship]
 
-  * [[tema006_numerosdeversion|Propuesta a los números de versiones]]
+  * [tema006_numerosdeversion Propuesta a los números de versiones]
 
-  * [[tema008_references|El elemento 'SpeciesPublicationReference' cambia de nombre a 'PublishedIn']] 
+  * [tema008_references El elemento 'SpeciesPublicationReference' cambia de nombre a 'PublishedIn'] 
 
 
-Agregue una columna al inicio de la pagina con lo que me parece va siendo el resumen de los acuerdos. Quedan algunas cosas con signo de pregunta, las cuales serán resultas muy pronto.  --- //[[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro]] 2008/07/02 17:46//
+Agregue una columna al inicio de la pagina con lo que me parece va siendo el resumen de los acuerdos. Quedan algunas cosas con signo de pregunta, las cuales serán resultas muy pronto.  --- //[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro] 2008/07/02 17:46//
 

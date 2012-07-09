@@ -20,7 +20,7 @@ http://www.pliniancore.org/test/pl_corev2.2.2.xsd
   * Abstract
 
 
-**Campos obligatorios**
+*Campos obligatorios*
   * {{{(*)}}} scientificName
   * {{{(*)}}} institutionCode
   * {{{(*)}}} dateLastModified
