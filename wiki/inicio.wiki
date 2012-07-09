@@ -9,7 +9,7 @@ Este wiki ha sido creado con la intención que todos los interesados aporten sug
 El "Plinian Core Flat" es una versión simplificada  --destinada originalmente a servir de base para el desarrollo de páginas web con fichas de especies-- de un esquema conceptual jerárquico, semánticamente más rico y detallado.  La última versión de este esquema se puede  obtener aquí: 
 [http://www.gbif.es/plinian/data/media/plinian_2.0.xsd_comprimido_como_.zip Plinian_2.0.xsd_comprimido_como_.zip]
 
-Y una visualización del esquema como pdf aquí: [http://www.gbif.es/plinian/lib/exe/fetch.php?id=Inicio&cache=cache&media=poster_plinian_core_v2.pdf poster_plinian_core_v2.pdf]]
+Y una visualización del esquema como pdf aquí: [http://www.gbif.es/plinian/lib/exe/fetch.php?id=Inicio&cache=cache&media=poster_plinian_core_v2.pdf poster_plinian_core_v2.pdf]
 
 
 
