@@ -9,83 +9,83 @@ The table below contains the term information essential for most users. The comp
 ==  Terms  ==
 
 
-====  Term name: ScientificName ====
+===  Term name: ScientificName ===
  
-| Identifier: | http://rs.tdwg.org/dwc/terms/scientificName|
-| Class: | http://rs.tdwg.org/dwc/terms/Taxon|
-| Definition: | Canonical name enforcing strict inclusion of only nomenclatural information - _not_ taxonomic information. The name entered here must comply with rules and recommendations of the international nomenclatural code pertaining to the organisms (Zoological, Botanical, of Cultivated Pants, or Bacteriological). This term coincides and is defined by “scientificName” in Darwin Core: http://rs.tdwg.org/dwc/terms/#scientificName|
-| Comment: ||
-| Details: |http://www.gbif.es/plinian/doku.php?id=pliniancore_scientificname|
+|| Identifier: || http://rs.tdwg.org/dwc/terms/scientificName||
+|| Class: || http://rs.tdwg.org/dwc/terms/Taxon||
+|| Definition: || Canonical name enforcing strict inclusion of only nomenclatural information - _not_ taxonomic information. The name entered here must comply with rules and recommendations of the international nomenclatural code pertaining to the organisms (Zoological, Botanical, of Cultivated Pants, or Bacteriological). This term coincides and is defined by “scientificName” in Darwin Core: http://rs.tdwg.org/dwc/terms/#scientificName||
+|| Comment: ||||
+|| Details: ||http://www.gbif.es/plinian/doku.php?id=pliniancore_scientificname||
 
 
-====  Term name: InstitutionCode  ====
+===  Term name: InstitutionCode  ===
  
-| Identifier: | XXX |
-| Class: | XXX|
-| Definition: | The code (or acronym) identifying the institution administering the collection in which the organism record is cataloged. Recommendation: could be mapped as a fixed value in the software provider (Example: TapirLink) |
-| Comment: | Could this be the same as http://rs.tdwg.org/dwc/terms/#institutionID ? |
-| Details: | http://www.gbif.es/plinian/doku.php?id=pliniancore_institutioncode|
+|| Identifier: || XXX ||
+|| Class: || XXX||
+|| Definition: || The code (or acronym) identifying the institution administering the collection in which the organism record is cataloged. Recommendation: could be mapped as a fixed value in the software provider (Example: TapirLink) ||
+|| Comment: || Could this be the same as http://rs.tdwg.org/dwc/terms/#institutionID ? ||
+|| Details: || http://www.gbif.es/plinian/doku.php?id=pliniancore_institutioncode||
 
-====  Term name: XXX  ====
+===  Term name: XXX  ===
  
-| Identifier: | XXX |
-| Class: | XXX |
-| Definition: | XXX|
-| Details: | XXX |
+|| Identifier: || XXX ||
+|| Class: || XXX ||
+|| Definition: || XXX||
+|| Details: || XXX ||
 
-====  Term name: XXX  ====
+===  Term name: XXX  ===
  
-| Identifier: | XXX |
-| Class: | XXX |
-| Definition: | XXX|
-| Details: | XXX |
+|| Identifier: || XXX ||
+|| Class: || XXX ||
+|| Definition: || XXX||
+|| Details: || XXX ||
 
-====  Term name: XXX  ====
+===  Term name: XXX  ===
  
-| Identifier: | XXX |
-| Class: | XXX |
-| Definition: | XXX|
-| Details: | XXX |
+|| Identifier: || XXX ||
+|| Class: || XXX ||
+|| Definition: || XXX||
+|| Details: || XXX ||
 
-====  Term name: XXX  ====
+===  Term name: XXX  ===
  
-| Identifier: | XXX |
-| Class: | XXX |
-| Definition: | XXX|
-| Details: | XXX |
+|| Identifier: || XXX ||
+|| Class: || XXX ||
+|| Definition: || XXX||
+|| Details: || XXX ||
 
-====  Term name: XXX  ====
+===  Term name: XXX  ===
  
-| Identifier: | XXX |
-| Class: | XXX |
-| Definition: | XXX|
-| Details: | XXX |
+|| Identifier: || XXX ||
+|| Class: || XXX ||
+|| Definition: || XXX||
+|| Details: || XXX ||
 
-====  Term name: XXX  ====
+===  Term name: XXX  ===
  
-| Identifier: | XXX |
-| Class: | XXX |
-| Definition: | XXX|
-| Details: | XXX |
+|| Identifier: || XXX ||
+|| Class: || XXX ||
+|| Definition: || XXX||
+|| Details: || XXX ||
 
-====  Term name: XXX  ====
+===  Term name: XXX  ===
  
-| Identifier: | XXX |
-| Class: | XXX |
-| Definition: | XXX|
-| Details: | XXX |
+|| Identifier: || XXX ||
+|| Class: || XXX ||
+|| Definition: || XXX||
+|| Details: || XXX ||
 
-====  Term name: XXX  ====
+===  Term name: XXX  ===
  
-| Identifier: | XXX |
-| Class: | XXX |
-| Definition: | XXX|
-| Details: | XXX |
+|| Identifier: || XXX ||
+|| Class: || XXX ||
+|| Definition: || XXX||
+|| Details: || XXX ||
 
 
-====  Term name: XXXY  ====
+===  Term name: XXXY  ===
  
-| Identifier: | XXX |
-| Class: | XXX |
-| Definition: | XXX|
-| Details: | XXX |
+|| Identifier: || XXX ||
+|| Class: || XXX ||
+|| Definition: || XXX||
+|| Details: || XXX ||
