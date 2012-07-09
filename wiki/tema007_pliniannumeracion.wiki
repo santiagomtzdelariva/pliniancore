@@ -1,4 +1,4 @@
-==== 7.- Propuesta pendiente de aprobar o rechazar ====
+= 7.- Propuesta pendiente de aprobar o rechazar =
 
 Para el Plinian herarquico: [versión mayor]. [versión menor], con  números, como hasta ahora. Esto es, a día de hoy estamos en la 2.0 de abril del 2007
  

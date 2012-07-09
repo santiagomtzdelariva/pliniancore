@@ -1,4 +1,4 @@
-==== 4. Metadatos ====
+= 4. Metadatos =
 
  El elemento 'Metadata'que aparece en el PLIC jerárquico. 
   ASM-FP-- Debería estár incluído en el FlatPlinian y ser obligatorio. Si no, no hay manera de saber a qué conectarse. 

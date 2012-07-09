@@ -1,4 +1,4 @@
-====  5. Sobre los elementos ScientificName, CanonicalName y CanonicalAuthorship====
+=  5. Sobre los elementos ScientificName, CanonicalName y CanonicalAuthorship=
 
 **Sobre: El elemento 'ScientificName' cambia de nombre a 'CanonicalName' (para seguir la nomenclatura del esquema jerárquico)**
 \\

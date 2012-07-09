@@ -1,4 +1,4 @@
-==== 6.- Propuesta a los números de versiones ====
+= 6.- Propuesta a los números de versiones =
 
 No me parece [FP] afortunado dar números de versiones a la versión plana del Plinian como continuación del Plinian v.2.0 (abril del 2007), jerárquico y resultado de las reuniones en San José del equipo del INBio, Carmen Quesada y yo. Me parece confuso. Preferiría dos "líneas" de versiones, una para el Xsd jerárquico y otro para el "plano", flat" "para Internet" o como lo acabemos llamando. ¿Se puede hacer algo al respecto?
 
