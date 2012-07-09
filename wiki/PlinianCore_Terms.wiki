@@ -18,7 +18,7 @@ The table below contains the term information essential for most users. The comp
 || Details: ||http://www.gbif.es/plinian/doku.php?id=pliniancore_scientificname||
 
 
-===  InstitutionCode  ===
+==  InstitutionCode  ==
  
 || Identifier: || XXX ||
 || Class: || XXX||
