@@ -9,7 +9,7 @@ The table below contains the term information essential for most users. The comp
 ==  Terms  ==
 
 
-===  ScientificName ===
+===  ScientificName  ===
  
 || Identifier: || http://rs.tdwg.org/dwc/terms/scientificName||
 || Class: || http://rs.tdwg.org/dwc/terms/Taxon||
@@ -18,7 +18,7 @@ The table below contains the term information essential for most users. The comp
 || Details: ||[PlinianCore_ScientificName]||
 
 
-===InstitutionCode===
+===  InstitutionCode  ===
  
 || Identifier: || XXX ||
 || Class: || XXX||
