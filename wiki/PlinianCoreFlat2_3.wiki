@@ -2,18 +2,18 @@
 
 == Descripción de Archivos ==
 
-  * [[http://www.pliniancore.org/test/PlinianCoreFlat2-3.xsd Esquema]]: Este está definido en un archivo .xsd, el cual es necesario para para configurar el TapirLink adecuadamente. En esta versión del esquema se evita el uso del "PlicElement" utilizado en versiones anteriores y que obligaba a hacer unas modificaciones al TapirLink para que funcionara correctamente. A partir de este versión se utiliza el "DwElement", por lo tanto no hay problemas con utilizar el TapirLink en su versión estándar.
+  * [http://www.pliniancore.org/test/PlinianCoreFlat2-3.xsd Esquema]: Este está definido en un archivo .xsd, el cual es necesario para para configurar el TapirLink adecuadamente. En esta versión del esquema se evita el uso del "PlicElement" utilizado en versiones anteriores y que obligaba a hacer unas modificaciones al TapirLink para que funcionara correctamente. A partir de este versión se utiliza el "DwElement", por lo tanto no hay problemas con utilizar el TapirLink en su versión estándar.
 
-  * [[http://www.pliniancore.org/test/PlinianCoreFlat2-3-OutputModel.xml Output Model]]: Se recomienda la utilización de este "Output Model" para estandarizar los resultados a las consultas realizadas al proveedor de datos.
+  * [http://www.pliniancore.org/test/PlinianCoreFlat2-3-OutputModel.xml Output Model]: Se recomienda la utilización de este "Output Model" para estandarizar los resultados a las consultas realizadas al proveedor de datos.
 
-  * [[http://www.pliniancore.org/test/PlinianCoreFlat2-3-StructureForOutputModel.xsd Estructura para OutputModel]]: Este archivo es necesario por el OutputModel. Separando la estructura del OutputModel se evita saturar ese archivo y mantener modularidad.
+  * [http://www.pliniancore.org/test/PlinianCoreFlat2-3-StructureForOutputModel.xsd Estructura para OutputModel]: Este archivo es necesario por el OutputModel. Separando la estructura del OutputModel se evita saturar ese archivo y mantener modularidad.
 
 
 
 
 == Instalación y Configuración de un Proveedor [TapirLink con Plinian Core Flat2.3] ==
 
-Esta parte no pretende ser una guía sino solo contarles como me fué en eso --- //[[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro]] 2008/07/12 19:37//
+Esta parte no pretende ser una guía sino solo contarles como me fué en eso --- //[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro] 2008/07/12 19:37//
 
 Software Utilizado:
   * TapirLink
@@ -22,7 +22,7 @@ Software Utilizado:
   * MySQL 
 
 
-**Instalación en Ubuntu 8.04** [ Instalación recomendada ;-) ] --- //[[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro]] 2008/07/12 19:40//]\\
+**Instalación en Ubuntu 8.04** [ Instalación recomendada ;-) ] --- //[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro] 2008/07/12 19:40//]\\
 La versión de Tapir Link en este caso fue la 0.6.0 (revisión 660) y para los otros programas se utilizó la última versión disponible en los repositorios. En un primer caso intenté utilizar PostgreSQL en vez de MySQL pero tuve problemas con el plugin de PHP5, entonces recurrí a MySQL, revisando esa pulga no debería haber problemas en utilizar cualquiera de los dos motores de BD.\\
 
 Instalacion de apache2
@@ -58,7 +58,7 @@ Alias /tapirlink-admin "$TAPIRLINK/admin"
     </Directory>
 }}}
 
-**jaime:** Claramente a esto se le puede hacer mejoras a nivel de seguridad... comentarios son más que bienvenidos --- //[[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro]] 2008/07/12 19:55//
+**jaime:** Claramente a esto se le puede hacer mejoras a nivel de seguridad... comentarios son más que bienvenidos --- //[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro] 2008/07/12 19:55//
 
 En este punto ya debería servir el TapirLink, sin ningún recurso configurado.
 
@@ -75,7 +75,7 @@ Luego simplemente mapear los conceptos.
 
 Nota: 
   * Se adjunta un script de BD para crear una tabla con la cual se puede mapear el esquema para hacer pruebas.  [Esta acá]
-**jaime:** No supe como subir el archivo, entonces lo copio acá  --- //[[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro]] 2008/07/12 20:22//
+**jaime:** No supe como subir el archivo, entonces lo copio acá  --- //[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro] 2008/07/12 20:22//
 {{{
 create table flat2_3 (
         id int unsigned NOT NULL auto_increment
