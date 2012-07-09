@@ -26,15 +26,20 @@ Software Utilizado:
 La versión de Tapir Link en este caso fue la 0.6.0 (revisión 660) y para los otros programas se utilizó la última versión disponible en los repositorios. En un primer caso intenté utilizar PostgreSQL en vez de MySQL pero tuve problemas con el plugin de PHP5, entonces recurrí a MySQL, revisando esa pulga no debería haber problemas en utilizar cualquiera de los dos motores de BD.\\
 
 Instalacion de apache2
+
 {{{$sudo apt-get install apache2}}}
 
 Instalacion de php5 y su modulo para apache2
+
 {{{$sudo apt-get install php5 libapache2-mod-php5}}}
 
 Por algún motivo se dieron problemas con las sesiones. Por lo tanto se decidió modificar la dirección de la carpeta donde se almacenan las sesiones en PHP y apache2. La dirección que viene predefinida es "/var/lib/php5" y aunque en el archivo de configuración esta viene comentada es mejor definirle una nueva dirección, la cual sería "/tmp". El archivo a modificar es: /etc/php5/apache2/php.ini\\
 Justo donde dice:
+
 {{{;session.save_path = /var/lib/php5}}}
+
 Se debe reemplazar con:
+
 {{{session.save_path = /tmp''}}}
 
 El archivo de configuración de apache esta ubicado en "/etc/apache2/httpd.conf". Ahí se le indica a apache que puede "ver" y que no, para que vea a Tapir debe agregarse unas cuantas lineas. Suponiendo que la variables $TAPIRLINK va a apuntar al directorio donde fue descomprimido TapirLink (Ejemplo: si descomprimí TapirLink en /var/www/tapirlink-0.6.0 entonces escribir eso donde diga $TAPIRLINK). Entonces en el archivo /etc/apache2/httpd.conf debería decir algo así:
@@ -63,6 +68,7 @@ Alias /tapirlink-admin "$TAPIRLINK/admin"
 En este punto ya debería servir el TapirLink, sin ningún recurso configurado.
 
 Instalación del soporte de PHP5 para MySQL
+
 {{{$sudo apt-get install php5-mysql}}}
 
 Agregar el Recurso
