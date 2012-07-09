@@ -238,6 +238,6 @@ Esta consulta simula una consulta tal como la haría el Portal (IABIN, GBIF.ES).
 
 == Archivos Adjuntos ==
 
-  * {{plicflat2_3_dbv2_3_.zip| Plantilla de la Base de datos para Microsoft Access [comprimida]}}
+  * [http://www.gbif.es/plinian/lib/exe/fetch.php?id=pliniancoreflat2_3&cache=cache&media=plicflat2_3_dbv2_3_.zip Plantilla de la Base de datos para Microsoft Access (comprimida)]
 
 Nota: Esta base de datos que se ofrece no sigue la nomenclatura de nombres utilizada en bases de datos, pues se encuentra optimizada para que se pueda realizar el auto mapeo en el tapirlink.
