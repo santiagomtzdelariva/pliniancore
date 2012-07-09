@@ -22,5 +22,5 @@ Citation of type material according to TCS: http://www.tdwg.org/activities/tnc/t
 
 == Comentarios / Sugerencias ==
 
-  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[[jcuadra@inbio.ac.cr|Jose Cuadra]] 2008/05/12 10:47//
+  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[jcuadra@inbio.ac.cr|Jose Cuadra] 2008/05/12 10:47//
 

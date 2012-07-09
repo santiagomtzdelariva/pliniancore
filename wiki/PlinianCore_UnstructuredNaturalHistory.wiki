@@ -22,5 +22,5 @@
 
 == Comentarios / Sugerencias ==
 
-  * Este elemento debe ser utilizando cuando no se cuenta con la información de historia natural de manera estructurada. La manera estructurada es en los campos: Habit, LifeCycle, Reproduction, AnnualCycle, Feeding, Behaviour, Interactions, ChromosomicNumberN, MolecularData, MigratoryData and EcologicalSignificance.  --- //[[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro]] 2008/07/02 17:13//
+  * Este elemento debe ser utilizando cuando no se cuenta con la información de historia natural de manera estructurada. La manera estructurada es en los campos: Habit, LifeCycle, Reproduction, AnnualCycle, Feeding, Behaviour, Interactions, ChromosomicNumberN, MolecularData, MigratoryData and EcologicalSignificance.  --- //[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro] 2008/07/02 17:13//
 

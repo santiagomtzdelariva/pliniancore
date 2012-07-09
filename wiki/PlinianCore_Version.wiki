@@ -20,5 +20,5 @@
 
 == Comentarios / Sugerencias ==
 
-  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[[jcuadra@inbio.ac.cr|Jose Cuadra]] 2008/05/12 12:19//
+  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[jcuadra@inbio.ac.cr|Jose Cuadra] 2008/05/12 12:19//
 

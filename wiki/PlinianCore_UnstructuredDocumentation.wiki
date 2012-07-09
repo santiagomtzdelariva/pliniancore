@@ -22,5 +22,5 @@ Información que no puede ser documentada en otras secciones.
 
 == Comentarios / Sugerencias ==
 
-  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[[jcuadra@inbio.ac.cr|Jose Cuadra]] 2008/05/12 12:11//
+  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[jcuadra@inbio.ac.cr|Jose Cuadra] 2008/05/12 12:11//
 

@@ -22,7 +22,7 @@
 
 == Comentarios / Sugerencias ==
 
-  * Este es el formato a seguir para comentarios pero aún no hay ninguno. --- //[[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro]] 2008/07/06 22:47//
+  * Este es el formato a seguir para comentarios pero aún no hay ninguno. --- //[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro] 2008/07/06 22:47//
 
 
 

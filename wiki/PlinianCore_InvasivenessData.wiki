@@ -22,5 +22,5 @@
 
 == Comentarios / Sugerencias ==
 
-  * Una bandera para "conectar" con mas información sobre especies invasoras.  --- //[[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro]] 2008/07/02 17:13//
+  * Una bandera para "conectar" con mas información sobre especies invasoras.  --- //[jgutierrez@inbio.ac.cr|Jaime Gutierrez Alfaro] 2008/07/02 17:13//
 

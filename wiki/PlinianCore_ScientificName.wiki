@@ -31,5 +31,5 @@ Class:	http://rs.tdwg.org/dwc/terms/Taxon
 
 == Comentarios / Sugerencias ==
 
-  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[[jcuadra@inbio.ac.cr|Jose Cuadra]] 2008/05/09 17:00//
+  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[jcuadra@inbio.ac.cr|Jose Cuadra] 2008/05/09 17:00//
 

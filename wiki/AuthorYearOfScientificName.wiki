@@ -4,11 +4,11 @@
 
 == Descripción ==
   * **Español:**
-Autor y año de publicación del nombre científico. Aplica DarwinCore. [[http://wiki.tdwg.org/twiki/bin/view/DarwinCore/AuthorYearOfScientificName]]
+Autor y año de publicación del nombre científico. Aplica DarwinCore. [http://wiki.tdwg.org/twiki/bin/view/DarwinCore/AuthorYearOfScientificName]
 
 
   * **English:**
-Author and year of Scientific name publication. DarwinCore. [[http://wiki.tdwg.org/twiki/bin/view/DarwinCore/AuthorYearOfScientificName]]
+Author and year of Scientific name publication. DarwinCore. [http://wiki.tdwg.org/twiki/bin/view/DarwinCore/AuthorYearOfScientificName]
 
 
 == Historial de Cambios ==
@@ -25,4 +25,4 @@ Author and year of Scientific name publication. DarwinCore. [[http://wiki.tdwg.o
 
 == Comentarios / Sugerencias ==
 
-  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[[jcuadra@inbio.ac.cr|Jose Cuadra]] 2008/05/12 10:17//
+  * //Este es el formato a seguir para comentarios pero aún no hay ninguno.// --- //[jcuadra@inbio.ac.cr|Jose Cuadra] 2008/05/12 10:17//
