@@ -16,7 +16,7 @@ Algunos de los elementos que brinda el TAPIR son: **Descripcion**, **Cita biblio
 \\
 \\
 Todos los elementos que devuelve el TAPIR estan aca:
-[http://www.tdwg.org/dav/subgroups/tapir/1.0/docs/TAPIRSpecification_2008-02-07.html#toc40|http://www.tdwg.org/dav/subgroups/tapir/1.0/docs/TAPIRSpecification_2008-02-07.html#toc40]
+[http://www.tdwg.org/dav/subgroups/tapir/1.0/docs/TAPIRSpecification_2008-02-07.html#toc40 http://www.tdwg.org/dav/subgroups/tapir/1.0/docs/TAPIRSpecification_2008-02-07.html#toc40]
 \\
 \\
 Así, considero que lo mejor es separar lo que son datos "core" de la especie,  de los datos "core" del dataset, pues ambos se podrían extraer de mecanismos diferentes (Datos de especies --> Plinian Core, Datos del dataset --> Tapir Metadata), y así mantenemos una división entre ambos. 'InstitutionCode' será el único elemento que haría algun tipo de referencia al huesped de la información
@@ -74,22 +74,22 @@ Hay una premisa en todo esto, y es que los datos de especies de cada proveedor e
 
 A como vá la discusión, tenemos un elemento 'Title' dentro del Plinian Core, y en los metadatos del Proveedor TAPIR, otro elemento 'Title'.  Como se vé esto? Dejamos un elemento 'InstitutionCode' en el PliCore y dejamos el 'Title' para los metadatos? Nos quedamos con un elemento 'Version' dentro del PLicore? y también manejamos la version del proveedor con los metadatos del Proveedor?
 
-| **Plinian Core** | **Metadatos TAPIR** |
-| InstitutionCode | Title |
-| Version | Descripcion (que contenga Version y otras) |
+|| **Plinian Core** || **Metadatos TAPIR** ||
+|| InstitutionCode | Title ||
+|| Version || Descripcion (que contenga Version y otras) ||
 
 o bien 
 
 
-| **Plinian Core** | **Metadatos TAPIR** |
-| Title | Title |
-| Version | Descripcion (que contenga Version y otras) |
+|| **Plinian Core** || **Metadatos TAPIR** ||
+|| Title || Title ||
+|| Version || Descripcion (que contenga Version y otras) ||
 
 Espero haberme explicado bien, quedo abierto a sugerenciaas.  --- //[jcuadra@inbio.ac.cr|Jose Cuadra] 2008/07/02 23:06// ]
 
 [ **Maria Mora:** despues de todo lo expuesto voto por: 
-| **Plinian Core** | **Metadatos TAPIR** |
-| InstitutionCode | Title |
-| Version | Descripcion (que contenga Version y otras) |
+|| **Plinian Core** || **Metadatos TAPIR** ||
+|| InstitutionCode || Title |
+|| Version || Descripcion (que contenga Version y otras) ||
 
 Me parece más representativo llamar al código de la institución InstitutionCode y para algunos proveedores de datos la versión del registro es importante por lo que yo mantendría el concepto versión. Adicionalmente, me parece muy interesante la propuesta de Ángela de mantener en el esquema un puntero a los metadatos con esto si el esqueama se utiliza con otro protocolo que no sea Tapir estaría contemplada la opción de acceso a los metadatos, esto podemos discutirlo para la próxima versión.]
