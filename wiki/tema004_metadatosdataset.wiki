@@ -1,7 +1,7 @@
 = 4. Metadatos =
 
  El elemento 'Metadata'que aparece en el PLIC jerárquico. 
-  ASM-FP-- Debería estár incluído en el FlatPlinian y ser obligatorio. Si no, no hay manera de saber a qué conectarse. 
+  {{{ASM-FP-- Debería estár incluído en el FlatPlinian y ser obligatorio. Si no, no hay manera de saber a qué conectarse.}}} 
 
 Hace falta incluir elementos para dar cuenta de los metadatos del data set, y además han e ser obligatorios, estos serían:  Description, IconUri, Scope, Version, RevisionData, Owners, IPRStatements, Source. Lo que no tengo tan claro es si estos han de ir en cada registro o en un fichero aparte. 
 
