@@ -1,4 +1,5 @@
 = Term Definitions = 
+
 The table below contains the term information essential for most users. The complete documentation for each term can be found by following the link in the Details section of the description. The link takes you to the appropriate entry in the Complete History [HISTORY] document. The definitions for the fields describing each term are:
   * Term Name: 	The name by which the latest version of the term is commonly known.
   * Identifier: 	The unique identifier for the latest version of the term.
@@ -6,6 +7,7 @@ The table below contains the term information essential for most users. The comp
   * Definition: 	A description of the nature of the content of the term.
   * Comment: 	Further commentary about the usage of the term, with examples and a reference to further information.
   * Details: 	A link to the complete information about the term, including access to its history
+
 ==  Terms  ==
 
 
@@ -17,6 +19,10 @@ The table below contains the term information essential for most users. The comp
 || Comment: ||||
 || Details: ||[PlinianCore_ScientificName]||
 
+===  XXX  ===
+===  Institution  ===
+===  Term Name: InstitutionCode  ===
+===  2. InstitutionCode  ===
 
 ===  InstitutionCode  ===
  
