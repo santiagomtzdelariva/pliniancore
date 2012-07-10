@@ -11,7 +11,7 @@ The table below contains the term information essential for most users. The comp
 ==  Terms  ==
 
 
-===  ScientificName  ===
+===  1. ScientificName  ===
  
 || Identifier: || http://rs.tdwg.org/dwc/terms/scientificName||
 || Class: || http://rs.tdwg.org/dwc/terms/Taxon||
@@ -19,12 +19,8 @@ The table below contains the term information essential for most users. The comp
 || Comment: ||||
 || Details: ||[PlinianCore_ScientificName]||
 
-===  XXX  ===
-===  Institution  ===
-===  Term Name: InstitutionCode  ===
 ===  2. InstitutionCode  ===
 
-===  InstitutionCode  ===
  
 || Identifier: || XXX ||
 || Class: || XXX||
@@ -32,7 +28,7 @@ The table below contains the term information essential for most users. The comp
 || Comment: || Could this be the same as http://rs.tdwg.org/dwc/terms/#institutionID ? ||
 || Details: || [PlinianCore_InstitutionCode] ||
 
-===  XXX  ===
+===  n. XXX  ===
  
 || Identifier: || XXX ||
 || Class: || XXX ||

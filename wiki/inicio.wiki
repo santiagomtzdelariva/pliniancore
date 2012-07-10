@@ -173,7 +173,6 @@ http://www.pliniancore.org/test/pl_corev2.2.1.xsd
                                            [F. Pando]
 
 Prueba de enlace a "Terms": [PlinianCore_Terms Terms]
-y a un término específico: [PlinianCore_Terms#Term_Name:_InstitutionCode InstitutionCode ]
+y a un término específico: [PlinianCore_Terms#2. InstitutionCode ]
 
-o term_namexxxy [PlinianCore_Terms#term_namexxxy term: namexxxy]
  
