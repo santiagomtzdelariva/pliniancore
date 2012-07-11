@@ -1,20 +1,20 @@
   * [StandardsProgress Standards Progress]
   * [PlinianCore_Terms Plinian Core Terms]
      *[CommonNameType
-     *[MetadataType Metadata Type]
-     *[DocumentationType Documentation Type]
-     *[DescriptionItemType DescriptionItem Type]
-     *[TextDescriptionType TextDescription Type]
-     *[TaxonomicalDescriptionType TaxonomicalDescription Type]
-     *[NaturalHistoryType NaturalHistory Type]
-     *[DemographyAndConservationType DemographyAndConservationType Type]
-     *[DistributionType Distribution Type]
-     *[LegislationType Legislation Type]
-     *[VersionType Version Type]
-     *[HabitatAndDistributionType HabitatAndDistribution Type]
-     *[MiscDetailType MiscDetail Type]
-     *[UsesType Uses Type]
-     *[NormalString NormalString Type]
-     *[NormalDate NormalDate Type]
+     *[MetadataType
+     *[DocumentationType
+     *[DescriptionItemType
+     *[TextDescriptionType
+     *[TaxonomicalDescriptionType
+     *[NaturalHistoryType
+     *[DemographyAndConservationType
+     *[DistributionType
+     *[LegislationType
+     *[VersionType
+     *[HabitatAndDistributionType
+     *[MiscDetailType
+     *[UsesType
+     *[NormalString
+     *[NormalDate
   * [Examples Examples]
   * [Resources Resources]
