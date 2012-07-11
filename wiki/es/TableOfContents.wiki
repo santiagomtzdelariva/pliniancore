@@ -1,4 +1,4 @@
   * [https://code.google.com/p/pliniancore/wiki/es/ProgresoStandard# Progeso del Standard]
-  * [https://code.google.com/p/pliniancore/wiki/es/Terms# T&eacute;rminos de Plinian Core]
+  * [https://code.google.com/p/pliniancore/wiki/es/Terms# Terminos de Plinian Core]
   * [https://code.google.com/p/pliniancore/wiki/es/Ejmplos# Ejemplos]
   * [https://code.google.com/p/pliniancore/wiki/es/Fuentes# Fuentes]
