@@ -1,4 +1,4 @@
   * [https://code.google.com/p/pliniancore/wiki/StandardsProgress# Standards Progress]
-  * [https://code.google.com/p/pliniancore/wiki/Terms# Plinian Core Terms]
+  * [https://code.google.com/p/pliniancore/wiki/PlinianCoreTerms# Plinian Core Terms]
   * [https://code.google.com/p/pliniancore/wiki/Examples# Examples]
   * [https://code.google.com/p/pliniancore/wiki/Resources# Resources]
