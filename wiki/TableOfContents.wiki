@@ -1,6 +1,6 @@
   * [StandardsProgress Standards Progress]
   * [PlinianCore_Terms Plinian Core Terms]
-     *[CommonNameType]
+     *[CommonNameType
      *[MetadataType Metadata Type]
      *[DocumentationType Documentation Type]
      *[DescriptionItemType DescriptionItem Type]
