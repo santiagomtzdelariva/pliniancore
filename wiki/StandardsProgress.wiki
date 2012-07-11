@@ -1,0 +1,136 @@
+= Plinian Core Flat =
+
+
+== Introduction ==
+
+
+The Plinian Core Flat was originally designed as a basis to develop species data sheets that can be shown in websites. Currently, it is a simplified version of a conceptual hierarchical schema and is semantically more enriched and detailed.
+The last version of the schema can be downloaded from here:[http://www.gbif.es/plinian/data/media/plinian_2.0.xsd_comprimido_como_.zip Plinian_2.0.xsd_comprimido_como_.zip] 
+The schema can be checked out here: [http://www.gbif.es/plinian/lib/exe/fetch.php?id=Inicio&cache=cache&media=poster_plinian_core_v2.pdf poster_plinian_core_v2.pdf]
+
+
+
+
+
+== Versions ==
+
+These are the Plinian Core Flat versions:
+
+  * Version 2.2.1: http://www.pliniancore.org/test/pl_corev2.2.1.xsd
+
+  * Version 2.2.2: http://www.pliniancore.org/test/pl_corev2.2.2.xsd
+
+  * Version 2.2.3: http://www.pliniancore.org/test/pl_corev2.2.3.xsd (not available)
+
+  * Version 2.2.4: http://www.pliniancore.org/test/pl_corev2.2.4.xsd (not available)
+
+  * [PlinianCoreFlat2_3 Plinian Core Flat2.3]
+
+
+
+== Elements ==
+
+Below are the Plinian Core Flat settings. To post any comment please click on the items.
+{{{(*)}}} Mandatory
+
+
+||  *PC 2.2.1*  ||  *PC 2.2.2*  ||  *PC 2.2.3*  ||  *PC 2.2.4*  ||  *Plinian Core Flat2.3*  ||
+||  * ScientificName {{{(*)}}} *  ||  *ScientificName {{{(*)}}} *  ||  *ScientificName {{{(*)}}} *  ||  *[PlinianCore_CanonicalName CanonicalName] {{{(*)}}} *  ||  * [PlinianCore_ScientificName ScientificName] * {{{(*)}}}  ||
+||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||  *[PlinianCore_InstitutionCode InstitutionCode] {{{(*)}}} *  ||
+||  *DateLastModified {{{(*)}}} *  ||  *DateLastModified {{{(*)}}} *  ||  *DateLastModified {{{(*)}}} *  ||  *[PlinianCore_DateModified DateModified] {{{(*)}}} *  ||  *[PlinianCore_DateModified DateLastModified]{{{(*)}}} *  ||
+||  *Code {{{(*)}}} *  ||  *Code {{{(*)}}} *  ||  *[PlinianCore_TaxonRecordID TaxonRecordID] {{{(*)}}} *  ||  *[PlinianCore_TaxonRecordID TaxonRecordID] {{{(*)}}} *  ||  *[PlinianCore_TaxonRecordID TaxonRecordID] {{{(*)}}} *  ||
+||  *[PlinianCore_Language Language] {{{(*)}}} *  ||  *[PlinianCore_Language Language] {{{(*)}}} *  ||  *[PlinianCore_Language Language] {{{(*)}}} *  ||  *[PlinianCore_Language Language] {{{(*)}}} *  ||  *[PlinianCore_Language Language] {{{(*)}}} *  ||
+||  *Coauthors*  ||  *Coauthors*  ||  *Coauthors*  ||  ||  ||
+||  *SpeciesPageAuthor {{{(*)}}} *  ||  *SpeciesPageAuthor {{{(*)}}} *  ||  *SpeciesPageAuthor {{{(*)}}} *  ||  ||  ||
+||  ||  ||  ||  *[PlinianCore_Creators Creators] {{{(*)}}} *  ||  *[PlinianCore_Creators Creators] {{{(*)}}} *  ||
+||  *[PlinianCore_Countries Countries] {{{(*)}}} *  ||  *[PlinianCore_Countries Countries] {{{(*)}}} *  ||  *[PlinianCore_Countries Countries] {{{(*)}}} *  ||  ||  ||
+||  *[PlinianCore_Distribution Distribution]*  ||  *[PlinianCore_Distribution Distribution]*  ||  *[PlinianCore_Distribution Distribution]*  ||  *[PlinianCore_Distribution Distribution]*  ||  *[PlinianCore_Distribution Distribution]*  ||
+||  ||  *[PlinianCore_Abstract Abstract]*  ||  *[PlinianCore_Abstract Abstract]*  ||  *[PlinianCore_Abstract Abstract]*  ||  *[PlinianCore_Abstract Abstract]*  ||
+||  *[PlinianCore_Kingdom Kingdom]*  ||  *[PlinianCore_Kingdom Kingdom]*  ||  *[PlinianCore_Kingdom Kingdom]*  ||  *[PlinianCore_Kingdom Kingdom]*  ||  *[PlinianCore_Kingdom Kingdom]*  ||
+||  *[PlinianCore_Phylum Phylum]*  ||  *[PlinianCore_Phylum Phylum]*  ||  *[PlinianCore_Phylum Phylum]*  ||  *[PlinianCore_Phylum Phylum]*  ||  *[PlinianCore_Phylum Phylum]*  ||
+||  *[PlinianCore_Class Class]*  ||  *[PlinianCore_Class Class]*  ||  *[PlinianCore_Class Class]*  ||  *[PlinianCore_Class Class]*  ||  *[PlinianCore_Class Class]*  ||
+||  *[PlinianCore_Order Order]*  ||  *[PlinianCore_Order Order]*  ||  *[PlinianCore_Order Order]*  ||  *[PlinianCore_Order Order]*  ||  *[PlinianCore_Order Order]*  ||
+||  *[PlinianCore_Family Family]*  ||  *[PlinianCore_Family Family]*  ||  *[PlinianCore_Family Family]*  ||  *[PlinianCore_Family Family]*  ||  *[PlinianCore_Family Family]*  ||
+||  *[PlinianCore_Genus Genus]*  ||  *[PlinianCore_Genus Genus]*  ||  *[PlinianCore_Genus Genus]*  ||  *[PlinianCore_Genus Genus]*  ||  *[PlinianCore_Genus Genus]*  ||
+||  *[PlinianCore_Synonyms Synonyms]*  ||  *[PlinianCore_Synonyms Synonyms]*  ||  *[PlinianCore_Synonyms Synonyms]*  ||  *[PlinianCore_Synonyms Synonyms]*  ||  *[PlinianCore_Synonyms Synonyms]*  ||
+||  *AuthorYearOfScientificName*  ||  *AuthorYearOfScientificName*  ||  *AuthorYearOfScientificName*  ||  ||  * [AuthorYearOfScientificName] *  ||
+||  ||  ||  ||  *[PlinianCore_CanonicalAuthorship CanonicalAuthorship]*  ||  ||
+||  *[PlinianCore_SpeciesPublicationReference SpeciesPublicationReference]*  ||  *[PlinianCore_SpeciesPublicationReference SpeciesPublicationReference]*  ||  *[PlinianCore_SpeciesPublicationReference SpeciesPublicationReference]*  ||  *[PlinianCore_PublishedIn PublishedIn]*  ||  *[PlinianCore_SpeciesPublicationReference SpeciesPublicationReference]*  ||
+||  *[PlinianCore_CommonNames CommonNames]*  ||  *[PlinianCore_CommonNames CommonNames]*  ||  *[PlinianCore_CommonNames CommonNames]*  ||  *[PlinianCore_CommonNames CommonNames]*  ||  *[PlinianCore_CommonNames CommonNames]*  ||
+||  *TypeLocation*  ||  *TypeLocation*  ||  *TypeLocation*  ||  ||  ||
+||  *TypeDepository*  ||  *TypeDepository*  ||  *TypeDepository*  ||  ||  ||
+||  *TypeCollector*  ||  *TypeCollector*  ||  *TypeCollector*  ||  ||  ||
+||  ||  ||  ||  *[PlinianCore_Typification Typification]*  ||  *[PlinianCore_Typification Typification]*  ||
+||  ||  ||  ||  *[PlinianCore_GlobalUniqueIdentifier GlobalUniqueIdentifier]*  ||  *[PlinianCore_GlobalUniqueIdentifier GlobalUniqueIdentifier]*  ||
+||  *Collaborators*  ||  *Collaborators*  ||  *Collaborators*  ||  *[PlinianCore_Contributors Contributors]*  ||  *[PlinianCore_Contributors Contributors]*  ||
+||  *PublicationDate*  ||  *PublicationDate*  ||  *PublicationDate*  ||  *[PlinianCore_DateCreated DateCreated]*  ||  *[PlinianCore_DateCreated DateCreated]*  ||
+||  *[PlinianCore_Habit Habit]*  ||  *[PlinianCore_Habit Habit]*  ||  *[PlinianCore_Habit Habit]*  ||  *[PlinianCore_Habit Habit]*  ||  * [PlinianCore_Habit Habit]* ||
+||  *[PlinianCore_LifeCycle LifeCycle]*  ||  *[PlinianCore_LifeCycle LifeCycle]*  ||  *[PlinianCore_LifeCycle LifeCycle]*  ||  *[PlinianCore_LifeCycle LifeCycle]*  ||  * [PlinianCore_LifeCycle LifeCycle]*  ||
+||  *[PlinianCore_Reproduction Reproduction]*  ||  *[PlinianCore_Reproduction Reproduction]*  ||  *[PlinianCore_Reproduction Reproduction]*  ||  *[PlinianCore_Reproduction Reproduction]*  ||  * [PlinianCore_Reproduction Reproduction]*  ||
+||  *Seasons*  ||  ||  ||  ||  ||
+||  *Phenology*  ||  ||  ||  ||  ||
+||  ||  *[PlinianCore_AnnualCycle AnnualCycle]*  ||  *[PlinianCore_AnnualCycle AnnualCycle]*  ||  *[PlinianCore_AnnualCycle AnnualCycle]*  ||  *[PlinianCore_AnnualCycle AnnualCycle]*   ||
+||  *[PlinianCore_ScientificDescription ScientificDescription]*  ||  *[PlinianCore_ScientificDescription ScientificDescription]*  ||  *[PlinianCore_ScientificDescription ScientificDescription]*  ||  *[PlinianCore_ScientificDescription ScientificDescription]*  ||  *[PlinianCore_ScientificDescription ScientificDescription]*  ||
+||  *[PlinianCore_BriefDescription BriefDescription]*  ||  *[PlinianCore_BriefDescription BriefDescription]*  ||  *[PlinianCore_BriefDescription BriefDescription]*  ||  *[PlinianCore_BriefDescription BriefDescription]*  ||  *[PlinianCore_BriefDescription BriefDescription]*  ||
+||  *[PlinianCore_Feeding Feeding]*  ||  *[PlinianCore_Feeding Feeding]*  ||  *[PlinianCore_Feeding Feeding]*  ||  *[PlinianCore_Feeding Feeding]*  ||  * [PlinianCore_Feeding Feeding]*  ||
+||  *[PlinianCore_Behavior Behavior]*  ||  *[PlinianCore_Behavior Behavior]*  ||  *[PlinianCore_Behavior Behavior]*  ||  *[PlinianCore_Behavior Behavior]*  ||  * [PlinianCore_Behavior Behavior]*  ||
+||  *SymbioticRelationship*  ||  *[PlinianCore_Interactions Interactions]*  ||  *[PlinianCore_Interactions Interactions]*  ||  *[PlinianCore_Interactions Interactions]*  ||  * [PlinianCore_Interactions Interactions]*  ||
+||  *[PlinianCore_ChromosomicNumberN ChromosomicNumberN]*  ||  *[PlinianCore_ChromosomicNumberN ChromosomicNumberN]*  ||  *[PlinianCore_ChromosomicNumberN ChromosomicNumberN]*  ||  *[PlinianCore_ChromosomicNumberN ChromosomicNumberN]*  ||  * [PlinianCore_ChromosomicNumberN ChromosomicNumberN]*  ||
+||  *[PlinianCore_MolecularData MolecularData]*  ||  *[PlinianCore_MolecularData MolecularData]*  ||  *[PlinianCore_MolecularData MolecularData]*  ||  *[PlinianCore_MolecularData MolecularData]*  ||  * [PlinianCore_MolecularData MolecularData]*  ||
+||  *Population*  ||  ||  ||  ||  ||
+||  *PopulationState*  ||  ||  ||  ||  ||
+||  ||  *[PlinianCore_PopulationBiology PopulationBiology]*  ||  *[PlinianCore_PopulationBiology PopulationBiology]*  ||  *[PlinianCore_PopulationBiology PopulationBiology]*  ||  *[PlinianCore_PopulationBiology PopulationBiology]*  ||
+||  *ConservationStatusCITES*  ||  *ConservationStatusCITES*  ||  ||  ||  ||
+||  *ConservationStatusUICN*  ||  *ConservationStatusUICN*  ||  ||  ||  ||
+||  ||  ||  *[PlinianCore_ThreatStatus ThreatStatus]*  ||  *[PlinianCore_ThreatStatus ThreatStatus]*  ||  *[PlinianCore_ThreatStatus ThreatStatus]*  ||
+||  *NationalLegislation*  ||  *NationalLegislation*  ||  ||  ||  ||
+||  *RegionalLegislation*  ||  *RegionalLegislation*  ||  ||  ||  ||
+||  ||  ||  *[PlinianCore_Legislation Legislation]*  ||  *[PlinianCore_Legislation Legislation]*  ||  *[PlinianCore_Legislation Legislation]*  ||
+||  *[PlinianCore_Habitat Habitat]*  ||  *[PlinianCore_Habitat Habitat]*  ||  *[PlinianCore_Habitat Habitat]*  ||  *[PlinianCore_Habitat Habitat]*  ||  *[PlinianCore_Habitat Habitat]*  ||
+||  *[PlinianCore_Territory Territory]*  ||  *[PlinianCore_Territory Territory]*  ||  *[PlinianCore_Territory Territory]*  ||  *[PlinianCore_Territory Territory]*  ||  *[PlinianCore_Territory Territory]*  ||
+||  *Endemism*  ||  *Endemism*  ||  *Endemism*  ||  *[PlinianCore_Endemicity Endemicity]*  ||  *[PlinianCore_Endemicity Endemicity]*  ||
+||  *DocumentedUses*  ||  ||  ||  ||  ||
+||  *TraditionalUses*  ||  ||  ||  ||  ||
+||  ||  *[PlinianCore_Uses Uses]*  ||  *[PlinianCore_Uses Uses]*  ||  *[PlinianCore_Uses Uses]*  ||  *[PlinianCore_Uses Uses]*  ||
+||  ||  *[PlinianCore_Management Management]*  ||  *[PlinianCore_Management Management]*  ||  *[PlinianCore_Management Management]*  ||  *[PlinianCore_Management Management]*  ||
+||  *[PlinianCore_Folklore Folklore]*  ||  *[PlinianCore_Folklore Folklore]*  ||  *[PlinianCore_Folklore Folklore]*  ||  *[PlinianCore_Folklore Folklore]*  ||  *[PlinianCore_Folklore Folklore]*  ||
+||  *[PlinianCore_References References]*  ||  *[PlinianCore_References References]*  ||  *[PlinianCore_References References]*  ||  *[PlinianCore_References References]*  ||  *[PlinianCore_References References]*  ||
+||  ||  *[PlinianCore_UnstructuredDocumentation UnstructuredDocumentation]*  ||  *[PlinianCore_UnstructuredDocumentation UnstructuredDocumentation]*  ||  *[PlinianCore_UnstructuredDocumentation UnstructuredDocumentation]*  ||  *[PlinianCore_UnstructuredDocumentation UnstructuredDocumentation]*  ||
+||  *[PlinianCore_OtherInformationSources OtherInformationSources]*  ||  *[PlinianCore_OtherInformationSources OtherInformationSources]*  ||  *[PlinianCore_OtherInformationSources OtherInformationSources]*  ||  *[PlinianCore_OtherInformationSources OtherInformationSources]*  ||  *[PlinianCore_OtherInformationSources OtherInformationSources]*  ||
+||  *[PlinianCore_Papers Papers]*  ||  *[PlinianCore_Papers Papers]*  ||  *[PlinianCore_Papers Papers]*  ||  *[PlinianCore_Papers Papers]*  ||  *[PlinianCore_Papers Papers]*  ||
+||  ||  *[PlinianCore_IdentificationKeys IdentificationKeys]*  ||  *[PlinianCore_IdentificationKeys IdentificationKeys]*  ||  *[PlinianCore_IdentificationKeys IdentificationKeys]*  ||  *[PlinianCore_IdentificationKeys IdentificationKeys]*  ||
+||  ||  *[PlinianCore_MigratoryData MigratoryData]*  ||  *[PlinianCore_MigratoryData MigratoryData]*  ||  *[PlinianCore_MigratoryData MigratoryData]*  ||  * [PlinianCore_MigratoryData MigratoryData]*  ||
+||  ||  *[PlinianCore_EcologicalSignificance EcologicalSignificance]*  ||  *[PlinianCore_EcologicalSignificance EcologicalSignificance]*  ||  *[PlinianCore_EcologicalSignificance EcologicalSignificance]*  ||  * [PlinianCore_EcologicalSignificance EcologicalSignificance]*  ||
+||  ||  ||  ||  ||  *[PlinianCore_UnstructuredNaturalHistory UnstructuredNaturalHistory]*  ||
+||  ||  ||  ||  ||  *[PlinianCore_InvasivenessData InvasivenessData]*  ||
+||  ||  ||  *[PlinianCore_TargetAudiences TargetAudiences]*  ||  *[PlinianCore_TargetAudiences TargetAudiences]*  ||  *[PlinianCore_TargetAudiences TargetAudiences]*  ||
+||  ||  ||  *[PlinianCore_Version Version]*  ||  *[PlinianCore_Version Version]*  ||  *[PlinianCore_Version Version]*  ||
+||  *[PlinianCore_URLImage1 URLImage1]*  ||  *[PlinianCore_URLImage1 URLImage1]*  ||  *[PlinianCore_URLImage1 URLImage1]*  ||  *[PlinianCore_URLImage1 URLImage1]*  ||  *[PlinianCore_URLImage1 URLImage1]*  ||
+||  *[PlinianCore_CaptionImage1 CaptionImage1]*  ||  *[PlinianCore_CaptionImage1 CaptionImage1]*  ||  *[PlinianCore_CaptionImage1 CaptionImage1]*  ||  *[PlinianCore_CaptionImage1 CaptionImage1]*  ||  *[PlinianCore_CaptionImage1 CaptionImage1]*  ||
+||  *[PlinianCore_URLImage2 URLImage2]*  ||  *[PlinianCore_URLImage2 URLImage2]*  ||  *[PlinianCore_URLImage2 URLImage2]*  ||  *[PlinianCore_URLImage2 URLImage2]*  ||  *[PlinianCore_URLImage2 URLImage2]*  ||
+||  *[PlinianCore_CaptionImage2 CaptionImage2]*  ||  *[PlinianCore_CaptionImage2 CaptionImage2]*  ||  *[PlinianCore_CaptionImage2 CaptionImage2]*  ||  *[PlinianCore_CaptionImage2 CaptionImage2]*  ||  *[PlinianCore_CaptionImage2 CaptionImage2]*  ||
+||  *[PlinianCore_URLImage3 URLImage3]*  ||  *[PlinianCore_URLImage3 URLImage3]*  ||  *[PlinianCore_URLImage3 URLImage3]*  ||  *[PlinianCore_URLImage3 URLImage3]*  ||  *[PlinianCore_URLImage3 URLImage3]*  ||
+||  *[PlinianCore_CaptionImage3 CaptionImage3]*  ||  *[PlinianCore_CaptionImage3 CaptionImage3]*  ||  *[PlinianCore_CaptionImage3 CaptionImage3]*  ||  *[PlinianCore_CaptionImage3 CaptionImage3]*  ||  *[PlinianCore_CaptionImage3 CaptionImage3]*  ||
+
+ {{{(*)}}} Mandatory
+
+== Edit Log ==
+
+The starting point is Plinian Core Flat v. 2.2.1 
+
+
+http://www.pliniancore.org/test/pl_corev2.2.1.xsd
+
+
+  * [2_2_1_to_2_2_2 2.2.1 --> 2.2.2]
+  * [2_2_2_to_2_2_3 2.2.2 --> 2.2.3]
+  * [2_2_3_to_2_2_4_Propuesta Propuesta 2.2.3 --> 2.2.4]
+  * [2_2_3___2_2_4_to_2_3 Versión PlinianCoreFlat 2.3]
+
+
+
+
+
+
+
+== Towards Flat v.2.4: Modification proposals==
