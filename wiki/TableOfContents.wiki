@@ -1,7 +1,7 @@
   * [StandardsProgress Standards Progress]
   * [PlinianCore_Terms Plinian Core Terms]
+     *[Dataset Dataset]
      *[CommonNameType
-     *[Dataset
      *[MetadataType
      *[DocumentationType
      *[DescriptionItemType
