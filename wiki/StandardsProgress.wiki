@@ -152,4 +152,4 @@ Link test to ‘Terms’ and to a specific term:
       * [PlinianCore_Habitat Habitat]
       * [PlinianCore_Uses Uses]
       * [PlinianCore_TargetAudiences TargetAudiences]
-                                           [F. Pando]
+                                           (F. Pando)
