@@ -1,6 +1,6 @@
 <wiki:toc />
 
 ==Language==
-==TargetAudiences==
+==Target Audiences==
 ==Versions==
-==RevisionData==
+==Revision Data==
