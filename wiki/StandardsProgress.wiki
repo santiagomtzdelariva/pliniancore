@@ -141,3 +141,12 @@ http://www.pliniancore.org/test/pl_corev2.2.1.xsd
 * Elements that require controlled vocabularies:
 
 Link test to ‘Terms’ and to a specific term:
+      * [PlinianCore_Habit Habit]
+      * [PlinianCore_Feeding Feeding]
+      * [PlinianCore_Behavior Behavior]
+      * [PlinianCore_Interactions Interactions]
+      * [PlinianCore_ThreatStatus ThreatStatus]
+      * [PlinianCore_Habitat Habitat]
+      * [PlinianCore_Uses Uses]
+      * [PlinianCore_TargetAudiences TargetAudiences]
+                                           [F. Pando]
