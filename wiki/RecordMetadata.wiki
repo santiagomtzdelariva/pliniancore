@@ -1,15 +1,15 @@
-*Quick Reference:*
+<h3>*Quick Reference:*</h3>
 
 <wiki:toc />
 
-==Language==
+==<h1>Language</h1>==
 
 *Quick Reference:*
 
 The language of the taxon record, according to ISO 639.
 
 
-==Target Audiences==
+==<h1>Target Audiences</h1>==
 
 *Quick Reference:*
 
@@ -32,12 +32,17 @@ The recommended controlled vocabulary list includes:
 
 *Quick Reference:*
 
-==Versions==
+List audience codes separated by means of comma or /.
+
+==<h1>Versions</h1>==
 
 *Quick Reference:*
 
+Number and date of the current version.
 
 
-==Revision Data==
+==<h1>Revision Data</h1>==
 
 *Quick Reference:*
+
+Creators, revision status and dates of the entire data collection from which the current dataset is derived from  abcd: RevisonData.
