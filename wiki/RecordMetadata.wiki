@@ -45,4 +45,4 @@ Number and date of the current version.
 
 *Quick Reference:* http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_RevisionData_Link03067C20
 
-Creators, revision status and dates of the entire data collection from which the current dataset is derived from  abcd: RevisonData
+Creators, revision status and dates of the entire data collection from which the current dataset is derived from  abcd: Revison Data
