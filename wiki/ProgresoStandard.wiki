@@ -1,3 +1,4 @@
+#sidebar TablaDeContenido
 == Introducción ==
 
 Este wiki ha sido creado con la intención que todos los interesados aporten sugerencias para mejorar el esquema, *en su versión plana* (Plinan Core Flat).
