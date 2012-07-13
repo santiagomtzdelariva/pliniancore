@@ -15,7 +15,7 @@ The language of the taxon record, according to ISO 639.
 
 Users to which the information is addressed. The defined audiences are: Biodiversity researchers, teachers and students, decision makers, professionals from another areas and general public.
 
-===audience===
+===Audience===
 
 *Quick Reference:*
 
