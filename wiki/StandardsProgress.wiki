@@ -136,9 +136,13 @@ http://www.pliniancore.org/test/pl_corev2.2.1.xsd
 == Towards Flat v.2.4: Modification proposals==
 
 
-* Add the element ‘dataset_code’. [F. Pando]
-* Improve the kind of data to be used as ‘distribution’, i.e. something that allows representation on a map -instead of a text field. Some technical options will be required here. [F. Pando]
-* Elements that require controlled vocabularies:
+- Add the element ‘dataset_code’. (F. Pando)
+
+- Improve the kind of data to be used as ‘distribution’, i.e. something that allows representation on a map -instead of a text field. Some technical options will be required here. (F. Pando)
+
+
+ 
+- Elements that require controlled vocabularies:
 
 Link test to ‘Terms’ and to a specific term:
       * [PlinianCore_Habit Habit]
