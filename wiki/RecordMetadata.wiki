@@ -1,6 +1,43 @@
+*Quick Reference:*
+
 <wiki:toc />
 
 ==Language==
+
+*Quick Reference:*
+
+The language of the taxon record, according to ISO 639.
+
+
 ==Target Audiences==
+
+*Quick Reference:*
+
+Users to which the information is addressed. The defined audiences are: Biodiversity researchers, teachers and students, decision makers, professionals from another areas and general public.
+
+===audience===
+
+*Quick Reference:*
+
+Repetitive concept where the target audiences are written one by one.
+
+The recommended controlled vocabulary list includes: 
+||Biodiversity researchers||
+||Teachers and students||
+||Decision makers||
+||Professionals from another areas||
+||General public||
+
+===Un-structuredAudiences===
+
+*Quick Reference:*
+
 ==Versions==
+
+*Quick Reference:*
+
+
+
 ==Revision Data==
+
+*Quick Reference:*
