@@ -1,1 +1,1 @@
-*Quick Reference:* TaxonomicalDescriptionType
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TaxonomicalDescriptionClass
