@@ -16,6 +16,7 @@ Complete information about the name of the taxon.
 
 *Quick Reference:*
 
+
 ==References==
 
 *Quick Reference:*
@@ -29,21 +30,44 @@ Bibliographic and multimedia reference IDs.
 
 Different names for this taxon. This concept is a placeholder field.
 
+==Synonym==
 
+*Quick Reference:*
+
+Structured information.
+
+===Synonym Name===
+
+*Quick Reference:* tcs:ScientificName
+
+===Synonym Status===
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+
+===References===
+
+
+*Quick Reference:* tcs:ReferenceType
+
+==Synonyms Text==
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 =<h1>Common Names</h1>=
 
 
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/CommonNameClass
+
+List of vernacular names.
+
+=<h1>Flat Hierarchy</h1>=
+
 *Quick Reference:*
 
-
-
-
+Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide keys
 
 =<h1>Misc Details</h1>=
 
-*Quick Reference:*
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/MiscDetailClass
 
 Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymology, ...
-
-
