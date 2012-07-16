@@ -89,30 +89,22 @@ Hierarchical categories. Modified from Linnean Core. Option: fill all or princip
 ||SubClassURI||xs:anyURI||Link to external information||
 ||SuperOrder||xs:string||SuperOrder name||
 ||SuperOrderURI||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
-||Empire||xs:string||Empire name||
-||Empire||xs:anyURI||Link to external information||
+||Order||xs:string||Order name||
+||OrderURI||xs:anyURI||Link to external information||
+||SubOrder||xs:string||SubOrder name||
+||SubOrderURI||xs:anyURI||Link to external information||
+||SuperFamily||xs:string||SuperFamily name||
+||SuperFamilyURI||xs:anyURI||Link to external information||
+||Family||xs:string||Family name||
+||FamilyURI||xs:anyURI||Link to external information||
+||SubFamily||xs:string||SubFamily name||
+||SubFamilyURI||xs:anyURI||Link to external information||
+||Tribe||xs:string||Tribe name||
+||TribeURI||xs:anyURI||Link to external information||
+||Genus||xs:string||Genus name||
+||GenusURI||xs:anyURI||Link to external information||
+||References||tcs:ReferenceType||Bibliographic and multimedia reference IDs||
+
 
 =<h1>Misc Details</h1>=
 
