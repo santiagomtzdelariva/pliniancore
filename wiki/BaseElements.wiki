@@ -5,7 +5,7 @@ Basic information to identify the record.
 ==TaxonRecordID==
 
 
-==GlobalUniqueIdentifier==
+==globalUniqueIdentifier==
 
 
 ==Abstract==
