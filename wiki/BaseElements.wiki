@@ -6,8 +6,22 @@ Basic information to identify the record.
 
 ==TaxonRecordID==
 
+*Quick Reference:*
+
+Unique identifier of the record within the database.
+
+
 
 ==globalUniqueIdentifier==
 
+*Quick Reference:*
+
+According to DarwinCore: An Uniform Resource Name (URN) used as an unique identifier of the taxon record.
+
+
 
 ==Abstract==
+
+*Quick Reference:*
+
+General description of the taxon. This concept could point out any information about the taxon.  Its main goal is summarize the most relevant  or attractive characteristics of this taxon to the general public.
