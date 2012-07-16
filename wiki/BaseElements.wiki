@@ -1,0 +1,11 @@
+*Quick Reference:*
+
+Basic information to identify the record.
+
+==TaxonRecordID==
+
+
+==GlobalUniqueIdentifier==
+
+
+==Abstract==
