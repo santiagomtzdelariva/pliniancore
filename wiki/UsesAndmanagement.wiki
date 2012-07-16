@@ -12,13 +12,13 @@ Known or potential uses of the species, at a direct economic level, as instrumen
 
 =Folklore=
 
-*Quick Reference:* TextDescriptionClass
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 Known myths or legends that people or literature contribute about the species.
 
 
 =Management=
 
-*Quick Reference:* TextDescriptionClass
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 Breeding and  cultivation  Control.
