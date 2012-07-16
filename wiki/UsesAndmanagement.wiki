@@ -10,6 +10,18 @@
 
 Known or potential uses of the species, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted.
 
+==Un-structuredUses==
+
+*Quick Reference:*
+
+Uses in a unstructured format.
+
+==Use==
+
+*Quick Reference:*
+
+Uses in a structured format.
+
 =Folklore=
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
