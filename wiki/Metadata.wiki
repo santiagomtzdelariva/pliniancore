@@ -1,0 +1,3 @@
+*Quick Reference:* 
+
+Information about the collections of records. This is an Extension of abcd: ContentMetadata.
