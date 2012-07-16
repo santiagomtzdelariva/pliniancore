@@ -1,5 +1,7 @@
 *Quick Reference:*
 
+<wiki:toc />
+
 Basic information to identify the record.
 
 ==TaxonRecordID==
