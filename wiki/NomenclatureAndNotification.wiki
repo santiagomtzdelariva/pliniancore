@@ -66,6 +66,54 @@ List of vernacular names.
 
 Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide keys
 
+||Name||Type||Description||
+||Empire||xs:string||Empire name||
+||EmpireURI||xs:anyURI||Link to external information||
+||Kingdom||xs:string||Kingdom name||
+||KingdomURI||xs:anyURI||Link to external information||
+||SubKingdom||xs:string||SubKingdom name||
+||SubKingdomURI||xs:anyURI||Link to external information||
+||InfraKingdom||xs:string||InfraKingdom name||
+||InfraKingdomURI||xs:anyURI||Link to external information||
+||SuperPhylum||xs:string||SuperPhylum name||
+||SuperPhylumURI||xs:anyURI||Link to external information||
+||PhylumDivision||xs:string||Phylum o Division name||
+||PhylumDivisionURI||xs:anyURI||Link to external information||
+||SubPhylum||xs:string||SubPhylum name||
+||SubPhylumURI||xs:anyURI||Link to external information||
+||InfraPhylum||xs:string||InfraPhylum name||
+||InfraPhylumURI||xs:anyURI||Link to external information||
+||Superclass||xs:string||Class name||
+||ClassURI||xs:anyURI||Link to external information||
+||SubClass||xs:string||SubClass name||
+||SubClassURI||xs:anyURI||Link to external information||
+||SuperOrder||xs:string||SuperOrder name||
+||SuperOrderURI||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+||Empire||xs:string||Empire name||
+||Empire||xs:anyURI||Link to external information||
+
 =<h1>Misc Details</h1>=
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/MiscDetailClass
