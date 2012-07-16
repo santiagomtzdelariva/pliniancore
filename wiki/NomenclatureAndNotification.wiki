@@ -103,7 +103,7 @@ Hierarchical categories. Modified from Linnean Core. Option: fill all or princip
 ||TribeURI||xs:anyURI||Link to external information||
 ||Genus||xs:string||Genus name||
 ||GenusURI||xs:anyURI||Link to external information||
-||References||tcs:ReferenceType||Bibliographic and multimedia reference IDs||
+||References||tcs:referenceType||Bibliographic and multimedia reference IDs||
 
 
 =<h1>Misc Details</h1>=
