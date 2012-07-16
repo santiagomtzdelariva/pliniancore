@@ -71,33 +71,33 @@ Hierarchical categories. Modified from Linnean Core. Option: fill all or princip
 ||EmpireURI||xs:anyURI||Link to external information||
 ||Kingdom||xs:string||Kingdom name||
 ||KingdomURI||xs:anyURI||Link to external information||
-||SubKingdom||xs:string||SubKingdom name||
+||subKingdom||xs:string||subKingdom name||
 ||SubKingdomURI||xs:anyURI||Link to external information||
-||InfraKingdom||xs:string||InfraKingdom name||
+||infraKingdom||xs:string||infraKingdom name||
 ||InfraKingdomURI||xs:anyURI||Link to external information||
-||SuperPhylum||xs:string||SuperPhylum name||
+||superPhylum||xs:string||superPhylum name||
 ||SuperPhylumURI||xs:anyURI||Link to external information||
-||PhylumDivision||xs:string||Phylum o Division name||
+||phylumDivision||xs:string||phylum o Division name||
 ||PhylumDivisionURI||xs:anyURI||Link to external information||
-||SubPhylum||xs:string||SubPhylum name||
+||subPhylum||xs:string||subPhylum name||
 ||SubPhylumURI||xs:anyURI||Link to external information||
-||InfraPhylum||xs:string||InfraPhylum name||
+||infraPhylum||xs:string||infraPhylum name||
 ||InfraPhylumURI||xs:anyURI||Link to external information||
-||Superclass||xs:string||Class name||
+||superclass||xs:string||Class name||
 ||ClassURI||xs:anyURI||Link to external information||
-||SubClass||xs:string||SubClass name||
+||subClass||xs:string||subClass name||
 ||SubClassURI||xs:anyURI||Link to external information||
-||SuperOrder||xs:string||SuperOrder name||
+||superOrder||xs:string||superOrder name||
 ||SuperOrderURI||xs:anyURI||Link to external information||
 ||Order||xs:string||Order name||
 ||OrderURI||xs:anyURI||Link to external information||
-||SubOrder||xs:string||SubOrder name||
+||subOrder||xs:string||subOrder name||
 ||SubOrderURI||xs:anyURI||Link to external information||
-||SuperFamily||xs:string||SuperFamily name||
+||superFamily||xs:string||superFamily name||
 ||SuperFamilyURI||xs:anyURI||Link to external information||
 ||Family||xs:string||Family name||
 ||FamilyURI||xs:anyURI||Link to external information||
-||SubFamily||xs:string||SubFamily name||
+||subFamily||xs:string||subFamily name||
 ||SubFamilyURI||xs:anyURI||Link to external information||
 ||Tribe||xs:string||Tribe name||
 ||TribeURI||xs:anyURI||Link to external information||
