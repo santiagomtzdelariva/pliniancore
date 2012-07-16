@@ -16,7 +16,7 @@ Unique identifier of the record within the database.
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
 
-According to DarwinCore: An Uniform Resource Name (URN) used as an unique identifier of the taxon record.
+According to Darwin Core: An Uniform Resource Name (URN) used as an unique identifier of the taxon record.
 
 
 
