@@ -24,37 +24,71 @@ Uses in a structured format.
 
 ===sourceOfInformation===
 
+*Quick Reference:*
+
 ====References====
+
+*Quick Reference:*
 
 ====sourceOfInformationText====
 
+*Quick Reference:*
+
 ===Use-Value===
+
+*Quick Reference:*
 
 ===partUsed===
 
+*Quick Reference:*
+
 ===Users===
+
+*Quick Reference:*
 
 ===vernacularNameUseAnnotations===
 
+*Quick Reference:*
+
 ===productionDetails===
+
+*Quick Reference:*
 
 ===meansOfApplication-Administration===
 
+*Quick Reference:*
+
 ===seasonOfAvailability-Use===
+
+*Quick Reference:*
 
 ===conservation-explotationData===
 
+*Quick Reference:*
+
 ===useType===
+
+*Quick Reference:*
 
 ===ratingPopularity===
 
+*Quick Reference:*
+
 ===Properties===
+
+*Quick Reference:*
 
 ===Problems===
 
+*Quick Reference:*
+
 ===Potential===
 
+*Quick Reference:*
+
 ===useNotes===
+
+*Quick Reference:*
 
 
 
