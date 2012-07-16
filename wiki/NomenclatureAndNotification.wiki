@@ -31,7 +31,7 @@ Different names for this taxon. This concept is a placeholder field.
 
 
 
-=<h1>CommonNames</h1>=
+=<h1>Common Names</h1>=
 
 
 *Quick Reference:*
@@ -40,12 +40,10 @@ Different names for this taxon. This concept is a placeholder field.
 
 
 
-=<h1>MiscDetails</h1>=
+=<h1>Misc Details</h1>=
 
 *Quick Reference:*
 
 Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymology, ...
-
-
 
 
