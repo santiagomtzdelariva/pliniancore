@@ -22,6 +22,42 @@ Uses in a unstructured format.
 
 Uses in a structured format.
 
+===sourceOfInformation===
+
+====References====
+
+====sourceOfInformationText====
+
+===Use-Value===
+
+===partUsed===
+
+===Users===
+
+===vernacularNameUseAnnotations===
+
+===productionDetails===
+
+===meansOfApplication-Administration===
+
+===seasonOfAvailability-Use===
+
+===conservation-explotationData===
+
+===useType===
+
+===ratingPopularity===
+
+===Properties===
+
+===Problems===
+
+===Potential===
+
+===useNotes===
+
+
+
 =Folklore=
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
