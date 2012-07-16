@@ -1,0 +1,51 @@
+*Quick Reference:*
+
+Standard information for every known taxon.
+
+
+<wiki:toc />
+
+
+=<h1>Taxon Record Name</h1>=
+
+*Quick Reference:*
+
+Complete information about the name of the taxon.
+
+==Scientific Name==
+
+*Quick Reference:*
+
+==References==
+
+*Quick Reference:*
+
+Bibliographic and multimedia reference IDs.
+
+
+=<h1>Synonyms</h1>=
+
+*Quick Reference:*
+
+Different names for this taxon. This concept is a placeholder field.
+
+
+
+=<h1>CommonNames</h1>=
+
+
+*Quick Reference:*
+
+
+
+
+
+=<h1>MiscDetails</h1>=
+
+*Quick Reference:*
+
+Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymology, ...
+
+
+
+
