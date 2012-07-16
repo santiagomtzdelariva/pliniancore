@@ -1,0 +1,3 @@
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/DemographyAndConservationClass
+
+Information concerning the demographic aspects of the species, as well as the conservation status
