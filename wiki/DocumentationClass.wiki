@@ -1,19 +1,65 @@
 #labels Class
 *Quick Reference:*
 
-=ID=
+<wiki:toc />
+
+==ID==
 
 *Quick Reference:*
 
-=Annotation=
+==Annotation==
 
 *Quick Reference:*
 
 On why this information item is here.
 
 
-=Publication=
+==Publication==
 
 *Quick Reference:*
 
-This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace
+This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace.
+
+||dublin:contributor||
+||dublin:coverage||
+||dublin:creator||
+||dublin:date||
+||dublin:description||
+||dublin:format||
+||dublin:identifier||
+||dublin:language||
+||dublin:publisher||
+||dublin:relation||
+||dublin:rights||
+||dublin:source||
+||dublin:subject||
+||dublin:title||
+||dublin:type||
+
+
+==Multimedia==
+
+*Quick Reference:*
+
+This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace.
+
+||dublin:contributor||
+||dublin:coverage||
+||dublin:creator||
+||dublin:date||
+||dublin:description||
+||dublin:format||
+||dublin:identifier||
+||dublin:language||
+||dublin:publisher||
+||dublin:relation||
+||dublin:rights||
+||dublin:source||
+||dublin:subject||
+||dublin:title||
+||dublin:type||
+
+
+==Un-structured Documentation==
+
+*Quick Reference:*
