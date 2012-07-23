@@ -1,2 +1,56 @@
 #labels Class
-*Quick Reference:* From ABCD v. 2.06 + PreferredFlag
+*Quick Reference:* From ABCD v. 2.06 + Preferred Flag
+
+
+<wiki:toc />
+
+
+==Major==
+
+*Quick Reference:*
+
+*Class:* xs:nonNegativeInteger.
+
+
+==Minor==
+
+*Quick Reference:*
+
+An optional minor version number ('2' in 1.2)
+
+*Class:* xs:nonNegativeInteger.
+
+
+==Modifier==
+
+*Quick Reference:*
+
+Unconstrained text specifying status + optional number, e. g., 'beta', 'alpha', 'rc/release candidate', 'internal'. If missing, release status is assumed.
+
+
+==Major==
+
+*Quick Reference:*
+
+An optional minor version number ('2' in 1.2).
+
+*Class:* xs:nonNegativeInteger.
+
+
+==Date Issued==
+
+*Quick Reference:*
+
+Source for Dublin-Core standard element Date.Issued: Citable 'publication date' of the current version (comp. RevisionData/DateCreated and DateModified for version- independent dates). This date should be missing if the current version is not yet published!.
+
+*Class:* xs:date.
+
+
+==Preferred Flag==
+
+*Quick Reference:*
+
+TRUE to indicate currente version when providers serve more than one record per taxon.
+
+
+
