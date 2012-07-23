@@ -41,6 +41,6 @@ Location where de common name is used.
 
 =Common Name Text=
 
-*Quick Reference:* tcs:ReferenceType
+*Quick Reference:* tcs:Reference Type
 
 Unstructured information.
