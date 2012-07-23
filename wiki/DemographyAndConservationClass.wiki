@@ -9,7 +9,7 @@
 
 Information associated mostly to vertebrates, referring to the territorial extension of the individual or group in terms of its activities (feeding, mating, etc.) 
 
-*Class:*
+*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
 ==Population Biology==
