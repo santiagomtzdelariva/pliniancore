@@ -26,39 +26,39 @@ Information about the number of individuals per area or time unit.
 Information about the status of the taxon. 
 
 
-===Threat Status===
+   ===Threat Status===
 
-*Quick Reference:*
+   Quick Reference:
 
-Description of the threat status.
+   Description of the threat status.
 
-*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
-
-
-===According To===
-
-*Quick Reference:*
-
-Criteria apply to assess such  status.
-
-*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
+   Class: http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-===Applies To===
+   ===According To===
 
-*Quick Reference:*
+   Quick Reference:
 
-Location where the status is used.
+   Criteria apply to assess such  status.
 
-*Class:* *Class:* http://code.google.com/p/pliniancore/wiki/DistributionClass
+   Class: http://code.google.com/p/pliniancore/wiki/NormalString
 
-===References===
 
-*Quick Reference:*
+   ===Applies To===
 
-Bibliographic and multimedia reference IDs.
+   Quick Reference:
 
-*Class:* tcs: Reference Type.
+   Location where the status is used.
+
+   Class: http://code.google.com/p/pliniancore/wiki/DistributionClass
+
+   ===References===
+
+   Quick Reference:
+
+   Bibliographic and multimedia reference IDs.
+
+   Class: tcs: Reference Type.
 
 
 ==Legislation==
@@ -67,21 +67,19 @@ Bibliographic and multimedia reference IDs.
 
 A national proposed  law or group of laws. A regional proposed  law or group of laws.
 
-===Legislation Text===
+   ===Legislation Text===
 
-*Quick Reference:*
+   Quick Reference:
 
-Enumeration of the law or group of laws in an unstructured format.
+   Enumeration of the law or group of laws in an unstructured format.
 
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+   Class: http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-===Legislation===
+   ===Legislation===
 
-*Quick Reference:*
+   Quick Reference:
 
-Structured information.
+   Structured information.
 
-*Class:* http://code.google.com/p/pliniancore/wiki/LegislationClass
-
-
+   Class: http://code.google.com/p/pliniancore/wiki/LegislationClass
 
