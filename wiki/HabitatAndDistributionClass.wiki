@@ -1,1 +1,29 @@
 #labels Class
+*Quick Reference:*
+
+<wiki:toc />
+
+
+==Habitat==
+
+*Quick Reference:*
+
+General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
+
+
+==Distribution==
+
+*Quick Reference:*
+
+Comment about the distribution of the species based on information from the collection sites of the studied specimens.
+
+Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
+
+
+==Endemicity==
+
+*Quick Reference:*
+
+Endemism describes species that are native to a particular geographic area or continent. Endemism usually occurs in areas that are isolated in some way. 
+
+Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
