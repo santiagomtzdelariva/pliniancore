@@ -13,7 +13,7 @@ General appearance. Characteristic mode of growth or occurrence associated to it
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass 
 
 
-==LifeCycle==
+==Life Cycle==
 
 *Quick Reference:*
 
@@ -29,8 +29,8 @@ Life history of a living organism: The course of developmental changes in an org
 All data related to the production of offspring. 
 
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-
-==AnnualCycle==
+ 
+==Annual Cycle==
 
 *Quick Reference:*
 
@@ -62,7 +62,7 @@ Responses, reactions or movements made by an organism in a particular situation.
 Mutual or reciprocal actions or influences.  For example, predation, parasitism, mutualism, etc.  Relations with products grown and stored by man (plagues) are also included.
 
 
-===TextInteractions===
+===Text Interactions===
 
 *Quick Reference:*
 
@@ -93,7 +93,7 @@ String with the type of interaction.
 Species involved in the interaction.
 
 
-====InteractionComments====
+====Interaction Comments====
 
 *Quick Reference:*
 
@@ -116,28 +116,28 @@ Bibliographic and multimedia reference IDs.
 
 Chromosomic Number. (Placeholder )
 
-==MolecularData==
+==Molecular Data==
 
 *Quick Reference:*
 
 Placeholder for information about molecular data
 
 
-==MigratoryData==
+==Migratory Data==
 
 *Quick Reference:*
 
 Information about migrations. (Placeholder)
 
 
-==EcologicalSignificance==
+==Ecological Significance==
 
 *Quick Reference:*
 
 Ecological importance of the taxon. (Placeholder)
 
 
-==MiscDetails==
+==Misc Details==
 
 *Quick Reference:*
 
