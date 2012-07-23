@@ -17,6 +17,11 @@ Structure information.
 
 *Quick Reference:*
 
+===ISO639===
+
+
+===Language Name===
+
 ==Used In==
 
 *Quick Reference:*
@@ -34,6 +39,6 @@ Location where de common name is used.
 
 =Common Name Text=
 
-*Quick Reference*
+*Quick Reference:*
 
 Unstructured information.
