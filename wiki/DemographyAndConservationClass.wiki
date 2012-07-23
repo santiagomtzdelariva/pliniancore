@@ -67,7 +67,6 @@ Information about the status of the taxon.
 
 A national proposed  law or group of laws. A regional proposed  law or group of laws.
 
-http://code.google.com/p/pliniancore/source/browse/trunk/images/arrow.gif
 
    ===Legislation Text===
 
