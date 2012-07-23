@@ -16,49 +16,49 @@ Information associated mostly to vertebrates, referring to the territorial exten
 
 *Quick Reference:*
 
-
-
-*Class:*
+Information about the number of individuals per area or time unit. 
 
 
 ==Threat Status==
 
 *Quick Reference:*
 
-
-
-*Class:*
+Information about the status of the taxon. 
 
 
 ===Threat Status===
 
 *Quick Reference:*
 
+Description of the threat status.
 
-*Class:*
+*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 
 ===According To===
 
 *Quick Reference:*
 
+Criteria apply to assess such  status.
 
-*Class:*
+*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 
 ===Applies To===
 
 *Quick Reference:*
 
+Location where the status is used.
 
-*Class:*
+*Class:* *Class:* http://code.google.com/p/pliniancore/wiki/DistributionClass
 
 ===References===
 
 *Quick Reference:*
 
 
-*Class:*
+
+*Class:* tcs: Reference Type.
 
 
 ==Legislation==
