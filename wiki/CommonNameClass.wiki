@@ -1,11 +1,35 @@
 #labels Class
-*Quick Reference*
+*Quick Reference:*
 
 <wiki:toc />
 
 =Common Name=
 
-*Quick Reference*
+*Quick Reference:*
+
+Structure information.
+
+==Name==
+
+*Quick Reference:*
+
+==Language==
+
+*Quick Reference:*
+
+==Used In==
+
+*Quick Reference:*
+
+Location where de common name is used.
+
+==Used By==
+
+*Quick Reference:*
+
+==References==
+
+*Quick Reference:*
 
 
 =Common Name Text=
