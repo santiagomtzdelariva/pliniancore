@@ -9,7 +9,7 @@ Basic information to identify the record.
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
 
-Unique identifier of the record within the database.
+A unique identifier inside the database, for the species record. 
 
 
 
