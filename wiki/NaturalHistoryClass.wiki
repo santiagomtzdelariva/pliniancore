@@ -10,7 +10,7 @@
 
 General appearance. Characteristic mode of growth or occurrence associated to its environment, particularly for plants.  Comprising its size, shape, texture and orientation. Example:  tree, shrubs, herbs.
 
-Class: 
+Class: http://code.google.com/p/pliniancore/wiki/NaturalHistoryClass 
 
 
 ==Habit==
