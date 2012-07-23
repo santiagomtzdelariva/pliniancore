@@ -5,11 +5,11 @@
 
 ==ID==
 
-*Quick Reference:*
+*Quick Reference:* 
 
 ==Annotation==
 
-*Quick Reference:*
+*Quick Reference:* 
 
 On why this information item is here.
 
@@ -62,6 +62,6 @@ This group is included as a convenience for schema authors who need to refer to 
 
 ==Un-structured Documentation==
 
-*Quick Reference:*
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 Information that cant be documented in other site. 
