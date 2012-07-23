@@ -10,69 +10,137 @@
 
 General appearance. Characteristic mode of growth or occurrence associated to its environment, particularly for plants.  Comprising its size, shape, texture and orientation. Example:  tree, shrubs, herbs.
 
-Class: http://code.google.com/p/pliniancore/wiki/TextDescriptionClass 
+*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass 
 
 
-==Habit==
-
-*Quick Reference:*
-
-
-
-==Habit==
+==LifeCycle==
 
 *Quick Reference:*
 
+Life history of a living organism: The course of developmental changes in an organism from fertilized zygote to maturity or stages through which an organism passes.
+
+*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
-==Habit==
-
-*Quick Reference:*
-
-
-
-==Habit==
+==Reproduction==
 
 *Quick Reference:*
 
+All data related to the production of offspring. 
 
+*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-==Habit==
-
-*Quick Reference:*
-
-
-
-==Habit==
+==AnnualCycle==
 
 *Quick Reference:*
 
+Recurrent biological phenomena correlated with climatic conditions, as bird migration or plant flowering.
 
+*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-==Habit==
-
-*Quick Reference:*
-
-
-
-==Habit==
+==Feeding==
 
 *Quick Reference:*
 
+Information related to supply food for the development and sustenance of the individual and/or its offspring.
 
+*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-==Habit==
-
-*Quick Reference:*
-
-
-
-==Habit==
+==Behavior==
 
 *Quick Reference:*
 
+Responses, reactions or movements made by an organism in a particular situation.
+
+*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
-==Habit==
+==Interactions==
 
 *Quick Reference:*
+
+Mutual or reciprocal actions or influences.  For example, predation, parasitism, mutualism, etc.  Relations with products grown and stored by man (plagues) are also included.
+
+
+===TextInteractions===
+
+*Quick Reference:*
+
+List of interactions.
+
+*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+
+===Interaction===
+
+*Quick Reference:*
+
+Interactions in structured format.
+
+
+====Interaction Type====
+
+*Quick Reference:*
+
+String with the type of interaction.
+
+*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
+
+====Interaction Species====
+
+*Quick Reference:* gisin:GUIDT
+
+Species involved in the interaction.
+
+
+====InteractionComments====
+
+*Quick Reference:*
+
+Notes about the interactions.
+
+*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
+
+====References====
+
+*Quick Reference:*
+
+Bibliographic and multimedia reference IDs.
+
+*Class:* tcs:Reference Type
+
+
+==Chromosomic Number N==
+
+*Quick Reference:*
+
+Chromosomic Number. (Placeholder )
+
+==MolecularData==
+
+*Quick Reference:*
+
+Placeholder for information about molecular data
+
+
+==MigratoryData==
+
+*Quick Reference:*
+
+Information about migrations. (Placeholder)
+
+
+==EcologicalSignificance==
+
+*Quick Reference:*
+
+Ecological importance of the taxon. (Placeholder)
+
+
+==MiscDetails==
+
+*Quick Reference:*
+
+Miscellaneus: notes attached to the taxon natural history information.
+
+*Class:* http://code.google.com/p/pliniancore/wiki/MiscDetailType
