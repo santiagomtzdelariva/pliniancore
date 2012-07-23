@@ -1,1 +1,25 @@
 #labels Class
+*Quick Reference:*
+
+<wiki:toc />
+
+
+==Brief Description==
+
+*Quick Reference:*
+
+Brief description, presented in a simple technical language, to distinguish the species from other close or similar ones.
+
+
+==Full Description==
+
+*Quick Reference:*
+
+Diagnostic description.
+
+
+==identification Keys==
+
+*Quick Reference:*
+
+Keys to identify infraranks.
