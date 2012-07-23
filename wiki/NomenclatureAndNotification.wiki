@@ -15,14 +15,18 @@ Complete information about the name of the taxon.
 
 ==Scientific Name==
 
-*Quick Reference:*
+*Quick Reference:* http://rs.tdwg.org/dwc/terms/scientificName
+
+Canonical name enforcing strict inclusion of only nomenclatural information - _not_ taxonomic information. The name entered here must comply with rules and recommendations of the international nomenclatural code pertaining to the organisms (Zoological, Botanical, of Cultivated Pants, or Bacteriological). This term coincides and is defined by “scientificName” in Darwin Core: http://rs.tdwg.org/dwc/terms/#scientificName
+
+Class: http://rs.tdwg.org/dwc/terms/Taxon 
 
 
 ==References==
 
 *Quick Reference:*
 
-Bibliographic and multimedia reference IDs.
+In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication. 
 
 
 =<h1>Synonyms</h1>=
@@ -59,7 +63,7 @@ Structured information.
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/CommonNameClass
 
-List of vernacular names.
+A list of common names, in alphabetic order, optionally followed by language and region where it is used. For example, name1 (language, region), name2 (language, region). If language or region is omitted, it is assumed to be unknown.
 
 =<h1>Flat Hierarchy</h1>=
 
