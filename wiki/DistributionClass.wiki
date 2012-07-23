@@ -1,1 +1,46 @@
 #labels Class
+*Quick Reference:*
+
+<wiki:toc />
+
+
+==Atomized Distribution==
+
+*Quick Reference:*
+
+List of regions structured and categorized the degree of safety.
+
+   ===Catalogue===
+
+   Quick Reference:
+
+   Catalogue where the Geographic Entity is documented.
+
+   Class: http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+   ===Geographic Entity===
+
+   Quick Reference:
+
+   Name of the geographic entity.
+
+   Class: http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+   ===References===
+
+   Quick Reference:
+
+   Bibliographic and multimedia reference IDs.
+
+   Class: tcs:Reference Type
+
+
+==Distribution Area==
+
+*Quick Reference:*
+
+Description of the distribution of the species.
+
+*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
