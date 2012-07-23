@@ -1,1 +1,31 @@
 #labels Class
+*Quick Reference:*
+
+<wiki:toc />
+
+
+==Legislation Name==
+
+*Quick Reference:*
+
+Word or phrase to designate the law or group of laws.
+
+Class: http://code.google.com/p/pliniancore/wiki/NormalString.
+
+
+==Protection Legal Status==
+
+*Quick Reference:*
+
+Description of the status.
+
+Class: http://code.google.com/p/pliniancore/wiki/NormalString.
+
+
+==References==
+
+*Quick Reference:*
+
+Bibliographic and multimedia reference IDs.
+
+Class: tcs:Reference Type
