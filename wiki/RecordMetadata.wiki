@@ -7,9 +7,7 @@
 
 *Quick Reference:*
 
-The language of the taxon record, according to ISO 639.
-
-A list of language codes can be found at http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes.
+Language used to write the species information, ISO 639-2 according to GBIF Metadata Profile, Reference Guide http://links.gbif.org/gbif_metadata_profile_guide_en_v1. 
 
 
 ==<h1>Target Audiences</h1>==
