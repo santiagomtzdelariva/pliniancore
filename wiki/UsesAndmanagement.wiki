@@ -31,6 +31,8 @@ Uses in a structured format.
 
 *Quick Reference:*
 
+In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication.
+
 ====sourceOfInformationText====
 
 *Quick Reference:*
