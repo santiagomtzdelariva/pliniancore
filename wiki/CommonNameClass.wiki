@@ -3,6 +3,6 @@
 
 <wiki:toc />
 
-<h1>Common Name</h1>
+=Common Name=
 
-<h1>Common Name Text</h1>
+=Common Name Text=
