@@ -1,1 +1,19 @@
 #labels Class
+*Quick Reference:*
+
+=ID=
+
+*Quick Reference:*
+
+=Annotation=
+
+*Quick Reference:*
+
+On why this information item is here.
+
+
+=Publication=
+
+*Quick Reference:*
+
+This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace
