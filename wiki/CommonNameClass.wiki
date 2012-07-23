@@ -17,6 +17,8 @@ Structure information.
 
 *Quick Reference:*
 
+Language used to write the species information, ISO 639-2 according to GBIF Metadata Profile, Reference Guide http://links.gbif.org/gbif_metadata_profile_guide_en_v1. 
+
 ===ISO639===
 
 
@@ -38,6 +40,7 @@ Location where de common name is used.
 
 *Quick Reference:*
 
+In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication. 
 
 =Common Name Text=
 
