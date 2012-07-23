@@ -22,9 +22,11 @@ Structure information.
 
 ===Language Name===
 
+*Quick Reference:* *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+
 ==Used In==
 
-*Quick Reference:*
+*Quick Reference:* *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 Location where de common name is used.
 
@@ -39,6 +41,6 @@ Location where de common name is used.
 
 =Common Name Text=
 
-*Quick Reference:*
+*Quick Reference:* tcs:ReferenceType
 
 Unstructured information.
