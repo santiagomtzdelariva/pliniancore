@@ -1,5 +1,5 @@
 #labels Element
-<h3>*Quick Reference:*</h3>
+*Quick Reference:*
 
 <wiki:toc />
 
