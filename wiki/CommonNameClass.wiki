@@ -5,7 +5,7 @@
 
 =Common Name=
 
-*Quick Reference:*
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 Structure information.
 
