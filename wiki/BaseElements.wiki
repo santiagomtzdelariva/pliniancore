@@ -11,6 +11,13 @@ Basic information to identify the record.
 
 A unique identifier inside the database, for the species record. 
 
+==taxonConceptID==
+
+*Quick Reference:*http://rs.tdwg.org/dwc/terms/taxonConceptID
+
+An identifier for the taxonomic concept to which the record refers - not for the nomenclatural details of a taxon.
+
+Class: http://rs.tdwg.org/dwc/terms/Taxon
 
 
 ==globalUniqueIdentifier==
