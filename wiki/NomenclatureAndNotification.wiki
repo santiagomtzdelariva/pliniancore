@@ -43,7 +43,7 @@ Structured information.
 
 ===Synonym Name===
 
-*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd tcs:ScientificName
+*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd tcs:scientificName
 
 ===Synonym Status===
 
@@ -52,7 +52,8 @@ Structured information.
 ===References===
 
 
-*Quick Reference:* tcs:ReferenceType
+*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd
+tcs:referenceType
 
 ==Synonyms Text==
 
