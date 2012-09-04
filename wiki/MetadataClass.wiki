@@ -1,2 +1,14 @@
 #labels Class,Metadata
 *Quick Reference:* http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_ContentMetadata_Link030627E8
+
+<wiki:toc />
+
+==Source==
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+
+Information about the data set provenance.
+
+==DataSet_ID==
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
