@@ -279,7 +279,7 @@ Miscellaneus: notes attached to the taxon natural history information.
 
 ----
 
-=un-structuredDescription=
+=Un-structuredDescription=
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
