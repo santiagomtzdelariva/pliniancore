@@ -4,7 +4,6 @@
 
 <wiki:toc />
 
-Known myths or legends that people or literature contribute about the species.
 
 =Uses=
 
@@ -102,6 +101,21 @@ In any of the above fields, if any data was obtained from the literature, a refe
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 Known myths or legends that people or literature contribute about the species.
+
+==ancilliaryData==
+
+*Quick Reference*:
+
+==StructuredFolklore==
+
+||Fields||
+||Attribute||
+||Value||
+||usedBy||
+
+==Un-structuredDescription==
+
+*Quick Reference:*
 
 
 =Management=
