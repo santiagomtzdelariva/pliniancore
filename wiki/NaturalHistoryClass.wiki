@@ -24,7 +24,7 @@
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>
 
 ----
-<font color="#336699">------------------------------------</font>
+<font color="#336699">------------------------------------</font><font color="#006633">Elment of Natural Data</font><font color="#336699">------------------------------------</font>
 
 ==Life Form== 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
