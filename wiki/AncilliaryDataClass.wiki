@@ -1,5 +1,11 @@
 *Quick Reference:*
 
-<wiki: toc/>
+<wiki:toc />
 
-=Hola=
+=accessRight=
+
+*Quick Reference:* 
+
+=References=
+
+*Quick Reference:* (tcs: referenceType)
