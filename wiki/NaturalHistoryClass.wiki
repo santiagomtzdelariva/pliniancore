@@ -7,6 +7,8 @@
 
 =Natural Data=
 
+----
+<font color="#336699">------------------------------------</font>
 
 ==Life Form== 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
@@ -18,6 +20,7 @@ General appearance. Characteristic mode of growth or occurrence associated to it
 
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass 
 
+<font color="#336699">------------------------------------</font>
 
 ==Life Cycle==
 
@@ -29,6 +32,7 @@ Life history of a living organism: The course of developmental changes in an org
 
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
+<font color="#336699">------------------------------------</font>
 
 ==Reproduction==
 
@@ -40,6 +44,9 @@ Life history of a living organism: The course of developmental changes in an org
 Data about reproduction of the species in wildlife or in captivity. 
 
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+
+<font color="#336699">------------------------------------</font>
  
 ==Annual Cycle==
 
@@ -51,6 +58,9 @@ Recurrent biological phenomena correlated with climatic conditions, as bird migr
 
 
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+
+<font color="#336699">------------------------------------</font>
 
 ==Feeding==
 
@@ -96,6 +106,7 @@ Information related to supply food for the development and sustenance of the ind
  
 
  
+<font color="#336699">------------------------------------</font>
 
 ==Behavior==
 
@@ -107,6 +118,8 @@ Responses, reactions or movements made by an organism in a particular situation.
 
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
+
+<font color="#336699">------------------------------------</font>
 
 ==Interactions==
 
@@ -165,6 +178,8 @@ Bibliographic and multimedia reference IDs.
 *Class:* tcs:Reference Type
 
 
+<font color="#336699">------------------------------------</font>
+
 ==Chromosomic Number N==
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
@@ -173,12 +188,17 @@ Bibliographic and multimedia reference IDs.
 
 Chromosomic Number. (Placeholder )
 
+
+<font color="#336699">------------------------------------</font>
+
 ==Molecular Data==
 
 *Quick Reference:*
 
 Information about molecular taxonomy obtained from the author or the literature. 
 
+
+<font color="#336699">------------------------------------</font>
 
 ==Migratory Data==
 
@@ -189,6 +209,8 @@ Information about molecular taxonomy obtained from the author or the literature.
 Information about migrations. (Placeholder)
 
 
+<font color="#336699">------------------------------------</font>
+
 ==Ecological Significance==
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
@@ -197,6 +219,8 @@ Information about migrations. (Placeholder)
 
 Ecological importance of the taxon. (Placeholder)
 
+
+<font color="#336699">------------------------------------</font>
 
 ==Misc Details==
 
@@ -208,6 +232,8 @@ Miscellaneus: notes attached to the taxon natural history information.
 
 *Class:* http://code.google.com/p/pliniancore/wiki/MiscDetailType
 
+
 =un-structuredDescription=
+----
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
