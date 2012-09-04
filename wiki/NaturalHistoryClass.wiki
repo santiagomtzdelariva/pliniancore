@@ -1,8 +1,11 @@
-#labels Class
+#labels Class,NaturalHistory
 *Quick Reference:*
 
 <wiki:toc />
 
+
+
+=Natural Data=
 
 ==Habit==
 
@@ -145,3 +148,7 @@ Ecological importance of the taxon. (Placeholder)
 Miscellaneus: notes attached to the taxon natural history information.
 
 *Class:* http://code.google.com/p/pliniancore/wiki/MiscDetailType
+
+=un-structuredDescription=
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
