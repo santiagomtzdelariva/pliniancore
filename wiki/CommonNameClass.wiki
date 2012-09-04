@@ -28,7 +28,7 @@ Language used to write the species information, ISO 639-2 according to GBIF Meta
 
 ==Used In==
 
-*Quick Reference:* *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+*Quick Reference:* *Quick Reference:* http://code.google.com/p/pliniancore/wiki/DistributionClass
 
 Location where de common name is used.
 
