@@ -11,7 +11,7 @@ Standard information for every known taxon.
 
 *Quick Reference:*
 
-Complete information about the name of the taxon.
+Standard information for every known taxon.
 
 ==Scientific Name==
 
