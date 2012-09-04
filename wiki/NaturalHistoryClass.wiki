@@ -64,13 +64,14 @@ Information related to supply food for the development and sustenance of the ind
 
 ===un-Structured===
 
-====un-StructuredDescription====
+====un-structuredDescription====
 
 *Class:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 ====Reference====
 
 *Quick Reference:* (tcs: referenceType)
+
 ==Behavior==
 
 *Quick Reference:*
