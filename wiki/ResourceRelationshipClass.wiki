@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-=ResourceRelationship=
+=resourceRelationship=
 
 *Quick Reference:* http://rs.tdwg.org/dwc/terms/ResourceRelationship
 
