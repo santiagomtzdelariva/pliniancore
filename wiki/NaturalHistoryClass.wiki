@@ -79,7 +79,7 @@ Information related to supply food for the development and sustenance of the ind
 
 ===Structured===
 
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
 ====Thropic Strategy <font color="#FF0000">(New)</font>====
 
@@ -94,6 +94,8 @@ Information related to supply food for the development and sustenance of the ind
 *Quick Reference:*
 
 ===un-Structured===
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 ====un-structuredDescription====
 
