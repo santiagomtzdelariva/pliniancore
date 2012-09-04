@@ -63,7 +63,8 @@ Information related to supply food for the development and sustenance of the ind
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
  
-===Structured===
+=== 
+<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/> Structured===
 
 ====Thropic Strategy <font color="#FF0000">(New)</font>====
 
