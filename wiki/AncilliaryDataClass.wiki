@@ -4,7 +4,7 @@
 
 =accessRight=
 
-*Quick Reference:* 
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 =References=
 
