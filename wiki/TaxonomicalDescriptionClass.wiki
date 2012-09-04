@@ -1,4 +1,4 @@
-#labels Class
+#labels Class,TaxonomicalDescription
 *Quick Reference:*
 
 <wiki:toc />
@@ -6,20 +6,44 @@
 
 ==Brief Description==
 
-*Quick Reference:*
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 Brief description, presented in a simple technical language, to distinguish the species from other close or similar ones.
 
 
 ==Full Description==
 
-*Quick Reference:*
+*Quick Reference:* 
 
 Diagnostic description.
 
+===Description Item===
 
-==identification Keys==
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/DescriptionItemClass
+
+Structure diagnostic characters.
+
+
+===Description Text===
+
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+Unstructured diagnostic characters.
+
+==Identification Keys==
 
 *Quick Reference:*
 
 Keys to identify infraranks.
+
+===Keys===
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+Dichotomic or multientrance keys.
+
+
+===Reference===
+
+*Quick Reference:*  (tcs: referenceType)
