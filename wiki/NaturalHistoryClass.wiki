@@ -7,7 +7,8 @@
 
 =Natural Data=
 
-<img src="">==Life Form==
+<img src="http://code.google.com/p/pliniancore/source/browse/trunk/images/element.jpg"/>
+==Life Form==
 
 *Quick Reference:*
 
