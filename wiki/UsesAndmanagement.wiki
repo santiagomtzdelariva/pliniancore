@@ -115,7 +115,7 @@ Known myths or legends that people or literature contribute about the species.
 
 ==Un-structuredDescription==
 
-*Quick Reference:*
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 
 =Management=
