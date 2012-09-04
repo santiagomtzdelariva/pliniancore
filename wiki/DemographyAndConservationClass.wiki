@@ -27,14 +27,14 @@
 
 Information associated mostly to vertebrates, referring to the territorial extension of the individual or group in terms of its activities (feeding, mating, etc.) 
 
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
 ==Population Biology==
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-*Quick Reference:*
+<b>Quick Reference:</b>
 
 Information about the number of individuals per area or time unit. 
 
@@ -43,12 +43,14 @@ Information about the number of individuals per area or time unit.
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-*Quick Reference:*
+<b>Quick Reference:</b>
 
 Information about the status of the taxon. 
 
 
    ===Threat Status===
+
+   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
    <b>Quick Reference:</b>
 
@@ -59,49 +61,51 @@ Information about the status of the taxon.
 
    ===According To===
 
-   Quick Reference:
+   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+   <b>Quick Reference:</b>
 
    Criteria apply to assess such  status.
 
-   Class: http://code.google.com/p/pliniancore/wiki/NormalString
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
    ===Applies To===
 
-   Quick Reference:
+   <b>Quick Reference:</b>
 
    Location where the status is used.
 
-   Class: http://code.google.com/p/pliniancore/wiki/DistributionClass
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass
 
    ===References===
 
-   Quick Reference:
+   <b>Quick Reference:</b>
 
    Bibliographic and multimedia reference IDs.
 
-   Class: tcs: Reference Type.
+   <b>Class:</b> tcs: Reference Type.
 
 
 ==Legislation==
 
-*Quick Reference:*
+<b>Quick Reference:</b>
 
 A national proposed  law or group of laws. A regional proposed  law or group of laws.
 
 
    ===Legislation Text===
 
-   Quick Reference:
+   <b>Quick Reference:</b>
 
    Enumeration of the law or group of laws in an unstructured format.
 
-   Class: http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
    ===Legislation===
 
-   Quick Reference:
+   <b>Quick Reference:</b>
 
    Structured information.
 
-   Class: http://code.google.com/p/pliniancore/wiki/LegislationClass
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/LegislationClass
