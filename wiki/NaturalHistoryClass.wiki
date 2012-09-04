@@ -54,6 +54,9 @@ Information related to supply food for the development and sustenance of the ind
 
 <font color="#FF0000">====Thropic Strategy (New)====</font>
 
+
+<font color="#FF0000">Hola</font>
+
 *Quick Reference:*
 
 ====Thropic Strategy Qualifier (New)====
