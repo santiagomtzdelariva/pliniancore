@@ -52,7 +52,7 @@ Information related to supply food for the development and sustenance of the ind
 
 ===Structured===
 
-====Thropic Strategy <font color="#FF0000">(New)</font>====
+<font color="#FF0000">====Thropic Strategy (New)====</font>
 
 *Quick Reference:*
 
