@@ -1,9 +1,27 @@
-#labels Class
+#labels Class,DemographyAndConservation
+<h2>*Legend:*</h2>
+
+||Image||Description||
+||<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+
+*Quick Reference:*
+
+<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/><img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
+
 *Quick Reference:*
 
 <wiki:toc />
 
 ==Territory==
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
 *Quick Reference:*
 
@@ -14,12 +32,16 @@ Information associated mostly to vertebrates, referring to the territorial exten
 
 ==Population Biology==
 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
 *Quick Reference:*
 
 Information about the number of individuals per area or time unit. 
 
 
 ==Threat Status==
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
 *Quick Reference:*
 
@@ -28,11 +50,11 @@ Information about the status of the taxon.
 
    ===Threat Status===
 
-   Quick Reference:
+   <b>Quick Reference:</b>
 
    Description of the threat status.
 
-   Class: http://code.google.com/p/pliniancore/wiki/NormalString
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
    ===According To===
