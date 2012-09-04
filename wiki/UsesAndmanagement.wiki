@@ -104,7 +104,7 @@ Known myths or legends that people or literature contribute about the species.
 
 ==ancilliaryData==
 
-*Quick Reference*:
+*Quick Reference*: http://code.google.com/p/pliniancore/wiki/ancilliaryDataClass
 
 ==structuredFolklore==
 
@@ -123,3 +123,7 @@ Known myths or legends that people or literature contribute about the species.
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 Breeding and  cultivation  Control.
+
+=MeasurementOrFact=
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
