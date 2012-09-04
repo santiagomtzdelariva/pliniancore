@@ -106,7 +106,7 @@ Known myths or legends that people or literature contribute about the species.
 
 *Quick Reference*:
 
-==StructuredFolklore==
+==structuredFolklore==
 
 ||Fields||
 ||Attribute||
