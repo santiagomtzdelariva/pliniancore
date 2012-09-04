@@ -54,15 +54,13 @@ Recurrent biological phenomena correlated with climatic conditions, as bird migr
 
 ==Feeding==
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>
 
 *Quick Reference:*
 
 Information related to supply food for the development and sustenance of the individual and/or its offspring.
 
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-
-http://img214.imageshack.us/img214/4559/multipleu.jpg
 
  
 ===Structured===
