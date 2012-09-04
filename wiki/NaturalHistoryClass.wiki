@@ -66,11 +66,13 @@ Information related to supply food for the development and sustenance of the ind
 
 ====Thropic Strategy <font color="#FF0000">(New)</font>====
 
-
+<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
 *Quick Reference:*
 
 ====Thropic Strategy Qualifier <font color="#FF0000">(New)</font>====
+
+<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
 *Quick Reference:*
 
@@ -78,12 +80,14 @@ Information related to supply food for the development and sustenance of the ind
 
 ====un-structuredDescription====
 
+<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
+
 *Class:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 ====Reference====
 
  
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>  <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg" width="26" height="24"/> 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>  <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg" width="26" height="24"/> 
 
 *Quick Reference:* (tcs: referenceType)
  
