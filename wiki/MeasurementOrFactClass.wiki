@@ -1,7 +1,7 @@
 #labels Class
 *Quick Reference:*
 
-=MeasurementOrFact=
+=measurementOrFact=
 
 *Quick Reference:* http://rs.tdwg.org/dwc/terms/MeasurementOrFact
 
@@ -10,4 +10,4 @@ The category of information pertaining to measurements, facts, characteristics, 
 
 =relatedTo=
 
-Class: 
+Class: http://code.google.com/p/pliniancore/wiki/NormalString
