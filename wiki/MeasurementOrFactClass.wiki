@@ -1,13 +1,13 @@
-#summary One-sentence summary of this page.
+#labels Class
+*Quick Reference:*
 
-= Introduction =
+=MeasurementOrFact=
 
-Add your content here.
+*Quick Reference:* http://rs.tdwg.org/dwc/terms/MeasurementOrFact
 
 
-= Details =
+The category of information pertaining to measurements, facts, characteristics, or assertions about a resource (instance of data record, such as Occurrence, Taxon, Location, Event).
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+=relatedTo=
+
+Class: 
