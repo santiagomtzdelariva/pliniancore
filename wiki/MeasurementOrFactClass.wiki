@@ -11,3 +11,5 @@ The category of information pertaining to measurements, facts, characteristics, 
 =relatedTo=
 
 Class: http://code.google.com/p/pliniancore/wiki/NormalString
+
+Optional.
