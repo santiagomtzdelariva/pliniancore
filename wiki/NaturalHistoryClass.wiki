@@ -50,6 +50,25 @@ Information related to supply food for the development and sustenance of the ind
 
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
+===Structured===
+
+====Thropic Strategy (New)====
+
+*Quick Reference:*
+
+===Thropic Strategy Qualifier (New)===
+
+*Quick Reference:*
+
+===un-Structured===
+
+====un-StructuredDescription====
+
+*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
+
+====Reference====
+
+*Quick Reference:* (tcs: referenceType)
 ==Behavior==
 
 *Quick Reference:*
