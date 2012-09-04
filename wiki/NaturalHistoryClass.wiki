@@ -21,6 +21,8 @@ General appearance. Characteristic mode of growth or occurrence associated to it
 
 ==Life Cycle==
 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
 *Quick Reference:*
 
 Life history of a living organism: The course of developmental changes in an organism from fertilized zygote to maturity or stages through which an organism passes.
@@ -30,6 +32,9 @@ Life history of a living organism: The course of developmental changes in an org
 
 ==Reproduction==
 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
+
 *Quick Reference:*
 
 Data about reproduction of the species in wildlife or in captivity. 
@@ -37,6 +42,8 @@ Data about reproduction of the species in wildlife or in captivity.
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
  
 ==Annual Cycle==
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
 *Quick Reference:*
 
@@ -46,6 +53,8 @@ Recurrent biological phenomena correlated with climatic conditions, as bird migr
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 ==Feeding==
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
 *Quick Reference:*
 
@@ -77,6 +86,8 @@ Information related to supply food for the development and sustenance of the ind
 
 ==Behavior==
 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
 *Quick Reference:*
 
 Responses, reactions or movements made by an organism in a particular situation.
@@ -85,6 +96,8 @@ Responses, reactions or movements made by an organism in a particular situation.
 
 
 ==Interactions==
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
 *Quick Reference:*
 
@@ -141,6 +154,8 @@ Bibliographic and multimedia reference IDs.
 
 ==Chromosomic Number N==
 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
 *Quick Reference:*
 
 Chromosomic Number. (Placeholder )
@@ -154,6 +169,8 @@ Information about molecular taxonomy obtained from the author or the literature.
 
 ==Migratory Data==
 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
 *Quick Reference:*
 
 Information about migrations. (Placeholder)
@@ -161,12 +178,16 @@ Information about migrations. (Placeholder)
 
 ==Ecological Significance==
 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
 *Quick Reference:*
 
 Ecological importance of the taxon. (Placeholder)
 
 
 ==Misc Details==
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
 *Quick Reference:*
 
