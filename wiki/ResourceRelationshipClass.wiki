@@ -2,3 +2,11 @@
 *Quick Reference:*
 
 <wiki:toc />
+
+=ResourceRelationship=
+
+*Quick Reference:* http://rs.tdwg.org/dwc/terms/ResourceRelationship
+
+The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events).
+
+Resources can be thought of as identifiable records and may include, but need not be limited to Occurrences, Locations, Events, Identifications, or Taxon records. For discussion see http://code.google.com/p/darwincore/wiki/ResourceRelationship
