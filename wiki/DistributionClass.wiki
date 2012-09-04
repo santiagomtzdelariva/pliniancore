@@ -34,7 +34,7 @@ List of regions structured and categorized the degree of safety.
 
    Bibliographic and multimedia reference IDs.
 
-   Class: tcs:Reference Type
+   Class: http://www.tdwg.org/uploads/media/v101.xsd (tcs:referenceType)
 
 
 ==Distribution Area==
