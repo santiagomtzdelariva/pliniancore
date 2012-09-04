@@ -23,11 +23,9 @@ Users to which the information is addressed. The defined audiences are: Biodiver
 Repetitive concept where the target audiences are written one by one.
 
 The recommended controlled vocabulary list includes: 
-||Biodiversity researchers||
-||Teachers and students||
-||Decision makers||
-||Professionals from another areas||
-||General public||
+||01. Expert (High).||
+||02. Knowledgeable (Medium).||
+||03. General (Low).||
 
 ===Un-structuredAudiences===
 
