@@ -1,6 +1,8 @@
 #labels Class
 *Quick Reference:*
 
+<wiki:toc />
+
 =measurementOrFact=
 
 *Quick Reference:* http://rs.tdwg.org/dwc/terms/MeasurementOrFact
