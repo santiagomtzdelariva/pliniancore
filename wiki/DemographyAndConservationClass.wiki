@@ -121,7 +121,7 @@ Information about the status of the taxon.
 
    Bibliographic and multimedia reference IDs.
 
-   <b>Class:</b> tcs: Reference Type.
+   <b>Class:</b> http://www.tdwg.org/schemas/tcs/1.01 (tcs: Reference Type.)
 
 
 ==Legislation==
