@@ -58,224 +58,211 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
+ 
+     ==Annual Cycle==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
+     <b>Quick Reference:</b>
+
+     Recurrent biological phenomena correlated with climatic conditions, as bird migration or plant flowering.
+
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+
+
+     ==Feeding==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>
+
+     <b>Quick Reference:</b>
+
+     Information related to supply food for the development and sustenance of the individual and/or its offspring.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+
+          ===Structured===
+
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+
+               ====Thropic Strategy <font color="#FF0000">(New)</font>====
+
+               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
+
+               <b>Quick Reference:</b>
+
+               ====Thropic Strategy Qualifier <font color="#FF0000">(New)</font>====
+
+               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
+
+               <b>Quick Reference:</b>
+
+          ===un-Structured===
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
+               ====un-structuredDescription====
+
+               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
+
+               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+               ====Reference====
 
  
-==Annual Cycle==
+               <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>  <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg" width="26" height="24"/> 
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
-
-*Quick Reference:*
-
-Recurrent biological phenomena correlated with climatic conditions, as bird migration or plant flowering.
+               <b>Quick Reference:</b> (tcs: referenceType)
 
 
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     ==Dispersal <font color="#FF0000">(New)</font>==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
+
+     <b>Quick Reference:</b>
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
-<font color="#336699">------------------------------------</font>
+     ==Behavior==
 
-==Feeding==
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>
+     <b>Quick Reference:</b>
 
-*Quick Reference:*
+     Responses, reactions or movements made by an organism in a particular situation.
 
-Information related to supply food for the development and sustenance of the individual and/or its offspring.
-
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
-===Structured===
+     ==Interactions==
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-====Thropic Strategy <font color="#FF0000">(New)</font>====
+     <b>Quick Reference:</b>
 
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
-
-*Quick Reference:*
-
-====Thropic Strategy Qualifier <font color="#FF0000">(New)</font>====
-
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
-
-*Quick Reference:*
-
-===un-Structured===
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
-
-====un-structuredDescription====
-
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
-
-*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
-
-====Reference====
-
- 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>  <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg" width="26" height="24"/> 
-
-*Quick Reference:* (tcs: referenceType)
-
- 
-<font color="#336699">------------------------------------</font>
+     Mutual or reciprocal actions or influences.  For example, predation, parasitism, mutualism, etc.  Relations with products grown and stored by man (plagues) are also included.
 
 
-==Dispersal <font color="#FF0000">(New)</font>==
+          ===Text Interactions===
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
 
-*Quick Reference:*
+          <b>Quick Reference:<b>
 
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+          List of interactions.
 
- 
-<font color="#336699">------------------------------------</font>
+          <b>Class:<b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-==Behavior==
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
+          ===Interaction===
 
-*Quick Reference:*
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
-Responses, reactions or movements made by an organism in a particular situation.
+          <b>Quick Reference:<b>
 
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+          Interactions in structured format.
 
 
-<font color="#336699">------------------------------------</font>
+               ====Interaction Type====
 
-==Interactions==
+               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+               <b>Quick Reference:</b>
 
-*Quick Reference:*
+               String with the type of interaction.
 
-Mutual or reciprocal actions or influences.  For example, predation, parasitism, mutualism, etc.  Relations with products grown and stored by man (plagues) are also included.
+               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
+               ====Interaction Species====
 
-===Text Interactions===
+               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
+               <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/ResourceRelationship
 
-*Quick Reference:*
+               The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events).
 
-List of interactions.
 
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+               ====Interaction Comments====
 
+               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
-===Interaction===
+               <b>Quick Reference:<b>
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
+               Notes about the interactions.
 
-*Quick Reference:*
+               <b>Class:<b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-Interactions in structured format.
+               ====References====
 
+               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-====Interaction Type====
+               <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
 
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+               Bibliographic and multimedia reference IDs.
 
-*Quick Reference:*
+               <b>Class:</b> tcs:Reference Type
 
-String with the type of interaction.
 
-*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
 
-====Interaction Species====
 
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     ==Chromosomic Number N==
 
-*Quick Reference:* http://rs.tdwg.org/dwc/terms/ResourceRelationship
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events).
+     <b>Quick Reference:</b>
 
+     Chromosomic Number. (Placeholder )
 
-====Interaction Comments====
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
+     ==Molecular Data==
 
-*Quick Reference:*
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-Notes about the interactions.
+     <b>Quick Reference</b>
 
-*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
+     Information about molecular taxonomy obtained from the author or the literature. 
 
-====References====
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+     ==Migratory Data==
 
-*Quick Reference:*
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-Bibliographic and multimedia reference IDs.
+     <b>Quick Reference:</b>
 
-*Class:* tcs:Reference Type
+     Information about migrations. (Placeholder)
+     <b>Class:<b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
-<font color="#336699">------------------------------------</font>
 
-==Chromosomic Number N==
+     ==Ecological Significance==
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-*Quick Reference:*
+     <b>Quick Reference:</b>
 
-Chromosomic Number. (Placeholder )
+     Ecological importance of the taxon. (Placeholder)
 
 
-<font color="#336699">------------------------------------</font>
+     ==Misc Details==
 
-==Molecular Data==
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
-
-*Quick Reference:*
-
-Information about molecular taxonomy obtained from the author or the literature. 
-
-
-<font color="#336699">------------------------------------</font>
-
-==Migratory Data==
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
-
-*Quick Reference:*
-
-Information about migrations. (Placeholder)
-
-*Class:*  http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-
-<font color="#336699">------------------------------------</font>
-
-==Ecological Significance==
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
-
-*Quick Reference:*
-
-Ecological importance of the taxon. (Placeholder)
-
-
-<font color="#336699">------------------------------------</font>
-
-==Misc Details==
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
-
-*Quick Reference:*
+<b>Quick Reference:</b>
 
 Miscellaneus: notes attached to the taxon natural history information.
 
 *Class:* http://code.google.com/p/pliniancore/wiki/MiscDetailClass
 
-----
+
 
 =Un-structuredDescription=
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+<b>Quick Reference:</b> 
+
+<b>Class: http://code.google.com/p/pliniancore/wiki/NormalString
+<b>
