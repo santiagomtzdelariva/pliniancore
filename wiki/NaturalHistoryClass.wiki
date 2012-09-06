@@ -1,7 +1,8 @@
 #labels Class,NaturalHistory
-<table><tr><td><img src="http://img100.imageshack.us/img100/4200/naturalhistoryclass.jpg" width="933" height="735"/></td></tr>
-
 <h2>*Schema and Legend:*</h2>
+<wiki:toc />
+
+<table><tr><td><img src="http://img100.imageshack.us/img100/4200/naturalhistoryclass.jpg" width="933" height="735"/></td></tr>
 
 ||Image||Description||
 ||<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>||Complex Type||
@@ -12,14 +13,12 @@
 ||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
+<h1><b>Natutal History Class</b></h1>
+
 *Quick Reference:*
 
 <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/><img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-
-<wiki:toc />
-
-<h2>*Definitions:*</h2>
 
 =Natural Data=
 
