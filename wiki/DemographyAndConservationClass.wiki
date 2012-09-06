@@ -1,5 +1,9 @@
 #labels Class,DemographyAndConservation
-<h2>*Legend:*</h2>
+<wiki:toc />
+
+<h2>*Graphic and Legend:*</h2>
+
+
 
 ||Image||Description||
 ||<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>||Complex Type||
@@ -17,7 +21,7 @@
 
 *Quick Reference:*
 
-<wiki:toc />
+
 
 ==Territory==
 
