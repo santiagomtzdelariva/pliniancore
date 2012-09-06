@@ -21,49 +21,44 @@
 
 =Natural Data=
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>
-
-----
-
-<font color="#336699">------------------------------------</font>
-
-==Life Form== 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 
-*Quick Reference:*
-
-General appearance. Characteristic mode of growth or occurrence associated to its environment, particularly for plants.  Comprising its size, shape, texture and orientation. Example:  tree, shrubs, herbs.
-
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass 
-
-<font color="#336699">------------------------------------</font>
-
-==Life Cycle==
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
-
-*Quick Reference:*
-
-Life history of a living organism: The course of developmental changes in an organism from fertilized zygote to maturity or stages through which an organism passes.
-
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-
-<font color="#336699">------------------------------------</font>
-
-==Reproduction==
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+     ==Life Form== 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
 
-*Quick Reference:*
+     <b>Quick Reference:</b>
 
-Data about reproduction of the species in wildlife or in captivity. 
+     General appearance. Characteristic mode of growth or occurrence associated to its environment, particularly for plants.  Comprising its size, shape, texture and orientation. Example:  tree, shrubs, herbs.
 
-*Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass 
 
 
-<font color="#336699">------------------------------------</font>
+     ==Life Cycle==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
+     <b>Quick Reference:</b>
+
+     Life history of a living organism: The course of developmental changes in an organism from fertilized zygote to maturity or stages through which an organism passes.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+
+
+     ==Reproduction==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
+
+     <b>Quick Reference:</b>
+
+     Data about reproduction of the species in wildlife or in captivity. 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+
  
 ==Annual Cycle==
 
