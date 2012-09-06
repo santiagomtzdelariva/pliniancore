@@ -1,4 +1,6 @@
 #labels Class,NaturalHistory
+||<img src="http://img688.imageshack.us/img688/4200/naturalhistoryclass.jpg" width="26" height="24"/>||
+
 <h2>*Legend:*</h2>
 
 ||Image||Description||
