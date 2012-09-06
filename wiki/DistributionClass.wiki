@@ -16,10 +16,6 @@
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
 
-
-
-
-
 <h2>*Distribution Class:*</h2>
 
 <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
@@ -38,33 +34,33 @@ List of regions structured and categorized the degree of safety.
    ===Catalogue===
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-   Quick Reference:
+   *Quick Reference:*
 
    Catalogue where the Geographic Entity is documented.
 
-   Class: http://code.google.com/p/pliniancore/wiki/NormalString
+   *Class:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 
    ===Geographic Entity===
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-   Quick Reference:
+   *Quick Reference:*
 
    Name of the geographic entity.
 
-   Class: http://code.google.com/p/pliniancore/wiki/NormalString
+   *Class:* http://code.google.com/p/pliniancore/wiki/NormalString
 
 
    ===References===
    
    <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
-   Quick Reference:http://www.tdwg.org/uploads/media/v101.xsd 
+   *Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd 
 
    Bibliographic and multimedia reference IDs.
 
-   Class: tcs:referenceType
+   *Class:*: tcs:referenceType
 
 
 ==Distribution Area==
