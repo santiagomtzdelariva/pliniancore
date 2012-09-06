@@ -1,7 +1,13 @@
 #labels Class
-*Quick Reference:*
+
 
 <wiki:toc />
+
+http://img831.imageshack.us/img831/5189/legislationclass.jpg
+
+<h2>*Legislation Class:*</h2>
+
+*Quick Reference:*
 
 
 ==Legislation Name==
@@ -19,13 +25,13 @@ Class: http://code.google.com/p/pliniancore/wiki/NormalString.
 
 Description of the status.
 
-Class: http://code.google.com/p/pliniancore/wiki/NormalString.
+*Class:* http://code.google.com/p/pliniancore/wiki/NormalString.
 
 
 ==References==
 
-*Quick Reference:*
+*Quick Reference:* http://www.tdwg.org/schemas/tcs/1.01
 
 Bibliographic and multimedia reference IDs.
 
-Class: tcs:Reference Type
+*Class:* tcs:Reference Type
