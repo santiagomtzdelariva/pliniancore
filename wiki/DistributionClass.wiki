@@ -22,16 +22,21 @@
 
 <h2>*Distribution Class:*</h2>
 
+<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+
 *Quick Reference:*
 
 
 ==Atomized Distribution==
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 *Quick Reference:*
 
 List of regions structured and categorized the degree of safety.
 
    ===Catalogue===
+   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
    Quick Reference:
 
@@ -42,6 +47,8 @@ List of regions structured and categorized the degree of safety.
 
    ===Geographic Entity===
 
+   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
    Quick Reference:
 
    Name of the geographic entity.
@@ -50,15 +57,19 @@ List of regions structured and categorized the degree of safety.
 
 
    ===References===
+   
+   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
-   Quick Reference:
+   Quick Reference:http://www.tdwg.org/uploads/media/v101.xsd 
 
    Bibliographic and multimedia reference IDs.
 
-   Class: http://www.tdwg.org/uploads/media/v101.xsd (tcs:referenceType)
+   Class: tcs:referenceType
 
 
 ==Distribution Area==
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
 *Quick Reference:*
 
