@@ -17,7 +17,7 @@
 
 <wiki:toc />
 
-<p>
+
 
 =Natural Data=
 
@@ -82,10 +82,10 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-
+<pre>
           ===Structured===
 
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/></pre>
 
                ====Thropic Strategy <font color="#FF0000">(New)</font>====
 
@@ -254,7 +254,7 @@
 
      Miscellaneus: notes attached to the taxon natural history information.
 
-     *Class:* http://code.google.com/p/pliniancore/wiki/MiscDetailClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MiscDetailClass
 
 
 
@@ -265,5 +265,3 @@
 <b>Quick Reference:</b> 
 
 <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-</p>
