@@ -248,7 +248,7 @@
      <b>Quick Reference:</b>
 
      Information about migrations. (Placeholder)
-          <b>Class:</b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+       <b>Class:</b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
      ==Ecological Significance==
 
