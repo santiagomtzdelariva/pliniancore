@@ -82,40 +82,46 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-<pre>
+<blockquote>
           ===Structured===
 
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/></pre>
-
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/></blockquote>
+<blockquote><blockquote>
                ====Thropic Strategy <font color="#FF0000">(New)</font>====
 
                <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
                <b>Quick Reference:</b>
-
+</blockquote></blockquote>
+<blockquote><blockquote>
                ====Thropic Strategy Qualifier <font color="#FF0000">(New)</font>====
 
                <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
                <b>Quick Reference:</b>
+</blockquote></blockquote>
 
+<blockquote>
           ===un-Structured===
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
-
+</blockquote>
+<blockquote><blockquote>
                ====un-structuredDescription====
 
                <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
                <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
+</blockquote></blockquote>
+<blockquote><blockquote>
                ====Reference====
 
  
                <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>  <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg" width="26" height="24"/> 
 
                <b>Quick Reference:</b> (tcs: referenceType)
-
+</blockquote></blockquote>
+<blockquote>
 
      ==Dispersal <font color="#FF0000">(New)</font>==
 
@@ -124,8 +130,8 @@
      <b>Quick Reference:</b>
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-
-
+</blockquote>
+<blockquote>
      ==Behavior==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
@@ -135,7 +141,8 @@
      Responses, reactions or movements made by an organism in a particular situation.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-
+</blockquote>
+<blockquote>
 
      ==Interactions==
 
@@ -144,7 +151,8 @@
      <b>Quick Reference:</b>
 
      Mutual or reciprocal actions or influences.  For example, predation, parasitism, mutualism, etc.  Relations with products grown and stored by man (plagues) are also included.
-
+</blockquote>
+<blockquote><blockquote>
 
           ===Text Interactions===
 
@@ -155,7 +163,8 @@
           List of interactions.
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-
+</blockquote></blockquote>
+<blockquote><blockquote>
 
           ===Interaction===
 
@@ -164,7 +173,8 @@
           <b>Quick Reference:</b>
 
           Interactions in structured format.
-
+</blockquote></blockquote>
+<blockquote><blockquote><blockquote>
 
                ====Interaction Type====
 
@@ -175,6 +185,8 @@
                String with the type of interaction.
 
                <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+</blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote>
 
                ====Interaction Species====
 
@@ -183,7 +195,8 @@
                <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/ResourceRelationship
 
                The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events).
-
+</blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote>
 
                ====Interaction Comments====
 
@@ -194,7 +207,8 @@
                Notes about the interactions.
 
                <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
+</blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote>
                ====References====
 
                <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
@@ -205,7 +219,8 @@
 
                <b>Class:</b> tcs:Reference Type
 
-
+</blockquote></blockquote></blockquote>
+<blockquote>
 
 
      ==Chromosomic Number N==
@@ -215,7 +230,7 @@
      <b>Quick Reference:</b>
 
      Chromosomic Number. (Placeholder )
-
+</blockquote>
 
      ==Molecular Data==
 
