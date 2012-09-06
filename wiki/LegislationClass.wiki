@@ -20,19 +20,25 @@
 
 <h2>*Legislation Class:*</h2>
 
+<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+
 *Quick Reference:*
 
 
 ==Legislation Name==
 
+<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
 *Quick Reference:*
 
 Word or phrase to designate the law or group of laws.
 
-Class: http://code.google.com/p/pliniancore/wiki/NormalString.
+*Class:* http://code.google.com/p/pliniancore/wiki/NormalString.
 
 
 ==Protection Legal Status==
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
 
 *Quick Reference:*
 
@@ -42,6 +48,8 @@ Description of the status.
 
 
 ==References==
+
+<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
 *Quick Reference:* http://www.tdwg.org/schemas/tcs/1.01
 
