@@ -1,7 +1,13 @@
 #labels Class
-*Quick Reference:*
 
 <wiki:toc />
+
+
+http://img850.imageshack.us/img850/5319/distributionclass.jpg
+
+<h2>*Distribution Class:*</h2>
+
+*Quick Reference:*
 
 
 ==Atomized Distribution==
