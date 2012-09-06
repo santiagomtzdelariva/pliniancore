@@ -17,7 +17,7 @@
 
 <wiki:toc />
 
-
+<p>
 
 =Natural Data=
 
@@ -264,5 +264,6 @@
 
 <b>Quick Reference:</b> 
 
-<b>Class: http://code.google.com/p/pliniancore/wiki/NormalString
-<b>
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+</p>
