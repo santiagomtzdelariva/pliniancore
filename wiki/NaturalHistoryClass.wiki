@@ -148,20 +148,20 @@
 
           ===Text Interactions===
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
 
-          <b>Quick Reference:<b>
+          <b>Quick Reference:</b>
 
           List of interactions.
 
-          <b>Class:<b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
           ===Interaction===
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
-          <b>Quick Reference:<b>
+          <b>Quick Reference:</b>
 
           Interactions in structured format.
 
@@ -189,11 +189,11 @@
 
                <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
-               <b>Quick Reference:<b>
+               <b>Quick Reference:</b>
 
                Notes about the interactions.
 
-               <b>Class:<b> http://code.google.com/p/pliniancore/wiki/NormalString
+               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
                ====References====
 
@@ -233,7 +233,7 @@
      <b>Quick Reference:</b>
 
      Information about migrations. (Placeholder)
-     <b>Class:<b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     <b>Class:</b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
 
@@ -250,11 +250,11 @@
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-<b>Quick Reference:</b>
+     <b>Quick Reference:</b>
 
-Miscellaneus: notes attached to the taxon natural history information.
+     Miscellaneus: notes attached to the taxon natural history information.
 
-*Class:* http://code.google.com/p/pliniancore/wiki/MiscDetailClass
+     *Class:* http://code.google.com/p/pliniancore/wiki/MiscDetailClass
 
 
 
