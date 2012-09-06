@@ -115,6 +115,8 @@ Information about the status of the taxon.
 
    ===References===
 
+   <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
    <b>Quick Reference:</b>
 
    Bibliographic and multimedia reference IDs.
@@ -124,12 +126,16 @@ Information about the status of the taxon.
 
 ==Legislation==
 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+
 <b>Quick Reference:</b>
 
 A national proposed  law or group of laws. A regional proposed  law or group of laws.
 
 
    ===Legislation Text===
+
+   <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
    <b>Quick Reference:</b>
 
@@ -138,6 +144,8 @@ A national proposed  law or group of laws. A regional proposed  law or group of 
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
    ===Legislation===
+
+   <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
    <b>Quick Reference:</b>
 
