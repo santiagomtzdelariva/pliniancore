@@ -1,7 +1,8 @@
 #labels Class,DemographyAndConservation
+<h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<h2>*Graphic and Legend:*</h2>
+<table ><tr><td><img src="http://img100.imageshack.us/img100/4200/naturalhistoryclass.jpg" width="933" height="735"/></td></tr>
 
 
 
@@ -13,6 +14,9 @@
 ||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
 ||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+
+
+<h2>*Demography And Conservation Class:*</h2>
 
 *Quick Reference:*
 
