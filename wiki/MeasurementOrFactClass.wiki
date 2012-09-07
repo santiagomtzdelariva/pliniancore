@@ -18,10 +18,14 @@
 
 <h2>*Measurement Or Fact Class:*</h2>
 
+<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+
 *Quick Reference:*
 
 
      ==measurementOrFact==
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
      <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/MeasurementOrFact
 
@@ -29,6 +33,9 @@
      The category of information pertaining to measurements, facts,  characteristics, or assertions about a resource (instance of data record, such as Occurrence, Taxon, Location, Event).
 
      ==relatedTo==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+     
      <b>Quick Reference:</b>
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
