@@ -35,4 +35,6 @@
 
      <b>Quick Reference:</b> http://www.tdwg.org/uploads/media/v101.xsd 
 
+     Bibliographic and multimedia reference IDs.
+
      <b>Class:</b> tcs: reference Type
