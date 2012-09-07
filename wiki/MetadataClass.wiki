@@ -25,9 +25,9 @@
 
      <b>Quick Reference:</b>
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
      Information about the data set provenance.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      =Data Set ID=
 
