@@ -1,21 +1,45 @@
 #labels Class,DescriptionItem
-http://img145.imageshack.us/img145/378/descriptionitemclass.jpg
-
-*Quick Reference:*
-
+<h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-==Item Attribute==
+<table ><tr><td><img src="http://img145.imageshack.us/img145/378/descriptionitemclass.jpg" width="533" height="465"/></td></tr>
 
-*Quick Reference:*
+||Image||Description||
+||<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+
+<h1><b>Description Item Class</b></h1>
+
+<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 
-==Item Value==
+     =Item Attribute=
 
-*Quick Reference:*
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-==References==
+     <b>Quick Reference:</b>
 
-*Quick Reference:*
+     <b>Class:</b>
 
-In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication. 
+     =Item Value=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b>
+
+     <b>Class:</b>
+
+     =References=
+
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication.
+
+     <b>Class:</b> tcs: Reference Type
