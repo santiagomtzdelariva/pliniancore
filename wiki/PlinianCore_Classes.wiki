@@ -1,4 +1,4 @@
-     ==<font color="" >Complex Types:</font>==
+     ==Complex Types:==
      * [CommonNameClass CommonName Class]
      * [MetadataClass Metadata Class]
      * [DocumentationClass Documentation Class]
@@ -16,6 +16,6 @@
      * [MeasurementOrFactClass MeasurmentOrFact Class]
      * [ResourceRelationshipClass ResourceRelationship Class]
      * [AncilliaryDataClass AnciliaryData Class]
-     ==<font color="" >Simplex Types:</font>==
+     ==Simplex Types:==
      * [NormalString NormalString]
      * [NormalDate NormalDate]
