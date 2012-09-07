@@ -1,4 +1,4 @@
-#labels Class,DistributionClass
+#labels Class,Distribution
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
