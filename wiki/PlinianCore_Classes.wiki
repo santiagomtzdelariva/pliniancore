@@ -1,5 +1,5 @@
- =PlinianCore_Classes Plinian Core Classes=
-     Complex Types:
+ =Plinian Core Classes=
+     ==<font color="" >Complex Types:</font>==
      * [CommonNameClass CommonName Class]
      * [MetadataClass Metadata Class]
      * [DocumentationClass Documentation Class]
@@ -17,6 +17,6 @@
      * [MeasurementOrFactClass MeasurmentOrFact Class]
      * [ResourceRelationshipClass ResourceRelationship Class]
      * [AncilliaryDataClass AnciliaryData Class]
-     Simplex Types:
+     ==<font color="" >Simplex Types:</font>==
      * [NormalString NormalString]
      * [NormalDate NormalDate]
