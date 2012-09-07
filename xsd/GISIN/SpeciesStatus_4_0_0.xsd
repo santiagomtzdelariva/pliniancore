@@ -4,7 +4,7 @@
  <xs:annotation> 
   <xs:documentation>This schema defines the schema for the GISIN protocol.</xs:documentation> 
  </xs:annotation> 
- <xs:element name='origin' type='xs:string'  use='required'  > 
+ <xs:element name='origin'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='Exotic'/> 
@@ -13,7 +13,7 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='presence' type='xs:string'  use='required'  > 
+ <xs:element name='presence'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='Absent'/> 
@@ -24,7 +24,7 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='persistence' type='xs:string'  > 
+ <xs:element name='persistence'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='DiedOut'/> 
@@ -35,7 +35,7 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='distribution' type='xs:string'  > 
+ <xs:element name='distribution'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='Localized'/> 
@@ -45,7 +45,7 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='harmful' type='xs:string'  use='required'  > 
+ <xs:element name='harmful'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='No'/> 
@@ -58,7 +58,7 @@
  <xs:element name='modified' type='xs:date' />
  <xs:element name='startValidDate' type='xs:date' />
  <xs:element name='endValidDate' type='xs:date' />
- <xs:element name='kingdom' type='xs:string'  use='required'  > 
+ <xs:element name='kingdom' > 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='Animalia'/> 
@@ -71,8 +71,8 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='scientificName' type='xs:string'  use='required' />
- <xs:element name='countryCode' type='xs:string'  > 
+ <xs:element name='scientificName' type='xs:string' />
+ <xs:element name='countryCode'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='AF'/> 
@@ -328,7 +328,7 @@
  <xs:element name='stateProvince' type='xs:string' />
  <xs:element name='county' type='xs:string' />
  <xs:element name='localityName' type='xs:string' />
- <xs:element name='language' type='xs:string'  > 
+ <xs:element name='language'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='aa'/> 
@@ -542,7 +542,7 @@
   </xs:simpleType> 
  </xs:element> 
  <xs:element name='citation' type='xs:string' />
- <xs:element name='abundance' type='xs:string'  > 
+ <xs:element name='abundance'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='Common'/> 
@@ -554,7 +554,7 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='trend' type='xs:string'  > 
+ <xs:element name='trend'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='Declining'/> 
@@ -564,7 +564,7 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='rateOfSpread' type='xs:string'  > 
+ <xs:element name='rateOfSpread' > 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='Moderate'/> 
@@ -574,7 +574,7 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='regulatoryListing' type='xs:string'  > 
+ <xs:element name='regulatoryListing'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='NotConsidered'/> 
@@ -586,7 +586,7 @@
  </xs:element> 
  <xs:element name='memo' type='xs:string' />
  <xs:element name='publicationDate' type='xs:date' />
- <xs:element name='localityType' type='xs:string'  > 
+ <xs:element name='localityType'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='County'/> 
@@ -597,7 +597,7 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='locationStandard' type='xs:string'  > 
+ <xs:element name='locationStandard'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='AR_PostalCode'/> 
@@ -609,7 +609,7 @@
  <xs:element name='locationValue' type='xs:string' />
  <xs:element name='globalUniqueIdentifier' type='xs:string' />
  <xs:element name='URL' type='xs:string' />
- <xs:element name='publicationDatePrecision' type='xs:string'  > 
+ <xs:element name='publicationDatePrecision'> 
   <xs:simpleType> 
   <xs:restriction base='xs:string'> 
    <xs:enumeration value='Day'/> 
@@ -619,5 +619,15 @@
   </xs:restriction> 
   </xs:simpleType> 
  </xs:element> 
- <xs:element name='validDatePrecision' type='xs:string' />
+ <xs:element name='validDatePrecision' > 
+  <xs:simpleType> 
+  <xs:restriction base='xs:string'> 
+   <xs:enumeration value='Day'/> 
+   <xs:enumeration value='Month'/> 
+   <xs:enumeration value='Unknown'/> 
+   <xs:enumeration value='Year'/> 
+  </xs:restriction> 
+  </xs:simpleType> 
+ </xs:element> 
 </xs:schema>
+
