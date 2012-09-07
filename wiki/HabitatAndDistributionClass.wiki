@@ -32,6 +32,13 @@
 
      General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
 
+          ===un-Structured Habitat===
+
+          ===Structured Habitat===
+
+               ====Vocabulary Used====
+
+               ====Habitat Type
 
      ==Distribution==
 
