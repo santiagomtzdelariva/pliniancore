@@ -1,4 +1,3 @@
- =Plinian Core Classes=
      ==<font color="" >Complex Types:</font>==
      * [CommonNameClass CommonName Class]
      * [MetadataClass Metadata Class]
