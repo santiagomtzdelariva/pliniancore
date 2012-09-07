@@ -16,7 +16,7 @@
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
 
-<h2>*Measurement Or Fact:*</h2>
+<h2>*Measurement Or Fact Class:*</h2>
 
 *Quick Reference:*
 
@@ -29,5 +29,7 @@
 The category of information pertaining to measurements, facts, characteristics, or assertions about a resource (instance of data record, such as Occurrence, Taxon, Location, Event).
 
 ==relatedTo==
+
+*Quick Reference:*
 
 *Class:* http://code.google.com/p/pliniancore/wiki/NormalString
