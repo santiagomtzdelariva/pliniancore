@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<table ><tr><td><img src="http://img145.imageshack.us/img145/378/descriptionitemclass.jpg" width="533" height="465"/></td></tr>
+<table ><tr><td><img src="http://img145.imageshack.us/img145/378/descriptionitemclass.jpg" width="330" height="120"/></td></tr>
 
 ||Image||Description||
 ||<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>||Complex Type||
