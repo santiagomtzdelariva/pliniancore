@@ -138,7 +138,7 @@
 
                Bibliographic and multimedia reference IDs.
                
-               <b>Class:</b> tcs:ReferenceType
+               <b>Class:</b> tcs:Reference Type
 </blockquote></blockquote></blockquote>
 <blockquote><blockquote>
           ===Edemism Text===
