@@ -1,4 +1,4 @@
-#labels Class,DocumentationClass
+#labels Class,Documentation
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
