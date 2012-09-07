@@ -21,74 +21,100 @@
 <blockquote>
      =Common Name=
 
-     <b>Quick Reference:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
 
      Structure information.
 
-     <b>Class:</b>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote>
 <blockquote><blockquote>
 
           ==Name==
 
+          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
           <b>Quick Reference:</b>
 
-          <b>Class:</b>
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
 <blockquote><blockquote>
           ==Language==
+
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
           <b>Quick Reference:</b>
 
           Language used to write the species information, ISO 639-2 according to GBIF Metadata Profile, Reference Guide http://links.gbif.org/gbif_metadata_profile_guide_en_v1.
 
-          <b>Class:</b>
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
 <blockquote><blockquote><blockquote>
 
                ===ISO639===
 
+               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
                <b>Quick Reference:</b>
 
-               <b>Class:</b>
+               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote></blockquote>
 <blockquote><blockquote><blockquote>
                ===Language Name===
 
-              <b>Quick Reference:</b>http://code.google.com/p/pliniancore/wiki/NormalString
+               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+              <b>Quick Reference:</b>
+
+               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
 </blockquote></blockquote></blockquote>
 <blockquote><blockquote>
 
      ==Used In==
 
-    <b>Quick Reference:</b> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
 
      Location where de common name is used.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass
 </blockquote></blockquote>
 <blockquote><blockquote>
+
      ==Used By==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>    
 
      <b>Quick Reference:</b> 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
 <blockquote><blockquote>
+
      ==References==
 
-     <b>Quick Reference:</b>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
 
      In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication.
 
      <b>Class:</b> tcs: Reference Type 
+
 </blockquote></blockquote>
 
 =Common Names Text=
 
-<b>Quick Reference:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-<b>Class:</b>
+<b>Quick Reference:</b>  
+
+Unstructured information.
+
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
           
 
         
