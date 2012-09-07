@@ -1,17 +1,38 @@
 #labels Class,Metadata
+<h2>*Schema and Legend:*</h2>
+<wiki:toc />
 
-http://img266.imageshack.us/img266/6310/metadataclass.jpg
+<table ><tr><td><img src="http://img266.imageshack.us/img266/6310/metadataclass.jpg" width="363" height="938"/></td></tr>
+
+||Image||Description||
+||<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+
+<h1><b>Metadata Class</b></h1>
 
 *Quick Reference:* http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_ContentMetadata_Link030627E8
 
-<wiki:toc />
+<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
-==Source==
+     =Source=
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>     
 
-Information about the data set provenance.
+     <b>Quick Reference:</b>
 
-==Data Set ID==
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+     Information about the data set provenance.
+
+     =Data Set ID=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
