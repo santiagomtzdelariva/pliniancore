@@ -3,10 +3,10 @@
 
 <wiki:toc />
 
-==Ancilliary Data==
+=Ancilliary Data=
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
 
-==Un-structuredDescription==
+=Un-structuredDescription=
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
