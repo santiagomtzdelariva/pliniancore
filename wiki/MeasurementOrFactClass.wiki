@@ -23,13 +23,12 @@
 
      ==measurementOrFact==
 
-     *Quick Reference:* http://rs.tdwg.org/dwc/terms/MeasurementOrFact
+     <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/MeasurementOrFact
 
 
      The category of information pertaining to measurements, facts,  characteristics, or assertions about a resource (instance of data record, such as Occurrence, Taxon, Location, Event).
 
      ==relatedTo==
+     <b>Quick Reference:</b>
 
-     *Quick Reference:*
-
-     *Class:* http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
