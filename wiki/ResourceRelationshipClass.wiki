@@ -1,9 +1,9 @@
-#labels Class
+#labels Class,ResourceRelationshipClass
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://img545.imageshack.us/img545/1328/measurementorfact.jpg" width="403" height="222"/></td></tr>
+<table ><tr><td><img src="http://img24.imageshack.us/img24/2778/resourcerelationship.jpg" width="703" height="222"/></td></tr>
 
 
 ||Image||Description||
