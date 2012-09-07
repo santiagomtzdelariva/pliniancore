@@ -1,4 +1,6 @@
 #labels Class,DescriptionItem
+http://img145.imageshack.us/img145/378/descriptionitemclass.jpg
+
 *Quick Reference:*
 
 <wiki:toc />
