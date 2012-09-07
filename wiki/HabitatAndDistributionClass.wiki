@@ -16,8 +16,6 @@
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
 
-
-
 <h2>*Habitat and Distribution Class:*</h2>
 
 <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>  
@@ -28,41 +26,96 @@
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-     *Quick Reference:*
+     <b>Quick Reference:</b>
 
      General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
 
+     <b>Class:</b>
+
           ===un-Structured Habitat===
+
+          <b>Quick Reference:</b>
+
+
+
+
+          <b>Class:</b>
 
           ===Structured Habitat===
 
+          <b>Quick Reference:</b>
+
+
+
+          <b>Class:</b>
+
                ====Vocabulary Used====
+
+               <b>Quick Reference:</b>
+
+
+ 
+               <b>Class:</b>
 
                ====Habitat Type====
 
+               <b>Quick Reference:</b>
+
+
+
+               <b>Class:</b>
+
      ==Distribution==
 
-     *Quick Reference:*
+     <b>Quick Reference:</b>
 
      Comment about the distribution of the species based on information from the collection sites of the studied specimens.
 
-     Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass.
 
 
      ==Endemicity==
 
-     *Quick Reference:*
+     <b>Quick Reference:</b>
 
      Endemism describes species that are native to a particular geographic area or continent. Endemism usually occurs in areas that are isolated in some way. 
 
-     Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass.
 
           ===Atomized Atomized Endemsm===
 
+          <b>Quick Reference:</b>
+
+
+          <b>Class:</b>
+
                ====Edemic For====
+
+               <b>Quick Reference:</b>
+
+               
+               <b>Class:</b>
 
                ====Endemic In====
 
+               <b>Quick Reference:</b>
+
+
+
+               <b>Class:</b>
+
                ====References====
 
+               <b>Quick Reference:</b>
+
+
+               
+               <b>Class:</b>
+
           ===Edemism Text===
+
+          <b>Quick Reference:</b>
+
+
+
+          <b>Class:</b>
