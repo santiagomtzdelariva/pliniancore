@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<table ><tr><td><img src="http://img339.imageshack.us/img339/7366/demograpichandconservat.jpg" width="641" height="528"/></td></tr>
+<table ><tr><td><img src="http://img805.imageshack.us/img805/7366/demograpichandconservat.jpg" width="641" height="528"/></td></tr>
 
 
 
