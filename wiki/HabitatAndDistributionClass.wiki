@@ -30,9 +30,11 @@
 
      General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
 
-     <b>Class:</b>
+
 <blockquote>
           ===un-Structured Habitat===
+
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
           <b>Quick Reference:</b>
 
@@ -44,8 +46,9 @@
 
           ===Structured Habitat===
 
-          <b>Quick Reference:</b>
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>  
 
+          <b>Quick Reference:</b>
 
 
           <b>Class:</b>
@@ -55,7 +58,7 @@
 
                ====Vocabulary Used====
 
-               <b>Quick Reference:</b>
+               <b>Quick Reference:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
  
@@ -69,10 +72,12 @@
 
 
 
-               <b>Class:</b>
+               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
 <blockquote>
      ==Distribution==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>     
 
      <b>Quick Reference:</b>
 
@@ -83,6 +88,8 @@
 <blockquote>
      ==Endemicity==
 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+
      <b>Quick Reference:</b>
 
      Endemism describes species that are native to a particular geographic area or continent. Endemism usually occurs in areas that are isolated in some way. 
@@ -91,6 +98,8 @@
 </blockquote>
 <blockquote><blockquote>
           ===Atomized Atomized Endemsm===
+
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
           <b>Quick Reference:</b>
 
@@ -101,6 +110,8 @@
 <blockquote><blockquote><blockquote>
                ====Edemic For====
 
+               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
                <b>Quick Reference:</b>
 
                Description of the distribution of the species.
@@ -109,6 +120,8 @@
 </blockquote></blockquote></blockquote>
 <blockquote><blockquote><blockquote>
                ====Endemic In====
+
+               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
                <b>Quick Reference:</b>
 
@@ -119,6 +132,8 @@
 <blockquote><blockquote><blockquote>
                ====References====
 
+               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
                <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
 
                Bibliographic and multimedia reference IDs.
@@ -127,6 +142,8 @@
 </blockquote></blockquote></blockquote>
 <blockquote><blockquote>
           ===Edemism Text===
+
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
           <b>Quick Reference:</b>
 
