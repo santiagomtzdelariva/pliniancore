@@ -42,7 +42,7 @@
           <b>Class:</b>
 
 </blockquote>
-<blockquote><blockquote>
+<blockquote>
 
           ===Structured Habitat===
 
@@ -52,7 +52,7 @@
 
           <b>Class:</b>
 
-</blockquote></blockquote>
+</blockquote>
 <blockquote><blockquote><blockquote>
 
                ====Vocabulary Used====
