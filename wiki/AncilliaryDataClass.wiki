@@ -1,4 +1,4 @@
-#labels Class,AncilliaryDataClass
+#labels Class,AncilliaryData
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
