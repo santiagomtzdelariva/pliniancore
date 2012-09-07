@@ -1,71 +1,64 @@
 #labels Class,Documentation
-*Quick Reference:*
-
+<h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-==ID==
+<table ><tr><td><img src="http://img266.imageshack.us/img266/6310/metadataclass.jpg" width="363" height="938"/></td></tr>
 
-*Quick Reference:* 
+||Image||Description||
+||<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
-==Annotation==
+<h1><b>Documentation Class</b></h1>
 
-*Quick Reference:* 
-
-On why this information item is here.
+<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 
-=Publication=
+     =ID=
 
-*Quick Reference:*
+     <b>Quick Reference:</b>
 
-This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace.
+     <b>Class:</b>
 
-||Dublin Terms||
-||dublin:contributor||
-||dublin:coverage||
-||dublin:creator||
-||dublin:date||
-||dublin:description||
-||dublin:format||
-||dublin:identifier||
-||dublin:language||
-||dublin:publisher||
-||dublin:relation||
-||dublin:rights||
-||dublin:source||
-||dublin:subject||
-||dublin:title||
-||dublin:type||
+     =Annotation=
+
+     <b>Quick Reference:</b> 
+
+     On why this information item is here.
+
+     <b>Class:</b>
+
+     =Publication=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> http://purl.org/dc/elements/1.1/
+
+     This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace.
+
+     <b>Class:</b>
 
 
      =Multimedia=
 
-     <b>Quick Reference:</b>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> http://purl.org/dc/elements/1.1/
 
      This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace.
 
-||Dublin Terms||
-||dublin:contributor||
-||dublin:coverage||
-||dublin:creator||
-||dublin:date||
-||dublin:description||
-||dublin:format||
-||dublin:identifier||
-||dublin:language||
-||dublin:publisher||
-||dublin:relation||
-||dublin:rights||
-||dublin:source||
-||dublin:subject||
-||dublin:title||
-||dublin:type||
-
+     <b>Class:</b>
 
      =Un-structured Documentation=
 
-     <b>Quick Reference:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
 
      Information that cant be documented in other site.
 
-     <b>Class:</b> 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
