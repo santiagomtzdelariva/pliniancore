@@ -57,12 +57,12 @@
 
      Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
 
-          ===Atomized AtomizedEndemsm===
+          ===Atomized Atomized Endemsm===
 
-               ====EdemicFor====
+               ====Edemic For====
 
-               ====EndemicIn====
+               ====Endemic In====
 
                ====References====
 
-          ===EdemismText===
+          ===Edemism Text===
