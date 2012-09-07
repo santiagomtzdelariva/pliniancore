@@ -1,17 +1,18 @@
-#labels Class
+#labels Class,MeasurementOrFact
+http://img545.imageshack.us/img545/1328/measurementorfact.jpg
+
+
+
 *Quick Reference:*
 
-<wiki:toc />
 
-=measurementOrFact=
+==measurementOrFact==
 
 *Quick Reference:* http://rs.tdwg.org/dwc/terms/MeasurementOrFact
 
 
 The category of information pertaining to measurements, facts, characteristics, or assertions about a resource (instance of data record, such as Occurrence, Taxon, Location, Event).
 
-=relatedTo=
+==relatedTo==
 
-Class: http://code.google.com/p/pliniancore/wiki/NormalString
-
-Optional.
+*Class:* http://code.google.com/p/pliniancore/wiki/NormalString
