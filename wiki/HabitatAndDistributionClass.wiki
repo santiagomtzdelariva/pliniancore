@@ -37,9 +37,7 @@
           <b>Quick Reference:</b>
 
 
-
-
-          <b>Class:</b>
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 </blockquote>
 <blockquote>
@@ -53,7 +51,7 @@
           <b>Class:</b>
 
 </blockquote>
-<blockquote><blockquote><blockquote>
+<blockquote><blockquote>
 
                ====Vocabulary Used====
 
@@ -62,8 +60,8 @@
 
  
                <b>Class:</b>
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote><blockquote>
+</blockquote></blockquote>
+<blockquote><blockquote>
 
                ====Habitat Type====
 
@@ -72,7 +70,7 @@
 
 
                <b>Class:</b>
-</blockquote></blockquote></blockquote>
+</blockquote></blockquote>
 <blockquote>
      ==Distribution==
 
@@ -96,6 +94,7 @@
 
           <b>Quick Reference:</b>
 
+          List of areas structured and categorized the degree of safety. 
 
           <b>Class:</b>
 </blockquote></blockquote>
@@ -104,33 +103,34 @@
 
                <b>Quick Reference:</b>
 
+               Description of the distribution of the species.
                
-               <b>Class:</b>
+               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote></blockquote>
 <blockquote><blockquote><blockquote>
                ====Endemic In====
 
                <b>Quick Reference:</b>
 
+               List of countries according to the ISO 3166 standard. Structured and categorized the degree of safety.
 
-
-               <b>Class:</b>
+               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote></blockquote>
 <blockquote><blockquote><blockquote>
                ====References====
 
-               <b>Quick Reference:</b>
+               <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
 
-
+               Bibliographic and multimedia reference IDs.
                
-               <b>Class:</b>
+               <b>Class:</b> tcs:ReferenceType
 </blockquote></blockquote></blockquote>
 <blockquote><blockquote>
           ===Edemism Text===
 
           <b>Quick Reference:</b>
 
+          List of areas presented in an unstructured and categorized the degree of safety.
 
-
-          <b>Class:</b>
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 </blockquote></blockquote>
