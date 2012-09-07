@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://img545.imageshack.us/img545/1328/measurementorfact.jpg" width="771" height="376"/></td></tr>
+<table ><tr><td><img src="http://img545.imageshack.us/img545/1328/measurementorfact.jpg" width="697" height="353"/></td></tr>
 
 
 ||Image||Description||
