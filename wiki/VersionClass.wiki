@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://img831.imageshack.us/img831/5189/legislationclass.jpg" width="343" height="167"/></td></tr>
+<table ><tr><td><img src="http://img849.imageshack.us/img849/8483/versionclass.jpg" width="296" height="236"/></td></tr>
 
 
 ||Image||Description||
@@ -29,48 +29,57 @@
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-     *Quick Reference:*
+     <b>Quick Reference:</b>
 
-     *Class:* xs:nonNegativeInteger.
+     <b>Class:</b> xs:nonNegativeInteger.
 
 
      ==Minor==
 
-     *Quick Reference:*
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b>
 
      An optional minor version number ('2' in 1.2)
 
-     *Class:* xs:nonNegativeInteger.
+     <b>Class:</b> xs:nonNegativeInteger.
 
 
      ==Modifier==
 
-     *Quick Reference:*
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b>
 
      Unconstrained text specifying status + optional number, e. g., 'beta', 'alpha', 'rc/release candidate', 'internal'. If missing, release status is assumed.
 
 
      ==Major==
 
-     *Quick Reference:*
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b>
 
      An optional minor version number ('2' in 1.2).
 
-     *Class:* xs:nonNegativeInteger.
+    <b>Class:</b> xs:nonNegativeInteger.
 
 
      ==Date Issued==
 
-     *Quick Reference:*
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b>
 
      Source for Dublin-Core standard element Date.Issued: Citable 'publication date' of the current version (comp. RevisionData/DateCreated and DateModified for version- independent dates). This date should be missing if the current version is not yet published!.
 
-    *Class:* xs:date.
+     <b>Class:</b> xs:date.
 
 
-    ==Preferred Flag==
+     ==Preferred Flag==
 
-    *Quick Reference:*
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-    TRUE to indicate currente version when providers serve more than one record per taxon.
+     <b>Quick Reference:</b>
 
+     TRUE to indicate currente version when providers serve more than one record per taxon.
