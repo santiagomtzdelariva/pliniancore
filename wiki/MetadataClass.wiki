@@ -1,4 +1,7 @@
 #labels Class,Metadata
+
+http://img266.imageshack.us/img266/6310/metadataclass.jpg
+
 *Quick Reference:* http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_ContentMetadata_Link030627E8
 
 <wiki:toc />
