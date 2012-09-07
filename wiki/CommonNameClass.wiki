@@ -21,7 +21,7 @@
 <blockquote>
      =Common Name=
 
-     *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Quick Reference:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      Structure information.
 
@@ -35,6 +35,7 @@
 
           <b>Class:</b>
 </blockquote></blockquote>
+<blockquote><blockquote>
           ==Language==
 
           *Quick Reference:*
@@ -42,17 +43,20 @@
           Language used to write the species information, ISO 639-2 according to GBIF Metadata Profile, Reference Guide http://links.gbif.org/gbif_metadata_profile_guide_en_v1.
 
           <b>Class:</b>
+</blockquote></blockquote>
+<blockquote><blockquote><blockquote>
+               ===ISO639===
 
-          ===ISO639===
+               <b>Quick Reference:</b>
 
-          <b>Quick Reference:</b>
+               <b>Class:</b>
+</blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote>
+               ===Language Name===
 
-          <b>Class:</b>
-
-          ===Language Name===
-
-          *Quick Reference:* *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
-
+              <b>Quick Reference:</b>http://code.google.com/p/pliniancore/wiki/NormalString
+</blockquote></blockquote></blockquote>
+<blockquote><blockquote>
      ==Used In==
 
     <b>Quick Reference:</b> 
@@ -60,13 +64,15 @@
      Location where de common name is used.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass
-
+</blockquote></blockquote>
+<blockquote><blockquote>
      ==Used By==
 
      <b>Quick Reference:</b> 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
+</blockquote></blockquote>
+<blockquote><blockquote>
      ==References==
 
      <b>Quick Reference:</b>
@@ -74,6 +80,7 @@
      In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication.
 
      <b>Class:</b> tcs: Reference Type 
+</blockquote></blockquote>
 
 =Common Names Text=
 
