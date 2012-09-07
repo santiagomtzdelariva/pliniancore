@@ -1,29 +1,51 @@
-#labels Class
-*Quick Reference:*
+#labels Class,HabitatAndDistributionClass
+<h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
 
+<table ><tr><td><img src="http://img41.imageshack.us/img41/1805/habitatanddistribution.jpg" width="771" height="376"/></td></tr>
 
-==Habitat==
+
+||Image||Description||
+||<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+
+
+
+
+<h2>*Habitat and Distribution Class:*</h2>
+
+<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>  
 
 *Quick Reference:*
 
-General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
+     ==Habitat==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+
+     *Quick Reference:*
+
+     General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
 
 
-==Distribution==
+     ==Distribution==
 
-*Quick Reference:*
+     *Quick Reference:*
 
-Comment about the distribution of the species based on information from the collection sites of the studied specimens.
+     Comment about the distribution of the species based on information from the collection sites of the studied specimens.
 
-Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
+     Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
 
 
-==Endemicity==
+     ==Endemicity==
 
-*Quick Reference:*
+     *Quick Reference:*
 
-Endemism describes species that are native to a particular geographic area or continent. Endemism usually occurs in areas that are isolated in some way. 
+     Endemism describes species that are native to a particular geographic area or continent. Endemism usually occurs in areas that are isolated in some way. 
 
-Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
+     Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
