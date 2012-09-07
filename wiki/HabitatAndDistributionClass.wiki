@@ -31,7 +31,7 @@
      General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
 
      <b>Class:</b>
-
+<blockquote>
           ===un-Structured Habitat===
 
           <b>Quick Reference:</b>
@@ -41,6 +41,9 @@
 
           <b>Class:</b>
 
+</blockquote>
+<blockquote><blockquote>
+
           ===Structured Habitat===
 
           <b>Quick Reference:</b>
@@ -49,6 +52,9 @@
 
           <b>Class:</b>
 
+</blockquote></blockquote>
+<blockquote><blockquote><blockquote>
+
                ====Vocabulary Used====
 
                <b>Quick Reference:</b>
@@ -56,6 +62,8 @@
 
  
                <b>Class:</b>
+</blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote>
 
                ====Habitat Type====
 
@@ -64,7 +72,8 @@
 
 
                <b>Class:</b>
-
+</blockquote></blockquote></blockquote>
+<blockquote>
      ==Distribution==
 
      <b>Quick Reference:</b>
@@ -72,8 +81,8 @@
      Comment about the distribution of the species based on information from the collection sites of the studied specimens.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass.
-
-
+</blockquote>
+<blockquote>
      ==Endemicity==
 
      <b>Quick Reference:</b>
@@ -81,21 +90,24 @@
      Endemism describes species that are native to a particular geographic area or continent. Endemism usually occurs in areas that are isolated in some way. 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass.
-
+</blockquote>
+<blockquote><blockquote>
           ===Atomized Atomized Endemsm===
 
           <b>Quick Reference:</b>
 
 
           <b>Class:</b>
-
+</blockquote></blockquote>
+<blockquote><blockquote><blockquote>
                ====Edemic For====
 
                <b>Quick Reference:</b>
 
                
                <b>Class:</b>
-
+</blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote>
                ====Endemic In====
 
                <b>Quick Reference:</b>
@@ -103,7 +115,8 @@
 
 
                <b>Class:</b>
-
+</blockquote></blockquote></blockquote>
+<blockquote><blockquote><blockquote>
                ====References====
 
                <b>Quick Reference:</b>
@@ -111,7 +124,8 @@
 
                
                <b>Class:</b>
-
+</blockquote></blockquote></blockquote>
+<blockquote><blockquote>
           ===Edemism Text===
 
           <b>Quick Reference:</b>
@@ -119,3 +133,4 @@
 
 
           <b>Class:</b>
+</blockquote></blockquote>
