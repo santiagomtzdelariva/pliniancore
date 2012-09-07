@@ -28,7 +28,7 @@
 
      <b>Quick Reference:</b>
 
-     <b>Class:</b> 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DescriptionItemClass
 
      =Details Text=
 
@@ -36,4 +36,4 @@
 
      <b>Quick Reference:</b>
 
-     <b>Class:</b> 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
