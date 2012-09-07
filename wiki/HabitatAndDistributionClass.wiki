@@ -38,7 +38,7 @@
 
                ====Vocabulary Used====
 
-               ====Habitat Type
+               ====Habitat Type====
 
      ==Distribution==
 
@@ -56,3 +56,13 @@
      Endemism describes species that are native to a particular geographic area or continent. Endemism usually occurs in areas that are isolated in some way. 
 
      Class: http://code.google.com/p/pliniancore/wiki/DistributionClass.
+
+          ===Atomized AtomizedEndemsm===
+
+               ====EdemicFor====
+
+               ====EndemicIn====
+
+               ====References====
+
+          ===EdemismText===
