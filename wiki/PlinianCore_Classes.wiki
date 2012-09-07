@@ -1,0 +1,22 @@
+ =PlinianCore_Classes Plinian Core Classes=
+     Complex Types:
+     * [CommonNameClass CommonName Class]
+     * [MetadataClass Metadata Class]
+     * [DocumentationClass Documentation Class]
+     * [DescriptionItemClass DescriptionItem Class]
+     * [TextDescriptionClass TextDescription Class]
+     * [TaxonomicalDescriptionClass TaxonomicalDescription Class]
+     * [NaturalHistoryClass NaturalHistory Class]
+     * [DemographyAndConservationClass DemographyAndConservation Class]
+     * [DistributionClass Distribution Class]
+     * [LegislationClass Legislation Class]
+     * [VersionClass Version Class]
+     * [HabitatAndDistributionClass HabitatAndDistribution Class]
+     * [MiscDetailClass MiscDetail Class]
+     * [UsesClass Uses Class]
+     * [MeasurementOrFactClass MeasurmentOrFact Class]
+     * [ResourceRelationshipClass ResourceRelationship Class]
+     * [AncilliaryDataClass AnciliaryData Class]
+     Simplex Types:
+     * [NormalString NormalString]
+     * [NormalDate NormalDate]
