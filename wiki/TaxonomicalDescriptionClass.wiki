@@ -38,6 +38,7 @@
 </blockquote>
 <blockquote><blockquote>
           ===Description Item===
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/> 
 
           <b>Quick Reference:</b> 
 
@@ -47,7 +48,7 @@
 </blockquote></blockquote>
 <blockquote><blockquote>
           ===Description Text===
-
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
           <b>Quick Reference:</b> 
 
@@ -57,7 +58,7 @@
 </blockquote></blockquote>
 <blockquote>
      ==Identification Keys==
-
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
      <b>Quick Reference:</b>
 
      Keys to identify infraranks.
@@ -67,6 +68,8 @@
 <blockquote><blockquote>
           ===Keys===
 
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
           <b>Quick Reference:</b> 
 
           Dichotomic or multientrance keys.
@@ -75,6 +78,8 @@
 </blockquote></blockquote>
 <blockquote><blockquote>
           ===Reference===
+
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
           <b>Quick Reference:</b> http://www.tdwg.org/uploads/media/v101.xsd 
 
