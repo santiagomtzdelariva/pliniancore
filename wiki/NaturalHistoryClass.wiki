@@ -120,9 +120,16 @@
  
                <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>  <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg" width="26" height="24"/> 
 
-               <b>Quick Reference:</b> (tcs: referenceType)
+               <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
+
+               In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication. 
+
+               <b>Class:</b>  tcs: reference Type
+
 </blockquote></blockquote>
 <blockquote>
+
+               
 
      ==Dispersal <font color="#FF0000">(New)</font>==
 
