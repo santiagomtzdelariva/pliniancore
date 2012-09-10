@@ -17,7 +17,7 @@
 
 <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-<blockquoute>
+<blockquote>
      ==Brief Description==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
@@ -27,16 +27,16 @@
      Brief description, presented in a simple technical language, to distinguish the species from other close or similar ones.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-</blockquoute>
-<blockquoute>
+</blockquote>
+<blockquote>
      ==Full Description==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> 
 
 
      Diagnostic description.
-</blockquoute>
-<blockquoute><blockquoute>
+</blockquote>
+<blockquote><blockquote>
           ===Description Item===
 
           <b>Quick Reference:</b> 
@@ -44,8 +44,8 @@
           Structure diagnostic characters.
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DescriptionItemClass
-</blockquoute></blockquoute>
-<blockquoute><blockquoute>
+</blockquote></blockquote>
+<blockquote><blockquote>
           ===Description Text===
 
 
@@ -54,8 +54,8 @@
           Unstructured diagnostic characters.
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-</blockquoute></blockquoute>
-<blockquoute>
+</blockquote></blockquote>
+<blockquote>
      ==Identification Keys==
 
      <b>Quick Reference:</b>
@@ -63,8 +63,8 @@
      Keys to identify infraranks.
 
      <b>Class:</b>
-</blockquoute>
-<blockquoute><blockquoute>
+</blockquote>
+<blockquote><blockquote>
           ===Keys===
 
           <b>Quick Reference:</b> 
@@ -72,8 +72,8 @@
           Dichotomic or multientrance keys.
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-</blockquoute></blockquoute>
-<blockquoute><blockquoute>
+</blockquote></blockquote>
+<blockquote><blockquote>
           ===Reference===
 
           <b>Quick Reference:</b> http://www.tdwg.org/uploads/media/v101.xsd 
@@ -81,4 +81,4 @@
           In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication.
 
           <b>Class:</b> tcs: referenceType
-</blockquoute></blockquoute>
+</blockquote></blockquote>
