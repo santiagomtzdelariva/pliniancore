@@ -60,4 +60,6 @@ Dichotomic or multientrance keys.
 
 ===Reference===
 
-*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd (tcs: referenceType)
+*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd 
+
+*Class:* tcs: referenceType
