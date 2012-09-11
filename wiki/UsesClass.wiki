@@ -21,3 +21,42 @@
 <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
 *Quick Reference:*
+
+
+     ==TypeOfUse==
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference</b>
+
+
+     <b>Class:</b>
+
+
+     ==Description==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference</b>
+
+
+     <b>Class:</b>
+
+
+     ==Region==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference</b>
+
+
+     <b>Class:</b>
+
+     ==References==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference</b>
+
+
+     <b>Class:</b>
