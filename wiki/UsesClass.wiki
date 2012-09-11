@@ -58,6 +58,6 @@
 
      <b>Quick Reference</b> http://www.tdwg.org/schemas/tcs/1.01
 
-
+     Bibliographic and multimedia reference IDs.
 
      <b>Class:</b> tcs: Reference Type
