@@ -12,7 +12,7 @@
 	<xs:import namespace="http://www.gisin.org/gisin/SpeciesStatus" schemaLocation="http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd"/>
 	<xs:import namespace="http://rs.tdwg.org/dwc/terms/" schemaLocation="http://darwincore.googlecode.com/svn/trunk/xsd/tdwg_dwc_extensions.xsd"/>
 	<xs:import namespace="eml://ecoinformatics.org/eml-2.1.1" schemaLocation="http://rs.gbif.org/schema/eml-gbif-profile/1.0.1/eml.xsd"/>
-	<xs:import namespace="http://www.eol.org/transfer/content/0.3" schemaLocation="eol_0_3.xsd"/>
+	<xs:import namespace="http://www.eol.org/transfer/content/0.3" schemaLocation="http://services.eol.org/schema/content_0_3.xsd"/>
 	<xs:element name="Dataset">
 		<xs:annotation>
 			<xs:documentation>Root element from which all other elements will branch from</xs:documentation>
@@ -34,7 +34,13 @@
 	<xs:element name="AnnualCycle">
 		<xs:complexType>
 			<xs:sequence>
-				<xs:element name="Unstructured-Info" type="NormalString"/>
+				<xs:choice>
+					<xs:sequence>
+						<xs:element name="Event"/>
+						<xs:element name="TimeInterval"/>
+					</xs:sequence>
+					<xs:element name="Unstructured-Info" type="NormalString"/>
+				</xs:choice>
 				<xs:element name="AncilliaryData" type="AncillaryDataType"/>
 			</xs:sequence>
 		</xs:complexType>
