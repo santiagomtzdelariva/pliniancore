@@ -815,6 +815,7 @@
 				</xs:annotation>
 			</xs:element>
 			<xs:element ref="dwc:higherClassification"/>
+			<xs:element name="AncilliaryData" type="AncillaryDataType"/>
 		</xs:sequence>
 	</xs:complexType>
 	<xs:complexType name="FolkloreType">
