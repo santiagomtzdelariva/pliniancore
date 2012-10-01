@@ -374,7 +374,7 @@
 		</xs:sequence>
 	</xs:complexType>
 	<xs:complexType name="CommonNamesType">
-		<xs:sequence>
+		<xs:sequence maxOccurs="unbounded">
 			<xs:choice>
 				<xs:element ref="CommonName" maxOccurs="unbounded">
 					<xs:annotation>
@@ -618,7 +618,7 @@
 		</xs:sequence>
 	</xs:complexType>
 	<xs:complexType name="FlatHierarchyType">
-		<xs:sequence>
+		<xs:sequence maxOccurs="unbounded">
 			<xs:element name="Empire" type="xs:string" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Empire name. </xs:documentation>
@@ -1344,7 +1344,7 @@
 		</xs:sequence>
 	</xs:complexType>
 	<xs:complexType name="SynonymsType">
-		<xs:sequence>
+		<xs:sequence maxOccurs="unbounded">
 			<xs:choice>
 				<xs:element ref="Synonym" maxOccurs="unbounded">
 					<xs:annotation>
@@ -1479,7 +1479,7 @@
 					<xs:documentation>Acc. TDWG Economic Botany. The name of the taxon should be distinguished from part5 names. Name may be restricted to a time of the year or occasion, or have sacred connotations</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="ProductionDetaiils" minOccurs="0">
+			<xs:element name="ProductionDetails" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Acc. TDWG Economic Botany</xs:documentation>
 				</xs:annotation>
