@@ -27,7 +27,6 @@
 
      Structure information.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote>
 <blockquote><blockquote>
 
