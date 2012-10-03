@@ -16,5 +16,11 @@
 
 *Quick Reference:*
 
-<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/><img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/><img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/><img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 <blockquote>
+
+   =Common Name=
+
+   =Unstructured-Info=
+
+   =AncillaryData=
