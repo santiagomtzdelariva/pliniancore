@@ -204,10 +204,7 @@
 			<xs:choice>
 				<xs:element name="Audience" maxOccurs="unbounded">
 					<xs:annotation>
-						<xs:documentation>Repetitive concept where the target audiences are written one by one. (Predetermined list:
-										01. Expert (High).
-										02. Knowledgeable (Medium).
-										03. General (Low).
+						<xs:documentation>Repetitive concept where the target audiences are written one by one. (Predetermined list:						01. Expert (High).							02. Knowledgeable (Medium).							03. General (Low).
 									</xs:documentation>
 					</xs:annotation>
 					<xs:simpleType>
@@ -520,9 +517,14 @@
 				<xs:choice maxOccurs="unbounded">
 					<xs:element name="Publication">
 						<xs:complexType>
-							<xs:sequence>
+							<xs:choice>
 								<xs:group ref="dcelem:elementsGroup"/>
-							</xs:sequence>
+								<xs:element name="References" type="tcs:ReferenceType" maxOccurs="unbounded">
+									<xs:annotation>
+										<xs:documentation>Bibliographic and multimedia reference IDs.</xs:documentation>
+									</xs:annotation>
+								</xs:element>
+							</xs:choice>
 						</xs:complexType>
 					</xs:element>
 					<xs:element ref="Binary"/>
@@ -583,7 +585,7 @@
 	<xs:complexType name="EnvironmentalType">
 		<xs:sequence>
 			<xs:choice>
-				<xs:sequence>
+				<xs:sequence maxOccurs="unbounded">
 					<xs:element name="Attribute">
 						<xs:annotation>
 							<xs:documentation>Makes reference to any data being measured (e.g. annual precipitation). </xs:documentation>
