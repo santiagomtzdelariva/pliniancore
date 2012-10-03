@@ -114,7 +114,7 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
           
-=AncillaryData=
+=Ancillary Data=
 
 
      <b>Quick Reference:</b>  
