@@ -5,7 +5,7 @@
 <table ><tr><td><img src="http://img145.imageshack.us/img145/378/descriptionitemclass.jpg" width="330" height="120"/></td></tr>
 
 ||Image||Description||
-||<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
 ||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
 ||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
 ||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
