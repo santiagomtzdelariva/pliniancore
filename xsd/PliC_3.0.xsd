@@ -620,7 +620,7 @@
 		</xs:sequence>
 	</xs:complexType>
 	<xs:complexType name="FlatHierarchyType">
-		<xs:sequence maxOccurs="unbounded">
+		<xs:sequence>
 			<xs:element name="Empire" type="xs:string" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Empire name. </xs:documentation>
@@ -966,7 +966,42 @@
 		<xs:sequence>
 			<xs:choice>
 				<xs:sequence>
-					<xs:element name="Diseases" type="NormalString"/>
+					<xs:element name="PopulationPlantationObjectives" type="NormalString"/>
+					<xs:element name="ManagementPlan">
+						<xs:complexType>
+							<xs:sequence>
+								<xs:element name="AdministrativeManagement" type="NormalString"/>
+								<xs:element name="TechnicalManagement" type="NormalString"/>
+								<xs:element name="PopulationPerformance" type="NormalString"/>
+								<xs:element name="ControlInformation">
+									<xs:complexType>
+										<xs:sequence>
+											<xs:element name="MonitoringProcedure" type="NormalString"/>
+											<xs:element name="UsedTools" type="NormalString"/>											
+										</xs:sequence>
+									</xs:complexType>
+								</xs:element>								
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+					<xs:element name="FinanceInformation">
+						<xs:complexType>
+							<xs:sequence>
+									<xs:element name="InitialInvestment" type="NormalString"/>
+									<xs:element name="MaintenanceCost" type="NormalString"/>
+									<xs:element name="Commercialization" type="NormalString"/>
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+					<xs:element name="PopulationPlantationThreats">
+						<xs:complexType>
+							<xs:sequence>
+									<xs:element name="Description" type="NormalString"/>
+									<xs:element name="Control" type="NormalString"/>																	
+							</xs:sequence>
+						</xs:complexType>
+					</xs:element>
+					<xs:element name="EnvironmentalImpact" type="NormalString"/>
 				</xs:sequence>
 				<xs:element name="Unstructured-Info" type="NormalString"/>
 			</xs:choice>
