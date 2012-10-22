@@ -39,6 +39,9 @@
      * [ResourceRelationshipClass ResourceRelationship Class]
      * [RevisionClass Revision Class]
      * [SynonymsClass Synonyms Class]
+<blockquote>
+          * [SynonymClass Synonym Class]
+</blockquote>
      * [TaxonomicalDescriptionClass TaxonomicalDescription Class]
      * [TerritoryClass Territory Class]
      * [TextDescriptionClass TextDescription Class]
