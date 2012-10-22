@@ -61,9 +61,11 @@
 =<h1>Common Names</h1>=
 
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/CommonNameClass
+*Quick Reference:* 
 
 A list of common names, in alphabetic order, optionally followed by language and region where it is used. For example, name1 (language, region), name2 (language, region). If language or region is omitted, it is assumed to be unknown.
+
+*Class:* http://code.google.com/p/pliniancore/wiki/CommonNamesClass
 
 =<h1>Flat Hierarchy</h1>=
 
