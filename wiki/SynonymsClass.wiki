@@ -2,7 +2,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://imageshack.us/a/img43/4084/synonymsclass.jpg" width="572" height="437"/></td></tr>
+<table ><tr><td><img src="http://imageshack.us/a/img43/4084/synonymsclass.jpg" width="412" height="180"/></td></tr>
 
 
 ||Image||Description||
@@ -25,9 +25,9 @@
 
      <b>Quick Reference:</b>
 
-     Structured information.
+     Structured information. Name for this taxon. This concept is a placeholder field. 
 
-     <b>Class:</b> SynonymClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/SynonymClass
 
      =Unstructured-Info=
 
@@ -37,4 +37,4 @@
 
      Unstructured information.
 
-     <b>Class:</b> NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
