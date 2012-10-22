@@ -2,7 +2,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://imageshack.us/a/img839/8419/recordmetadata.jpg" width="572" height="437"/></td></tr>
+<table ><tr><td><img src="http://imageshack.us/a/img43/4084/synonymsclass.jpg" width="572" height="437"/></td></tr>
 
 
 ||Image||Description||
@@ -17,23 +17,24 @@
 
 <h1>*Synonyms:*</h1>
 
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>  
 
-==Synonym==
+     =Synonym=
 
-*Quick Reference:*
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-Structured information.
+     <b>Quick Reference:</b>
 
-===Synonym Name===
+     Structured information.
 
-*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd (tcs:scientificName)
+     <b>Class:</b> SynonymClass
 
-===Synonym Status===
+     =Unstructured-Info=
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-===References===
+     <b>Quick Reference:</b>
 
+     Unstructured information.
 
-*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd
-(tcs:referenceType)
+     <b>Class:</b> NormalString
