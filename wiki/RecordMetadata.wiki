@@ -21,45 +21,49 @@
 <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>  
 
 
-==<h1>Language</h1>==
+     =<h1>Language</h1>=
 
-*Quick Reference:*
+     <b>Quick Reference:</b>
 
-Language used to write the species information, ISO 639-2 according to GBIF Metadata Profile, Reference Guide http://links.gbif.org/gbif_metadata_profile_guide_en_v1. 
+     Language used to write the species information, ISO 639-2 according to GBIF Metadata Profile, Reference Guide http://links.gbif.org/gbif_metadata_profile_guide_en_v1. 
 
 
-==<h1>Target Audiences</h1>==
+     =<h1>Target Audiences</h1>=
 
-*Quick Reference:*
+     <b>Quick Reference:</b>
 
-Users to which the information is addressed. The defined audiences are: Biodiversity researchers, teachers and students, decision makers, professionals from another areas and general public.
+     Users to which the information is addressed. The defined audiences are: Biodiversity researchers, teachers and students, decision makers, professionals from another areas and general public.
+<blockquote>
 
-===Audience===
+          ==Audience==
 
-*Quick Reference:*
+          <b>Quick Reference:</b>
 
-Repetitive concept where the target audiences are written one by one.
+          Repetitive concept where the target audiences are written one by one.
 
-The recommended controlled vocabulary list includes: 
+          The recommended controlled vocabulary list includes: 
 ||01. Expert (High).||
 ||02. Knowledgeable (Medium).||
 ||03. General (Low).||
+</blockquote>
+<blockquote>
 
-===Un-structuredAudiences===
+          ==Un-structuredAudiences==
 
-*Quick Reference:*
+          <b>Quick Reference:</b>
 
-List audience codes separated by means of comma or /.
+          List audience codes separated by means of comma or /.
+</blockquote>
 
-==<h1>Versions</h1>==
+     =<h1>Versions</h1>=
 
-*Quick Reference:*
+     <b>Quick Reference:</b>
 
-Number and date of the current version.
+     Number and date of the current version.
 
 
-==<h1>Revision Data</h1>==
+     =<h1>Revision </h1>=
 
-*Quick Reference:* http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_RevisionData_Link03067C20
+     <b>Quick Reference:</b> 
 
-Creators, revision status and dates of the entire data collection from which the current dataset is derived from  abcd: Revison Data
+     <b>Class:</b>
