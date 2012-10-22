@@ -1,35 +1,67 @@
-#labels Element
-*Quick Reference:*
+#labels Element,BaseElements
+<h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
 
+<table ><tr><td><img src="http://imageshack.us/a/img191/6457/baseelements.jpg" width="368" height="360"/></td></tr>
+
+
+||Image||Description||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+
+
+<h2>* BaseElements:*</h2>
+
+<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
+*Quick Reference:*
+
 Basic information to identify the record.
 
-==TaxonRecordID==
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+     =TaxonRecordID=
 
-A unique identifier inside the database, for the species record. 
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-==taxonConceptID==
+     <b>Quick Reference:</b> 
 
-*Quick Reference:*http://rs.tdwg.org/dwc/terms/taxonConceptID
+      A unique identifier inside the database, for the species record. 
 
-An identifier for the taxonomic concept to which the record refers - not for the nomenclatural details of a taxon.
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-Class: http://rs.tdwg.org/dwc/terms/Taxon
+     =taxonConceptID=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b>http://rs.tdwg.org/dwc/terms/taxonConceptID
+
+     An identifier for the taxonomic concept to which the record refers - not for the nomenclatural details of a taxon.
+
+     <b>Class:</b> http://rs.tdwg.org/dwc/terms/Taxon
 
 
-==globalUniqueIdentifier==
+     =globalUniqueIdentifier=
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-According to Darwin Core: An Uniform Resource Name (URN) used as an unique identifier of the taxon record.
+     <b>Quick Reference:</b> 
 
+     According to Darwin Core: An Uniform Resource Name (URN) used as an unique identifier of the taxon record.
 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-==Abstract==
+     =Abstract=
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-General description of the taxon. This concept could point out any information about the taxon.  Its main goal is summarize the most relevant  or attractive characteristics of this taxon to the general public.
+     <b>Quick Reference:</b>
+
+     General description of the taxon. This concept could point out any information about the taxon.  Its main goal is summarize the most relevant  or attractive characteristics of this taxon to the general public.
+
+     <b>Class:</b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
