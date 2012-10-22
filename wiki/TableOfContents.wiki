@@ -24,7 +24,7 @@
      * [EndemicClass Endemic Class]
      * [EnvironmentalClass Enviromental Class]
      * [FlatHierarchyClass FlatHierarchy Class]
-     * [FolkloreClass Floklore Class]
+     * [FolkloreClass Folklore Class]
      * [HabitatClass Habitat Class]
      * [HabitatAndDistributionClass HabitatAndDistribution Class]
      * [InteractionsClass Interactions Class]
