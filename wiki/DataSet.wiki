@@ -23,18 +23,22 @@
 Root element from which all other elements will branch from.
 
 
-     =Metdata=
+     =Metadata=
+
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
      <b>Quick Reference:</b>
 
      Information about the collections of records
 
-     <b>Class:</b>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MetadataClass
 
-     =TaxonRecord=
+     =Taxon Record=
+
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
      <b>Quick Reference:</b>
 
      Information about the record.
 
-     <b>Class:</b>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TaxonRecordClass
