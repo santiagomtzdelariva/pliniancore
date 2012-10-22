@@ -41,7 +41,7 @@
 
           ==References==
 
-          <b>Quick Reference:</b>
+          <b>Quick References:</b>
 
           In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication.
 
@@ -55,18 +55,8 @@
 
      Different names for this taxon. This concept is a placeholder field.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/SynonymClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/SynonymsClass
 
-
-===References===
-
-
-*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd
-(tcs:referenceType)
-
-==Synonyms Text==
-
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 =<h1>Common Names</h1>=
 
