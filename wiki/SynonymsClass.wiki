@@ -1,4 +1,3 @@
-
 ==Synonym==
 
 *Quick Reference:*
@@ -12,3 +11,9 @@ Structured information.
 ===Synonym Status===
 
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+
+===References===
+
+
+*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd
+(tcs:referenceType)
