@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://imageshack.us/a/img839/8419/recordmetadata.jpg" width="572" height="437"/></td></tr>
+<img src="http://imageshack.us/a/img839/8419/recordmetadata.jpg" width="572" height="437"/>
 
 
 ||Image||Description||
