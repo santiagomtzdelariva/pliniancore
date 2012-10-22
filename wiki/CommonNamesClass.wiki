@@ -22,22 +22,22 @@
 
    =Common Name=
 
-   *Quick Reference:*
+   <b>Quick Reference:</b>
 
     Scientific Name.
 
-   *Class:* http://www.tdwg.org/schemas/tcs/1.01 (tcs: Scientific Name) 
+   <b>Class:</b> http://www.tdwg.org/schemas/tcs/1.01 (tcs: Scientific Name) 
 
    =Unstructured-Info=
 
-   *Quick Reference:*
+   <b>Quick Reference:</b>
 
    Unstructured information.
 
-   *Class:* http://code.google.com/p/pliniancore/wiki/NormalString
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-   =AncillaryData=
+   =Ancillary Data=
 
-   *Quick Reference:*
+   <b>Quick Reference:</b>
 
-   *Class:* http://code.google.com/p/pliniancore/wiki/AncilliaryDataType
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataType
