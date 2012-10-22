@@ -2,7 +2,8 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<table ><tr><td><img src="http://img266.imageshack.us/img266/6310/metadataclass.jpg" width="363" height="938"/></td></tr>
+<img src="http://imageshack.us/a/img855/1930/metadataf.jpg" width="359" height="399"/>
+
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -13,11 +14,42 @@
 ||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
-<h1><b>Metadata Class</b></h1>
 
-*Quick Reference:* http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_ContentMetadata_Link030627E8
+<h2>*Metadata Class:*</h2>
 
-<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
+
+     =Data Set ID=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+     =Icon URI=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+     The URI of an icon/logo symbolizing the project.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+     =Owners=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_Contact_Link02056830 
+
+     Contact details.
+
+     <b>Class:</b>
+
 
      =Source=
 
@@ -29,10 +61,55 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Data Set ID=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+     =Description=
 
-     <b>Quick Reference:</b> 
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>     
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_MetadataDescriptionRepr_Link030A13A0
+
+     Language-specific content metadata (title, description, etc.) with *required* Language attribute added.
+
+     <b>Class:</b>
+
+
+     =Revison=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>     
+
+     <b>Quick Reference:</b>
+
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/RevisionClass
+
+
+     =IPR Statements=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>     
+
+     <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_IPRStatements_Link0300BAE8
+
+     A sequence of statements related to Intellectual Property Rights, credit and acknoledgement.
+
+     <b>Class:</b>
+
+
+     =Scope=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>     
+
+     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/index.html#N100DE
+
+     Describes the extent of the coverage of the resource in terms of its spatial extent, temporal extent, and taxonomic extent.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/RevisionClass
+
+
+     =Version=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>     
+
+     <b>Quick Reference:</b>
+
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/VersionClass
