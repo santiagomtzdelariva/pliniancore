@@ -41,4 +41,4 @@ Root element from which all other elements will branch from.
 
      Information about the record.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TaxonRecordClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TaxonRecord
