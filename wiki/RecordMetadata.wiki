@@ -1,9 +1,9 @@
-#labels Element
+#labels Element,RecordMetadata
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://imageshack.us/a/img855/1930/metadataf.jpg" width="359" height="399"/></td></tr>
+<table ><tr><td><img src="http://imageshack.us/a/img839/8419/recordmetadata.jpg" width="572" height="437"/></td></tr>
 
 
 ||Image||Description||
@@ -23,6 +23,8 @@
 
      =<h1>Language</h1>=
 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
      <b>Quick Reference:</b>
 
      Language used to write the species information, ISO 639-2 according to GBIF Metadata Profile, Reference Guide http://links.gbif.org/gbif_metadata_profile_guide_en_v1. 
@@ -30,12 +32,16 @@
 
      =<h1>Target Audiences</h1>=
 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+
      <b>Quick Reference:</b>
 
      Users to which the information is addressed. The defined audiences are: Biodiversity researchers, teachers and students, decision makers, professionals from another areas and general public.
 <blockquote>
 
           ==Audience==
+
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>           
 
           <b>Quick Reference:</b>
 
@@ -50,20 +56,30 @@
 
           ==Un-structuredAudiences==
 
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
           <b>Quick Reference:</b>
 
           List audience codes separated by means of comma or /.
+
+          <b>Class:</b>http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote>
 
+
      =<h1>Versions</h1>=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
      <b>Quick Reference:</b>
 
      Number and date of the current version.
 
+     <b>Clas::</b>http://code.google.com/p/pliniancore/wiki/VersionClass
 
      =<h1>Revision </h1>=
 
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
      <b>Quick Reference:</b> 
 
-     <b>Class:</b>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/RevisionClass
