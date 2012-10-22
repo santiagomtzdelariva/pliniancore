@@ -1,4 +1,4 @@
-#labels Element
+#labels Element,Nomenclarure,Notification
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
@@ -31,6 +31,8 @@
 <blockquote>
           ==Scientific Name==
 
+          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
           <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
 
           Canonical name enforcing strict inclusion of only nomenclatural information - _not_ taxonomic information. The name entered here must comply with rules and recommendations of the international nomenclatural code pertaining to the organisms (Zoological, Botanical, of Cultivated Pants, or Bacteriological).
@@ -40,6 +42,8 @@
 <blockquote>
 
           ==References==
+
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
           <b>Quick References:</b>
 
@@ -51,6 +55,8 @@
 
      =Synonyms=
 
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+
      <b>Quick Reference:</b>
 
      Different names for this taxon. This concept is a placeholder field.
@@ -58,20 +64,23 @@
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/SynonymsClass
 
 
-=<h1>Common Names</h1>=
+     =Common Names=
 
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
-*Quick Reference:* 
+     <b>Quick Reference:</b> 
 
-A list of common names, in alphabetic order, optionally followed by language and region where it is used. For example, name1 (language, region), name2 (language, region). If language or region is omitted, it is assumed to be unknown.
+     A list of common names, in alphabetic order, optionally followed by language and region where it is used. For example, name1 (language, region), name2 (language, region). If language or region is omitted, it is assumed to be unknown.
 
-*Class:* http://code.google.com/p/pliniancore/wiki/CommonNamesClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/CommonNamesClass
 
-=<h1>Flat Hierarchy</h1>=
+     =Flat Hierarchy=
 
-*Quick Reference:*
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide keys
+     <b>Quick Reference:</b>
+
+     Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide keys
 
 ||Name||Type||Description||
 ||Empire||xs:string||Empire name||
@@ -114,8 +123,23 @@ Hierarchical categories. Modified from Linnean Core. Option: fill all or princip
 ||higherClassification||dwc:higherClassification||A list (concatenated and separated) of taxa names terminating at the rank immediately superior to the taxon referenced in the taxon record. Recommended best practice is to order the list starting with the highest rank and separating the names for each rank with a semi-colon (";").||
 
 
-=<h1>Misc Details</h1>=
+     =Misc Details=
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/MiscDetailClass
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymology, ...
+     <b>Quick Reference:</b> 
+
+     Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymology, ...
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MiscDetailClass
+
+
+     =ancillary Data=
+
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+     Ancillary Data.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
