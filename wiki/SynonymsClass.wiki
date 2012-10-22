@@ -1,0 +1,14 @@
+
+==Synonym==
+
+*Quick Reference:*
+
+Structured information.
+
+===Synonym Name===
+
+*Quick Reference:* http://www.tdwg.org/uploads/media/v101.xsd (tcs:scientificName)
+
+===Synonym Status===
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
