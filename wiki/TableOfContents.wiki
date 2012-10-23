@@ -6,7 +6,7 @@
            * [RecordMetadata RecordMetadata]
            * [BaseElements BaseElements]
            * [NomenclatureAndNotification NomenclatureAndNotification]
-           * [TaxonomicalDescription Description]
+           * [Description TaxonomicalDescription]
            * [NaturalHistory NaturalHistory]
            * [HabitatAndDistribution HabitatAndDistribution]
            * [DemographyAndConservation DemographyAndConservation]
