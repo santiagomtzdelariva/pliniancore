@@ -20,6 +20,7 @@
      * [ManagementClass Management Class]     
      * [MeasurementOrFactClass MeasurementOrFact Class]
      * [MetadataClass Metadata Class]
+     * [MigratoryDataClass MigratoryData Class]
      * [MiscDetailClass MiscDetails Class]
         * [DetailsClass Details Class]
      * [NaturalHistoryClass NaturalHistory Class]
