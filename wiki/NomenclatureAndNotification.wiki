@@ -80,7 +80,7 @@
 
      <b>Quick Reference:</b>
 
-     <b>Class:</b>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/FlatHierarchyClass
 
 
      =Misc Details=
