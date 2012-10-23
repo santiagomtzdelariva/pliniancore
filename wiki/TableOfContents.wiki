@@ -12,6 +12,7 @@
            * [DemographyAndConservation DemographyAndConservation]
            * [UsesAndmanagement UsesAndmanagement]
            * [Documentation Documentation]
+           * [MeasurementOrFact MeasurementOrFact]
   * [PlinianCore_Classes Plinian Core Classes]
      * [AncillaryDataClass AncillaryData Class]
      * [CommonNamesClass CommonNames Class]
