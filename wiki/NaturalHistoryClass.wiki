@@ -17,15 +17,10 @@
 
 *Quick Reference:*
 
-<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/><img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/><img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
 
-=Natural Data=
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
-
-
-     ==Life Form== 
+     =Life Form= 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
 
@@ -36,7 +31,7 @@
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass 
 
 
-     ==Life Cycle==
+     =Life Cycle=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
@@ -48,7 +43,7 @@
 
 
 
-     ==Reproduction==
+     =Reproduction=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
@@ -60,7 +55,7 @@
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
  
-     ==Annual Cycle==
+     =Annual Cycle=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
@@ -73,7 +68,7 @@
 
 
 
-     ==Feeding==
+     =Feeding=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>
 
@@ -84,18 +79,18 @@
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 <blockquote>
-          ===Structured===
+          ==Structured==
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/></blockquote>
 <blockquote><blockquote>
-               ====Thropic Strategy <font color="#FF0000">(New)</font>====
+               ===Thropic Strategy <font color="#FF0000">(New)</font>===
 
                <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
                <b>Quick Reference:</b>
 </blockquote></blockquote>
 <blockquote><blockquote>
-               ====Thropic Strategy Qualifier <font color="#FF0000">(New)</font>====
+               ===Thropic Strategy Qualifier <font color="#FF0000">(New)</font>===
 
                <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
@@ -103,19 +98,19 @@
 </blockquote></blockquote>
 
 <blockquote>
-          ===un-Structured===
+          ==un-Structured==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 </blockquote>
 <blockquote><blockquote>
-               ====un-structuredDescription====
+               ===un-structuredDescription===
 
                <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
                <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
 <blockquote><blockquote>
-               ====Reference====
+               ===Reference===
 
  
                <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>  <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg" width="26" height="24"/> 
@@ -131,7 +126,7 @@
 
                
 
-     ==Dispersal <font color="#FF0000">(New)</font>==
+     =Dispersal <font color="#FF0000">(New)</font>=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
 
@@ -140,7 +135,7 @@
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 </blockquote>
 <blockquote>
-     ==Behavior==
+     =Behavior=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
 
@@ -152,17 +147,20 @@
 </blockquote>
 <blockquote>
 
-     ==Interactions==
+     =Interactions=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
      <b>Quick Reference:</b>
 
      Mutual or reciprocal actions or influences.  For example, predation, parasitism, mutualism, etc.  Relations with products grown and stored by man (plagues) are also included.
+
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/InteractionsClass
+
 </blockquote>
 <blockquote><blockquote>
 
-          ===Text Interactions===
+          ==Text Interactions==
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
 
@@ -172,66 +170,12 @@
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 </blockquote></blockquote>
-<blockquote><blockquote>
 
-          ===Interaction===
 
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
-
-          <b>Quick Reference:</b>
-
-          Interactions in structured format.
-</blockquote></blockquote>
-<blockquote><blockquote><blockquote>
-
-               ====Interaction Type====
-
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-               <b>Quick Reference:</b>
-
-               String with the type of interaction.
-
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote><blockquote>
-
-               ====Interaction Species====
-
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-               <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/ResourceRelationship
-
-               The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events).
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote><blockquote>
-
-               ====Interaction Comments====
-
-               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
-
-               <b>Quick Reference:</b>
-
-               Notes about the interactions.
-
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote><blockquote>
-               ====References====
-
-               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-               <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
-
-               Bibliographic and multimedia reference IDs.
-
-               <b>Class:</b> tcs:Reference Type
-
-</blockquote></blockquote></blockquote>
 <blockquote>
 
 
-     ==Chromosomic Number N==
+     =Chromosomic Number N=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
@@ -240,7 +184,7 @@
      Chromosomic Number. (Placeholder )
 </blockquote>
 
-     ==Molecular Data==
+     =Molecular Data=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
@@ -249,7 +193,7 @@
      Information about molecular taxonomy obtained from the author or the literature. 
 
 
-     ==Migratory Data==
+     =Migratory Data=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
@@ -258,7 +202,7 @@
      Information about migrations. (Placeholder)
    <b>Class:</b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-     ==Ecological Significance==
+     =Ecological Significance=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
@@ -267,7 +211,7 @@
      Ecological importance of the taxon. (Placeholder)
 
 
-     ==Misc Details==
+     =Misc Details=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
@@ -279,10 +223,19 @@
 
 
 
-=Un-structuredDescription=
+     =Un-structuredDescription=
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-<b>Quick Reference:</b> 
+     <b>Quick Reference:</b> 
 
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+     =Ancillary Data=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
