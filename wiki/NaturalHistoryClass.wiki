@@ -79,16 +79,13 @@
                <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
 
-     ==Ancillary Data==
+          ==Ancillary Data==
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-     <b>Quick Reference:</b> 
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-
-<blockquote><blockquote>
-
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+</blockquote></blockquote>
+<blockquote>
 
      =Feeding=
 
@@ -98,9 +95,8 @@
 
      Information related to supply food for the development and sustenance of the individual and/or its offspring.
 
-<blockquote>
+</blockquote>
 
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/></blockquote>
 <blockquote><blockquote>
           ==Thropic Strategy==
 
