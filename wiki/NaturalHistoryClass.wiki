@@ -20,10 +20,8 @@
 
 
      =Life Form= 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-
-     <b>Quick Reference:</b>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> 
 
      General appearance. Characteristic mode of growth or occurrence associated to its environment, particularly for plants.  Comprising its size, shape, texture and orientation. Example:  tree, shrubs, herbs.
 
@@ -32,7 +30,7 @@
 
      =Life Cycle=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> 
 
      <b>Quick Reference:</b>
 
@@ -40,11 +38,9 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-
-
      =Reproduction=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>  <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
 
      <b>Quick Reference:</b>
@@ -56,76 +52,96 @@
  
      =Annual Cycle=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
-
-     <b>Quick Reference:</b>
-
-     Recurrent biological phenomena correlated with climatic conditions, as bird migration or plant flowering.
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> 
 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     Set of changes or events that recurrently take place at the same time of year and are influenced by seasonal and interannual climate variations. For example: reproduction, flowering, fruiting, emergence of insects, etc. Also called phenology, mainly in plants. In the case of migration, refers only to the timing of it; other data about this are gathered in MigratoryData.
 
+<blockquote><blockquote>
+
+          ==Event==
+
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     
+</blockquote></blockquote>
+<blockquote><blockquote>
+
+          ==Time Interval==
+
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     
+</blockquote></blockquote>     
+<blockquote><blockquote>
+          ==Unstructured-Info==
+
+               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/> 
+
+               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+</blockquote></blockquote>
+
+     ==Ancillary Data==
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
+<blockquote><blockquote>
 
 
      =Feeding=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
      <b>Quick Reference:</b>
 
      Information related to supply food for the development and sustenance of the individual and/or its offspring.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-
 <blockquote>
-          ==Structured==
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/></blockquote>
 <blockquote><blockquote>
-               ===Thropic Strategy <font color="#FF0000">(New)</font>===
+          ==Thropic Strategy==
 
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
+          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
-               <b>Quick Reference:</b>
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
 </blockquote></blockquote>
 <blockquote><blockquote>
-               ===Thropic Strategy Qualifier <font color="#FF0000">(New)</font>===
+          ==Thropic Strategy Qualifier==
 
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
+          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
-               <b>Quick Reference:</b>
+
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+          
 </blockquote></blockquote>
 
-<blockquote>
-          ==un-Structured==
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
-</blockquote>
 <blockquote><blockquote>
-               ===un-structuredDescription===
+          ==Unstructured-Info==
 
                <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
 
                <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
+
+     ==Ancillary Data==
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
 <blockquote><blockquote>
-               ===Reference===
 
- 
-               <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>  <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg" width="26" height="24"/> 
-
-               <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
-
-               In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication. 
-
-               <b>Class:</b>  tcs: reference Type
-
-</blockquote></blockquote>
 <blockquote>
 
      =Dispersal=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
      The permanent spreading of individuals away from each other not including return. Dispersal determines the range over which genetic mixing occurs, and thus, the degree of homogeneity and inbreeding in a population.
 
@@ -134,9 +150,7 @@
 <blockquote>
      =Behavior=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
-
-     <b>Quick Reference:</b>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
      Responses, reactions or movements made by an organism in a particular situation.
 
@@ -146,57 +160,28 @@
 
      =Interactions=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
-
-     <b>Quick Reference:</b>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
      Mutual or reciprocal actions or influences.  For example, predation, parasitism, mutualism, etc.  Relations with products grown and stored by man (plagues) are also included.
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/InteractionsClass
 
 </blockquote>
-<blockquote><blockquote>
-
-          ==Text Interactions==
-
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/>
-
-          <b>Quick Reference:</b>
-
-          List of interactions.
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-</blockquote></blockquote>
-
-
-<blockquote>
-
-
-     =Chromosomic Number N=
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
-
-     <b>Quick Reference:</b>
-
-     Chromosomic Number. (Placeholder )
-</blockquote>
 
      =Molecular Data=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-     <b>Quick Reference</b>
+     Information on the chemical structures and biological processes at the molecular level: DNA and proteins sequences, protein structures, expression profiles of genes protein domains, families of genes,  mutations, polymorphisms, involvement in disease, ... Undeveloped. Placeholder for connecting with standards developed by specialists. For example, Standards for Data Exchange and Management from Scalalife (http://www.scalalife.eu/content/data) 
 
-     Information about molecular taxonomy obtained from the author or the literature. 
-
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      =Migratory Data=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-     <b>Quick Reference:</b>
+     The regular, usually seasonal, movement of all or part of an animal population to and from a given area, which can occur in variable periods of time and even involve more than one generation. 
 
-     Information about migrations. (Placeholder)
    <b>Class:</b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
      =Ecological Significance=
