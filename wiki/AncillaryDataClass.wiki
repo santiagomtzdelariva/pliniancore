@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://img803.imageshack.us/img803/39/ancilliarydataclass.jpg" width="305" height="91"/></td></tr>
+<img src="http://imageshack.us/a/img585/39/ancilliarydataclass.jpg" width="330" height="251"/>
 
 
 ||Image||Description||
@@ -16,18 +16,22 @@
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
 
-<h2>* Ancilliary Data Class:*</h2>
+<h2>* Ancillary Data Class:*</h2>
 
-<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 *Quick Reference:*
 
 
-     =Access Right=
+     =Agent=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
  
-     <b>Quick Reference:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Quick Reference:</b> http://eol.org/schema/agent_extension.xml
+
+     Examples of an agent include a person, organization, and software agent which has contributed to the creation of the resource. Strongly recommended to include the role the agent played in the creation of the resource.
+
+     <b>Class:</b> eol: Agent Type
 
      =References=
 
@@ -37,4 +41,4 @@
 
      Bibliographic and multimedia reference IDs.
 
-     <b>Class:</b> tcs: reference Type
+     <b>Class:</b> http://www.tdwg.org/uploads/media/v101.xsd (tcs: reference Type)
