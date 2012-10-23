@@ -135,8 +135,6 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
-<blockquote><blockquote>
-
 <blockquote>
 
      =Dispersal=
