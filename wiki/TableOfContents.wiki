@@ -33,7 +33,7 @@
      * [ManagementClass Management Class]     
      * [MeasurementOrFactClass MeasurementOrFact Class]
      * [MetadataClass Metadata Class]
-     * [MiscDetailsClass MiscDetails Class]
+     * [MiscDetailClass MiscDetails Class]
         * [DetailsClass Details Class]
      * [NaturalHistoryClass NaturalHistory Class]
      * [PopulationBiologyClass PopulationBiology Class]
