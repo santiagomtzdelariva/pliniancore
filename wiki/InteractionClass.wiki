@@ -1,6 +1,5 @@
 
-</blockquote></blockquote>
-          ==Interaction==
+=Interaction=
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
@@ -9,8 +8,8 @@
           Interactions in structured format.
 
 
-</blockquote></blockquote>
-<blockquote><blockquote><blockquote>
+
+<blockquote><blockquote>
 
                ===Interaction Type===
 
