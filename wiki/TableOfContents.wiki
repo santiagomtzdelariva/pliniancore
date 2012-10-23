@@ -30,6 +30,7 @@
      * [HabitatClass Habitat Class]
      * [HabitatAndDistributionClass HabitatAndDistribution Class]
      * [InteractionsClass Interactions Class]
+        * [InteractionClass Interaction Class]
      * [InvasivenessClass Invasiveness Class]
      * [LegislationClass Legislation Class]
      * [ManagementClass Management Class]     
