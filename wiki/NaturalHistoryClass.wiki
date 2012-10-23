@@ -85,7 +85,6 @@
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 </blockquote></blockquote>
-<blockquote>
 
      =Feeding=
 
@@ -95,7 +94,6 @@
 
      Information related to supply food for the development and sustenance of the individual and/or its offspring.
 
-</blockquote>
 
 <blockquote><blockquote>
           ==Thropic Strategy==
@@ -122,7 +120,7 @@
 
                <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
-
+<blockquote><blockquote>
      ==Ancillary Data==
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
@@ -130,7 +128,7 @@
      <b>Quick Reference:</b> 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-
+</blockquote></blockquote>
 <blockquote>
 
      =Dispersal=
@@ -176,13 +174,12 @@
 
      The regular, usually seasonal, movement of all or part of an animal population to and from a given area, which can occur in variable periods of time and even involve more than one generation. 
 
-   <b>Class:</b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+   <b>Class:</b>http://code.google.com/p/pliniancore/wiki/MigratoryDataClass
 
      =Ecological Significance=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-     <b>Quick Reference:</b>
 
      Ecological importance of the taxon. (Placeholder)
 
@@ -191,13 +188,19 @@
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
-     <b>Quick Reference:</b>
 
      Miscellaneus: notes attached to the taxon natural history information.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MiscDetailClass
 
+     =Environmental Envelope=
 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+
+
+     Environmental ranges in who species living (ej. annual rainfall, average, 450, mm
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/EnviromentalEnvelopeClass
 
      =Un-structuredDescription=
 
