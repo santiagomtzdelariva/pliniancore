@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img846/4251/miscdetailclass.jpg" width="430" height="165"/>
+<img src="http://imageshack.us/a/img26/6086/detailclass.jpg" width="263" height="163"/>
 
 
 ||Image||Description||
