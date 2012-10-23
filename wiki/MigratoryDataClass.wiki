@@ -16,4 +16,53 @@
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
 
-<h2>* Migratory Data Class:*</h2>
+<h2>*Migratory Data Class:*</h2>
+
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
+<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+
+     =Causes=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     Controlled vocabulary: Seasonal climatic variation, Resource availability and Reproduction 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     
+     =Patterns=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     Controlled vocabulary: Latitudinal, Longitudinal , Altitudinal , Vertical in water columns and Local migrant
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+     =Routes=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     Trajectory followed by the species
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+     =Season=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     Time of year in which a species migrates. 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+     =Unstructured-Info=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/> 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     
+=Ancillary Data=
+
+<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
