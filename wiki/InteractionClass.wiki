@@ -1,57 +1,56 @@
+#labels Class,Interaction
+<h2>*Schema and Legend:*</h2>
+<wiki:toc />
 
-=Interaction=
+<img src="http://imageshack.us/a/img707/8349/interactionclass.jpg" width="872" height="482"/>
 
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
+||Image||Description||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
-          <b>Quick Reference:</b>
+<h1><b>Interaction Class</b></h1>
 
-          Interactions in structured format.
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
+
+Interactions in structured format.
+
+     =Interaction Type=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     String with the type of interaction.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+     =Interaction Species=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/ResourceRelationship
+
+     The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events).
 
 
+     =Interaction Comments=
 
-<blockquote><blockquote>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
-               ===Interaction Type===
+     Notes about the interactions.
 
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-               <b>Quick Reference:</b>
 
-               String with the type of interaction.
+     =References=
 
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote><blockquote>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-               ===Interaction Species===
+     <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
 
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     Bibliographic and multimedia reference IDs.
 
-               <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/ResourceRelationship
-
-               The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events).
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote><blockquote>
-
-               ===Interaction Comments===
-
-               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
-
-               <b>Quick Reference:</b>
-
-               Notes about the interactions.
-
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote><blockquote>
-               ===References===
-
-               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-               <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
-
-               Bibliographic and multimedia reference IDs.
-
-               <b>Class:</b> tcs:Reference Type
-
-</blockquote></blockquote></blockquote>
+     <b>Class:</b> tcs:Reference Type
