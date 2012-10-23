@@ -44,13 +44,25 @@
      This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace.
 
 
-     =Multimedia=
+     =Binary=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
      <b>Quick Reference:</b> http://purl.org/dc/elements/1.1/
 
      This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace.
+
+<blockquote>
+
+          ==MINE-Type==
+
+           <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+          Controlled Vocavulary: Application, Audio, Image, Message, Model, Multipart, Text and Video. http://www.iana.org/assignments/media-types/index.html
+
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+</blockquote>
 
 
      =Un-structured Documentation=
