@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://img545.imageshack.us/img545/1328/measurementorfact.jpg" width="697" height="353"/></td></tr>
+<table ><tr><td><img src="http://imageshack.us/a/img703/1328/measurementorfact.jpg" width="702" height="376"/></td></tr>
 
 
 ||Image||Description||
@@ -18,10 +18,9 @@
 
 <h2>*Measurement Or Fact Class:*</h2>
 
-<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
-*Quick Reference:*
-
+Description of the morphology of the taxon (size, weight, perimeter, length, volume, life expectancy, etc.). Makes reference to any meristic data of the species (wing span/maximum/228.6/ cm)
 
      ==measurementOrFact==
 
@@ -35,7 +34,5 @@
      ==relatedTo==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-     
-     <b>Quick Reference:</b>
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
