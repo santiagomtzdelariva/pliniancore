@@ -13,7 +13,7 @@
            * [UsesAndmanagement UsesAndmanagement]
            * [Documentation Documentation]
   * [PlinianCore_Classes Plinian Core Classes]
-     * [AncilliaryDataClass AnciliaryData Class]
+     * [AncillaryDataClass AncillaryData Class]
      * [CommonNamesClass CommonNames Class]
         * [CommonNameClass CommonName Class]
      * [DemographyAndConservationClass DemographyAndConservation Class]
