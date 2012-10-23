@@ -41,4 +41,4 @@
 
      Bibliographic and multimedia reference IDs.
 
-     <b>Class:</b> tcs: reference Type
+     <b>Class:</b> http://www.tdwg.org/uploads/media/v101.xsd (tcs: reference Type)
