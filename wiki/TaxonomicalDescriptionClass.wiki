@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<table ><tr><td><img src="http://img198.imageshack.us/img198/4854/taxonomicaldescriptionc.jpg" width="590" height="312"/></td></tr>
+<img src="http://imageshack.us/a/img715/4854/taxonomicaldescriptionc.jpg" width="738" height="575"/>
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -87,3 +87,27 @@
 
           <b>Class:</b> tcs: referenceType
 </blockquote></blockquote>
+
+<blockquote>
+     ==Unstructured Info==
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+     Unstructured information.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+</blockquote>
+
+<blockquote>
+     ==Ancillary Data==
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     <b>Quick Reference:</b> 
+
+     Ancillary Data.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+</blockquote>
