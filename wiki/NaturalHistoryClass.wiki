@@ -170,7 +170,7 @@
 
      =Migratory Data=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
      The regular, usually seasonal, movement of all or part of an animal population to and from a given area, which can occur in variable periods of time and even involve more than one generation. 
 
@@ -186,7 +186,7 @@
 
      =Misc Details=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
 
      Miscellaneus: notes attached to the taxon natural history information.
@@ -195,7 +195,7 @@
 
      =Environmental Envelope=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
 
      Environmental ranges in who species living (ej. annual rainfall, average, 450, mm
