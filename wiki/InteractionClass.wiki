@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img707/8349/interactionclass.jpg" width="872" height="482"/>
+<img src="http://imageshack.us/a/img221/8349/interactionclass.jpg" width="872" height="482"/>
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
