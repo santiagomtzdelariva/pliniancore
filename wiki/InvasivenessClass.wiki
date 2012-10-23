@@ -24,7 +24,7 @@
 
      <b>Quick reference:</b> http://www.gisin.org/cwis438/websites/GISINDirectory/Tech/Model_info.php?ModelID=1&WebSiteID=4
 
-     <b>Class:<b> http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd
+     <b>Class:</b> http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd
 
      =Un-structured Documentation=
 
