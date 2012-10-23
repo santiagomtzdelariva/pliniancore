@@ -20,7 +20,11 @@
 
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-GSIN elements.
+     =GSIN elements=
+
+     <b>Quick reference:</b> http://www.gisin.org/cwis438/websites/GISINDirectory/Tech/Model_info.php?ModelID=1&WebSiteID=4
+
+     <b>Class:<b> http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd
 
      =Un-structured Documentation=
 
