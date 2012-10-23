@@ -21,17 +21,10 @@
 
      =ID=
 
-     <b>Quick Reference:</b>
-
-     <b>Class:</b>
-
      =Annotation=
-
-     <b>Quick Reference:</b> 
 
      On why this information item is here.
 
-     <b>Class:</b>
 
 <h2>Elements:</h2>
 
