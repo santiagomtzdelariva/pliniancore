@@ -28,7 +28,7 @@ Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymo
 
      <b>Quick Reference:</b>
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailsClass
 
      =Unstructured Info=
 
