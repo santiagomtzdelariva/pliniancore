@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<table ><tr><td><img src="http://imageshack.us/a/img835/8651/commonnameclass.jpg" width="628" height="378"/></td></tr>
+<img src="http://imageshack.us/a/img259/8651/commonnameclass.jpg" width="348" height="256"/>
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
