@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://img849.imageshack.us/img849/8483/versionclass.jpg" width="296" height="236"/></td></tr>
+<img src="http://imageshack.us/a/img6/8483/versionclass.jpg" width="346" height="528"/>
 
 
 ||Image||Description||
@@ -22,14 +22,11 @@
 
 <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-*Quick Reference:* From ABCD v. 2.06 + Preferred Flag
-
-
      ==Major==
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-     <b>Quick Reference:</b>
+     The major version number ('1' in 1.2) as defined by the content creators.
 
      <b>Class:</b> xs:nonNegativeInteger.
 
@@ -38,7 +35,6 @@
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     <b>Quick Reference:</b>
 
      An optional minor version number ('2' in 1.2)
 
@@ -48,8 +44,6 @@
      ==Modifier==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-     <b>Quick Reference:</b>
 
      Unconstrained text specifying status + optional number, e. g., 'beta', 'alpha', 'rc/release candidate', 'internal'. If missing, release status is assumed.
 
@@ -68,8 +62,6 @@
      ==Date Issued==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-     <b>Quick Reference:</b>
 
      Source for Dublin-Core standard element Date.Issued: Citable 'publication date' of the current version (comp. Revision_Data/Date_Created and Date_Modified for version- independent dates). This date should be missing if the current version is not yet published!.
 
