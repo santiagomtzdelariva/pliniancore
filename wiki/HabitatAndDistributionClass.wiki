@@ -45,3 +45,18 @@
      Endemism describes species that are native to a particular geographic area or continent. Endemism usually occurs in areas that are isolated in some way. 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/EndemicClass.
+
+     =Unstructured-Info=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+     =Ancillary Data=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+ 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
