@@ -129,7 +129,6 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 </blockquote></blockquote>
-<blockquote>
 
      =Dispersal=
 
@@ -138,8 +137,7 @@
      The permanent spreading of individuals away from each other not including return. Dispersal determines the range over which genetic mixing occurs, and thus, the degree of homogeneity and inbreeding in a population.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DispersalClass
-</blockquote>
-<blockquote>
+
      =Behavior=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
@@ -147,8 +145,6 @@
      Responses, reactions or movements made by an organism in a particular situation.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-</blockquote>
-<blockquote>
 
      =Interactions=
 
@@ -157,8 +153,6 @@
      Mutual or reciprocal actions or influences.  For example, predation, parasitism, mutualism, etc.  Relations with products grown and stored by man (plagues) are also included.
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/InteractionsClass
-
-</blockquote>
 
      =Molecular Data=
 
