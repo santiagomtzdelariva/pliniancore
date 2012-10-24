@@ -1,7 +1,30 @@
 #labels Class,Endemic
+<h2>*Schema and Legend:*</h2>
+
+<wiki:toc />
+
+<img src="http://imageshack.us/a/img196/8575/endemicclass.jpg" width="636" height="581"/>
+
+
+||Image||Description||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+
+
+<h2>*Endemic Class:*</h2>
+
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
+     
+
      =Atomized Endemsm=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
           List of areas structured and categorized the degree of safety. 
 
@@ -10,13 +33,12 @@
 
           <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-          <b>Quick Reference:</b>
-
           The concept is applied to one or several countries. Ex: 
--	Giant panda (Ailuropoda melanoleuca (David, 1869) endemic to China. 
--	Quetzal Resplendent (Pharomachrus mocinno de la Llave, 1832) endemic to Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica and Panama
 
-               
+          -	Giant panda (Ailuropoda melanoleuca (David, 1869) endemic to China. 
+
+          -	Quetzal Resplendent (Pharomachrus mocinno de la Llave, 1832) endemic to Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica and Panama
+
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
 <blockquote><blockquote>
@@ -30,6 +52,7 @@
 - Manzanilla Real (Artemisia granatensis Boiss.) endemic to the peaks of Sierra Nevada (Spain).
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
 </blockquote></blockquote>
 <blockquote><blockquote>
 
@@ -54,9 +77,9 @@
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
 
-=AncillaryData=
+=Ancillary Data=
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
           Ancillary information.
 
