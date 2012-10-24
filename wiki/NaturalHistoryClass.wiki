@@ -200,7 +200,7 @@
 
      Environmental ranges in who species living (ej. annual rainfall, average, 450, mm
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/EnviromentalEnvelopeClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/EnvironmentalClass
 
      =Un-structuredDescription=
 
