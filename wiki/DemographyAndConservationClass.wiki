@@ -2,8 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<table ><tr><td><img src="http://img805.imageshack.us/img805/7366/demograpichandconservat.jpg" width="641" height="528"/></td></tr>
-
+<img src="http://imageshack.us/a/img13/7366/demograpichandconservat.jpg" width="782" height="732"/>
 
 
 ||Image||Description||
@@ -16,25 +15,22 @@
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
 
-<h2>*Demography And Conservation Class:*</h2>
-
-*Quick Reference:*
+<h1>*Demography And Conservation Class:*</h1>
 
 <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/><img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
+Information concerning the demographic aspects of the species, as well as the conservation status
 
-==Territory==
+     =Territory=
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-*Quick Reference:*
+     Information associated mostly to vertebrates, referring to the territorial extension of the individual or group in terms of its activities (feeding, mating, etc.) 
 
-Information associated mostly to vertebrates, referring to the territorial extension of the individual or group in terms of its activities (feeding, mating, etc.) 
-
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TerritoryClass
 
 
-==Population Biology==
+=Population Biology=
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
@@ -43,7 +39,7 @@ Information associated mostly to vertebrates, referring to the territorial exten
 Information about the number of individuals per area or time unit. 
 
 
-==Threat Status==
+=Threat Status=
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
@@ -52,7 +48,7 @@ Information about the number of individuals per area or time unit.
 Information about the status of the taxon. 
 
 
-   ===Threat Status===
+   ==Threat Status==
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
@@ -63,7 +59,7 @@ Information about the status of the taxon.
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-   ===Thread===
+   ==Thread==
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
@@ -74,7 +70,7 @@ Information about the status of the taxon.
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-   ===Conservation Actions===
+   ==Conservation Actions==
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
@@ -85,7 +81,7 @@ Information about the status of the taxon.
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-   ===Authority===
+   ==Authority==
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
@@ -96,7 +92,7 @@ Information about the status of the taxon.
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-   ===According To===
+   ==According To==
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
@@ -107,7 +103,7 @@ Information about the status of the taxon.
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-   ===Applies To===
+   ==Applies To==
 
    <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
@@ -117,7 +113,7 @@ Information about the status of the taxon.
 
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass
 
-   ===References===
+   ==References==
 
    <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
@@ -128,7 +124,7 @@ Information about the status of the taxon.
    <b>Class:</b> http://www.tdwg.org/schemas/tcs/1.01 (tcs: Reference Type.)
 
 
-==Legislation==
+=Legislation=
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
@@ -137,7 +133,7 @@ Information about the status of the taxon.
 A national proposed  law or group of laws. A regional proposed  law or group of laws.
 
 
-   ===Legislation Text===
+   =Legislation Text=
 
    <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
@@ -147,7 +143,7 @@ A national proposed  law or group of laws. A regional proposed  law or group of 
 
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
-   ===Legislation===
+   =Legislation=
 
    <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
