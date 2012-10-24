@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://img41.imageshack.us/img41/1805/habitatanddistribution.jpg" width="771" height="376"/></td></tr>
+<img src="http://imageshack.us/a/img171/9925/habitatanddistributionc.jpg" width="522" height="354"/>
 
 
 ||Image||Description||
@@ -18,21 +18,19 @@
 
 <h2>*Habitat and Distribution Class:*</h2>
 
-<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>  
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>  
 
-*Quick Reference:*
 
-     ==Habitat==
+     =Habitat=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-     <b>Quick Reference:</b>
-
      General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/HabitatClass
 
 <blockquote>
-          ===un-Structured Habitat===
+          ==un-Structured Habitat==
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
@@ -44,12 +42,9 @@
 </blockquote>
 <blockquote>
 
-          ===Structured Habitat===
+          ==Structured Habitat==
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>  
-
-          <b>Quick Reference:</b>
-
 
           <b>Class:</b>
 
