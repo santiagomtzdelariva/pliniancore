@@ -50,6 +50,7 @@
      * [TextDescriptionClass TextDescription Class]
      * [UsesAndManagementClass UsesAndManagement Class]
      * [UsesClass Uses Class]
+        * [UseClass Use Class]
      * [VersionClass Version Class]
      * [NormalString NormalString]
      * [NormalDate NormalDate]
