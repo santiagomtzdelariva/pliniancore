@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://img850.imageshack.us/img850/5319/distributionclass.jpg" width="555" height="247"/></td></tr>
+<table ><tr><td><img src="http://imageshack.us/a/img521/5319/distributionclass.jpg" width="555" height="314"/></td></tr>
 
 
 ||Image||Description||
@@ -18,14 +18,14 @@
 
 <h2>*Distribution Class:*</h2>
 
-<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
 *Quick Reference:*
 
 
 ==Atomized Distribution==
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 *Quick Reference:*
 
