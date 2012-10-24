@@ -50,7 +50,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
      Bibliographic and multimedia reference IDs.
 
-     *Class:* tcs:Reference Type
+     <b>Class:</b> tcs:Reference Type
 
 =Ancillary Data=
 
