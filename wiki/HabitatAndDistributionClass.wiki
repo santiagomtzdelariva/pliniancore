@@ -23,7 +23,7 @@
 
      =Habitat=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
      General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).
 
@@ -31,7 +31,7 @@
 
      =Distribution=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>     
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
 
      Comment about the distribution of the species based on information from the collection sites of the studied specimens.
 
@@ -40,66 +40,8 @@
 
      ==Endemicity==
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
-
-     <b>Quick Reference:</b>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
      Endemism describes species that are native to a particular geographic area or continent. Endemism usually occurs in areas that are isolated in some way. 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass.
-</blockquote>
-<blockquote><blockquote>
-          ===Atomized Atomized Endemsm===
-
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
-
-          <b>Quick Reference:</b>
-
-          List of areas structured and categorized the degree of safety. 
-
-          <b>Class:</b>
-</blockquote></blockquote>
-<blockquote><blockquote><blockquote>
-               ====Edemic For====
-
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-               <b>Quick Reference:</b>
-
-               Description of the distribution of the species.
-               
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote><blockquote>
-               ====Endemic In====
-
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-               <b>Quick Reference:</b>
-
-               List of countries according to the ISO 3166 standard. Structured and categorized the degree of safety.
-
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote><blockquote>
-               ====References====
-
-               <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-               <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
-
-               Bibliographic and multimedia reference IDs.
-               
-               <b>Class:</b> tcs:Reference Type
-</blockquote></blockquote></blockquote>
-<blockquote><blockquote>
-          ===Edemism Text===
-
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-          <b>Quick Reference:</b>
-
-          List of areas presented in an unstructured and categorized the degree of safety.
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
-</blockquote></blockquote>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/EndemicClass.
