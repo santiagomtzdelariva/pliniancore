@@ -48,8 +48,8 @@
           <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
           The concept is applied to an area either multinational or local. Ex:
-- Vicuña (Vicugna vicugna Molina, 1782) endemic to the Andean region.
-- Manzanilla Real (Artemisia granatensis Boiss.) endemic to the peaks of Sierra Nevada (Spain).
+          - Vicuña (Vicugna vicugna Molina, 1782) endemic to the Andean region.
+          - Manzanilla Real (Artemisia granatensis Boiss.) endemic to the peaks of Sierra Nevada (Spain).
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
