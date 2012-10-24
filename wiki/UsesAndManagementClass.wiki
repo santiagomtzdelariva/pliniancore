@@ -1,14 +1,126 @@
-#summary One-sentence summary of this page.
 #labels Class,UsesAndManagement
-
-= Introduction =
-
-Add your content here.
+<wiki:toc />
 
 
-= Details =
+=Uses=
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+*Quick Reference:*
+
+Known or potential uses of the species, at a direct economic level, as instruments of education, prospecting, eco-tourism, etc. It includes published material or suggestions from the author or others. In any event, the source must be explicitly quoted.
+
+
+==Un-structuredUses==
+
+*Quick Reference:*
+
+Uses in a unstructured format.
+
+==Use==
+
+*Quick Reference:*
+
+Uses in a structured format.
+
+===sourceOfInformation===
+
+*Quick Reference:*
+
+====References====
+
+*Quick Reference:*
+
+In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication.
+
+====sourceOfInformationText====
+
+*Quick Reference:*
+
+===Use-Value===
+
+*Quick Reference:*
+
+===partUsed===
+
+*Quick Reference:*
+
+===Users===
+
+*Quick Reference:*
+
+===vernacularNameUseAnnotations===
+
+*Quick Reference:*
+
+===productionDetails===
+
+*Quick Reference:*
+
+===meansOfApplication-Administration===
+
+*Quick Reference:*
+
+===seasonOfAvailability-Use===
+
+*Quick Reference:*
+
+===conservation-explotationData===
+
+*Quick Reference:*
+
+===useType===
+
+*Quick Reference:*
+
+===ratingPopularity===
+
+*Quick Reference:*
+
+===Properties===
+
+*Quick Reference:*
+
+===Problems===
+
+*Quick Reference:*
+
+===Potential===
+
+*Quick Reference:*
+
+===useNotes===
+
+*Quick Reference:*
+
+
+
+=Folklore=
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+Known myths or legends that people or literature contribute about the species.
+
+==ancilliaryData==
+
+*Quick Reference*: http://code.google.com/p/pliniancore/wiki/ancilliaryDataClass
+
+==structuredFolklore==
+
+||Fields||
+||Attribute||
+||Value||
+||usedBy||
+
+==Un-structuredDescription==
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+=Management=
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+Breeding and  cultivation  Control.
+
+=MeasurementOrFact=
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
