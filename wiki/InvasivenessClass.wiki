@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img16/7328/invasivenessclass.jpg" width="552" height="871"/>
+<img src="http://img13.imageshack.us/img13/7328/invasivenessclass.jpg" width="534" height="1059"/>
 
 
 ||Image||Description||
@@ -25,6 +25,49 @@
      <b>Quick reference:</b> http://www.gisin.org/cwis438/websites/GISINDirectory/Tech/Model_info.php?ModelID=1&WebSiteID=4
 
      <b>Class:</b> http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd
+
+     =What Impact=
+
+     What the actual impact is, for instance: Is it eating all the riparian vegetation? Are their burrows destroying irrigation systems? Is it displacing  Arvicola sapidus?
+
+
+     =impactTarget=
+
+     Who/what the species is impacting.
+
+||<b>Controlled vocabulary</b>||
+||Economy||
+||Environment||
+||Human Health||
+||Unknown||
+
+     =impactMechanism=
+
+     Mechanism of introduction or impact to a new location.
+
+||<b>Controlled vocabulary</b>||
+||Allergeny||
+||Competition||
+||Disease Transmission||
+||Fouling||
+||Herbivory||
+||Hybridization||
+||Inhibits Growth Of Other Species||
+||Interaction With Other Invasive Species||
+||Modifies Fire Regime||
+||Modifies Hydrology||
+||Modifies Natural Benthic Communities||
+||Modifies Nutrient Regime||
+||Modifies Successional Patterns||
+||Other See Memo For Description||
+||Parasitism||
+||Pathogenic||
+||PhysicalDisturbance||
+||PollenSwamping||
+||Predation||
+||Transpiration||
+||Unknown||
+     
 
      =Un-structured Documentation=
 
