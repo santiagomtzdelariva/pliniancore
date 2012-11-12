@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img855/1930/metadataf.jpg" width="359" height="399"/>
+<img src="http://img688.imageshack.us/img688/4133/metadata.jpg" width="494" height="413"/>
 
 
 ||Image||Description||
