@@ -974,8 +974,8 @@
 								<xs:enumeration value="PhysicalDisturbance"/>
 								<xs:enumeration value="PollenSwamping"/>
 								<xs:enumeration value="Predation"/>
-								<xs:enumeration value="Transpiration "/>								
-								<xs:enumeration value="Unknown"/>																																
+								<xs:enumeration value="Transpiration "/>
+								<xs:enumeration value="Unknown"/>
 							</xs:restriction>
 						</xs:simpleType>
 					</xs:element>
@@ -1084,10 +1084,16 @@
 					</xs:complexContent>
 				</xs:complexType>
 			</xs:element>
-			<xs:element name="Source" type="NormalString">
+			<xs:element name="Source">
 				<xs:annotation>
 					<xs:documentation>Information about the data set provenance.</xs:documentation>
 				</xs:annotation>
+				<xs:complexType>
+					<xs:sequence>
+						<xs:element name="Name" type="NormalString"/>
+						<xs:element name="URI" type="xs:anyURI"/>
+					</xs:sequence>
+				</xs:complexType>
 			</xs:element>
 			<xs:element name="Description">
 				<xs:complexType>
@@ -1417,7 +1423,7 @@
 	</xs:complexType>
 	<xs:complexType name="RevisionType">
 		<xs:sequence>
-			<xs:element ref="associatedParty"/>
+			<xs:element ref="associatedParty"  minOccurs="0"/>
 			<xs:element ref="pubDate"/>
 			<xs:element ref="dc:created"/>
 		</xs:sequence>
