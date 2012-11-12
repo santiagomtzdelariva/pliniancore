@@ -59,8 +59,23 @@
 
      Information about the data set provenance.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+<blockquote>
+          ==Name==
 
+          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+          <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/NormalString   
+
+</blockquote>
+
+<blockquote>
+          ==URI==
+
+          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+          <b>Class:</b> xs:anyURY    
+
+</blockquote>
 
      =Description=
 
@@ -70,7 +85,6 @@
 
      Language-specific content metadata (title, description, etc.) with *required* Language attribute added.
 
-     <b>Class:</b>
 
 
      =Revison=
