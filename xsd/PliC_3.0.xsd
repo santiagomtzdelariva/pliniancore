@@ -347,6 +347,32 @@
 					<xs:documentation>Examples of an agent include a person, organization, and software agent which has contributed to the creation of the resource. Strongly recommended to include the role the agent played in the creation of the resource.</xs:documentation>
 				</xs:annotation>
 			</xs:element>
+			<xs:element name="AccessRights">
+				<xs:complexType>
+					<xs:choice>
+						<xs:element name="license" type="eol:licenseTypes">
+							<xs:annotation>
+								<xs:documentation>License under which the resource is provided. To the greatest extent possible, the Encyclopedia of Life promotes an open-source, open-access approach.</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element ref="dc:rights" minOccurs="0">
+							<xs:annotation>
+								<xs:documentation>Statement of rights associated with the resource. Creative Commons licenses require the resource to be attributed "in the manner specified by the author or licensor", and this is where that should be specified.</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element ref="dc:rightsHolder" minOccurs="0">
+							<xs:annotation>
+								<xs:documentation>A person or organization owning or managing rights over the resource.</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+						<xs:element ref="dc:bibliographicCitation" minOccurs="0">
+							<xs:annotation>
+								<xs:documentation>A bibliographic reference for the resource. Sufficient bibliographic detail should be included to identify the resources as unambiguously as possible.</xs:documentation>
+							</xs:annotation>
+						</xs:element>
+					</xs:choice>
+				</xs:complexType>
+			</xs:element>
 			<xs:element name="References" type="tcs:ReferenceType" minOccurs="0" maxOccurs="unbounded">
 				<xs:annotation>
 					<xs:documentation>Bibliographic and multimedia reference IDs.</xs:documentation>
