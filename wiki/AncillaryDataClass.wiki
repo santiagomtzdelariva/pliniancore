@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://img14.imageshack.us/img14/39/ancilliarydataclass.jpg" width="342" height="251"/>
+<img src="http://img17.imageshack.us/img17/39/ancilliarydataclass.jpg" width="541" height="606"/>
 
 
 ||Image||Description||
@@ -37,7 +37,7 @@
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-     <b>Class:</b>http://code.google.com/p/pliniancore/wiki/AccessRightsClass
+
 
 
      =References=
