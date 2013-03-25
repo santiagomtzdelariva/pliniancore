@@ -195,8 +195,7 @@
 	</xsd:element>
 	<xsd:element name="LifeForm" type="xsd:string" substitutionGroup="pce:pcElement" nillable="true">
 		<xsd:annotation>
-			<xsd:documentation>Aspecto general resultado del crecimiento, morfología y estructura de un organismo (por ejemplo, vertebrado o invetebrado). Comprende la forma, tamaño, textura y orientación. En las plantas se corresponde con el hábito o biotipo (por ejemplo, árbol, hierba, etc.). Debería basarse en un vocabulario como los biotipos de Raunkiaer para las plantas (por ejemplo, geófito, caméfito, etc.) .</xsd:documentation>
-			<xsd:documentation>Se refiere a la forma de vida asociada con su ambiente, particularmente para plantas.  Por ejemplo hierba, arbol, arbusto, epifita, etc.</xsd:documentation>
+			<xsd:documentation>General appearance. Characteristic mode of growth or occurrence associated to its environment, particularly for plants. Comprising its size, shape, texture and orientation. Example: tree, shrubs, herbs.</xsd:documentation>
 		</xsd:annotation>
 	</xsd:element>
 	<xsd:element name="LifeCycle" type="xsd:string" substitutionGroup="pce:pcElement" nillable="true">
