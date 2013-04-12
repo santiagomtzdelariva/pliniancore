@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img402/2198/migratorydataclass.jpg" width="505" height="420"/>
+http://img835.imageshack.us/img835/2198/migratorydataclass.jpg
 
 
 ||Image||Description||
@@ -55,7 +55,7 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Unstructured-Info=
+     =Migratory Unstructured=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/> 
 
