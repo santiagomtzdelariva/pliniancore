@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img707/7918/usesclass.jpg" width="363" height="177"/>
+http://img32.imageshack.us/img32/7918/usesclass.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -28,7 +28,7 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/UseClass
 
-     =Unstructured-Info=
+     =Uses Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
