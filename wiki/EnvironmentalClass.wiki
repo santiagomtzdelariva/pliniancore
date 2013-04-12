@@ -58,7 +58,9 @@
      =Environmental Unstructured=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/> 
-
+     
+     Unstructured format.
+ 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
      
 =Ancillary Data=
