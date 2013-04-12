@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<table ><tr><td><img src="http://imageshack.us/a/img543/4200/naturalhistoryclass.jpg" width="873" height="796"/></td></tr>
+http://img10.imageshack.us/img10/4200/naturalhistoryclass.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -196,7 +196,7 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/EnvironmentalClass
 
-     =Unstructured-Info=
+     =Natural History Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
