@@ -34,4 +34,4 @@ Hierarchical categories. Modified from Linnean Core. Option: fill all or princip
 ||higher Classification||dwc:higherClassification||A list (concatenated and separated) of taxa names terminating at the rank immediately superior to the taxon referenced in the taxon record. Recommended best practice is to order the list starting with the highest rank and separating the names for each rank with a semi-colon (";").||http://rs.tdwg.org/dwc/terms/higherClassification||
 ||References||tcs:referenceType||Bibliographic and multimedia reference IDs||||
 ||Parent Taxon||xs:string||ID Parent Taxon||||
-||Ancillary Data||tcs:referenceType||Bibliographic and multimedia reference IDs||||
+||Ancillary Data||||||Class: http://code.google.com/p/pliniancore/wiki/AncillaryDataClass||
