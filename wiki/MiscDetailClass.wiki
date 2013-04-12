@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img846/4251/miscdetailclass.jpg" width="430" height="165"/>
+<img src="http://img820.imageshack.us/img820/4251/miscdetailclass.jpg" width="432" height="169"/>
 
 
 ||Image||Description||
@@ -30,7 +30,7 @@ Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymo
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailsClass
 
-     =Unstructured Info=
+     =Detail Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
