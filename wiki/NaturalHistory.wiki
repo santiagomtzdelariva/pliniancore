@@ -1,4 +1,2 @@
 #labels Element
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NaturalHistoryClass
-
-Most relevant description about the species.
