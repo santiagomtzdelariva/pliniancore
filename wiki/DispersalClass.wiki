@@ -55,7 +55,7 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
-     =Unstructured-info=
+     =Dispersal Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
