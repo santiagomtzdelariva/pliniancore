@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img715/4854/taxonomicaldescriptionc.jpg" width="738" height="575"/>
+http://img16.imageshack.us/img16/4854/taxonomicaldescriptionc.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -88,7 +88,7 @@
 </blockquote></blockquote>
 
 <blockquote>
-     ==Unstructured Info==
+     ==Taxonomical Description Unstructured==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
