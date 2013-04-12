@@ -119,7 +119,7 @@ A national proposed  law or group of laws. A regional proposed  law or group of 
 
 <b>Class:</b> http://code.google.com/p/pliniancore/wiki/LegislationClass
 
-=Unstructured-Info=
+=Demography and Conservation Unstructured=
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
