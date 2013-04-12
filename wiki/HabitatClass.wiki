@@ -43,5 +43,3 @@ General description of the sites where the species is found (ecosystem, forest, 
 Unstrutured information.
 
 <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-</blockquote>
