@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img26/389/environmentalenvelope.jpg" width="531" height="346"/>
+<img src="http://img24.imageshack.us/img24/389/environmentalenvelope.jpg" width="530" height="345"/>
 
 
 ||Image||Description||
@@ -55,7 +55,7 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Unstructured-Info=
+     =Environmental Unstructured=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/> 
 
