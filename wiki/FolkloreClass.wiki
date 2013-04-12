@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://imageshack.us/a/img20/6779/folkloreclass.jpg
+http://img202.imageshack.us/img202/6779/folkloreclass.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -39,7 +39,7 @@ http://imageshack.us/a/img20/6779/folkloreclass.jpg
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-     =Unstructured-Info=
+     =Folklore Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
