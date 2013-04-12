@@ -29,7 +29,7 @@
 
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/CommonNameClass
 
-   =Unstructured-Info=
+   =NameUnstructured=
 
    <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
