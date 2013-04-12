@@ -2,7 +2,7 @@
 
 <wiki:toc />
 
-<table ><tr><td><img src="http://imageshack.us/a/img43/4084/synonymsclass.jpg" width="412" height="180"/></td></tr>
+http://img546.imageshack.us/img546/4084/synonymsclass.jpg
 
 
 ||Image||Description||
@@ -29,7 +29,7 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/SynonymClass
 
-     =Unstructured-Info=
+     =Synonyms Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
