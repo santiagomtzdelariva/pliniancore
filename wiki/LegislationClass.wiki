@@ -52,6 +52,14 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
      <b>Class:</b> tcs:Reference Type
 
+     =Invasiveness Unstructured=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+
+     Information that cant be documented in other site.
+
+
 =Ancillary Data=
 
 <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
