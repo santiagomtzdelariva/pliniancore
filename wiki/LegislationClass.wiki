@@ -57,7 +57,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
 
-     Information that cant be documented in other site.
+     Information in unstructured format.
 
 
 =Ancillary Data=
