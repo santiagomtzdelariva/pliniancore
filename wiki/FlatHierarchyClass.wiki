@@ -1,4 +1,4 @@
-#labels Class,FlatHierarchy
+#labels Class,Hierarchy
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
@@ -20,42 +20,16 @@
 
 Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide keys
 
-||Name||Type||Description||
-||Empire||xs:string||Empire name||
-||EmpireURI||xs:anyURI||Link to external information||
-||Kingdom||xs:string||Kingdom name||
-||KingdomURI||xs:anyURI||Link to external information||
-||subKingdom||xs:string||subKingdom name||
-||SubKingdomURI||xs:anyURI||Link to external information||
-||infraKingdom||xs:string||infraKingdom name||
-||InfraKingdomURI||xs:anyURI||Link to external information||
-||superPhylum||xs:string||superPhylum name||
-||SuperPhylumURI||xs:anyURI||Link to external information||
-||phylumDivision||xs:string||phylum o Division name||
-||PhylumDivisionURI||xs:anyURI||Link to external information||
-||subPhylum||xs:string||subPhylum name||
-||SubPhylumURI||xs:anyURI||Link to external information||
-||infraPhylum||xs:string||infraPhylum name||
-||InfraPhylumURI||xs:anyURI||Link to external information||
-||superclass||xs:string||Class name||
-||ClassURI||xs:anyURI||Link to external information||
-||subClass||xs:string||subClass name||
-||SubClassURI||xs:anyURI||Link to external information||
-||superOrder||xs:string||superOrder name||
-||SuperOrderURI||xs:anyURI||Link to external information||
-||Order||xs:string||Order name||
-||OrderURI||xs:anyURI||Link to external information||
-||subOrder||xs:string||subOrder name||
-||SubOrderURI||xs:anyURI||Link to external information||
-||superFamily||xs:string||superFamily name||
-||SuperFamilyURI||xs:anyURI||Link to external information||
-||Family||xs:string||Family name||
-||FamilyURI||xs:anyURI||Link to external information||
-||subFamily||xs:string||subFamily name||
-||SubFamilyURI||xs:anyURI||Link to external information||
-||Tribe||xs:string||Tribe name||
-||TribeURI||xs:anyURI||Link to external information||
-||Genus||xs:string||Genus name||
-||GenusURI||xs:anyURI||Link to external information||
-||References||tcs:referenceType||Bibliographic and multimedia reference IDs||
-||higherClassification||dwc:higherClassification||A list (concatenated and separated) of taxa names terminating at the rank immediately superior to the taxon referenced in the taxon record. Recommended best practice is to order the list starting with the highest rank and separating the names for each rank with a semi-colon (";").||
+||Name||Type||Description||References||
+||Kingdom||xs:string||Kingdom name||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#kingdom||
+||Phylum||xs:string||superPhylum name||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#phylum||
+||superclass||xs:string||Class name||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#class||
+||Order||xs:string||Order name||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#order||
+||Family||xs:string||Family name||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#family||
+||Genus||xs:string||Genus name||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#genus||
+||SubGenus||xs:string||Subgenus name||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#subgenus||
+||TaxonRank||xs:string||The taxonomic rank of the most specific name in the scientificName. Recommended best practice is to use a controlled vocabulary.||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#taxonRank||
+||specificEpithet||xs:string||The name of the first or species epithet of the scientificName.||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#specificEpithet||
+||InfraspecificEpithet||xs:string||The name of the lowest or terminal infraspecific epithet of the scientificName, excluding any rank designation.||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#infraspecificEpithet||
+||higherClassification||dwc:higherClassification||A list (concatenated and separated) of taxa names terminating at the rank immediately superior to the taxon referenced in the taxon record. Recommended best practice is to order the list starting with the highest rank and separating the names for each rank with a semi-colon (";").||http://rs.tdwg.org/dwc/terms/higherClassification||
+||References||tcs:referenceType||Bibliographic and multimedia reference IDs||||
