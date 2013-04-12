@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<table ><tr><td><img src="http://img209.imageshack.us/img209/820/documentationclass.jpg" width="683" height="807"/></td></tr>
+<table ><tr><td><img src="http://img7.imageshack.us/img7/820/documentationclass.jpg" width="683" height="807"/></td></tr>
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -32,23 +32,41 @@ References and pointers to additional resources and information (multimedia or p
 
      =Publication=
 
+<blockquote>
+         ==dcelements==
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
      <b>Quick Reference:</b> http://purl.org/dc/elements/1.1/
 
      This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace.
+</blockquote>
+<blockquote>
+          ==References==
+   
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
+
+           <b>Quick Reference:</b> http://www.tdwg.org/uploads/media/v101.xsd 
+
+           Bibliographic and multimedia reference IDs.
+
+           <b>Class:</b>: tcs:referenceType
+</blockquote>
 
 
      =Binary=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
+<blockquote>
+         ==dcelements==
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+
      <b>Quick Reference:</b> http://purl.org/dc/elements/1.1/
 
      This group is included as a convenience for schema authors who need to refer to all the elements in  the http://purl.org/dc/elements/1.1/namespace.
+</blockquote>
 
 <blockquote>
-
           ==MINE-Type==
 
            <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
@@ -58,7 +76,17 @@ References and pointers to additional resources and information (multimedia or p
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 </blockquote>
+<blockquote>
+          ==References==
+   
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
+           <b>Quick Reference:</b> http://www.tdwg.org/uploads/media/v101.xsd 
+
+           Bibliographic and multimedia reference IDs.
+
+           <b>Class:</b>: tcs:referenceType
+</blockquote>
 
      =Documentation Unstructured=
 
