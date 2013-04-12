@@ -52,7 +52,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
      <b>Class:</b> tcs:Reference Type
 
-     =Invasiveness Unstructured=
+     =Legislation Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
