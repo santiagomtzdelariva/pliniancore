@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<table ><tr><td><img src="http://imageshack.us/a/img248/820/documentationclass.jpg" width="676" height="731"/></td></tr>
+<table ><tr><td><img src="http://img209.imageshack.us/img209/820/documentationclass.jpg" width="683" height="807"/></td></tr>
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -60,7 +60,7 @@ References and pointers to additional resources and information (multimedia or p
 </blockquote>
 
 
-     =Un-structured Documentation=
+     =Documentation Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
