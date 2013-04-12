@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img4/7601/habitatclass.jpg" width="414" height="171"/>
+http://img21.imageshack.us/img21/7601/habitatclass.jpg
 
 
 ||Image||Description||
@@ -36,7 +36,7 @@ General description of the sites where the species is found (ecosystem, forest, 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-=Unstructured-Info=
+=Habitat Unstructured=
 
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
