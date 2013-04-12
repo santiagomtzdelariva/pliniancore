@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img171/9925/habitatanddistributionc.jpg" width="522" height="354"/>
+http://img829.imageshack.us/img829/9925/habitatanddistributionc.jpg
 
 
 ||Image||Description||
@@ -46,7 +46,7 @@
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/EndemicClass.
 
-     =Unstructured-Info=
+     =Habitat And Distribution Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
