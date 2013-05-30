@@ -48,17 +48,6 @@
      Unconstrained text specifying status + optional number, e. g., 'beta', 'alpha', 'rc/release candidate', 'internal'. If missing, release status is assumed.
 
 
-     ==Major==
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-     <b>Quick Reference:</b>
-
-     An optional minor version number ('2' in 1.2).
-
-    <b>Class:</b> xs:nonNegativeInteger.
-
-
      ==Date Issued==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
