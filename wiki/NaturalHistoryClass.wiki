@@ -177,6 +177,7 @@ http://img248.imageshack.us/img248/4200/naturalhistoryclass.jpg
 
      Ecological importance of the taxon. (Placeholder)
 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 
      =Misc Details=
 
