@@ -1,4 +1,4 @@
-#labels Element
+#labels Element,Description
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/TaxonomicalDescriptionClass
 
-Description of Taxon.
+Description of Taxon: Brief description, Full description, Identification keys and Ancillary Data.
