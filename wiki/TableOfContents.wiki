@@ -13,7 +13,7 @@
            * [DemographyAndConservation DemographyAndConservation]
            * [UsesAndmanagement UsesAndmanagement]
            * [References References]
-           * [AncillaryData AncillaryData]
+           * [AncillaryData AncillaryDataClass]
   * [PlinianCore_Classes Plinian Core Classes]
      * [AncillaryDataClass AncillaryData Class]
      * [CommonNamesClass CommonNames Class]
