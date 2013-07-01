@@ -102,7 +102,7 @@ http://img819.imageshack.us/img819/6981/37h3.jpg
 
      Unstructured information.
 
-     <b>Class:</b>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      =Ancillary Data=
 
