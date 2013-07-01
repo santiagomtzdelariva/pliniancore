@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img16.imageshack.us/img16/4854/taxonomicaldescriptionc.jpg
+http://img19.imageshack.us/img19/1196/s8ci.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -76,15 +76,16 @@ http://img16.imageshack.us/img16/4854/taxonomicaldescriptionc.jpg
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
 </blockquote></blockquote>
 <blockquote><blockquote>
-          ===Reference===
+          ===Ancillary Data===
 
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
-          <b>Quick Reference:</b> http://www.tdwg.org/uploads/media/v101.xsd 
+          <b>Quick Reference:</b> 
 
-          In any of the above fields, if any data was obtained from the literature, a reference must be made, just as it is done in a regular scientific publication, for example (Martinez y Barrera, 1997). The referenced literature is placed in this field, also in a format similar to the one in a scientific publication.
+          Ancillary Data.
 
-          <b>Class:</b> tcs: referenceType
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
 </blockquote></blockquote>
 
 <blockquote>
@@ -102,7 +103,7 @@ http://img16.imageshack.us/img16/4854/taxonomicaldescriptionc.jpg
 <blockquote>
      ==Ancillary Data==
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
      <b>Quick Reference:</b> 
 
