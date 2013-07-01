@@ -1,4 +1,4 @@
 #labels Element,AncillaryData
-<b>Quick Reference:</b> http://code.google.com/p/pliniancore/wiki/NomenclatureAndClassificationClass
+<b>Quick Reference:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
 Ancillary data: Text, Image, Audio, References, Agent, Rights, License...
