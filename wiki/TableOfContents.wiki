@@ -5,7 +5,7 @@
         * [TaxonRecord TaxonRecord]
            * [RecordMetadata RecordMetadata]
            * [BaseElements BaseElements]
-           * [NomenclatureAndNotification NomenclatureAndNotification]
+           * [NomenclatureAndClassification NomenclatureAndNotification]
            * [Description TaxonomicalDescription]
            * [NaturalHistory NaturalHistory]
            * [Invasiveness Invasiveness]
