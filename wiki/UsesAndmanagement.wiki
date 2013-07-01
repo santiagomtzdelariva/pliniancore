@@ -1,2 +1,2 @@
-#labels Element
+#labels Element,Uses,Folklore,Management
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/UsesAndManagementClass
