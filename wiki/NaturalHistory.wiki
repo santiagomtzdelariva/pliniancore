@@ -1,4 +1,4 @@
 #labels Element,Natural,History
 *Quick Reference:* http://code.google.com/p/pliniancore/wiki/NaturalHistoryClass
 
-Most relevant description about the species: Life Form, Life Cycle, Reproduction, Annual Cycles, Feeding, Dispersal, Behavior, Interactions, Molecular Data, MIgratory, Ecological Significance, Miscellaneous Details, Environmental Envelope and Ancillary Data.
+Most relevant description about the species: Life Form, Life Cycle, Reproduction, Annual Cycles, Feeding, Dispersal, Behavior, Interactions, Molecular Data, Migratory, Ecological Significance, Miscellaneous Details, Environmental Envelope and Ancillary Data.
