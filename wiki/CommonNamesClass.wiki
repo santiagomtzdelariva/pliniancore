@@ -45,4 +45,4 @@ http://img836.imageshack.us/img836/2650/3bov.jpg
 
    <b>Quick Reference:</b>
 
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataType
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
