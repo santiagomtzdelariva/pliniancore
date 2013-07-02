@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-http://img35.imageshack.us/img35/3029/ix7w.jpg
+http://img38.imageshack.us/img38/206/1ic7.jpg
 
 
 ||Image||Description||
@@ -16,15 +16,12 @@ http://img35.imageshack.us/img35/3029/ix7w.jpg
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
 
-<h1>*Legislation Class:*</h1>
+<h1>*Laws Class:*</h1>
 
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
 A national proposed law or group of laws. A regional proposed law or group of laws.
 
-     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
-
-     <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
      =Legislation Name=
 
@@ -42,28 +39,11 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =References=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+     =Ancillary Data=
 
-     <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-     Bibliographic and multimedia reference IDs.
+     Ancillary information.
 
-     <b>Class:</b> tcs:Reference Type
-
-     =Legislation Unstructured=
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-
-     Information in unstructured format.
-
-
-=Ancillary Data=
-
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-Ancillary information.
-
-*Class:* http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+     *Class:* http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
