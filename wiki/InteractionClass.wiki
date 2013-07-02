@@ -19,14 +19,6 @@ http://img268.imageshack.us/img268/6089/rhmx.jpg
 
 Interactions in structured format.
 
-     =Interaction Type=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     String with the type of interaction.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
      =Interaction Species=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
@@ -44,13 +36,18 @@ Interactions in structured format.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
+     =Interaction Type=
 
-     =References=
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+     String with the type of interaction.
 
-     <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     Bibliographic and multimedia reference IDs.
+     =Ancillary Data=
 
-     <b>Class:</b> tcs:Reference Type
+     <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+
+     Ancillary information.
+ 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
