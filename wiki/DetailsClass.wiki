@@ -2,8 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
-
-<img src="http://imageshack.us/a/img26/6086/detailclass.jpg" width="263" height="163"/>
+http://img12.imageshack.us/img12/3803/azlm.jpg
 
 
 ||Image||Description||
