@@ -60,7 +60,7 @@ List of regions structured and categorized the degree of safety.
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-   <b>Quick Reference:</b>+
+   <b>Quick Reference:</b>
 
    State of the distribution.
 
