@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://img547.imageshack.us/img547/1754/dispersalclass.jpg" width="508" height="432"/>
+http://img811.imageshack.us/img811/1975/yy2n.jpg
 
 
 ||Image||Description||
@@ -25,11 +25,14 @@
 
      =Purpose=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+     
+     <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/#MeasurementOrFact
 
      Makes reference to any data being measured (e.g. annual precipitation). 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b>
 
      =Type=
 
@@ -65,7 +68,7 @@
 
      =Ancillary Data=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
      Ancillary information.
  
