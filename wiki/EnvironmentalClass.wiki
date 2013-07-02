@@ -1,9 +1,9 @@
-#labels Class,EnvironmentalEnvelope
+#labels Class,Environmental,Envelope
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
 
-<img src="http://img24.imageshack.us/img24/389/environmentalenvelope.jpg" width="530" height="345"/>
+http://img69.imageshack.us/img69/1745/0psi.jpg
 
 
 ||Image||Description||
@@ -20,44 +20,20 @@
 
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-     <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
-     =Attribute=
+     =Measurment Or Fact=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     Makes reference to any data being measured (e.g. annual precipitation).  
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
      
-     =Type=
+     <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/#MeasurementOrFact
+     
+     The category of information pertaining to measurements, facts, characteristics, or assertions about a resource (instance of data record, such as Occurrence, Taxon, Location, Event).  
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     Range, Average or Unspecfied.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     =Value=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     Ej: 450.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-
-     =Unit=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     Ej: min. 
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> 
 
      =Environmental Unstructured=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/> 
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
      
      Unstructured format.
  
@@ -65,6 +41,6 @@
      
 =Ancillary Data=
 
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
 <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
