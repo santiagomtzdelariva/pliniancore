@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img443.imageshack.us/img443/6237/interactionsclass.jpg
+http://img15.imageshack.us/img15/3076/gar8.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -35,7 +35,7 @@ Mutual or reciprocal actions or influences.  For example, predation, parasitism,
 
      =Ancillary Data=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
      Ancillary information.
  
