@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://img820.imageshack.us/img820/4251/miscdetailclass.jpg" width="432" height="169"/>
+http://img801.imageshack.us/img801/3632/ni5z.jpg
 
 
 ||Image||Description||
@@ -26,22 +26,16 @@ Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymo
      
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>    
 
-     <b>Quick Reference:</b>
-
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailsClass
 
      =Detail Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
-     <b>Quick Reference:</b>
-
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      =Ancillary Data=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-     <b>Quick Reference:</b>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataType
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
