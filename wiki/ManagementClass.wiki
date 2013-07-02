@@ -1,8 +1,8 @@
-#labels Class,Management
+#labels Class,Management,PopulationPlantationObjectives,ManagementPlan,Financeinformation,PopulationPlantationThreats,EnvironmentalImpact
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img594.imageshack.us/img594/2222/managementclass.jpg
+http://img401.imageshack.us/img401/9094/ey7r.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -15,7 +15,7 @@ http://img594.imageshack.us/img594/2222/managementclass.jpg
 
 <h1><b>Management Class</b></h1>
 
-<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/><img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/><img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
      <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
@@ -28,7 +28,7 @@ http://img594.imageshack.us/img594/2222/managementclass.jpg
 
      =Management Plan=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -76,7 +76,7 @@ http://img594.imageshack.us/img594/2222/managementclass.jpg
 </blockquote></blockquote>
      =Finance Information=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -103,7 +103,7 @@ http://img594.imageshack.us/img594/2222/managementclass.jpg
 </blockquote>
      =Population Plantation Threats=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 <blockquote>
@@ -128,7 +128,7 @@ http://img594.imageshack.us/img594/2222/managementclass.jpg
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-     = Management Unstructured=
+     =Management Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
@@ -138,6 +138,8 @@ http://img594.imageshack.us/img594/2222/managementclass.jpg
 
 =Ancillary Data=
 
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataType
+Ancillary information.
+
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
