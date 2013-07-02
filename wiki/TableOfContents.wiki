@@ -42,7 +42,7 @@
      * [MigratoryDataClass Migratory Class]
         * [MigrationClass Migration Class]
      * [MiscDetailClass MiscDetails Class]
-        * [DetailsClass Details Class]
+        * [DetailsClass Detail Class]
      * [NaturalHistoryClass NaturalHistory Class]
      * [PopulationBiologyClass PopulationBiology Class]
      * [ResourceRelationshipClass ResourceRelationship Class]
