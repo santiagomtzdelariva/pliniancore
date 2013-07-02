@@ -30,6 +30,23 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
+     =Density Data=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+
+     Size of a population in relation to a definite unit of space.
+ 
+
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass 
+
+     =Pattern Distribution=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     Controlled vocabulary: Clumped, Uniform and  Random.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
      =Size=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
@@ -38,41 +55,6 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
      Estimation of the size, usually expressed as a range, of the populations of a species. (E.g. “total population size is estimated between 200,000 to 400,000 ducks in its distribution area”).
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
-
-     =Number Individuals Per Observation=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     In case of having census data
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
-
-
-     =Density Data=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
-
-     Size of a population in relation to a definite unit of space.
- 
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass  
-
-
-     =Average Density=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     Average of the densities obtained for a population
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
-
-     =Population Tendency=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     Controlled vocabulary: Stable, Increasing and Dreasing.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      =Sex Ratio=
 
@@ -90,6 +72,14 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
+     =Mortality Rate=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     The probability of dying; the ratio of number dying in a given time interval to the number alive at the beginning of the time interval 
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
+
      =Birth Rate=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
@@ -98,11 +88,43 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
-     =Mortality Rate=
+     =Number Individuals Per Observation=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-     The probability of dying; the ratio of number dying in a given time interval to the number alive at the beginning of the time interval 
+     In case of having census data
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
+
+     =Average Density=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     Average of the densities obtained for a population
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
+
+     =Population Tendency=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     Controlled vocabulary: Stable, Increasing and Dreasing.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+     =Recruitment=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+
+     Proportion of plants or animals that reach a size or age when they become less vulnerable to a change in their environment. Stage in which plants or animals can be consumed and can survive, as well as reproduce.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass 
+
+     =Population Growth Rate=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+
+     Rate that estimates the annual growth rate of a population based on the births, rates, emigration and immigration.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
@@ -116,23 +138,15 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      =Immigration=
 
-     |<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
      Individuals entering a population.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Population Growth Rate=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
-
-     Rate that estimates the annual growth rate of a population based on the births, rates, emigration and immigration.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass  
-
      =Description Life Stages=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
      Sex/age categories or life stages of a species; can be size in the case of plants.
 
@@ -154,21 +168,6 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Recruitment=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
-
-     Proportion of plants or animals that reach a size or age when they become less vulnerable to a change in their environment. Stage in which plants or animals can be consumed and can survive, as well as reproduce.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass  
-
-     =Pattern Distribution=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     Controlled vocabulary: Clumped, Uniform and  Random.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      =Population Biology Unstructured=
 
@@ -180,7 +179,6 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      =Ancillary Data=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
- 
+     <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
