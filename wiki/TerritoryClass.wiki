@@ -32,7 +32,7 @@ Information associated mostly to vertebrates, referring to the territorial exten
 
      =Area Of Occupancy=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
+     <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/> 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
