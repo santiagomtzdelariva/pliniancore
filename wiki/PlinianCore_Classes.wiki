@@ -17,6 +17,7 @@
      * [InteractionsClass Interactions Class]
      * [InvasivenessClass Invasiveness Class]
      * [LegislationClass Legislation Class]
+        * [LawsClass Laws Class]
      * [ManagementClass Management Class]     
      * [MeasurementOrFactClass MeasurementOrFact Class]
      * [MetadataClass Metadata Class]
