@@ -24,19 +24,19 @@ General description of the sites where the species is found (ecosystem, forest, 
 
      <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-     =Vocabulary Used=
+        =Vocabulary Used=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+        <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+        <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Type=
+        =Type=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
+        <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
 
-     Controled Vocabulary: prairie, forest, desert, mountain, marsh, savanna, polar region, river, swamp, coral reef, ocean, beach, creek, lake and plateau.
+        Controled Vocabulary: prairie, forest, desert, mountain, marsh, savanna, polar region, river, swamp, coral reef, ocean, beach, creek, lake and plateau.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+        <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      =Measurement Or Fact=
 
