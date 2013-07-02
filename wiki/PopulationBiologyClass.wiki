@@ -22,6 +22,14 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
+     =Abundance Data=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+
+     Total number of individuals of a population
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
+
      =Size=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
@@ -29,7 +37,7 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      Estimation of the size, usually expressed as a range, of the populations of a species. (E.g. “total population size is estimated between 200,000 to 400,000 ducks in its distribution area”).
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
      =Number Individuals Per Observation=
 
@@ -37,39 +45,18 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      In case of having census data
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     =Abundance Data=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
-
-     Total number of individuals of a population
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
-<blockquote> 
-</blockquote>
+
 
      =Density Data=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
      Size of a population in relation to a definite unit of space.
+ 
 
-<blockquote>
-          ==Value==
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass  
 
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
-
-          <b>Class:</b> xs:nonNegativeInteger   
-</blockquote>
-<blockquote>
-          ==Method==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          Method used to obtain the data. 
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString  
-</blockquote>
 
      =Average Density=
 
@@ -77,7 +64,7 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      Average of the densities obtained for a population
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
      =Population Tendency=
 
@@ -93,7 +80,7 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      The relative number of males to females in a population 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
      =Fecundity=
 
@@ -109,7 +96,7 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      Production of new individuals in a population 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
      =Mortality Rate=
 
@@ -117,7 +104,7 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      The probability of dying; the ratio of number dying in a given time interval to the number alive at the beginning of the time interval 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
      =Emigration=
 
@@ -141,22 +128,7 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      Rate that estimates the annual growth rate of a population based on the births, rates, emigration and immigration.
 
-<blockquote>
-          ==Value==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
-
-          <b>Class:</b> xs:nonNegativeInteger   
-</blockquote>
-<blockquote>
-          ==Method==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          Method used to obtain the data. 
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString  
-</blockquote>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass  
 
      =Description Life Stages=
 
@@ -172,7 +144,7 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      Percentage of individuals that belong to each life stage
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
      =Carrying Capacity=
 
@@ -188,22 +160,7 @@ http://img832.imageshack.us/img832/4236/nuz5.jpg
 
      Proportion of plants or animals that reach a size or age when they become less vulnerable to a change in their environment. Stage in which plants or animals can be consumed and can survive, as well as reproduce.
 
-<blockquote>
-          ==Value==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
-
-          <b>Class:</b> xs:nonNegativeInteger   
-</blockquote>
-<blockquote>
-          ==Method==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          Method used to obtain the data. 
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString  
-</blockquote>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass  
 
      =Pattern Distribution=
 
