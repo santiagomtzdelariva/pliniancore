@@ -1,8 +1,8 @@
-#labels Class,DemographyAndConservation
+#labels Class,Demography,Conservation,Territory,PopulationBiology,ThreatStatus,Legislation
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<img src="http://img267.imageshack.us/img267/7366/demograpichandconservat.jpg" width="786" height="737"/>
+http://img819.imageshack.us/img819/2286/i4wg.jpg
 
 
 ||Image||Description||
@@ -100,15 +100,13 @@ Information about the status of the taxon.
 
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass
 
-   ==References==
+   ==Ancillary Data==
 
-   <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+   <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-   <b>Quick Reference:</b>
+    Ancillary information.
 
-   Bibliographic and multimedia reference IDs.
-
-   <b>Class:</b> http://www.tdwg.org/schemas/tcs/1.01 (tcs: Reference Type.)
+    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
 
 =Legislation=
@@ -129,7 +127,7 @@ Unstructured information.
 
 =Ancillary Data=
 
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
 Ancillary information.
 
