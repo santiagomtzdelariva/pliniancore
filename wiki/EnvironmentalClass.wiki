@@ -25,11 +25,9 @@ http://img69.imageshack.us/img69/1745/0psi.jpg
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
      
-     <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/#MeasurementOrFact
-     
      The category of information pertaining to measurements, facts, characteristics, or assertions about a resource (instance of data record, such as Occurrence, Taxon, Location, Event).  
 
-     <b>Class:</b> 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass 
 
      =Environmental Unstructured=
 
