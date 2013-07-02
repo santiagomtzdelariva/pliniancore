@@ -76,16 +76,13 @@ List of regions structured and categorized the degree of safety.
 
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
+     =Ancillary Data=
 
-   ===References===
-   
-   <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-   <b>Quick Reference:</b> http://www.tdwg.org/uploads/media/v101.xsd 
-
-   Bibliographic and multimedia reference IDs.
-
-   <b>Class:</b>: tcs:referenceType
+     Ancillary information.
+ 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
 
 ==Distribution Area==
@@ -97,3 +94,11 @@ List of regions structured and categorized the degree of safety.
 Description of the distribution of the species.
 
 *Class:* http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+=Ancillary Data=
+
+<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+Ancillary information.
+ 
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
