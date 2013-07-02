@@ -1,4 +1,4 @@
-#labels Class,Hierarchy
+#labels Class,Hierarchy,kigdom,phylum,class,order,family,genus,subgenus,taxonRank,specificEpithet,higherClassification,ParentTaxon
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
