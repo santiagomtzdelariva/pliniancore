@@ -1,9 +1,9 @@
-#labels Class,HabitatAndDistribution
+#labels Class,HabitatAndDistribution,Habitat,Distribution,Endemic
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
 
-http://img829.imageshack.us/img829/9925/habitatanddistributionc.jpg
+http://img90.imageshack.us/img90/9350/tspm.jpg
 
 
 ||Image||Description||
@@ -55,6 +55,6 @@ http://img829.imageshack.us/img829/9925/habitatanddistributionc.jpg
 
 =Ancillary Data=
 
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
 <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
