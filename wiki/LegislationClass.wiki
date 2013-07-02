@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-http://img202.imageshack.us/img202/5189/legislationclass.jpg
+http://img35.imageshack.us/img35/3029/ix7w.jpg
 
 
 ||Image||Description||
@@ -24,33 +24,16 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
      <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-     <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+      <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-     =Legislation Name=
+     =Laws=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
-     Word or phrase to designate the law or group of laws.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     =Protection Legal Status=
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-     Description of the status.
+     Sequence of laws.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =References=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
-
-     <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
-
-     Bibliographic and multimedia reference IDs.
-
-     <b>Class:</b> tcs:Reference Type
 
      =Legislation Unstructured=
 
