@@ -46,6 +46,7 @@
      * [NaturalHistoryClass NaturalHistory Class]
      * [PopulationBiologyClass PopulationBiology Class]
      * [ReproductionClass Reproduction Class]
+        * [ReproductionUnitClass Reproduction Unit Class]
      * [ResourceRelationshipClass ResourceRelationship Class]
      * [RevisionClass Revision Class]
      * [SynonymsClass Synonyms Class]
