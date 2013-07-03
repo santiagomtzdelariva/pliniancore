@@ -40,4 +40,4 @@ http://img829.imageshack.us/img829/3808/v4uy.jpg
 
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataType
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
