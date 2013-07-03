@@ -47,7 +47,7 @@ http://img248.imageshack.us/img248/4200/naturalhistoryclass.jpg
 
      Data about reproduction of the species in wildlife or in captivity. 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ReproductionClass
 
  
      =Annual Cycle=
