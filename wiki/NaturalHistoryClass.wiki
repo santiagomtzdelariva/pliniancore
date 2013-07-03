@@ -25,7 +25,7 @@ http://img248.imageshack.us/img248/4200/naturalhistoryclass.jpg
 
      General appearance. Characteristic mode of growth or occurrence associated to its environment, particularly for plants.  Comprising its size, shape, texture and orientation. Example:  tree, shrubs, herbs.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/LifeFormClass 
 
 
      =Life Cycle=
