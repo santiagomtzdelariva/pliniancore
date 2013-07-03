@@ -18,9 +18,7 @@ http://img59.imageshack.us/img59/552/kmqs.jpg
 
 <h2>*Annual Cycle Class:*</h2>
 
-<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>  
-
-General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder). 
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>   
 
      <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
