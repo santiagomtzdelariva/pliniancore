@@ -29,4 +29,20 @@ http://img69.imageshack.us/img69/1745/0psi.jpg
      
      Structured information  
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ReproductionUnitClass 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ReproductionUnitClass
+
+     =Reproduction Unstructured=
+
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+     
+     Unstructured information.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+=Ancillary Data=
+
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
+     
+Ancillary information.
+
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
