@@ -17,6 +17,8 @@
            * [AncillaryData AncillaryData]
   * [PlinianCore_Classes Plinian Core Classes]
      * [AncillaryDataClass AncillaryData Class]
+     * [AnnualCyclesClass AnnualCycles Class]
+        * [AnnualCycleClass AnnualCycle Class]
      * [CommonNamesClass CommonNames Class]
         * [CommonNameClass CommonName Class]
      * [DemographyAndConservationClass DemographyAndConservation Class]
