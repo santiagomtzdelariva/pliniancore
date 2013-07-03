@@ -2,8 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
-
-http://img838.imageshack.us/img838/8214/ujal.jpg
+http://img829.imageshack.us/img829/3808/v4uy.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
