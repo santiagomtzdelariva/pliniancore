@@ -26,7 +26,7 @@ http://img818.imageshack.us/img818/68/j3tl.jpg
 
 Structured information.
 
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/HabitatClass
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AnnualCycleClass
 
 =Annual Cycle Unstructured=
 
