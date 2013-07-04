@@ -47,10 +47,11 @@
      * [MiscDetailClass MiscDetails Class]
         * [DetailsClass Detail Class]
      * [NaturalHistoryClass NaturalHistory Class]
+        * [ReproductionClass Reproduction Class]
+           * [ReproductionUnitClass Reproduction Unit Class]
         * [FeedingClass Feeding Class]
      * [PopulationBiologyClass PopulationBiology Class]
-     * [ReproductionClass Reproduction Class]
-        * [ReproductionUnitClass Reproduction Unit Class]
+
      * [ResourceRelationshipClass ResourceRelationship Class]
      * [RevisionClass Revision Class]
      * [SynonymsClass Synonyms Class]
