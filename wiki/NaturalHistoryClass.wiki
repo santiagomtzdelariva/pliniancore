@@ -47,11 +47,26 @@ http://img547.imageshack.us/img547/1142/fjwb.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> 
 
-     <b>Quick Reference:</b>
-
      Life history of a living organism: The course of developmental changes in an organism from fertilized zygote to maturity or stages through which an organism passes.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+
+<blockquote><blockquote>
+          ==Para==
+
+          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+          <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/NormalString
+</blockquote></blockquote>
+<blockquote><blockquote>
+          ==Ancillary Data==
+
+          <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+          Ancillary information.
+
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+</blockquote></blockquote>
 
      =Reproduction=
 
