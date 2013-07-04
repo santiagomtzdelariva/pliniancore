@@ -113,7 +113,22 @@ http://img842.imageshack.us/img842/5921/o97k.jpg
 
      Responses, reactions or movements made by an organism in a particular situation.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+<blockquote><blockquote>
+          ==Para==
+
+          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+          <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/NormalString
+</blockquote></blockquote>
+<blockquote><blockquote>
+          ==Ancillary Data==
+
+          <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+          Ancillary information.
+
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+</blockquote></blockquote>
 
      =Interactions=
 
