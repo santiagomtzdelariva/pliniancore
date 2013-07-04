@@ -47,6 +47,7 @@
      * [MiscDetailClass MiscDetails Class]
         * [DetailsClass Detail Class]
      * [NaturalHistoryClass NaturalHistory Class]
+        * [FeedingClass Feeding Class]
      * [PopulationBiologyClass PopulationBiology Class]
      * [ReproductionClass Reproduction Class]
         * [ReproductionUnitClass Reproduction Unit Class]
