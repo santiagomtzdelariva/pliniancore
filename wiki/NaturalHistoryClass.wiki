@@ -96,7 +96,7 @@ http://img842.imageshack.us/img842/5921/o97k.jpg
      Information related to supply food for the development and sustenance of the individual and/or its offspring.
 
 
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/FeedingClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/FeedingClass
 
 
      =Dispersal=
