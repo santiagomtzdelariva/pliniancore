@@ -1,4 +1,4 @@
-#labels Class,NaturalHistory
+#labels Class,NaturalHistory,LifeForm,LifeCycle,Reproduction,AnnualCycles,Feeding,Dispersal,Behavior,Interactions,MolecularData,Migratory,EcologicalSignificance,MiscDetails,EnvionmentalEnvelope
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
@@ -102,78 +102,19 @@ http://img842.imageshack.us/img842/5921/o97k.jpg
 
      Set of changes or events that recurrently take place at the same time of year and are influenced by seasonal and interannual climate variations. For example: reproduction, flowering, fruiting, emergence of insects, etc. Also called phenology, mainly in plants. In the case of migration, refers only to the timing of it; other data about this are gathered in MigratoryData.
 
-<blockquote><blockquote>
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AnnualCyclesClass
 
-          ==Event==
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-     
-</blockquote></blockquote>
-<blockquote><blockquote>
-
-          ==Time Interval==
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-     
-</blockquote></blockquote>     
-<blockquote><blockquote>
-          ==Annual Cycle Unstructured==
-
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/> 
-
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote>
-<blockquote><blockquote>
-          ==Ancillary Data==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-</blockquote></blockquote>
 
      =Feeding=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-     <b>Quick Reference:</b>
 
      Information related to supply food for the development and sustenance of the individual and/or its offspring.
 
 
-<blockquote><blockquote>
-          ==Thropic Strategy==
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/FeedingClass
 
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-</blockquote></blockquote>
-<blockquote><blockquote>
-          ==Thropic Strategy Qualifier==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
-
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-          
-</blockquote></blockquote>
-
-<blockquote><blockquote>
-          ==Feeding Unstructured==
-
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
-
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote>
-<blockquote><blockquote>
-     ==Ancillary Data==
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
-
-     <b>Quick Reference:</b> 
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-</blockquote></blockquote>
 
      =Dispersal=
 
