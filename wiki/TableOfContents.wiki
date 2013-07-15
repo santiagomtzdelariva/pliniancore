@@ -17,6 +17,7 @@
            * [AncillaryData AncillaryData]
   * [PlinianCore_Classes Plinian Core Classes]
      * [AncillaryDataClass AncillaryData Class]
+     * [NomenclatureAndClassificationClass NomenclatureAndClassification Class]
      * [CommonNamesClass CommonNames Class]
         * [CommonNameClass CommonName Class]
      * [DemographyAndConservationClass DemographyAndConservation Class]
