@@ -25,22 +25,7 @@ http://img801.imageshack.us/img801/3180/16d0.jpg
 
      General appearance. Characteristic mode of growth or occurrence associated to its environment, particularly for plants.  Comprising its size, shape, texture and orientation. Example:  tree, shrubs, herbs.
 
-<blockquote><blockquote>
-          ==Para==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote>
-<blockquote><blockquote>
-          ==Ancillary Data==
-
-          <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-          Ancillary information.
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-</blockquote></blockquote>
+<b>Class:</b>  http://code.google.com/p/pliniancore/wiki/DetailClass
 
 
      =Life Cycle=
@@ -49,22 +34,8 @@ http://img801.imageshack.us/img801/3180/16d0.jpg
 
      Life history of a living organism: The course of developmental changes in an organism from fertilized zygote to maturity or stages through which an organism passes.
 
-<blockquote><blockquote>
-          ==Para==
+<b>Class:</b>  http://code.google.com/p/pliniancore/wiki/DetailClass
 
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote>
-<blockquote><blockquote>
-          ==Ancillary Data==
-
-          <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-          Ancillary information.
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-</blockquote></blockquote>
 
      =Reproduction=
 
@@ -113,22 +84,7 @@ http://img801.imageshack.us/img801/3180/16d0.jpg
 
      Responses, reactions or movements made by an organism in a particular situation.
 
-<blockquote><blockquote>
-          ==Para==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote>
-<blockquote><blockquote>
-          ==Ancillary Data==
-
-          <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-          Ancillary information.
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-</blockquote></blockquote>
+<b>Class:</b>  http://code.google.com/p/pliniancore/wiki/DetailClass
 
      =Interactions=
 
@@ -144,7 +100,7 @@ http://img801.imageshack.us/img801/3180/16d0.jpg
 
      Information on the chemical structures and biological processes at the molecular level: DNA and proteins sequences, protein structures, expression profiles of genes protein domains, families of genes,  mutations, polymorphisms, involvement in disease, ... Undeveloped. Placeholder for connecting with standards developed by specialists. For example, Standards for Data Exchange and Management from Scalalife (http://www.scalalife.eu/content/data) 
 
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MolecularDataClass
 
      =Migratory Data=
 
@@ -161,7 +117,7 @@ http://img801.imageshack.us/img801/3180/16d0.jpg
 
      Ecological importance of the taxon. (Placeholder)
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
      =Misc Details=
 
