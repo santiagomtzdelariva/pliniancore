@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img842.imageshack.us/img842/5921/o97k.jpg
+http://img801.imageshack.us/img801/3180/16d0.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
