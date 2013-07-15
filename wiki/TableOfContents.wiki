@@ -45,7 +45,6 @@
      * [MigratoryDataClass Migratory Class]
         * [MigrationClass Migration Class]
      * [MiscDetailClass MiscDetails Class]
-        * [DetailsClass Detail Class]
      * [NaturalHistoryClass NaturalHistory Class]
         * [ReproductionClass Reproduction Class]
            * [ReproductionUnitClass Reproduction Unit Class]
