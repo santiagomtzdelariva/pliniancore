@@ -23,6 +23,7 @@
         * [CommonNameClass CommonName Class]
      * [DemographyAndConservationClass DemographyAndConservation Class]
      * [DescriptionItemClass DescriptionItem Class]
+     * [DetailClass Detail Class]
      * [DistributionClass Distribution Class]
      * [EndemicClass Endemic Class]
      * [EnvironmentalClass Enviromental Class]
