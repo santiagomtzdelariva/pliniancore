@@ -1,2 +1,2 @@
 #labels Element,Invasiveness
-*Class:*  http://code.google.com/p/pliniancore/wiki/InvasivenessClass
+*Quick references:*  http://code.google.com/p/pliniancore/wiki/InvasivenessClass
