@@ -21,7 +21,7 @@
      * [RevisionClass Revision Class]
      * [NomenclatureAndClassificationClass  NomenclatureAndClassification Class]
         * [SynonymsClass Synonyms Class]
-           * [SynonymClass Synonym Class]
+           * [SynonymsAtomizedClass SynonymsAtomized Class]
         * [CommonNamesClass CommonNames Class]
            * [CommonNameClass CommonName Class]
         * [FlatHierarchyClass Hierarchy Class]
