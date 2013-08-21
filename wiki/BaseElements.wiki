@@ -45,7 +45,7 @@ Basic information to identify the record.
      <b>Class:</b> http://rs.tdwg.org/dwc/terms/Taxon
 
 
-     =globalUniqueIdentifier=
+     =GlobalUniqueIdentifier=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
