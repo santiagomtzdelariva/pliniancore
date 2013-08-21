@@ -30,7 +30,6 @@
      * [TaxonomicalDescriptionClass TaxonomicalDescription Class]
      * [NaturalHistoryClass NaturalHistory Class]
         * [ReproductionClass Reproduction Class]
-           * [ReproductionUnitClass Reproduction Unit Class]
         * [AnnualCyclesClass AnnualCycles Class]
            * [AnnualCycleClass AnnualCycle Class]
         * [FeedingClass Feeding Class]
