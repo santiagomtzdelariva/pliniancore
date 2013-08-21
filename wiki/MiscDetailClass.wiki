@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-http://img801.imageshack.us/img801/3632/ni5z.jpg
+http://img713.imageshack.us/img713/3691/71vj.jpg
 
 
 ||Image||Description||
@@ -22,7 +22,7 @@ http://img801.imageshack.us/img801/3632/ni5z.jpg
 
 Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymology, ...
 
-     =Detail=
+     =Detail Atomized=
      
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
