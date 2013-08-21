@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img801.imageshack.us/img801/3180/16d0.jpg
+http://img401.imageshack.us/img401/9315/nzlj.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -44,7 +44,7 @@ http://img801.imageshack.us/img801/3180/16d0.jpg
 
      <b>Quick Reference:</b>
 
-     Data about reproduction of the species in wildlife or in captivity. 
+     All data related to the production of offspring.  
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ReproductionClass
 
@@ -102,7 +102,7 @@ http://img801.imageshack.us/img801/3180/16d0.jpg
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MolecularDataClass
 
-     =Migratory Data=
+     =Migratory=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
