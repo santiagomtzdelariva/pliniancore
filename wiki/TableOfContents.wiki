@@ -26,6 +26,7 @@
            * [CommonNameClass CommonName Class]
         * [FlatHierarchyClass Hierarchy Class]
         * [MiscDetailClass MiscDetails Class]
+           * [DetailClass Detail Class]
      * [TaxonomicalDescriptionClass TaxonomicalDescription Class]
      * [NaturalHistoryClass NaturalHistory Class]
         * [ReproductionClass Reproduction Class]
