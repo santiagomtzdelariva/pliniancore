@@ -27,7 +27,7 @@ http://img46.imageshack.us/img46/8936/4rnc.jpg
 
      Structured information. Name for this taxon. This concept is a placeholder field. 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/SynonymClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/SynonymsAtomizedClass
 
      =Synonyms Unstructured=
 
