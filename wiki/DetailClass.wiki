@@ -15,7 +15,7 @@ http://img818.imageshack.us/img818/8646/m4m4.jpg
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
 
-<h1>*Detail Atomized:*</h1>
+*Detail Atomized:*
 
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
