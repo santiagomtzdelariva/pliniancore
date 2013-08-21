@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img19.imageshack.us/img19/1196/s8ci.jpg
+http://img20.imageshack.us/img20/2947/37nq.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -26,48 +26,50 @@ http://img19.imageshack.us/img19/1196/s8ci.jpg
 
      Brief description, presented in a simple technical language, to distinguish the species from other close or similar ones.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote>
 <blockquote>
      ==Full Description==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> 
 
-
      Diagnostic description.
 </blockquote>
 <blockquote><blockquote>
-          ===Description Item===
+          ===Full Description Atomized===
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/> 
 
           <b>Quick Reference:</b> 
 
           Structure diagnostic characters.
 
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DescriptionItemClass
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 </blockquote></blockquote>
 <blockquote><blockquote>
-          ===Description Text===
+          ===Full Description Unstructured===
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
           <b>Quick Reference:</b> 
 
           Unstructured diagnostic characters.
 
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
 <blockquote>
      ==Identification Keys==
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
-     Tool for the identification of organisms, comprising a series of steps, each of which represents a question about one or more characters of the organism. Each step offers multiple alternatives, choosing one of them will lead us to the next step until ending, finally, in the name of the organism. Most printed keys have only two alternatives, so called dichotomous keys.
+     Tool for the identification of organisms, comprising a series of steps, each of which represents a question about one or more characters of the organism. Each step offers multiple alternatives, choosing one of them will lead us to the next step until ending, finally, in the name of the organism. Most printed keys have only two alternatives, so called dichotomous keys.                                                      A taxon includes a key or an identification of key  in the subordinate taxons.
+     For example: 
+     If we are in a register of a genre, this register would include the keys of the species that this register includes, and if it´s one specie, then it would include the key of the infraspecific rank (For plants: subspecies, variety forms)
+
 
 </blockquote>
 <blockquote><blockquote>
           ===Keys===
 
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
           <b>Quick Reference:</b> 
 
