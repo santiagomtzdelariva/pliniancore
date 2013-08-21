@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-<img src="http://imageshack.us/a/img839/8419/recordmetadata.jpg" width="572" height="437"/>
+http://img839.imageshack.us/img839/9929/ekpx.jpg
 
 
 ||Image||Description||
@@ -54,7 +54,7 @@
 </blockquote>
 <blockquote>
 
-          ==Un-structuredAudiences==
+          ==AudiencesUnstructured==
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
