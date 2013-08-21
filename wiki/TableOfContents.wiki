@@ -23,7 +23,7 @@
         * [SynonymsClass Synonyms Class]
            * [SynonymsAtomizedClass SynonymsAtomized Class]
         * [CommonNamesClass CommonNames Class]
-           * [CommonNameClass CommonName Class]
+           * [CommonNamesAtomizedClass CommonNamesAtomized Class]
         * [FlatHierarchyClass Hierarchy Class]
         * [MiscDetailClass MiscDetails Class]
            * [DetailClass Detail Class]
