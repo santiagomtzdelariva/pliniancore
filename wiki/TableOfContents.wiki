@@ -31,7 +31,7 @@
      * [NaturalHistoryClass NaturalHistory Class]
         * [ReproductionClass Reproduction Class]
         * [AnnualCyclesClass AnnualCycles Class]
-           * [AnnualCycleClass AnnualCycle Class]
+           * [AnnualCycleAtomizedClass AnnualCycleAtomized Class]
         * [FeedingClass Feeding Class]
         * [DispersalClass Dispersal Class]
         * [InteractionsClass Interactions Class]
