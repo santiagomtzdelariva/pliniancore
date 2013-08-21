@@ -29,7 +29,7 @@ http://img824.imageshack.us/img824/4832/0mch.jpg
      
      Structured information  
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ReproductionUnitClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
      =Reproduction Unstructured=
 
