@@ -36,6 +36,7 @@
            * [FeedingAtomizedClass FeedingAtomized Class]
         * [DispersalClass Dispersal Class]
            * [DispersalAtomizedClass DispersalAtomized Class]
+        * [BehaviorClass Behavior Class]
         * [InteractionsClass Interactions Class]
            * [InteractionClass Interaction Class]
         * [MolecularDataClass Molecular Class]
