@@ -38,7 +38,7 @@
            * [DispersalAtomizedClass DispersalAtomized Class]
         * [BehaviorClass Behavior Class]
         * [InteractionsClass Interactions Class]
-           * [InteractionClass Interaction Class]
+           * [InteractionAtomizedClass InteractionAtomized Class]
         * [MolecularDataClass Molecular Class]
         * [MigratoryDataClass Migratory Class]
            * [MigrationClass Migration Class]
