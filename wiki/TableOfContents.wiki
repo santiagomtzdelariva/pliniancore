@@ -45,7 +45,7 @@
         * [EcologicalClass EcologicalSignificance Class]
         * [EnvironmentalClass Enviromental Class]
      * [InvasivenessClass Invasiveness Class]
-        * [invasivenessAtomizedClass InvasivenessAtomized Class]
+        * [InvasivenessAtomizedClass InvasivenessAtomized Class]
      * [HabitatAndDistributionClass HabitatAndDistribution Class]
         * [HabitatsClass Habitats Class]
            * [HabitatClass Habitat Class]
