@@ -28,7 +28,7 @@ http://img29.imageshack.us/img29/7007/wm0z.jpg
 
      Structured information. 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MigrationClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MigratoryAtomizedClass
      
      
      =Migratory Unstructured=
