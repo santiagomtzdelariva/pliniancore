@@ -41,7 +41,7 @@
            * [InteractionAtomizedClass InteractionAtomized Class]
         * [MolecularDataClass MolecularData Class]
         * [MigratoryDataClass Migratory Class]
-           * [MigrationClass Migration Class]
+           * [MigratoryAtomizedClass MigratoryAtomized Class]
         * [EnvironmentalClass Enviromental Class]
      * [InvasivenessClass Invasiveness Class]
      * [HabitatAndDistributionClass HabitatAndDistribution Class]
