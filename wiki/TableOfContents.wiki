@@ -48,7 +48,6 @@
         * [InvasivenessAtomizedClass InvasivenessAtomized Class]
      * [HabitatAndDistributionClass HabitatAndDistribution Class]
         * [HabitatsClass Habitats Class]
-           * [HabitatClass Habitat Class]
         * [DistributionClass Distribution Class]
         * [EndemicClass Endemic Class]
      * [DemographyAndConservationClass DemographyAndConservation Class]
