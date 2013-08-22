@@ -39,7 +39,7 @@
         * [BehaviorClass Behavior Class]
         * [InteractionsClass Interactions Class]
            * [InteractionAtomizedClass InteractionAtomized Class]
-        * [MolecularDataClass Molecular Class]
+        * [MolecularDataClass MolecularData Class]
         * [MigratoryDataClass Migratory Class]
            * [MigrationClass Migration Class]
         * [EnvironmentalClass Enviromental Class]
