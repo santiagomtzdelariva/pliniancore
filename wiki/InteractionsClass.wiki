@@ -27,7 +27,7 @@ Mutual or reciprocal actions or influences.  For example, predation, parasitism,
 
      Structured information.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/InteractionClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/InteractionAtomizedClass
 
      =Interactions Unstructured=
 
