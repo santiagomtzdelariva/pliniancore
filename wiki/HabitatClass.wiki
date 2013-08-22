@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-http://img405.imageshack.us/img405/6286/1ycf.jpg
+http://img23.imageshack.us/img23/6168/wtzo.jpg
 
 
 ||Image||Description||
@@ -16,7 +16,7 @@ http://img405.imageshack.us/img405/6286/1ycf.jpg
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
 
-<h2>*Habitat Class:*</h2>
+<h2>*Habitats Class:*</h2>
 
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>  
 
@@ -24,37 +24,20 @@ General description of the sites where the species is found (ecosystem, forest, 
 
      <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-        =Vocabulary Used=
+     =Habitat Atomized=
 
-        <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-        <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+      
 
-        =Type=
+     =Habitat Unstructured=
 
-        <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
-        Controled Vocabulary: prairie, forest, desert, mountain, marsh, savanna, polar region, river, swamp, coral reef, ocean, beach, creek, lake and plateau.
+     Unstrutured information.
 
-        <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     =Measurement Or Fact=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
-
-     <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/#MeasurementOrFact
-
-     The category of information pertaining to measurements, facts, characteristics, or assertions about a resource (instance of data record, such as Occurrence, Taxon, Location, Event).
-
-     <b>Class:</b> 
-
-=Habitat Unstructured=
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
-
-Unstrutured information.
-
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 =Ancillary Data=
 
