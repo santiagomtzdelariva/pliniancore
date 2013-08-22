@@ -33,6 +33,7 @@
         * [AnnualCyclesClass AnnualCycles Class]
            * [AnnualCyclesAtomizedClass AnnualCyclesAtomized Class]
         * [FeedingClass Feeding Class]
+           * [FeedingAtomizedClass FeedingAtomized Class]
         * [DispersalClass Dispersal Class]
         * [InteractionsClass Interactions Class]
            * [InteractionClass Interaction Class]
