@@ -84,7 +84,7 @@ http://img401.imageshack.us/img401/9315/nzlj.jpg
 
      Responses, reactions or movements made by an organism in a particular situation.
 
-<b>Class:</b>  http://code.google.com/p/pliniancore/wiki/DetailClass
+<b>Class:</b>  http://code.google.com/p/pliniancore/wiki/BehaviorClass
 
      =Interactions=
 
@@ -94,7 +94,7 @@ http://img401.imageshack.us/img401/9315/nzlj.jpg
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/InteractionsClass
 
-     =Molecular Data=
+     =Molecular=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> 
 
@@ -117,7 +117,7 @@ http://img401.imageshack.us/img401/9315/nzlj.jpg
 
      Ecological importance of the taxon. (Placeholder)
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/EcologicalClass
 
      =Misc Details=
 
