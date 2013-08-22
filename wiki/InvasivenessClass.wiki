@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-http://img442.imageshack.us/img442/8208/q59n.jpg
+http://img593.imageshack.us/img593/2594/gwoc.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -19,69 +19,24 @@ http://img442.imageshack.us/img442/8208/q59n.jpg
 
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-     =GSIN elements=
+     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-     <b>Quick reference:</b> http://www.gisin.org/cwis438/websites/GISINDirectory/Tech/Model_info.php?ModelID=1&WebSiteID=4
+     =Invasiveness Atomized=
 
-     <b>Class:</b> http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd
+     Structured information.
 
-     =What Impact=
-
-     What the actual impact is, for instance: Is it eating all the riparian vegetation? Are their burrows destroying irrigation systems? Is it displacing  Arvicola sapidus?
-
-
-     =impactTarget=
-
-     Who/what the species is impacting.
-
-||<b>Controlled vocabulary</b>||
-||Economy||
-||Environment||
-||Human Health||
-||Unknown||
-
-     =impactMechanism=
-
-     Mechanism of introduction or impact to a new location.
-
-||<b>Controlled vocabulary</b>||
-||Allergeny||
-||Competition||
-||Disease Transmission||
-||Fouling||
-||Herbivory||
-||Hybridization||
-||Inhibits Growth Of Other Species||
-||Interaction With Other Invasive Species||
-||Modifies Fire Regime||
-||Modifies Hydrology||
-||Modifies Natural Benthic Communities||
-||Modifies Nutrient Regime||
-||Modifies Successional Patterns||
-||Other See Memo For Description||
-||Parasitism||
-||Pathogenic||
-||Physical Disturbance||
-||Pollen Swamping||
-||Predation||
-||Transpiration||
-||Unknown||
-     
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
      =Invasiveness Unstructured=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-
-     Information that cant be documented in other site.
+     Unstructured information.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Ancillary Data=
+=Ancillary Data=
 
-     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
+Ancillary information.
 
-     Ancillary information.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
