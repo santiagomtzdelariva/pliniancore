@@ -42,6 +42,7 @@
         * [MolecularDataClass MolecularData Class]
         * [MigratoryDataClass Migratory Class]
            * [MigratoryAtomizedClass MigratoryAtomized Class]
+        * [EcologicalClass EcologicalSignificance Class]
         * [EnvironmentalClass Enviromental Class]
      * [InvasivenessClass Invasiveness Class]
      * [HabitatAndDistributionClass HabitatAndDistribution Class]
