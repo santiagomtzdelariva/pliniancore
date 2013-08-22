@@ -1,0 +1,77 @@
+#labels Class,InvasivenessAtomized
+<h2>*Schema and Legend:*</h2>
+
+<wiki:toc />
+
+http://img196.imageshack.us/img196/1318/ctwk.jpg
+
+||Image||Description||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+
+
+<h2>*Invasiveness Atomized Class:*</h2>
+
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
+     =GSIN elements=
+
+     <b>Quick reference:</b> http://www.gisin.org/cwis438/websites/GISINDirectory/Tech/Model_info.php?ModelID=1&WebSiteID=4
+
+     <b>Class:</b> http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd
+
+     =What Impact=
+
+     What the actual impact is, for instance: Is it eating all the riparian vegetation? Are their burrows destroying irrigation systems? Is it displacing  Arvicola sapidus?
+
+
+     =Impact Target=
+
+     Who/what the species is impacting.
+
+||<b>Controlled vocabulary</b>||
+||Economy||
+||Environment||
+||Human Health||
+||Unknown||
+
+     =Impact Mechanism=
+
+     Mechanism of introduction or impact to a new location.
+
+||<b>Controlled vocabulary</b>||
+||Allergeny||
+||Competition||
+||Disease Transmission||
+||Fouling||
+||Herbivory||
+||Hybridization||
+||Inhibits Growth Of Other Species||
+||Interaction With Other Invasive Species||
+||Modifies Fire Regime||
+||Modifies Hydrology||
+||Modifies Natural Benthic Communities||
+||Modifies Nutrient Regime||
+||Modifies Successional Patterns||
+||Other See Memo For Description||
+||Parasitism||
+||Pathogenic||
+||Physical Disturbance||
+||Pollen Swamping||
+||Predation||
+||Transpiration||
+||Unknown||
+     
+     =Ancillary Data=
+
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+
+     Ancillary information.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
