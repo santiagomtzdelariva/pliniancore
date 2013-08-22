@@ -23,46 +23,18 @@ http://img818.imageshack.us/img818/681/tuj5.jpg
 
 <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-     =Purpose=
-
-
-     <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+     =Dispersal Atomized=
      
-     <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/#MeasurementOrFact
+     Structured information. 
 
-     Makes reference to any data being measured (e.g. annual precipitation). 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DispersalAtomizedClass
 
-     <b>Class:</b>
-
-     =Type=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     Controlled vocabulary: Zoochory, Anemochory, Hydrochory, Barochory, Autochory
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     =Structure Dispersed=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     Controlled vocabulary: Seed, Fruit, Vegetative structure, Spores, Gametes, Eggs, Offspring and Individuals
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     =Distance=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     (ej. 450)
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
      =Dispersal Unstructured=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Unstructured format.
+     Unstructured information.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
