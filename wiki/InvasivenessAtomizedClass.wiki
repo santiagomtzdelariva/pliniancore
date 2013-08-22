@@ -27,10 +27,15 @@ http://img196.imageshack.us/img196/1318/ctwk.jpg
 
      =What Impact=
 
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
      What the actual impact is, for instance: Is it eating all the riparian vegetation? Are their burrows destroying irrigation systems? Is it displacing  Arvicola sapidus?
 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      =Impact Target=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
      Who/what the species is impacting.
 
@@ -40,7 +45,11 @@ http://img196.imageshack.us/img196/1318/ctwk.jpg
 ||Human Health||
 ||Unknown||
 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
      =Impact Mechanism=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
      Mechanism of introduction or impact to a new location.
 
@@ -66,6 +75,8 @@ http://img196.imageshack.us/img196/1318/ctwk.jpg
 ||Predation||
 ||Transpiration||
 ||Unknown||
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
      
      =Ancillary Data=
 
