@@ -18,8 +18,6 @@ http://img607.imageshack.us/img607/8412/tqpz.jpg
 
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-     <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
-
      =Extent Of Occurence=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> 
