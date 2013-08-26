@@ -21,7 +21,7 @@ http://img819.imageshack.us/img819/2286/i4wg.jpg
 
 Information concerning the demographic aspects of the species, as well as the conservation status
 
-     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> 
+<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> 
 
      <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
