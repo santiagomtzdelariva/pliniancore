@@ -46,4 +46,4 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
      Ancillary information.
 
-     *Class:* http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
