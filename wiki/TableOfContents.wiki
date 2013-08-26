@@ -51,6 +51,7 @@
         * [DistributionClass Distribution Class]
            * [DistributionAtomizedClass DistributionAtomized Class]
         * [EndemicClass Endemic Class]
+           * [EndemicAtomizedClass EndemicAtomized Class]
      * [DemographyAndConservationClass DemographyAndConservation Class]
         * [TerritoryClass Territory Class]
         * [PopulationBiologyClass PopulationBiology Class]
