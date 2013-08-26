@@ -1,4 +1,4 @@
-#labels Class,Demography,Conservation,Territory,PopulationBiology,ThreatStatus,Legislation
+#labels Class,Demography,Conservation,Territory,PopulationBiology,ThreatStatus,Legislation,ThreatCategory,Authority,AppliesTo,DirectThreats
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
@@ -21,6 +21,10 @@ http://img819.imageshack.us/img819/2286/i4wg.jpg
 
 Information concerning the demographic aspects of the species, as well as the conservation status
 
+     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> 
+
+     <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
      =Territory=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
@@ -30,92 +34,68 @@ Information concerning the demographic aspects of the species, as well as the co
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TerritoryClass
 
 
-=Population Biology=
+     =Population Biology=
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-<b>Quick Reference:</b>
+     Information about the number of individuals per area or time unit. 
 
-Information about the number of individuals per area or time unit. 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/PopulationBiologyClass
 
+     =Threat Status=
 
-=Threat Status=
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+     Information about the status of the taxon. 
 
-Information about the status of the taxon. 
+          ==ThreatCategory==
 
+         <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-   ==Threat Status==
+         Description of the threat status.
 
-   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+         <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-   Description of the threat status.
+         ==Authority==
 
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+         <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
+         Criteria apply to assess threat status.
 
-   ==Thread==
-
-   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-   Description of the threat status.
-
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+         <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-   ==Conservation Actions==
+         ==Applies To==
 
-   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+         <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
+         Location where the status is used.
 
-   Description of the threat status.
+         <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass
 
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+         ==Ancillary Data==
 
+         <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-   ==Authority==
+         Ancillary information.
 
-   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+        <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
-   Criteria apply to assess threat status.
+     =Direct Threats=
 
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
+     Direct threats are the proximate human activities or processes that have caused, are causing, or may cause the destruction, degradation, and/or impairment of biodiversity targets (e.g., unsustainable fishing or logging). Direct threats are synonymous with sources of stress and proximate pressures. Threats can be past (historical), ongoing, and/or likely to occur in the future.
 
-   ==According To==
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
-   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     =Legislation=
 
-   Criteria apply to assess such  status.
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     A national proposed  law or group of laws. A regional proposed  law or group of laws.
 
-
-   ==Applies To==
-
-   <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-   Location where the status is used.
-
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionClass
-
-   ==Ancillary Data==
-
-   <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-    Ancillary information.
-
-    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-
-
-=Legislation=
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
-
-A national proposed  law or group of laws. A regional proposed  law or group of laws.
-
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/LegislationClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/LegislationClass
 
 =Demography and Conservation Unstructured=
 
@@ -123,7 +103,7 @@ A national proposed  law or group of laws. A regional proposed  law or group of 
 
 Unstructured information.
 
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 =Ancillary Data=
 
