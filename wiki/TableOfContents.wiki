@@ -54,6 +54,7 @@
            * [EndemicAtomizedClass EndemicAtomized Class]
      * [DemographyAndConservationClass DemographyAndConservation Class]
         * [TerritoryClass Territory Class]
+           * [TerritoryAtomizedClass TerritoryAtomized Class]
         * [PopulationBiologyClass PopulationBiology Class]
         * [LegislationClass Legislation Class]
            * [LawsClass Laws Class]
