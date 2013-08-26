@@ -56,6 +56,7 @@
         * [TerritoryClass Territory Class]
            * [TerritoryAtomizedClass TerritoryAtomized Class]
         * [PopulationBiologyClass PopulationBiology Class]
+           * [PopulationBiologyAtomizedClass PopulationBiologyAtomized Class]
         * [LegislationClass Legislation Class]
            * [LawsClass Laws Class]
      * [UsesAndManagementClass UsesAndManagement Class]
