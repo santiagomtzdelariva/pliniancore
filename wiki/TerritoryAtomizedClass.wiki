@@ -1,7 +1,8 @@
+#labels Class,TerritoryAtomized,ExtentOfOccurrence,AreaofOccupancy
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img138.imageshack.us/img138/8843/lfis.jpg
+http://img607.imageshack.us/img607/8412/tqpz.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
