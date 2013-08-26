@@ -49,6 +49,7 @@
      * [HabitatAndDistributionClass HabitatAndDistribution Class]
         * [HabitatsClass Habitats Class]
         * [DistributionClass Distribution Class]
+           * [DistributionAtomizedClass DistributionAtomized Class]
         * [EndemicClass Endemic Class]
      * [DemographyAndConservationClass DemographyAndConservation Class]
         * [TerritoryClass Territory Class]
