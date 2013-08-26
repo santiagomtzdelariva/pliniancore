@@ -38,7 +38,7 @@ Information concerning the demographic aspects of the species, as well as the co
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-     Information about the number of individuals per area or time unit. 
+     Study of the variations in time and space as well as size and density of populations, and the factors that cause such variations. 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/PopulationBiologyClass
 
