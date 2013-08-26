@@ -58,7 +58,7 @@
         * [PopulationBiologyClass PopulationBiology Class]
            * [PopulationBiologyAtomizedClass PopulationBiologyAtomized Class]
         * [LegislationClass Legislation Class]
-           * [LawsClass Laws Class]
+           * [LegislationAtomizedClass LegislationAtomized Class]
      * [UsesAndManagementClass UsesAndManagement Class]
         * [UsesClass Uses Class]
            * [UseClass Use Class]
