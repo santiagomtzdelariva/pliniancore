@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img69.imageshack.us/img69/3457/c3xo.jpg
+http://img547.imageshack.us/img547/8884/0byn.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -19,7 +19,7 @@ http://img69.imageshack.us/img69/3457/c3xo.jpg
 
      <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>  
 
-     =Folkore Unit=
+     =Folkore Atomized=
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
