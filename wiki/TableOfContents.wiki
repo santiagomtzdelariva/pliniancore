@@ -61,7 +61,7 @@
            * [LegislationAtomizedClass LegislationAtomized Class]
      * [UsesManagementAndConservationClass UsesManagementAndConservation Class]
         * [UsesClass Uses Class]
-           * [UseClass Use Class]
+           * [UseAtomizedClass UsesAtomized Class]
         * [FolkloreClass Folklore Class]
            * [FolkloreUnitClass FolkloreUnit Class] 
         * [ManagementAndConservationClass ManagementAndConservation Class]
