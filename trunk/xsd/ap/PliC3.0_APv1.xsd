@@ -3,6 +3,70 @@
 	<!-- DiGIR's XML Schema is imported -->
 	<xsd:include schemaLocation="http://rs.tdwg.org/dwc/tdwg_basetypes.xsd"/>
 	<xsd:import namespace="http://www.pliniancore.org/pc2.2/pcelement" schemaLocation="http://www.pliniancore.org/test/pc_element.xsd"/>
+	<xs:element name="Dataset">
+		<xs:annotation>
+			<xs:documentation>Root element from which all other elements will branch from</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="TaxonRecord" maxOccurs="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="TaxonRecord" substitutionGroup="pce:pcElement" nillable="false">
+		<xs:annotation>
+			<xs:documentation>Information about the record.</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="RecordMetadata"/>
+				<xs:element ref="BaseElements">
+					<xs:annotation>
+						<xs:documentation>Basic information to identify the record.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="NomenclatureAndClassification" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Standard information for every known taxon.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="TaxonomicalDescription" minOccurs="0"/>
+				<xs:element ref="NaturalHistory" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Most relevant description about the species.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="Invasiveness" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Most relevant description about the species.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="HabitatAndDistribution" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Distribution of the species</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="DemographyAndConservation" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Information concerning the demographic aspects of the species, as well as the conservation status</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="UsesAndManagement" minOccurs="0"/>
+				<xs:element ref="Documentation" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>References and pointers to additional resources and information (multimedia or publications).</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="MeasurementOrFact" minOccurs="0">
+					<xs:annotation>
+						<xs:documentation>Description of the morphology of the taxon (size, weight, perimeter, length, volume, life expectancy, etc.). Makes reference to any meristic data of the species (wing span/maximum/228.6/ cm)</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	
+	
 	<xsd:element name="Language" type="xsd:string" substitutionGroup="pce:pcElement" nillable="false">
 		<xsd:annotation>
 			<xsd:documentation>Language used to write the species information.</xsd:documentation>
