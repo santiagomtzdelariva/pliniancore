@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- edited with XMLSpy v2013 (http://www.altova.com) by Francisco Pando (Real Jardín Botánico - CSIC) -->
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by Santiago Martínez de la Riva (Real Jardín Botánico - CSIC) -->
 <!--  publisher: Plinian Core Initiative  -->
 <!--description: The Plinian Core v3.0 is a set of concepts that defines the necessary basic attributes to integrate and recover the information about species of organisms required by users specialized in biodiversity as well as users of other areas. The current version compiles a list of high-priority concepts selected by different groups of people interested in having apt mechanisms to access integrated information of species using Internet. -->
-<!--issued:2007-03-16 -->
-<!--modified:2013-04-12-->
+<!--modified:2013-08-27-->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:plic="http://www.gbif.es/PliC/" xmlns:dc="http://purl.org/dc/terms/" xmlns:dcelem="http://purl.org/dc/elements/1.1/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:tcs="http://www.tdwg.org/schemas/tcs/1.01" xmlns:simple="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" xmlns:gisin="http://www.gisin.org/gisin/SpeciesStatus" xmlns:eol="http://www.eol.org/transfer/content/0.3" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1">
 	<xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dc.xsd"/>
 	<xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://darwincore.googlecode.com/svn/trunk/xsd/dublin_core.xsd"/>
