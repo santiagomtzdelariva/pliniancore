@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img843.imageshack.us/img843/1839/k442.jpg
+http://img43.imageshack.us/img43/7645/ih5q.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -17,116 +17,13 @@ http://img843.imageshack.us/img843/1839/k442.jpg
 
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
-     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> 
 
-     =Population Plantation Objectives=
+     =Management Atomized=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-
-     =Management Plan=
-
-     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-<blockquote>
-          ==Administrative Management==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote>
-<blockquote>
-          ==Technical Managementt==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote>
-<blockquote>
-          ==Population Performance==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote>
-<blockquote>
-          ==Control Information==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote>
-<blockquote><blockquote>
-               ===Monitoring Procedure===
-
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote>
-<blockquote><blockquote>
-               ===Used Tools===
-
-               <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-               <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote></blockquote>
-     =Finance Information=
-
-     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-<blockquote>
-          ==Initial Investment==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote>
-<blockquote>
-          ==Maintenance Cost==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote>
-<blockquote>
-          ==Commercialization==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote>
-     =Population Plantation Threats=
-
-     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-<blockquote>
-          ==Description==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote>
-<blockquote>
-          ==Control==
-
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-</blockquote>
-
-     =Environmental Impact=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ManagementAtomizedClass
 
      =Management Unstructured=
 
