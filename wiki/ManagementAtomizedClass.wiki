@@ -1,4 +1,4 @@
-#labels Class,ManagementAtomized
+#labels Class,ManagementAtomized,Objetives,Actions,Plan,EnvironmentalImpact
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
@@ -35,7 +35,7 @@ http://img837.imageshack.us/img837/9747/04rs.jpg
 
           =Actions=
 
-          -Attribute type-
+          <h2>-Attribute type-</h2>
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
