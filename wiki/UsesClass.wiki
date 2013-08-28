@@ -26,7 +26,7 @@ http://img163.imageshack.us/img163/1518/y0ij.jpg
 
      Structured information.     
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/UseClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/UsesAtomizedClass
 
      =Uses Unstructured=
 
