@@ -37,7 +37,7 @@ Distribution:restricted,actual.. Applies To: The authority has a scale
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DistributionAtomizedClass
 
 
-     =Distribution  Unstructured=
+     =Distribution Unstructured=
 
      Description of the distribution of the species..
 
