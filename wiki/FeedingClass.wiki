@@ -19,9 +19,9 @@ http://img94.imageshack.us/img94/2411/2uh1.jpg
           
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
      
-     Primary diet source.
+     Primary diet source. Controled vocabulary.
 
-     <b>Controlled vocabulary:</b> Autotrophs, Palynivore, Nectarivore, Granivore, Frugivore, Rhizophagus, Hematophagy, Insectivore, Piscivore, Oophagy, Omnivore, Scavenger, Saprophagous and Detritivore.     
+     <b>Quick Reference:</b> http://en.wikipedia.org/wiki/List_of_feeding_behaviours 
 
      ----
 
