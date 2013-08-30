@@ -1,8 +1,8 @@
-#labels Class,Feeding,Trophic,Strategy,Qualifier
+#labels Class,Feeding
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img824.imageshack.us/img824/5255/hdr8.jpg
+http://img823.imageshack.us/img823/1615/6ud3.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
