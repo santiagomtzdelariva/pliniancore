@@ -701,29 +701,39 @@ If we are in a register of a genre, this register would include the keys of the 
 	<xs:complexType name="FeedingType">
 		<xs:sequence>
 			<xs:choice>
-				<xs:element ref="FeedingAtomized" maxOccurs="unbounded"/>
-				<xs:element ref="FeedingUnstructured"/>
+				<xs:element ref="FeedingAtomized" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation>Information in structured format.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
+				<xs:element ref="FeedingUnstructured">
+					<xs:annotation>
+						<xs:documentation>Information in unstructured format.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
 			</xs:choice>
 			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:sequence>
 		<xs:attribute name="type">
+			<xs:annotation>
+				<xs:documentation>Primary diet source. http://en.wikipedia.org/wiki/List_of_feeding_behaviours </xs:documentation>
+			</xs:annotation>
 			<xs:simpleType>
 				<xs:restriction base="xs:string">
 					<xs:enumeration value="Autotrophs"/>
-					<xs:enumeration value="Polinívoros"/>
-					<xs:enumeration value="Nectarívoros"/>
-					<xs:enumeration value="Granívoros"/>
-					<xs:enumeration value="Frugívoros"/>
-					<xs:enumeration value="Rizófagos"/>
-					<xs:enumeration value="Hematófagos"/>
-					<xs:enumeration value="Carroñeros"/>
-					<xs:enumeration value="Insectívoros"/>
-					<xs:enumeration value="Piscívoros"/>
-					<xs:enumeration value="Oófagos"/>
-					<xs:enumeration value="Omnívoros"/>
-					<xs:enumeration value="Carroñeros"/>
-					<xs:enumeration value="Saprófagos"/>
-					<xs:enumeration value="Detritívoros"/>
+					<xs:enumeration value="Palynivore"/>
+					<xs:enumeration value="Nectarivore"/>
+					<xs:enumeration value="Granivore"/>
+					<xs:enumeration value="Frugivore"/>
+					<xs:enumeration value="Rhizophagus"/>
+					<xs:enumeration value="Hematophagy"/>
+					<xs:enumeration value="Insectivore"/>
+					<xs:enumeration value="Piscivore"/>
+					<xs:enumeration value="Oophagy"/>
+					<xs:enumeration value="Omnivore"/>
+					<xs:enumeration value="Scavenger"/>
+					<xs:enumeration value="Saprophagous"/>
+					<xs:enumeration value="Detritivore"/>
 				</xs:restriction>
 			</xs:simpleType>
 		</xs:attribute>
@@ -731,6 +741,9 @@ If we are in a register of a genre, this register would include the keys of the 
 	<xs:complexType name="FeedingAtomizedType">
 		<xs:sequence>
 			<xs:element name="TrophicStrategy">
+				<xs:annotation>
+					<xs:documentation>Tactic used to obtain energy or nutrients.</xs:documentation>
+				</xs:annotation>
 				<xs:simpleType>
 					<xs:restriction base="xs:string">
 						<xs:enumeration value="Chemosynthetic"/>
