@@ -63,4 +63,4 @@ Basic information to identify the record.
 
      General description of the taxon. This concept could point out any information about the taxon.  Its main goal is summarize the most relevant  or attractive characteristics of this taxon to the general public.
 
-     <b>Class:</b>http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+     <b>Class:</b>http://code.google.com/p/pliniancore/wiki/NormalString
