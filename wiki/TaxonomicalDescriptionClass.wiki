@@ -1,4 +1,4 @@
-#labels Class,TaxonomicalDescription
+#labels Class,TaxonomicalDescription,BriefDescription,FullDescription,Keys
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
@@ -75,7 +75,7 @@ http://img20.imageshack.us/img20/2947/37nq.jpg
 
           Dichotomic or multientrance keys.
 
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/TextDescriptionClass
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 </blockquote></blockquote>
 <blockquote><blockquote>
           ===Ancillary Data===
