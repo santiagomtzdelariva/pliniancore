@@ -23,9 +23,8 @@ http://img593.imageshack.us/img593/2594/gwoc.jpg
 
      =Invasiveness Atomized=
 
-     Structured information.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/InvasivenessAtomizedClass
 
      =Invasiveness Unstructured=
 
@@ -36,7 +35,5 @@ http://img593.imageshack.us/img593/2594/gwoc.jpg
 =Ancillary Data=
 
 <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-Ancillary information.
 
 <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
