@@ -26,7 +26,7 @@ http://img28.imageshack.us/img28/354/gs6l.jpg
 
 Structured information.
 
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AnnualCycleClass
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AnnualCyclesAtomizedClass
 
 =Annual Cycle Unstructured=
 
