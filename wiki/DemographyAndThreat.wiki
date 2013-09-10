@@ -1,0 +1,4 @@
+#labels Demography,Legislation,ThreatStatus,DirectThreats,PopulationBiology
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/DemographyAndThreatClass
+
+Information concerning the demographic aspects of the species: Territory, Population Biology, Threat Status, Direct Threats, Legislation and Ancillary Data.
