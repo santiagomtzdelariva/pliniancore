@@ -104,7 +104,7 @@ http://img850.imageshack.us/img850/3783/h3ri.jpg
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
-     =Population Tendency=
+     =Population Trend=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
