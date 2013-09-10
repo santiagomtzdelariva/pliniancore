@@ -52,7 +52,7 @@
            * [DistributionAtomizedClass DistributionAtomized Class]
         * [EndemicClass Endemic Class]
            * [EndemicAtomizedClass EndemicAtomized Class]
-     * [DemographyAndConservationClass DemographyAndConservation Class]
+     * [DemographyAndThreatClass DemographyAndThreat Class]
         * [TerritoryClass Territory Class]
            * [TerritoryAtomizedClass TerritoryAtomized Class]
         * [PopulationBiologyClass PopulationBiology Class]
