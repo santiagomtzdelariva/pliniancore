@@ -30,7 +30,7 @@ A national proposed law or group of laws. A regional proposed law or group of la
 
      Sequence of laws.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/LawsClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/LegislationAtomizedClass
 
 
      =Legislation Unstructured=
