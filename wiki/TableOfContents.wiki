@@ -12,7 +12,7 @@
            * [Invasiveness Invasiveness]
            * [HabitatAndDistribution HabitatAndDistribution]
            * [DemographyAndThreat DemographyAndThreat]
-           * [UsesAndmanagement UsesAndmanagement]
+           * [UsesManagementAndConservation UsesManagementAndConservation]
            * [References References]
            * [AncillaryData AncillaryData]
   * [PlinianCore_Classes Plinian Core Classes]
