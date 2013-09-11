@@ -3,7 +3,7 @@
 <!--  publisher: Plinian Core Initiative  -->
 <!--description: The Plinian Core v3.0 is a set of concepts that defines the necessary basic attributes to integrate and recover the information about species of organisms required by users specialized in biodiversity as well as users of other areas. The current version compiles a list of high-priority concepts selected by different groups of people interested in having apt mechanisms to access integrated information of species using Internet. -->
 <!--issued:2007-03-16 -->
-<!--modified:2013-03-27-->
+<!--modified:2013-04-12-->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:plic="http://www.gbif.es/PliC/" xmlns:dc="http://purl.org/dc/terms/" xmlns:dcelem="http://purl.org/dc/elements/1.1/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:tcs="http://www.tdwg.org/schemas/tcs/1.01" xmlns:simple="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" xmlns:gisin="http://www.gisin.org/gisin/SpeciesStatus" xmlns:eol="http://www.eol.org/transfer/content/0.3" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1">
 	<xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dc.xsd"/>
 	<xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://darwincore.googlecode.com/svn/trunk/xsd/dublin_core.xsd"/>
@@ -320,7 +320,7 @@
 					</xs:annotation>
 				</xs:element>
 				<xs:element name="Thread"/>
-				<xs:element name="ConservatioActions"/>
+				<xs:element name="ConservationActions"/>
 				<xs:element name="Authority" type="xs:string">
 					<xs:annotation>
 						<xs:documentation>Criteria apply to assess such status.</xs:documentation>
@@ -711,7 +711,7 @@
 				<xs:sequence>
 					<xs:element ref="Habitat" minOccurs="0">
 						<xs:annotation>
-							<xs:documentation>General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder).</xs:documentation>
+							<xs:documentation>General description of the sites where the species are found (ecosystem, forest, environment or microhabitat). (Placeholder).</xs:documentation>
 						</xs:annotation>
 					</xs:element>
 					<xs:element ref="Distribution" minOccurs="0">
@@ -1100,7 +1100,7 @@
 					</xs:element>
 					<xs:element ref="EnvironmentalEnvelope" minOccurs="0">
 						<xs:annotation>
-							<xs:documentation>environmental ranges in who species living (ej. annual rainfall, average, 450, mm</xs:documentation>
+							<xs:documentation>environmental ranges in which species live, e.g. annual rainfall, average, 450 mm</xs:documentation>
 						</xs:annotation>
 					</xs:element>
 				</xs:sequence>
@@ -1353,7 +1353,10 @@
 					</xs:element>
 					<xs:element name="IdentificationKeys" minOccurs="0">
 						<xs:annotation>
-							<xs:documentation>Tool for the identification of organisms, comprising a series of steps, each of which represents a question about one or more characters of the organism. Each step offers multiple alternatives, choosing one of them will lead us to the next step until ending, finally, in the name of the organism. Most printed keys have only two alternatives, so called dichotomous keys.</xs:documentation>
+							<xs:documentation>Tool for the identification of organisms, comprising a series of steps, each of which represents a question about one or more characters of the organism. Each step offers multiple alternatives, choosing one of them will lead us to the next step until ending, finally, in the name of the organism. Most printed keys have only two alternatives, so called dichotomous keys.                                                      A taxon includes a key or an identification of key  in the subordinate taxons.
+For example: 
+If we are in a register of a genre, this register would include the keys of the species that this register includes, and if it´s one specie, then it would include the key of the infraspecific rank (For plants: subspecies, variety forms)
+</xs:documentation>
 						</xs:annotation>
 						<xs:complexType>
 							<xs:sequence>
