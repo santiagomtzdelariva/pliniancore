@@ -113,7 +113,7 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Conservatio-Explotation Data=
+     =Conservation-Explotation Data=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
