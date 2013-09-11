@@ -148,11 +148,7 @@
 	<xs:element name="DispersalAtomized" type="DispersalAtomizedType"/>
 	<xs:element name="DispersalUnstructured" type="xs:string"/>
 	<xs:element name="Distribution" type="DistributionType"/>
-	<xs:element name="DistributionUnstructured" type="xs:string">
-		<xs:annotation>
-			<xs:documentation>Description of the distribution of the species.</xs:documentation>
-		</xs:annotation>
-	</xs:element>
+	<xs:element name="DistributionUnstructured" type="xs:string"/>
 	<xs:element name="EcologicalSignificance" type="EcologicalSignificanceType">
 		<xs:annotation>
 			<xs:documentation>Ecological importance of the taxon. (Placeholder)</xs:documentation>
@@ -169,16 +165,14 @@
 			<xs:sequence>
 				<xs:element name="EdemicTo" type="xs:string" maxOccurs="unbounded">
 					<xs:annotation>
-						<xs:documentation>The concept is applied to one or several countries. Ex: 
-	-	Giant panda (Ailuropoda melanoleuca (David, 1869) endemic to China. 
+						<xs:documentation>The concept is applied to one or several countries. Ex:-	Giant panda (Ailuropoda melanoleuca (David, 1869) endemic to China. 
 	-	Quetzal Resplendent (Pharomachrus mocinno de la Llave, 1832) endemic to Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica and Panama
 	</xs:documentation>
 					</xs:annotation>
 				</xs:element>
 				<xs:element name="EndemicIn" type="xs:string">
 					<xs:annotation>
-						<xs:documentation>The concept is applied to an area either multinational or local. Ex:
-	- Vicuña (Vicugna vicugna Molina, 1782) endemic in the Andean region.
+						<xs:documentation>The concept is applied to an area either multinational or local. Ex: 	- Vicuña (Vicugna vicugna Molina, 1782) endemic in the Andean region.
 	- Manzanilla Real (Artemisia granatensis Boiss.) endemic in the peaks of Sierra Nevada (Spain).
 	</xs:documentation>
 					</xs:annotation>
@@ -206,16 +200,8 @@
 		</xs:annotation>
 		<xs:complexType>
 			<xs:choice>
-				<xs:element ref="FullDescriptionAtomized" maxOccurs="unbounded">
-					<xs:annotation>
-						<xs:documentation>Structured diagnostic characters.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element ref="FullDescriptionUnstructured">
-					<xs:annotation>
-						<xs:documentation>Unstructured diagnostic characters.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
+				<xs:element ref="FullDescriptionAtomized" maxOccurs="unbounded"/>
+				<xs:element ref="FullDescriptionUnstructured"/>
 			</xs:choice>
 		</xs:complexType>
 	</xs:element>
@@ -319,7 +305,11 @@ If we are in a register of a genre, this register would include the keys of the 
 						<xs:documentation>Number and date of the current version.</xs:documentation>
 					</xs:annotation>
 				</xs:element>
-				<xs:element ref="Revision"/>
+				<xs:element ref="Revision">
+					<xs:annotation>
+						<xs:documentation> Creators, revision status and dates of the entire data collection.</xs:documentation>
+					</xs:annotation>
+				</xs:element>
 			</xs:sequence>
 		</xs:complexType>
 	</xs:element>
@@ -518,11 +508,7 @@ If we are in a register of a genre, this register would include the keys of the 
 	<xs:complexType name="CommonNamesType">
 		<xs:sequence>
 			<xs:choice>
-				<xs:element ref="CommonNamesAtomized" maxOccurs="unbounded">
-					<xs:annotation>
-						<xs:documentation>Structured information.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
+				<xs:element ref="CommonNamesAtomized" maxOccurs="unbounded"/>
 				<xs:element ref="CommonNamesUnstructured"/>
 			</xs:choice>
 			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded"/>
@@ -636,16 +622,8 @@ If we are in a register of a genre, this register would include the keys of the 
 	<xs:complexType name="DistributionType">
 		<xs:sequence>
 			<xs:choice>
-				<xs:element ref="DistributionAtomized" minOccurs="0" maxOccurs="unbounded">
-					<xs:annotation>
-						<xs:documentation>List of regions structured and categorized.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element ref="DistributionUnstructured" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>Description of the distribution of the species.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
+				<xs:element ref="DistributionAtomized" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="DistributionUnstructured" minOccurs="0"/>
 			</xs:choice>
 			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:sequence>
@@ -840,21 +818,69 @@ If we are in a register of a genre, this register would include the keys of the 
 	</xs:complexType>
 	<xs:complexType name="HierarchyType">
 		<xs:sequence>
-			<xs:element ref="dwc:kingdom" minOccurs="0"/>
-			<xs:element ref="dwc:phylum" minOccurs="0"/>
-			<xs:element ref="dwc:class" minOccurs="0"/>
-			<xs:element ref="dwc:order" minOccurs="0"/>
-			<xs:element ref="dwc:family" minOccurs="0"/>
-			<xs:element ref="dwc:genus" minOccurs="0"/>
-			<xs:element ref="dwc:subgenus" minOccurs="0"/>
-			<xs:element ref="dwc:taxonRank" minOccurs="0"/>
-			<xs:element ref="dwc:specificEpithet" minOccurs="0"/>
-			<xs:element ref="dwc:infraspecificEpithet" minOccurs="0"/>
-			<xs:element ref="dwc:higherClassification" minOccurs="0"/>
+			<xs:element ref="dwc:kingdom" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The full scientific name of the kingdom in which the taxon is classified.  Example: "Animalia", "Plantae".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:phylum" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The full scientific name of the phylum or division in which the taxon is classified. Example: "Chordata" (phylum), "Bryophyta" (division).</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:class" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The full scientific name of the class in which the taxon is classified. Example: "Mammalia", "Hepaticopsida".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:order" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The full scientific name of the order in which the taxon is classified. Example: "Carnivora", "Monocleales".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:family" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The full scientific name of the family in which the taxon is classified. Example: "Felidae", "Monocleaceae".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:genus" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The full scientific name of the genus in which the taxon is classified. Example: "Puma", "Monoclea".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:subgenus" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The full scientific name of the subgenus in which the taxon is classified. Values should include the genus to avoid homonym confusion. Example: "Strobus (Pinus)", "Puma (Puma)" "Loligo (Amerigo)", "Hieracium subgen. Pilosella".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:taxonRank" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The taxonomic rank of the most specific name in the scientificName. Recommended best practice is to use a controlled vocabulary. Examples: "subspecies", "varietas", "forma", "species", "genus".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:specificEpithet" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The name of the first or species epithet of the scientificName. Example: "concolor", "gottschei".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:infraspecificEpithet" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The name of the lowest or terminal infraspecific epithet of the scientificName, excluding any rank designation. Example: "concolor", "oxyadenia", "sayi".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="dwc:higherClassification" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>A list (concatenated and separated) of taxa names terminating at the rank immediately superior to the taxon referenced in the taxon record. Recommended best practice is to order the list starting with the highest rank and separating the names for each rank with a semi-colon (";"). Example: "Animalia;Chordata;Vertebrata;Mammalia;Theria;Eutheria;Rodentia;Hystricognatha;Hystricognathi;Ctenomyidae;Ctenomyini;Ctenomys".</xs:documentation>
+				</xs:annotation>
+			</xs:element>
 			<xs:element name="ParentTaxon" minOccurs="0">
 				<xs:complexType>
 					<xs:sequence>
-						<xs:element ref="dwc:taxonRank"/>
+						<xs:element ref="dwc:taxonRank">
+							<xs:annotation>
+								<xs:documentation>The taxonomic rank of the most specific name in the scientificName. Recommended best practice is to use a controlled vocabulary. Examples: "subspecies", "varietas", "forma", "species", "genus".</xs:documentation>
+							</xs:annotation>
+						</xs:element>
 						<xs:element name="taxonValue"/>
 						<xs:element name="TaxonRecordID" type="xs:string" minOccurs="0">
 							<xs:annotation>
@@ -1287,7 +1313,7 @@ If we are in a register of a genre, this register would include the keys of the 
 					</xs:element>
 					<xs:element ref="Hierarchy" minOccurs="0" maxOccurs="unbounded">
 						<xs:annotation>
-							<xs:documentation>Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide </xs:documentation>
+							<xs:documentation>Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide keys. </xs:documentation>
 						</xs:annotation>
 					</xs:element>
 					<xs:element ref="MiscDetails" minOccurs="0">
@@ -1458,11 +1484,7 @@ If we are in a register of a genre, this register would include the keys of the 
 	<xs:complexType name="SynonymsType">
 		<xs:sequence>
 			<xs:choice>
-				<xs:element ref="SynonymsAtomized" maxOccurs="unbounded">
-					<xs:annotation>
-						<xs:documentation>Structured information.</xs:documentation>
-					</xs:annotation>
-				</xs:element>
+				<xs:element ref="SynonymsAtomized" maxOccurs="unbounded"/>
 				<xs:element ref="SynonymsUnstructured"/>
 			</xs:choice>
 			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded"/>
@@ -1541,7 +1563,11 @@ If we are in a register of a genre, this register would include the keys of the 
 		<xs:sequence>
 			<xs:choice>
 				<xs:element ref="UsesAtomized" maxOccurs="unbounded"/>
-				<xs:element ref="UsesUnstructured"/>
+				<xs:element ref="UsesUnstructured">
+					<xs:annotation>
+						<xs:documentation> </xs:documentation>
+					</xs:annotation>
+				</xs:element>
 			</xs:choice>
 			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:sequence>
@@ -1594,12 +1620,12 @@ If we are in a register of a genre, this register would include the keys of the 
 					<xs:documentation>Acc. TDWG Economic Botany</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="Conservatio-ExplotationData" minOccurs="0">
+			<xs:element name="Conservation-ExplotationData" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Acc. TDWG Economic Botany</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="AtomizedUseType" minOccurs="0">
+			<xs:element name="UseTypeAtomized" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Acc. TDWG Economic Botany. traditional, industrial; past, current, possible</xs:documentation>
 				</xs:annotation>
