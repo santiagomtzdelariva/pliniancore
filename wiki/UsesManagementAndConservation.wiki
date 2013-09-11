@@ -1,0 +1,2 @@
+#labels Uses,Management,Conservation,Folklore
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/UsesManagementAndConservationClass
