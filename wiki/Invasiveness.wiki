@@ -1,2 +1,4 @@
 #labels Element,Invasiveness
 *Quick references:*  http://code.google.com/p/pliniancore/wiki/InvasivenessClass
+
+Information about invasive exotic species that could threaten to ecosystem, habitats and species
