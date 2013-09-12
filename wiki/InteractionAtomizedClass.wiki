@@ -28,7 +28,7 @@ Interactions in structured format.
      The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events).
 
 
-     =Interaction Comments=
+     =Interaction Species Comments=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
@@ -36,7 +36,7 @@ Interactions in structured format.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Interaction Type=
+     =Interaction Species Type=
 
      <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
