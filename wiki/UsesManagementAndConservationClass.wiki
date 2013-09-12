@@ -3,7 +3,7 @@
 
 <wiki:toc />
 
-http://img22.imageshack.us/img22/3794/re2x.jpg
+http://img9.imageshack.us/img9/6264/x72a.jpg
 
 
 ||Image||Description||
@@ -24,6 +24,8 @@ http://img22.imageshack.us/img22/3794/re2x.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
+     Ways in which species are utilized by people 
+
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/UsesClass 
 
      =Folklore=
@@ -37,5 +39,7 @@ http://img22.imageshack.us/img22/3794/re2x.jpg
      =Management and Conservation=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+
+     Management: actions directed at conserving or restoring species / Conservation: interventions undertaken designed to preserve species . 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ManagementClass
