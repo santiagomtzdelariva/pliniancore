@@ -234,7 +234,11 @@ If we are in a register of a genre, this register would include the keys of the 
 	</xs:element>
 	<xs:element name="Interactions" type="InteractionsType"/>
 	<xs:element name="InteractionUnstructured" type="xs:string"/>
-	<xs:element name="Invasiveness" type="InvasivenessType"/>
+	<xs:element name="Invasiveness" type="InvasivenessType">
+		<xs:annotation>
+			<xs:documentation>Information about invasive exotic species that could threaten to ecosystem, habitats and species</xs:documentation>
+		</xs:annotation>
+	</xs:element>
 	<xs:element name="InvasivenessAtomized" type="InvasivenessAtomizedType"/>
 	<xs:element name="InvasivenessUnstructured" type="xs:string"/>
 	<xs:element name="Keys" type="xs:string">
@@ -264,7 +268,11 @@ If we are in a register of a genre, this register would include the keys of the 
 			<xs:documentation/>
 		</xs:annotation>
 	</xs:element>
-	<xs:element name="ManagementAndConservation" type="ManagementType"/>
+	<xs:element name="ManagementAndConservation" type="ManagementType">
+		<xs:annotation>
+			<xs:documentation>Management: actions directed at conserving or restoring species / Conservation: interventions undertaken designed to preserve species </xs:documentation>
+		</xs:annotation>
+	</xs:element>
 	<xs:element name="ManagementAtomized" type="ManagementAtomizedType"/>
 	<xs:element name="ManagementUnstructured" type="xs:string"/>
 	<xs:element name="MeasurementOrFact" type="MeasurementOrFactType"/>
@@ -426,7 +434,11 @@ If we are in a register of a genre, this register would include the keys of the 
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="UsesAtomized" type="UsesAtomizedType"/>
-	<xs:element name="Uses" type="UsesType"/>
+	<xs:element name="Uses" type="UsesType">
+		<xs:annotation>
+			<xs:documentation>Ways in which species are utilized by people </xs:documentation>
+		</xs:annotation>
+	</xs:element>
 	<xs:element name="UsesManagementAndConservation" type="UsesManagementAndConservationType"/>
 	<xs:element name="UsesUnstructured" type="xs:string">
 		<xs:annotation>
@@ -458,7 +470,7 @@ If we are in a register of a genre, this register would include the keys of the 
 		<xs:sequence>
 			<xs:element name="Catalogue" type="xs:string" minOccurs="0">
 				<xs:annotation>
-					<xs:documentation>Catalogue where the GeographicEntity is documented.</xs:documentation>
+					<xs:documentation>Catalogue where the GeographicEntity is documented. (Ej. ISO-3166-1) </xs:documentation>
 				</xs:annotation>
 			</xs:element>
 			<xs:choice>
@@ -627,16 +639,16 @@ If we are in a register of a genre, this register would include the keys of the 
 			</xs:choice>
 			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:sequence>
-		<xs:attribute name="type">
+		<xs:attribute name="TypeDistribution">
 			<xs:annotation>
-				<xs:documentation>Distribution:restricted,actual.. AppliesTo: The authority has a scale</xs:documentation>
+				<xs:documentation/>
 			</xs:annotation>
 			<xs:simpleType>
 				<xs:restriction base="xs:string">
 					<xs:enumeration value="Historical"/>
-					<xs:enumeration value="Present"/>
+					<xs:enumeration value="Current"/>
 					<xs:enumeration value="Restricted"/>
-					<xs:enumeration value="Ample"/>
+					<xs:enumeration value="Wide"/>
 				</xs:restriction>
 			</xs:simpleType>
 		</xs:attribute>
@@ -728,7 +740,11 @@ If we are in a register of a genre, this register would include the keys of the 
 					</xs:restriction>
 				</xs:simpleType>
 			</xs:element>
-			<xs:element name="TrophicStrategyQualifier" minOccurs="0"/>
+			<xs:element name="TrophicStrategyQualifier" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>Information notes about specific strategy of feeding.</xs:documentation>
+				</xs:annotation>
+			</xs:element>
 			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:sequence>
 	</xs:complexType>
@@ -900,12 +916,12 @@ If we are in a register of a genre, this register would include the keys of the 
 					<xs:documentation>The category of information pertaining to relationships between resources (instances of data records, such as Occurrences, Taxa, Locations, Events.</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="InteractionComments" type="xs:string" minOccurs="0">
+			<xs:element name="InteractionSpeciesComments" type="xs:string" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Notes about the interactions.</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="Type" maxOccurs="unbounded">
+			<xs:element name="InteractionSpeciesType" maxOccurs="unbounded">
 				<xs:annotation>
 					<xs:documentation>String with the type of interaction.</xs:documentation>
 				</xs:annotation>
@@ -933,35 +949,35 @@ If we are in a register of a genre, this register would include the keys of the 
 	</xs:complexType>
 	<xs:complexType name="InvasivenessAtomizedType">
 		<xs:sequence>
-			<xs:element ref="gisin:origin"/>
-			<xs:element ref="gisin:presence"/>
-			<xs:element ref="gisin:persistence"/>
+			<xs:element ref="gisin:origin" minOccurs="0"/>
+			<xs:element ref="gisin:presence" minOccurs="0"/>
+			<xs:element ref="gisin:persistence" minOccurs="0"/>
 			<xs:element ref="gisin:distribution" maxOccurs="unbounded"/>
-			<xs:element ref="gisin:harmful"/>
-			<xs:element ref="gisin:modified"/>
-			<xs:element ref="gisin:startValidDate"/>
-			<xs:element ref="gisin:endValidDate"/>
+			<xs:element ref="gisin:harmful" minOccurs="0"/>
+			<xs:element ref="gisin:modified" minOccurs="0"/>
+			<xs:element ref="gisin:startValidDate" minOccurs="0"/>
+			<xs:element ref="gisin:endValidDate" minOccurs="0"/>
 			<xs:element ref="gisin:countryCode"/>
-			<xs:element ref="gisin:stateProvince"/>
-			<xs:element ref="gisin:county"/>
-			<xs:element ref="gisin:localityName"/>
-			<xs:element ref="gisin:language"/>
-			<xs:element ref="gisin:citation"/>
-			<xs:element ref="gisin:abundance"/>
-			<xs:element ref="gisin:trend"/>
-			<xs:element ref="gisin:rateOfSpread"/>
-			<xs:element ref="gisin:regulatoryListing"/>
-			<xs:element ref="gisin:memo"/>
-			<xs:element ref="gisin:publicationDate"/>
-			<xs:element ref="gisin:localityType"/>
-			<xs:element ref="gisin:locationValue"/>
-			<xs:element ref="gisin:publicationDatePrecision"/>
+			<xs:element ref="gisin:stateProvince" minOccurs="0"/>
+			<xs:element ref="gisin:county" minOccurs="0"/>
+			<xs:element ref="gisin:localityName" minOccurs="0"/>
+			<xs:element ref="gisin:language" minOccurs="0"/>
+			<xs:element ref="gisin:citation" minOccurs="0"/>
+			<xs:element ref="gisin:abundance" minOccurs="0"/>
+			<xs:element ref="gisin:trend" minOccurs="0"/>
+			<xs:element ref="gisin:rateOfSpread" minOccurs="0"/>
+			<xs:element ref="gisin:regulatoryListing" minOccurs="0"/>
+			<xs:element ref="gisin:memo" minOccurs="0"/>
+			<xs:element ref="gisin:publicationDate" minOccurs="0"/>
+			<xs:element ref="gisin:localityType" minOccurs="0"/>
+			<xs:element ref="gisin:locationValue" minOccurs="0"/>
+			<xs:element ref="gisin:publicationDatePrecision" minOccurs="0"/>
 			<xs:element name="WhatImpact">
 				<xs:annotation>
 					<xs:documentation>What the actual impact is, for instance: Is it eating all the riparian vegetation? Are their burrows destroying irrigation systems? Is it displacing  Arvicola sapidus?</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="impactTarget">
+			<xs:element name="impactTarget" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Who/what the species is impacting.</xs:documentation>
 				</xs:annotation>
@@ -974,7 +990,7 @@ If we are in a register of a genre, this register would include the keys of the 
 					</xs:restriction>
 				</xs:simpleType>
 			</xs:element>
-			<xs:element name="impactMechanism">
+			<xs:element name="impactMechanism" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>Mechanism of introduction or impact to a new location.</xs:documentation>
 				</xs:annotation>
