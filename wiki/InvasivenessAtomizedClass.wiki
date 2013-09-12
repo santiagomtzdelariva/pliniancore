@@ -35,7 +35,7 @@ http://img821.imageshack.us/img821/1526/ipgi.jpg
 
      =Impact Target=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     http://img585.imageshack.us/img585/4808/optional.jpg
 
      Who/what the species is impacting.
 
@@ -49,7 +49,7 @@ http://img821.imageshack.us/img821/1526/ipgi.jpg
 
      =Impact Mechanism=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     http://img585.imageshack.us/img585/4808/optional.jpg
 
      Mechanism of introduction or impact to a new location.
 
