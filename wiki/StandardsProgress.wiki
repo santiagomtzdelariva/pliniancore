@@ -27,7 +27,9 @@ These are the Plinian Core Flat versions:
 
 
 
-== Elements == (Deprecated)
+== Elements == 
+
+(Deprecated)
 
 Below are the Plinian Core Flat settings. To post any comment please click on the items.
 {{{(*)}}} Mandatory
