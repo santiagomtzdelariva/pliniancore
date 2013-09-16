@@ -15,19 +15,19 @@ The schema can be checked out here: [http://www.gbif.es/plinian/lib/exe/fetch.ph
 
 These are the Plinian Core Flat versions:
 
-  * Version 2.2.1: http://www.pliniancore.org/test/pl_corev2.2.1.xsd
+  * Version 2.2.1: http://www.pliniancore.org/test/pl_corev2.2.1.xsd (Deprecated)
 
-  * Version 2.2.2: http://www.pliniancore.org/test/pl_corev2.2.2.xsd
+  * Version 2.2.2: http://www.pliniancore.org/test/pl_corev2.2.2.xsd (Deprecated)
 
-  * Version 2.2.3: http://www.pliniancore.org/test/pl_corev2.2.3.xsd (not available)
+  * Version 2.2.3: http://www.pliniancore.org/test/pl_corev2.2.3.xsd (not available) (Deprecated)
 
-  * Version 2.2.4: http://www.pliniancore.org/test/pl_corev2.2.4.xsd (not available)
+  * Version 2.2.4: http://www.pliniancore.org/test/pl_corev2.2.4.xsd (not available) (Deprecated)
 
-  * [PlinianCoreFlat2_3 Plinian Core Flat2.3]
+  * [PlinianCoreFlat2_3 Plinian Core Flat2.3] (Deprecated)
 
 
 
-== Elements ==
+== Elements == (Deprecated)
 
 Below are the Plinian Core Flat settings. To post any comment please click on the items.
 {{{(*)}}} Mandatory
@@ -115,7 +115,7 @@ Below are the Plinian Core Flat settings. To post any comment please click on th
 
 == Edit Log ==
 
-The starting point is Plinian Core Flat v. 2.2.1 
+The starting point is Plinian Core Flat v. 2.2.1 (Deprecated)
 
 
 http://www.pliniancore.org/test/pl_corev2.2.1.xsd
@@ -132,7 +132,7 @@ http://www.pliniancore.org/test/pl_corev2.2.1.xsd
 
 
 
-== Towards Flat v.2.4: Modification proposals==
+== Towards Flat v.2.4: Modification proposals== (Deprecated)
 
 
 - Add the element ‘dataset_code’. (F. Pando)
