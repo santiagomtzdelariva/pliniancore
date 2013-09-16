@@ -134,8 +134,9 @@ http://www.pliniancore.org/test/pl_corev2.2.1.xsd
 
 
 
-== Towards Flat v.2.4: Modification proposals== (Deprecated)
+== Towards Flat v.2.4: Modification proposals== 
 
+(Deprecated)
 
 - Add the element ‘dataset_code’. (F. Pando)
 
