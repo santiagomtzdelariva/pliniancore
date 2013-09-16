@@ -15,21 +15,21 @@ The schema can be checked out here: [http://www.gbif.es/plinian/lib/exe/fetch.ph
 
 These are the Plinian Core Flat versions:
 
-  * Version 2.2.1: http://www.pliniancore.org/test/pl_corev2.2.1.xsd (Deprecated)
+  * Version 2.2.1: http://www.pliniancore.org/test/pl_corev2.2.1.xsd <font color="#FF0000">(Deprecated)</font>
 
-  * Version 2.2.2: http://www.pliniancore.org/test/pl_corev2.2.2.xsd (Deprecated)
+  * Version 2.2.2: http://www.pliniancore.org/test/pl_corev2.2.2.xsd <font color="#FF0000">(Deprecated)</font>
 
-  * Version 2.2.3: http://www.pliniancore.org/test/pl_corev2.2.3.xsd (not available) (Deprecated)
+  * Version 2.2.3: http://www.pliniancore.org/test/pl_corev2.2.3.xsd (not available) <font color="#FF0000">(Deprecated)</font>
 
-  * Version 2.2.4: http://www.pliniancore.org/test/pl_corev2.2.4.xsd (not available) (Deprecated)
+  * Version 2.2.4: http://www.pliniancore.org/test/pl_corev2.2.4.xsd (not available) <font color="#FF0000">(Deprecated)</font>
 
-  * [PlinianCoreFlat2_3 Plinian Core Flat2.3] (Deprecated)
+  * [PlinianCoreFlat2_3 Plinian Core Flat2.3] <font color="#FF0000">(Deprecated)</font>
 
 
 
 == Elements == 
 
-(Deprecated)
+<font color="#FF0000">(Deprecated)</font>
 
 Below are the Plinian Core Flat settings. To post any comment please click on the items.
 {{{(*)}}} Mandatory
@@ -117,7 +117,9 @@ Below are the Plinian Core Flat settings. To post any comment please click on th
 
 == Edit Log ==
 
-The starting point is Plinian Core Flat v. 2.2.1 (Deprecated)
+<font color="#FF0000">(Deprecated)</font>
+
+The starting point is Plinian Core Flat v. 2.2.1 
 
 
 http://www.pliniancore.org/test/pl_corev2.2.1.xsd
@@ -129,14 +131,9 @@ http://www.pliniancore.org/test/pl_corev2.2.1.xsd
   * [2_2_3___2_2_4_to_2_3 Versión PlinianCoreFlat 2.3]
 
 
-
-
-
-
-
 == Towards Flat v.2.4: Modification proposals== 
 
-(Deprecated)
+<font color="#FF0000">(Deprecated)</font>
 
 - Add the element ‘dataset_code’. (F. Pando)
 
