@@ -204,7 +204,7 @@ UsesManagementAndConservation;Dataset:TaxonRecord;UsesManagementAndConservationT
 Uses;Dataset:TaxonRecord:UsesManagementAndConsevation;UsesType;0;1;http://purl.org/pliniancore/terms/UsesManagementAndConservation/Uses;http://purl.org/pliniancore/terms/UsesClass;NULL;;
 UsesAtomized;Dataset:TaxonRecord:UsesManagementAndConsevation:Uses;UsesAtomizedType;1;unbounded;http://purl.org/pliniancore/terms/Uses/UsesAtomized;http://purl.org/pliniancore/terms/UsesAtomizedClass;NULL;;
 SourceOfInformation;Dataset:TaxonRecord:UsesManagementAndConsevation:Uses:UsesAtomized;ComplexType;0;1;http://purl.org/pliniancore/terms/UsesAtomized/SourceOfInformation;null;Acc. TDWG Economic Botany;;
-References;Dataset:TaxonRecord:UsesManagementAndConsevation:Uses:UsesAtomized:SourceOfInformation;tcs:ReferenceType;1;unbounded;http://purl.org;http://purl.org;NULL;;
+References;Dataset:TaxonRecord:UsesManagementAndConsevation:Uses:UsesAtomized:SourceOfInformation;tcs:ReferenceType;1;unbounded;http://purl.org;http://tdwg.napier.ac.uk/tcs_doc101/#complexType_ReferenceType_Link036FB590;NULL;;
 SourceOfInformationText;Dataset:TaxonRecord:UsesManagementAndConsevation:Uses:UsesAtomized:SourceOfInformation;NormalString;1;1;http://purl.org/pliniancore/terms/UsesAtomized/SourceOfInformationText;http://purl.org/pliniancore/terms/NormalString;NULL;;
 Use-Value;Dataset:TaxonRecord:UsesManagementAndConsevation:Uses:UsesAtomized;NormalString;0;1;http://purl.org/pliniancore/terms/UsesAtomized/UseValue;http://purl.org/pliniancore/terms/NormalString;Acc. TDWG Economic Botany;;
 PartUsed;Dataset:TaxonRecord:UsesManagementAndConsevation:Uses:UsesAtomized;NormalString;0;1;http://purl.org/pliniancore/terms/UsesAtomized/PartUsed;http://purl.org/pliniancore/terms/NormalString;Acc. TDWG Economic Botany;;
@@ -232,5 +232,5 @@ type;Dataset:TaxonRecord:UsesManagementAndConsevation:ManagementAndConservation:
 ManagementPlan;Dataset:TaxonRecord:UsesManagementAndConsevation:ManagementAndConservation:ManagementAtomized;NormalString;1;1;http://purl.org/pliniancore/terms/ManagementAtomized/ManagementPlan;http://purl.org/pliniancore/terms/NormalString;NULL;;
 EnvironmentalImpact;Dataset:TaxonRecord:UsesManagementAndConsevation:ManagementAndConservation:ManagementAtomized;NormalString;0;1;http://purl.org/pliniancore/terms/ManagementAtomized/EnvironmentalImpact;http://purl.org/pliniancore/terms/NormalString;NULL;;
 ManagementUnstructured;Dataset:TaxonRecord:UsesManagementAndConsevation:ManagementAndConservation;NormalString;1;1;http://purl.org/pliniancore/terms/ManagementAndConservation/ManagementUnstructured;http://purl.org/pliniancore/terms/NormalString;NULL;;
-References;Dataset:TaxonRecord;tcs:ReferenceType;0;unbounded;http://purl.org;http://purl.org;NULL;;
+References;Dataset:TaxonRecord;tcs:ReferenceType;0;unbounded;http://purl.org;http://tdwg.napier.ac.uk/tcs_doc101/#complexType_ReferenceType_Link036FB590;NULL;;
 AncillaryData;Dataset:TaxonRecord;eol:DataObjectBaseType;0;unbounded;http://purl.org;http://purl.org;From EoL;;
