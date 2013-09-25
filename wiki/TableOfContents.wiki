@@ -67,7 +67,7 @@
            * [ManagementAtomizedClass ManagementAtomized Class]
      * [AncillaryDataClass AncillaryData Class]
      * [References Reference Class]
-     * [DescriptionItemClass DescriptionItem Class]
+     * [DescriptionItemClass DescriptionItem Class] (Deprecated)
      * [MeasurementOrFactClass MeasurementOrFact Class]
      * [ResourceRelationshipClass ResourceRelationship Class]
      * [TextDescriptionClass TextDescription Class]
