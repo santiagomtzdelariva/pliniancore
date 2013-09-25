@@ -116,8 +116,6 @@
 
      Describes the extent of the coverage of the resource in terms of its spatial extent, temporal extent, and taxonomic extent.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/RevisionClass
-
 
      =Version=
 
