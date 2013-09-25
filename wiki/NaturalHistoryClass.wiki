@@ -25,8 +25,8 @@ http://img401.imageshack.us/img401/9315/nzlj.jpg
 
      General appearance. Characteristic mode of growth or occurrence associated to its environment, particularly for plants.  Comprising its size, shape, texture and orientation. Example:  tree, shrubs, herbs.
 
-     Controlled vocabulary.
-     Plants:
+     Recommended best practice is to use a controlled vocabulary.
+     e.g: For plants: Raunkiær plant life-form. http://en.wikipedia.org/wiki/Raunki%C3%A6r_plant_life-form
 
 
 <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/DetailClass
