@@ -29,6 +29,8 @@
            * [DetailClass Detail Class]
      * [TaxonomicalDescriptionClass TaxonomicalDescription Class]
      * [NaturalHistoryClass NaturalHistory Class]
+        * [LifeFormClass LifeForm Class]
+        * [LifeCycleClass LifeCycle Class]
         * [ReproductionClass Reproduction Class]
         * [AnnualCyclesClass AnnualCycles Class]
            * [AnnualCyclesAtomizedClass AnnualCyclesAtomized Class]
