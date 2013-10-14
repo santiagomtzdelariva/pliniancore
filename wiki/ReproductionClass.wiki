@@ -28,7 +28,9 @@ http://img42.imageshack.us/img42/6429/n7bx.jpg
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
      
-     Structured information  
+     Structured information 
+
+     For Attribute, e.g.Reproductive strategy and 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
