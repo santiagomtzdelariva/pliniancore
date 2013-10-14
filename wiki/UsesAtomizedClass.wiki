@@ -26,7 +26,8 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     Acc. TDWG Economic Botany. Is the source personal observation, or from else where? If the latter, reference citations sho uld be given. Where appropriate, voucher specimen details should be provided (collector, number, date, herbari um) and detai ls of the inform ant recorded (name, gender, approximate age, occupation, ethnic identi t y, locality
+and language spo ken).
 
 <blockquote>
 
@@ -53,7 +54,8 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany
+     Acc. TDWG Economic Botany. What is t he plant used for, or what negative values does it have (e.g . as a
+weed affecting f ood product ion, or as an accid ent al poison)?
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -61,7 +63,7 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany
+     Acc. TDWG Economic Botany. Whi ch plant parts are used, or have any negative va lues ?
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -69,7 +71,16 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany
+     Acc. TDWG Economic Botany. Who recognises the value of t he pla nt? State ethnic group (tribe/caste /sect etc. with language/dialect, locality/a rea ).
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+     =Organisms=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     Acc. TDWG Economic Botany. Which organisms use t he plant/plant parts (e.g . for forage , medicines) or are affect ed by the plant (e.g. by poisons)?
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -77,15 +88,7 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany. The name of the taxon should be distinguished from part5 names. Name may be restricted to a time of the year or occasion, or have sacred connotations
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     =Use-Value=
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-     Acc. TDWG Economic Botany
+     Acc. TDWG Economic Botany. The name of the ta xon mus t be distinguished from the name of plant parts, the names of any processing stages, and the final product. Names used in trade should be identified. It should also be mentioned if any vernacular name refe rs t o more t han one ta xon. The use of some names may be restricted to a time of year or occasion, or have sacred connotations. The language and dialect to whi ch the names belong should be stated along wi t h details of ethnic group . Care should be t aken with transl iteration int o the Roman alphabet; if a standard system exists, use it and note which one it is.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -93,7 +96,9 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany
+     Acc. TDWG Economic Botany. (where relevant). Are wild /protected /cultivated plants used? Give
+details of cultivation, harvesting , yie lds, processing and storage methods and take note
+of specia l t ools, t iming etc.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -101,7 +106,8 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany
+     Acc. TDWG Economic Botany. This is of particular relevance to medicines,
+poisons (e.g. insecticides), so cial products and some environmental purposes (e.g.f ert ilisers).
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -109,7 +115,7 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany
+     Acc. TDWG Economic Botany. Note these and , if relevant, time of day.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -117,15 +123,23 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany
+     Acc. TDWG Economic Botany. Record frequency of plants, details of rege neration, sustainabi lity or over-exploitation and note any locally imposed bans on felling or harvesting.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     =Use-Type=
+     =Use-TypeAtomized=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany. traditional, industrial; past, current, possible
+     Acc. TDWG Economic Is it a traditional, modern indust rial or just a possible use?
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+     =Economics=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     Acc. TDWG Economic Botany. Is t here trade in the live plants, plant parts, or derived products , and , if so , on what scale?
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -133,7 +147,7 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany     
+     Acc. TDWG Economic Botany. Is the plant highly valued for its use or are ot her species pref erred and , if so, which? Try to record factors influencing any preference, e.g. rarity, inaccessi bilit y, depleted source, or low quality, ineffecti veness, difficult harvesting or proc essing requi rements.     
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -141,15 +155,7 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany 
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     =Problems=
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-     Acc. TDWG Economic Botany 
+     Acc. TDWG Economic Botany. Provide details of properties which influence its value for a specified purp ose, e.g . nutritional value for foods; occurrence of bioactive compounds for med icines/poisons; mechanical and physical properties of woods; nectar flow periods and flowering dates for bee plants; calorific values and burning qualities of fuels; sizes of plants used environmentally etc.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -157,7 +163,7 @@ http://img14.imageshack.us/img14/896/ah54.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Acc. TDWG Economic Botany 
+     Acc. TDWG Economic Botany. Coul d the use , cultivation, manufacture of products etc. be increased and /or introduced to other areas or social groups? 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
