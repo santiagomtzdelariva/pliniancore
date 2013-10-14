@@ -59,6 +59,7 @@
            * [TerritoryAtomizedClass TerritoryAtomized Class]
         * [PopulationBiologyClass PopulationBiology Class]
            * [PopulationBiologyAtomizedClass PopulationBiologyAtomized Class]
+        * [http://code.google.com/p/pliniancore/wiki/DemographyAndThreatClass#Threat_Status ThreatStatus Class]
         * [LegislationClass Legislation Class]
            * [LegislationAtomizedClass LegislationAtomized Class]
      * [UsesManagementAndConservationClass UsesManagementAndConservation Class]
