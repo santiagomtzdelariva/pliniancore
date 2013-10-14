@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-http://img802.imageshack.us/img802/2298/tbqc.jpg
+http://img196.imageshack.us/img196/6982/6ybh.jpg
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -13,21 +13,34 @@ http://img802.imageshack.us/img802/2298/tbqc.jpg
 ||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
 
+
 <h2>*Life Form Class:*</h2>
 
-<img src="http://img214.imageshack.us/img214/4559/multipleu.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 
-     =Para=
+     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     =Life Form Atomized=
 
-     <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/NormalString
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+     
+     Structured information  
 
-     =Ancillary Data=
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
-     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+     =Life Form Unstructured=
 
-     Ancillary information.
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+     
+     Unstructured information.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+=Ancillary Data=
+
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
+     
+ Ancillary information.
+
+<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
