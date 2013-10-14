@@ -36,7 +36,7 @@ http://img203.imageshack.us/img203/5230/fs2b.jpg
 
      Life history of a living organism: The course of developmental changes in an organism from fertilized zygote to maturity or stages through which an organism passes.
 
-     <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/DetailClass
+     <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/LifeCycleClass
 
 
      =Reproduction=
