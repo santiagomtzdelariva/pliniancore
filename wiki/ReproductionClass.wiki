@@ -1,4 +1,4 @@
-#labels Class,Reproduction
+#labels Class,Reproduction,CV,ControlledVocabulary
 <h2>*Schema and Legend:*</h2>
 
 <wiki:toc />
@@ -30,7 +30,9 @@ http://img42.imageshack.us/img42/6429/n7bx.jpg
      
      Structured information 
 
-     For Attribute, e.g.Reproductive strategy and 
+     Attribute: e.g.Reproductive strategy.
+
+     For Value of DetailClass is recommended to use a <b>controlled vocabulary</b>.  e.g. For reproductive strategy: polycyclic, semelparous, iteroparous
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
