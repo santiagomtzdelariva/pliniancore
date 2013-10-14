@@ -42,7 +42,7 @@
         * [MigratoryDataClass Migratory Class]
            * [MigratoryAtomizedClass MigratoryAtomized Class]
         * [EcologicalClass EcologicalSignificance Class]
-        * [EnvironmentalEnvelopeClass EnviromentalEnvelope Class]
+        * [EnvironmentalEnvelopeClass EnvironmentalEnvelope Class]
      * [InvasivenessClass Invasiveness Class]
         * [InvasivenessAtomizedClass InvasivenessAtomized Class]
      * [HabitatAndDistributionClass HabitatAndDistribution Class]
