@@ -136,10 +136,11 @@ http://img401.imageshack.us/img401/9315/nzlj.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg" width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-
-     Environmental ranges in who species living (ej. annual rainfall, average, 450, mm
+     Set of environmental conditions within which it is believed that the species can persist; that is where its environmental requirements can be satisfied.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/EnvironmentalClass
+
+    <b>Quick Reference:</b> Walker, P.A. and Cocks, K.D. 1991. HABITAT: a procedure for modeling a disjoint environmental envelope for a plant or animal species. Global Ecology & Biogeography Letter 1: 108-118. 
 
      =Natural History Unstructured=
 
