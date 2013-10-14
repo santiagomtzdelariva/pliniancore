@@ -28,9 +28,7 @@ http://img203.imageshack.us/img203/5230/fs2b.jpg
      Recommended best practice is to use a controlled vocabulary.
      e.g: For plants: Raunkiær plant life-form. http://en.wikipedia.org/wiki/Raunki%C3%A6r_plant_life-form
 
-
-<b>Class:</b>  http://code.google.com/p/pliniancore/wiki/LifeFormClass
-
+     <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/LifeFormClass
 
      =Life Cycle=
 
