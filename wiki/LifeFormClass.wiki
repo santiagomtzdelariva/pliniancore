@@ -30,8 +30,9 @@ http://img196.imageshack.us/img196/6982/6ybh.jpg
 
      In the <b>field Value</b> of DetailClass is <b>recommended</b> to use a <b>controlled vocabulary</b>. 
 
-     e.g. Tree, shrubs, herbs (Raunkiær plant life-form system). 
-     <b>Reference:</b> http://en.wikipedia.org/wiki/Raunki%C3%A6r_plant_life-form.
+     e.g. Tree, shrubs, herbs (Raunkiær plant life-form system.
+
+<b>Reference:</b> http://en.wikipedia.org/wiki/Raunki%C3%A6r_plant_life-form.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
