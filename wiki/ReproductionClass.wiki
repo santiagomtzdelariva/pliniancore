@@ -30,9 +30,9 @@ http://img841.imageshack.us/img841/1715/sfct.jpg
      
      Structured information 
 
-     Attribute: e.g.Reproductive strategy.
+     <b>Attribute:</b> e.g.Reproductive strategy.
 
-     For Value field is recommended to use a <b>controlled vocabulary</b>.  e.g. For reproductive strategy: polycyclic, semelparous, iteroparous
+     A <b>controlled vocabulary</b>  is recommended to use for <b>Value</b> field.  e.g. For reproductive strategy: polycyclic, semelparous, iteroparous
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
