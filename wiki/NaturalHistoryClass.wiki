@@ -88,7 +88,7 @@ http://img401.imageshack.us/img401/9315/nzlj.jpg
 
      Responses, reactions or movements made by an organism in a particular situation.
 
-<b>Class:</b>  http://code.google.com/p/pliniancore/wiki/BehaviorClass
+     <b>Class:</b>  http://code.google.com/p/pliniancore/wiki/BehaviorClass
 
      =Interactions=
 
