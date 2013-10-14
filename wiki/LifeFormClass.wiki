@@ -1,4 +1,4 @@
-#labels Class,LifeForm
+#labels Class,LifeForm,CV,ControlledVocabulary
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
