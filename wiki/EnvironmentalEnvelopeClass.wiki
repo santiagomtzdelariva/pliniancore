@@ -22,6 +22,8 @@ http://img69.imageshack.us/img69/1745/0psi.jpg
 
 Set of environmental conditions within which it is believed that the species can persist; that is where its environmental requirements can be satisfied.”
 
+<b>Reference:</b> Walker, P.A. and Cocks, K.D. 1991. HABITAT. a procedure for modeling a disjoint environmental envelope for a plant or animal species. Global Ecology and Biogeography  Letter 1. 108-118.
+
      =Measurment Or Fact=
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
