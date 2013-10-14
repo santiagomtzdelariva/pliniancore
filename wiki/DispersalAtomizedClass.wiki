@@ -26,8 +26,7 @@ http://img109.imageshack.us/img109/6526/ixgp.jpg
 
      <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/> <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
      
-     Makes reference to any data being measured (e.g. annual precipitation). 
-
+     
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
      =Type=
@@ -50,7 +49,7 @@ http://img109.imageshack.us/img109/6526/ixgp.jpg
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-     (ej. 450)
+     e.g. Dispersal distance 450 m
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/MeasurementOrFactClass
 
