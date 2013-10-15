@@ -66,25 +66,23 @@ http://img14.imageshack.us/img14/4746/f3gj.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-resource.html#associatedParty 
-
      A party associated with the set of records. Parties have particular roles.
+     
+     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-resource.html#associatedParty 
 
      =Description=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>      
 
-     <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_MetadataDescriptionRepr_Link030A13A0
-
      Language-specific content metadata (title, description, etc.) with *required* Language attribute added.
+
+     <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_MetadataDescriptionRepr_Link030A13A0
 
      =Revison=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>      
 
-
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/RevisionClass
-
 
      =IPR Statements=
 
