@@ -67,7 +67,6 @@
      * [UsesManagementAndConservationClass UsesManagementAndConservation Class]
         * [UsesClass Uses Class]
            * [UsesAtomizedClass UsesAtomized Class]
-        * [FolkloreClass Folklore Class]
         * [ManagementAndConservationClass ManagementAndConservation Class]
            * [ManagementAtomizedClass ManagementAtomized Class]
      * [AncillaryDataClass AncillaryData Class]
