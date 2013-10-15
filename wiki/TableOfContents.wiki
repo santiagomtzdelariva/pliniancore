@@ -74,7 +74,6 @@
      * [DescriptionItemClass DescriptionItem Class] (Deprecated)
      * [MeasurementOrFactClass MeasurementOrFact Class]
      * [ResourceRelationshipClass ResourceRelationship Class]
-     * [TextDescriptionClass TextDescription Class]
      * [NormalString NormalString]
      * [NormalDate NormalDate]
   * [Examples Examples]
