@@ -80,7 +80,7 @@ http://img819.imageshack.us/img819/6981/37h3.jpg
 
      <b>Quick Reference:</b>
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/FlatHierarchyClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/HierarchyClass
 
 
      =Misc Details=
