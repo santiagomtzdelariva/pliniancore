@@ -90,26 +90,21 @@ http://img14.imageshack.us/img14/4746/f3gj.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
 
-     <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_IPRStatements_Link0300BAE8
-
      A sequence of statements related to Intellectual Property Rights, credit and acknoledgement.
 
-     =Coverage=
+     <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_IPRStatements_Link0300BAE8
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
-
-     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-coverage.html
-
-     Describes the extent of the coverage of the resource in terms of its spatial extent, temporal extent, and taxonomic extent.
-
+     http://img5.imageshack.us/img5/5816/ef7n.jpg
 
      =Coverage=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
 
+     Describes the extent of the coverage of the resource in terms of its spatial extent, temporal extent, and taxonomic extent.  
+     
      <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-coverage.html
 
-     Describes the extent of the coverage of the resource in terms of its spatial extent, temporal extent, and taxonomic extent.
+     http://img405.imageshack.us/img405/1668/gnew.jpg
 
      =Version=
 
@@ -125,4 +120,4 @@ http://img14.imageshack.us/img14/4746/f3gj.jpg
 
      <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-resource.html#keywordSet
 
-     http://img593.imageshack.us/img593/3176/uiiy.jpg
+     http://img203.imageshack.us/img203/4794/dyc7.jpg
