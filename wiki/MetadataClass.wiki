@@ -34,7 +34,7 @@ http://img14.imageshack.us/img14/4746/f3gj.jpg
 
      The URI of an icon/logo symbolizing the project.
 
-     e.g. "http://www.unex.es/theme/unex_theme/theme_img/img_logo.png"
+     e.g. www.unex.es/theme/unex_theme/theme_img/img_logo.png
 
      <b>Class:</b> xs:anyURY
 
@@ -119,8 +119,7 @@ http://img14.imageshack.us/img14/4746/f3gj.jpg
 
      =keyword Set=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16
-/5397/multipleg.jpg" width="26" height="24"/>     
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
 
      A wrapper element for the keyword and keywordThesaurus elements
 
