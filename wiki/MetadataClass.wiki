@@ -2,7 +2,7 @@
 <h2>*Schema and Legend:*</h2>
 <wiki:toc />
 
-<img src="http://img688.imageshack.us/img688/4133/metadata.jpg" width="494" height="413"/>
+http://img14.imageshack.us/img14/4746/f3gj.jpg
 
 
 ||Image||Description||
@@ -24,38 +24,23 @@
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     <b>Quick Reference:</b> 
+     An identifier for the set of data.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
 
      =Icon URI=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     <b>Quick Reference:</b> 
-
      The URI of an icon/logo symbolizing the project.
 
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     e.g.http://www.unex.es/theme/unex_theme/theme_img/img_logo.png
 
-
-     =Owners=
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
-
-     <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_Contact_Link02056830 
-
-     Contact details.
-
-     <b>Class:</b>
-
+     <b>Class:</b> xs:anyURY
 
      =Source=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>     
-
-     <b>Quick Reference:</b>
 
      Information about the data set provenance.
 
@@ -71,27 +56,31 @@
 <blockquote>
           ==URI==
 
-          <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
           <b>Class:</b> xs:anyURY    
 
 </blockquote>
 
+     =associated Party=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+
+     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-resource.html#associatedParty 
+
+     A party associated with the set of records. Parties have particular roles.
+
      =Description=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>      
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>      
 
      <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_MetadataDescriptionRepr_Link030A13A0
 
      Language-specific content metadata (title, description, etc.) with *required* Language attribute added.
 
-
-
      =Revison=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>      
-
-     <b>Quick Reference:</b>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>      
 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/RevisionClass
@@ -99,29 +88,42 @@
 
      =IPR Statements=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
 
      <b>Quick Reference:</b> http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_IPRStatements_Link0300BAE8
 
      A sequence of statements related to Intellectual Property Rights, credit and acknoledgement.
 
-     <b>Class:</b>
+     =Coverage=
 
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
 
-     =Scope=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
-
-     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/index.html#N100DE
+     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-coverage.html
 
      Describes the extent of the coverage of the resource in terms of its spatial extent, temporal extent, and taxonomic extent.
 
+
+     =Coverage=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
+
+     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-coverage.html
+
+     Describes the extent of the coverage of the resource in terms of its spatial extent, temporal extent, and taxonomic extent.
 
      =Version=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>     
 
-     <b>Quick Reference:</b>
-
-
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/VersionClass
+
+     =keyword Set=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16
+/5397/multipleg.jpg" width="26" height="24"/>     
+
+     A wrapper element for the keyword and keywordThesaurus elements
+
+     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-resource.html#keywordSet
+
+     http://img593.imageshack.us/img593/3176/uiiy.jpg
