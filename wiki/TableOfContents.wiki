@@ -3,7 +3,7 @@
   * [PlinianCore_Elements Plinian Core Elements]
      * [DataSet Dataset]
         * [Metadata Metadata]
-        * [TaxonRecord TaxonRecord]
+        * [TaxonRecordClass TaxonRecord]
            * [RecordMetadata RecordMetadata]
            * [BaseElements BaseElements]
            * [NomenclatureAndClassification NomenclatureAndClassification]
