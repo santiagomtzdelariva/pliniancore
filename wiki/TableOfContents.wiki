@@ -16,6 +16,7 @@
            * [http://code.google.com/p/pliniancore/wiki/MetadataClass#associated_Party associatedParty] 
            * [References References]
            * [AncillaryData AncillaryData]
+        * [AncillaryData AncillaryData]
   * [PlinianCore_Classes Plinian Core Classes]
      * [MetadataClass Metadata Class]
      * [VersionClass Version Class]
