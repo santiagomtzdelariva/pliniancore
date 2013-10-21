@@ -5,7 +5,7 @@ Basic information to identify the record.
 
 <wiki:toc />
 
-http://img824.imageshack.us/img824/5047/h5h4.jpg
+http://img585.imageshack.us/img585/6715/xs0x.jpg
 
 
      =TaxonRecordID=
@@ -18,7 +18,7 @@ http://img824.imageshack.us/img824/5047/h5h4.jpg
 
      =taxonConceptID=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
      <b>Quick Reference:</b>http://rs.tdwg.org/dwc/terms/taxonConceptID
 
