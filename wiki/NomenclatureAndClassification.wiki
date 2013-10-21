@@ -1,9 +1,11 @@
 #labels Element,Nomenclature,Classification,NomenclatureAndClassification
 <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NomenclatureAndClassificationClass
 
 Standard information for every known taxon: Taxon Record Name, Synomyms, Common Names, Hierarchy, Misc. Details and Ancillary Data.
+
+*Quick Reference:* http://code.google.com/p/pliniancore/wiki/NomenclatureAndClassificationClass
+
 
 
 <h2>Legend:</h2>
