@@ -23,14 +23,20 @@ http://img812.imageshack.us/img812/8192/nuoq.jpg
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-     <b>Quick Reference:</b> http://www.tdwg.org/uploads/media/v101.xsd
+     <b>Quick Reference:</b> http://www.tdwg.org/schemas/tcs/1.01
 
-     <b>Class:</b> tcs: (Scientific Name)
+     The name of the synonym.
+
+     <b>Class:</b> http://www.tdwg.org/uploads/media/v101.xsd tcs: (Scientific Name)
 
 
      =Synonym Status=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
+
+     The status of the synonym name. A controlled vocabulary is recomended.
+
+     <b>e.g.</> 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
