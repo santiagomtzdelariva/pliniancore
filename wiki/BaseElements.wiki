@@ -3,9 +3,10 @@
 
 Basic information to identify the record.
 
-<wiki:toc />
 
 http://img585.imageshack.us/img585/6715/xs0x.jpg
+
+<wiki:toc />
 
 
      =TaxonRecordID=
