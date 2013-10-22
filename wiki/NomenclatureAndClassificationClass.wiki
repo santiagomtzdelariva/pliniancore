@@ -24,7 +24,7 @@ http://img594.imageshack.us/img594/9922/s4hp.jpg
 
           Canonical name enforcing strict inclusion of only nomenclatural information - _not_ taxonomic information. The name entered here must comply with rules and recommendations of the international nomenclatural code pertaining to the organisms (Zoological, Botanical, of Cultivated Pants, or Bacteriological).
 
-          <b>Class:</b> http://www.tdwg.org/uploads/media/v101.xsd (tcs: ScientificName)
+          <b>Class:</b> http://www.tdwg.org/uploads/media/v101.xsd (tcs: Scientific Name)
 </blockquote>
 <blockquote>
 
