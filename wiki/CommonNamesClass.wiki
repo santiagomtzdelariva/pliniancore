@@ -27,7 +27,7 @@ http://img713.imageshack.us/img713/7272/byuo.jpg
 
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
-</br>
+<br>
 <h2>*Legend:*</h2>
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
