@@ -13,8 +13,6 @@ http://img594.imageshack.us/img594/9922/s4hp.jpg
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
-     <b>Quick Reference:</b>
-
      Complete information about the name of the taxon.
 
 <blockquote>
@@ -34,8 +32,6 @@ http://img594.imageshack.us/img594/9922/s4hp.jpg
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-          <b>Quick References:</b>
-
           Ancillary Data.
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
@@ -46,8 +42,6 @@ http://img594.imageshack.us/img594/9922/s4hp.jpg
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
-     <b>Quick Reference:</b>
-
      Different names for this taxon. This concept is a placeholder field.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/SynonymsClass
@@ -57,8 +51,6 @@ http://img594.imageshack.us/img594/9922/s4hp.jpg
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
-     <b>Quick Reference:</b> 
-
      A list of common names, in alphabetic order, optionally followed by language and region where it is used. For example, name1 (language, region), name2 (language, region). If language or region is omitted, it is assumed to be unknown.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/CommonNamesClass
@@ -67,7 +59,7 @@ http://img594.imageshack.us/img594/9922/s4hp.jpg
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-     <b>Quick Reference:</b>
+     Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide keys. 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/HierarchyClass
 
@@ -75,8 +67,6 @@ http://img594.imageshack.us/img594/9922/s4hp.jpg
      =Misc Details=
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
-
-     <b>Quick Reference:</b> 
 
      Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymology, ...
 
@@ -87,8 +77,6 @@ http://img594.imageshack.us/img594/9922/s4hp.jpg
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-     <b>Quick Reference:</b> 
-
      Unstructured information.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
@@ -96,8 +84,6 @@ http://img594.imageshack.us/img594/9922/s4hp.jpg
      =Ancillary Data=
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
-
-     <b>Quick Reference:</b> 
 
      Ancillary Data.
 
