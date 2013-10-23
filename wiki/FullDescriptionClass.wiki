@@ -21,7 +21,16 @@ http://img802.imageshack.us/img802/7800/afv1.jpg
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
+     =Ancillary Data=
 
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
+
+     Ancillary Data.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
+
+<br>
 
 <h2>*Legend:*</h2>
 
