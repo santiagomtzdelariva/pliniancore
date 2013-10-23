@@ -1,6 +1,7 @@
 #labels Class,FullDescriptionClass,FullDescription
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
+Complete and detailed account of the taxonomic and systematic characters, i.e. those that define and allow to recognize an organism.
 
 http://img802.imageshack.us/img802/7800/afv1.jpg
 
