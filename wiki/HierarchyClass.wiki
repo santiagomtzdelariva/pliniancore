@@ -5,10 +5,9 @@
 
 Hierarchical categories. Modified from Linnean Core. Option: fill all or principal ranks and optionally provide keys.
 
+http://img716.imageshack.us/img716/3753/y19v.jpg
 
 <wiki:toc />
-
-http://img24.imageshack.us/img24/9909/jzw6.jpg
 
 ||Name||Type||Description||References||
 ||Kingdom||xs:string||Kingdom name||http://rs.tdwg.org/dwc/2009-09-23/terms/index.htm#kingdom||
