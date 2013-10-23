@@ -1,26 +1,13 @@
 #labels Class,MiscDetail,Detail
-<h2>*Schema and Legend:*</h2>
-
-<wiki:toc />
-
-http://img713.imageshack.us/img713/3691/71vj.jpg
-
-
-||Image||Description||
-||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
-||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
-||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
-||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
-||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
-||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
-||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
-
-
-<h2>*Misc Detail Class:*</h2>
-
-<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>  
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
 Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymology, ...
+
+
+
+http://img580.imageshack.us/img580/587/p70q.jpg
+
+<wiki:toc />
 
      =Detail Atomized=
      
@@ -45,3 +32,15 @@ Miscellaneus: notes attached to the taxon information. E.g. Pronunciation, etymo
      Ancillary information.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
+
+<br>
+<h2>*Legend:*</h2>
+
+||Image||Description||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
