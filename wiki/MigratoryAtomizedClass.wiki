@@ -1,12 +1,10 @@
-#labels Class,MigratoryAtomized,Causes,Patterns,Routes,Season
+#labels Class,MigratoryAtomized,Causes,Patterns,Routes,Season,CV,ControlledVocabulary
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 
-http://img801.imageshack.us/img801/4981/p9o1.jpg
+http://img194.imageshack.us/img194/9321/b54k.jpg
 
 <wiki:toc />
-
-
 
      =Causes=
 
