@@ -39,7 +39,7 @@ http://img571.imageshack.us/img571/2448/dd0x.jpg
      Ancillary information.
  
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-
+------
 <br>
 <h2>*Legend:*</h2>
 ||Image||Description||
