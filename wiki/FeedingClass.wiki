@@ -1,7 +1,7 @@
-#labels Class,Feeding
+#labels Class,Feeding,CV,ControlledVocabulary
 Information related to supply food for the development and sustenance of the individual and/or its offspring.
 
-http://img823.imageshack.us/img823/1615/6ud3.jpg
+http://img690.imageshack.us/img690/5704/vq4m.jpg
 
 <wiki:toc />
 
