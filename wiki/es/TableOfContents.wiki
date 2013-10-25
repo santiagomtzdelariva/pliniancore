@@ -1,4 +1,4 @@
-    * [StandardsProgress Standards Progress]
+  * [StandardsProgress Standards Progress]
   * [PlinianCore_Elements Plinian Core Elements]
      * [DataSet Dataset]
         * [Metadata Metadata]
@@ -45,6 +45,7 @@
         * [InteractionsClass Interactions Class]
            * [InteractionAtomizedClass InteractionAtomized Class]
         * [MolecularDataClass MolecularData Class]
+           * [MolecularDataAtomizedClass MolecularDataAtomized Class]
         * [MigratoryDataClass Migratory Class]
            * [MigratoryAtomizedClass MigratoryAtomized Class]
         * [EcologicalSignificanceClass EcologicalSignificance Class]
