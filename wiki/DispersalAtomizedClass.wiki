@@ -18,7 +18,7 @@ http://img853.imageshack.us/img853/8153/n6pa.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     A <b>controlled vocabulary</b> is recommended:
+     A <b>controlled vocabulary</b> is recommended.
      e.g. Zoochory, Anemochory, Hydrochory, Barochory, Autochory
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
