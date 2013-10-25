@@ -1,8 +1,44 @@
 #labels Class,Feeding
-<h2>*Schema and Legend:*</h2>
-<wiki:toc />
+
+Information related to supply food for the development and sustenance of the individual and/or its offspring.
 
 http://img823.imageshack.us/img823/1615/6ud3.jpg
+
+
+<wiki:toc />
+
+
+-------
+
+     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>      
+   
+     =Feeding Atomized=
+
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/FeedingAtomizedClass
+ 
+-------
+         
+     =Feeding Unstructured=
+
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+     =Ancillary Data=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
+
+     Ancillary information.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
+
+-------
+
+
+<h2>*Legend:*</h2>
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -12,37 +48,3 @@ http://img823.imageshack.us/img823/1615/6ud3.jpg
 ||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
 ||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
-
-<h1><b>Feeding Class</b></h1>
-
-     =type=
-          
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
-     
-     Primary diet source. Controlled vocabulary.
-
-     ----
-
-     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>      
-   
-     =Feeding Atomized=
-
-     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/FeedingAtomizedClass
-          
-     =Feeding Unstructured=
-
-     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     ----
-
-=Ancillary Data=
-
-<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
-
-Ancillary information.
-
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
