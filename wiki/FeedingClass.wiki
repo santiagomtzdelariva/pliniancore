@@ -19,7 +19,7 @@ http://img690.imageshack.us/img690/5704/vq4m.jpg
  
 -------
 
-  <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
          
      =Feeding Unstructured=
 
