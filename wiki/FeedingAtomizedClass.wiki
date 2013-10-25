@@ -1,39 +1,34 @@
-#labels Class,FeedingAtomized,ThropicStrategy,Qualifier
-<h2>*Schema and Legend:*</h2>
-<wiki:toc />
+#labels Class,FeedingAtomized,ThropicStrategy,Qualifier,CV,ControlledVocabulary
+<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/> 
+
 
 http://img18.imageshack.us/img18/9586/pfrt.jpg
 
-||Image||Description||
-||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
-||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
-||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
-||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
-||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
-||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
-||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
-
-<h1><b>Feeding Atomized Class</b></h1>
+<wiki:toc />
 
 
-     <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>     
+
+
+         
 
      =type=
           
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
      
-     Primary diet source. Controlled vocabulary.
+     Primary diet source. A <b>controlled vocabulary</b> is recommended.
+
+     e.g.
 
      =Thropic Strategy=
 
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
      Tactic used to obtain energy or nutrients.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
-     =Thropic Strategy Qualifier=
+     =Thropic Strategy Remarks=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
@@ -48,3 +43,14 @@ http://img18.imageshack.us/img18/9586/pfrt.jpg
      Ancillary information.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
+<h2>*Legend:*</h2>
+
+||Image||Description||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
