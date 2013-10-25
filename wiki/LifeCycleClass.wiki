@@ -21,6 +21,7 @@ http://img32.imageshack.us/img32/733/bfgq.jpg
 
 -----------
    <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
      =Life Cycle Unstructured=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
