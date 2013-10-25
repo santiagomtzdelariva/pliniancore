@@ -23,7 +23,7 @@ http://img607.imageshack.us/img607/9931/6un6.jpg
  
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
--------
+
 <br>
 <h2>*Legend:*</h2>
 
