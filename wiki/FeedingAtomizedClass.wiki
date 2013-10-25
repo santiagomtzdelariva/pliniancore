@@ -24,13 +24,12 @@ http://img46.imageshack.us/img46/9366/l526.jpg
      <b>e.g.</b> Chemosynthetic organisms,Photosynthetic organisms,Parasites,Decomposers,Suspension feeders,Substrate feeders, Grazers,Fluid-feeders,Predators...
 
      <b>References:</b>: <br>
-     - Campbell, N. A., J. B. Reece, et al. 1999. Biology. Addison Wesley Longman, Inc. Menlo Park, CA. <br>
-     - Gabaudan, F. C. and J. Ureña Bracero. 2011. Diccionario médico-biológico, histórico y etimológico. Ediciones Universidad de Salamanca. Disponible en línea en: http://dicciomed.eusal.es. Fecha de consulta 15/08/2012.<br>
-     - Lawrence, E. E. 2003. Diccionario Akal de Términos biológicos. Madrid, España, Akal.<br>
-     - Martínez-Ramos, M. 2008. Grupos Funcionales. In J. Soberón, G. Halffter and J. Llorente Bousquets (Eds.), Capital Natural de México Vol. I, pp. 365-412. México Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.<br>
-     - Sadava D., D. M. Hills, et al. 2011. Life, the science of biology. Sinauer Associates Inc., Gordonsville USA.<br> 
+        - Campbell, N. A., J. B. Reece, et al. 1999. Biology. Addison Wesley Longman, Inc. Menlo Park, CA. <br>
+        - Gabaudan, F. C. and J. Ureña Bracero. 2011. Diccionario médico-biológico, histórico y etimológico. Ediciones Universidad de Salamanca. Disponible en línea en: http://dicciomed.eusal.es. Fecha de consulta 15/08/2012.<br>
+        - Lawrence, E. E. 2003. Diccionario Akal de Términos biológicos. Madrid, España, Akal.<br>
+        - Martínez-Ramos, M. 2008. Grupos Funcionales. In J. Soberón, G. Halffter and J. Llorente Bousquets (Eds.), Capital Natural de México Vol. I, pp. 365-412. México Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.<br>
+        - Sadava D., D. M. Hills, et al. 2011. Life, the science of biology. Sinauer Associates Inc., Gordonsville USA.<br> 
     
-
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
 
