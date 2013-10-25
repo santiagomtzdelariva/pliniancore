@@ -16,7 +16,7 @@ http://img30.imageshack.us/img30/6952/9nju.jpg
      
      Structured information.
 
-     In the <b>field Value</b> of DetailClass is <b>recommended</b> to use a <b>controlled vocabulary</b>. 
+     In the <b>field Value</b> from DetailClass is <b>recommended</b> to use a <b>controlled vocabulary</b>. 
 
      e.g. Tree, shrubs, herbs (Raunkiær plant life-form system.
      <b>Reference:</b> http://en.wikipedia.org/wiki/Raunki%C3%A6r_plant_life-form.
