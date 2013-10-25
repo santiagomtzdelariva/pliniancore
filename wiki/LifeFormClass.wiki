@@ -43,7 +43,7 @@ http://img30.imageshack.us/img30/6952/9nju.jpg
      Ancillary information.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-
+-----------
 
 <h2>*Legend:*</h2>
 
