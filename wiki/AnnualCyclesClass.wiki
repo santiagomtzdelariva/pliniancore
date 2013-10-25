@@ -1,7 +1,7 @@
 #labels Class,AnnualCycles,ControlledVocabulary,CV
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
-Set of changes or events that recurrently take place at the same time of year and are influenced by seasonal and interannual climate variations. For example: reproduction, flowering, fruiting, emergence of insects, etc. Also called phenology, mainly in plants. In the case of migration, refers only to the timing of it; other data about this are gathered in MigratoryData.
+Set of changes or events that recurrently take place at the same time of year and are influenced by seasonal and interannual climate variations. For example: reproduction, flowering, fruiting, emergence of insects, etc. Also called phenology, mainly in plants. In the case of migration, refers only to the timing of it; other data about this are gathered in MigratoryClass.
 
 http://img69.imageshack.us/img69/5277/6gum.jpg
 
