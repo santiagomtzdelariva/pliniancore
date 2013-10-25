@@ -1,29 +1,35 @@
 #labels Class,FeedingAtomized,ThropicStrategy,Qualifier,CV,ControlledVocabulary
 <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/> 
 
-
-http://img18.imageshack.us/img18/9586/pfrt.jpg
+http://img46.imageshack.us/img46/9366/l526.jpg
 
 <wiki:toc />
-
-
-
-
-         
 
      =type=
           
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
      
+     <b>Attribute.</b>
+
      Primary diet source. A <b>controlled vocabulary</b> is recommended.
 
-     e.g.
+     <b>e.g.</b> Autotrophs, Heterotrophs-Herbivores, Heterotrophs-Carnivores, Heterotrophs-Omnivores, Heterotrophs-Saprophagous, Heterotrophs-Detitivores...
 
      =Thropic Strategy=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Tactic used to obtain energy or nutrients.
+     Tactic used to obtain energy or nutrients. A <b>controlled vocabulary</b> is recommended.
+
+     <b>e.g.</b> Chemosynthetic organisms,Photosynthetic organisms,Parasites,Decomposers,Suspension feeders,Substrate feeders, Grazers,Fluid-feeders,Predators...
+
+     <b>References:</b>: 
+     - Campbell, N. A., J. B. Reece, et al. 1999. Biology. Addison Wesley Longman, Inc. Menlo Park, CA. 
+     - Gabaudan, F. C. and J. Ureña Bracero. 2011. Diccionario médico-biológico, histórico y etimológico. Ediciones Universidad de Salamanca. Disponible en línea en: http://dicciomed.eusal.es. Fecha de consulta 15/08/2012.
+     - Lawrence, E. E. 2003. Diccionario Akal de Términos biológicos. Madrid, España, Akal.
+     - Martínez-Ramos, M. 2008. Grupos Funcionales. In J. Soberón, G. Halffter and J. Llorente Bousquets (Eds.), Capital Natural de México Vol. I, pp. 365-412. México Comisión Nacional para el Conocimiento y Uso de la Biodiversidad.
+     - Sadava D., D. M. Hills, et al. 2011. Life, the science of biology. Sinauer Associates Inc., Gordonsville USA. 
+    
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
