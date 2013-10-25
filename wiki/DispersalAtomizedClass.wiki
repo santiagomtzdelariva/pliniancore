@@ -49,7 +49,7 @@ http://img853.imageshack.us/img853/8153/n6pa.jpg
  
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
-<b>References:<b>
+<b>References:</b>
    - De Noir, F. A., S. Bravo, et al. 2002. Mecanismos de dispersión de algunas especies leñosas nativas del Chaco Occidental y Serrano. Quebracho, Revista de Ciencias Forestales 9: 140-150. 
    - Henríquez, J. M. 2004. Influencia de los defecaderos de camélidos sobre el desarrollo vegetal y riqueza de especies en morrenas glaciales, Tierra del Fuego. Revista Chilena de Historia Natural 77: 501-508. 
    - Kubitzki, K. and A. Zibursky. 1994. Seed dispersal in flood plain forests of Amazonia. Biotropica 26(1): 30-43.
