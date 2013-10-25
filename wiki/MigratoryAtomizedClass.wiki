@@ -1,31 +1,19 @@
 #labels Class,MigratoryAtomized,Causes,Patterns,Routes,Season
-<h2>*Schema and Legend:*</h2>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-<wiki:toc />
 
 http://img801.imageshack.us/img801/4981/p9o1.jpg
 
+<wiki:toc />
 
-||Image||Description||
-||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
-||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
-||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
-||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
-||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
-||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
-||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
-
-
-<h2>*Migratory Atomized Class:*</h2>
-
-<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 
      =Causes=
 
      <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
-     Controlled vocabulary: Seasonal climatic variation, Resource availability and Reproduction 
+     A <b>controlled vocabulary</b> is recommended.
+     e.g. Seasonal climatic variation, Resource availability and Reproduction 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
      
@@ -33,7 +21,8 @@ http://img801.imageshack.us/img801/4981/p9o1.jpg
 
      <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
 
-     Controlled vocabulary: Latitudinal, Longitudinal , Altitudinal , Vertical in water columns and Local migrant
+     A <b>controlled vocabulary</b> is recommended.
+     e.g. Latitudinal, Longitudinal , Altitudinal , Vertical in water columns and Local migrant
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -50,7 +39,9 @@ http://img801.imageshack.us/img801/4981/p9o1.jpg
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-     Time of year in which a species migrates. 
+     Time of year in which a species migrates.
+
+     e.g. 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -61,3 +52,25 @@ http://img801.imageshack.us/img801/4981/p9o1.jpg
      Ancillary information.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
+   <b>References:</b>
+      - Cook W. C. 1967. Life history, host plants and migrations of the beet leafhopper in the Western United States. Agricultural Research Service, U.S. Dept. of Agriculture.
+      - Dole, J. W. and P. Durant. 1974. Movements and seasonal activity of Atelopus oxyrhynchus (Anura: Atelopodidae) in a Venezuelan cloud forest. Copeia 1974 (1):230-235.
+      - Instituto Alexander von Humboldt. Catálogo de métodos y atributos de conjuntos de datos relacionados con biodiversidad. Contacto responsable: Claudia Múnera Roldán, programa Conservación y Uso de la Biodiversidad, Colombia. 
+      - Peters, J. A. 1973. The frog genus Atelopus in Ecuador (Anura, Bufonidae).Smithsonian Contributions to Zoology,145.
+Encyclopædia Britannica Online Academic Edition. 2012. "Migration." http://www.britannica.com/EBchecked/topic/381854/migration. Accessed on: 03/08/2012.
+      - Mazeroll. A.I. and W. L. Montgomery. 1995. Structure and organization of local migrations in brown surgeon-fish (Acanthurus nigrofuscus). Ethology 99 (1):89-106.
+      - SEMARNAT. 2000. Ley General de Vida Silvestre. Diario Oficial de la Federación, 3 de Julio de 2000.
+
+
+<br>
+<h2>*Legend:*</h2>
+
+||Image||Description||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
