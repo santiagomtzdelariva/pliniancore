@@ -18,6 +18,12 @@ http://img18.imageshack.us/img18/9586/pfrt.jpg
 
      <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>     
 
+     =type=
+          
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
+     
+     Primary diet source. Controlled vocabulary.
+
      =Thropic Strategy=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg" width="26" height="24"/>
