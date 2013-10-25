@@ -50,6 +50,8 @@
         * [MigratoryClass Migratory Class]
            * [MigratoryAtomizedClass MigratoryAtomized Class]
         * [EcologicalSignificanceClass EcologicalSignificance Class]
+        * [MiscDetailClass MiscDetails Class]
+           * [DetailClass Detail Class]
         * [EnvironmentalEnvelopeClass EnvironmentalEnvelope Class]
      * [InvasivenessClass Invasiveness Class]
         * [InvasivenessAtomizedClass InvasivenessAtomized Class]
