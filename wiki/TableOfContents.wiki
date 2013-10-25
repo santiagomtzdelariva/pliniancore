@@ -47,7 +47,7 @@
            * [InteractionAtomizedClass InteractionAtomized Class]
         * [MolecularDataClass MolecularData Class]
            * [MolecularDataAtomizedClass MolecularDataAtomized Class]
-        * [MigratoryDataClass Migratory Class]
+        * [MigratoryClass Migratory Class]
            * [MigratoryAtomizedClass MigratoryAtomized Class]
         * [EcologicalSignificanceClass EcologicalSignificance Class]
         * [EnvironmentalEnvelopeClass EnvironmentalEnvelope Class]
