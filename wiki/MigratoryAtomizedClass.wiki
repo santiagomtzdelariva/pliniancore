@@ -37,7 +37,7 @@ http://img194.imageshack.us/img194/9321/b54k.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Time of year in which a species migrates.
+     Time of year in which a species migrates. A <b>controlled vocabulary</b> is recommended.
 
      e.g. 
 
