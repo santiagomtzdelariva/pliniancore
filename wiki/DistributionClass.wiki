@@ -1,29 +1,40 @@
 #labels Class,Distribution
-<h2>*Schema and Legend:*</h2>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-<wiki:toc />
+Species geographical  distribution.
 
 http://img209.imageshack.us/img209/6484/w6v8.jpg
 
-
-||Image||Description||
-||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
-||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
-||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
-||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
-||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
-||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
-||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+<wiki:toc />
 
 
-<h2>*Distribution Class:*</h2>
+---------
 
-<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-<b>Attributes:</b>
-=Type Distribution=
+     =Distribution Scope=
 
-Controled vocabulary: Historical, Current, Restricted and Wide.
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+     <b>Attributes:</b>
+     
+     ==Type Distribution==
+
+     Controled vocabulary: Historical, Current, Restricted and Wide.
+
+     List of regions structured and categorized.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+     ==Ancillary Data==
+
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+     Ancillary information.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
+
 
 <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
@@ -50,3 +61,16 @@ Controled vocabulary: Historical, Current, Restricted and Wide.
 Ancillary information.
 
 <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
+
+<br>
+<h2>*Legend:*</h2>
+
+||Image||Description||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
