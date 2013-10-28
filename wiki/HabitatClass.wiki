@@ -17,6 +17,11 @@ http://img855.imageshack.us/img855/212/zkfj.jpg
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+
+     A controlled vocabulary is recommended to use by user in <b>Atrribute</b> field of <b>DetailClass</b>.
+     <b>e.g.</b> e.g. IUCN Habitats Classification Scheme,
+EUNIS
+
       
 ---------
 
