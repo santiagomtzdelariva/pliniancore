@@ -27,8 +27,9 @@ http://img42.imageshack.us/img42/2158/84td.jpg
 </blockquote>
 
    
---------<b>OR</b>   
- <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+--------
+
+  <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
    =country=
 
