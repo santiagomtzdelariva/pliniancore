@@ -20,7 +20,7 @@ http://img42.imageshack.us/img42/2158/84td.jpg
 
        <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-       The language of the taxon record, according to ISO 639.Catalogue where the GeographicEntity is documented.
+       The language of the taxon record, according to ISO 639.Catalogue where the Geographic Entity is documented.
 
        A <b>controlled vocabulary</b> is recommended. 
 
