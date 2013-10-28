@@ -20,7 +20,7 @@ http://img34.imageshack.us/img34/4492/hblb.jpg
 
      <b>Attribute:</b> e.g.Reproductive strategy.
 
-     A <b>controlled vocabulary</b>  is recommended to use by user in <b>Value</b> field from DetailClass.  
+     A <b>controlled vocabulary</b>  is recommended to use by user in <b>Value</b> field of <b>DetailClass</b>.  
      <b>e.g.</b> For reproductive strategy: polycyclic, semelparous, iteroparous...
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
