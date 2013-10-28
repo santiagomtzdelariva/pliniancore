@@ -27,15 +27,15 @@ http://img42.imageshack.us/img42/2158/84td.jpg
 
    <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
    
-   =State=
+   =country=
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-   State of the distribution.
+   The name of the country or major administrative unit in which the Location occurs. Recommended best practice is to use a controlled vocabulary such as the Getty Thesaurus of Geographic Names.
 
-   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+   <b>Quick Reference:</b> http://rs.tdwg.org/dwc/terms/country
 
-   =Region=
+   =state Province=
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
@@ -43,7 +43,23 @@ http://img42.imageshack.us/img42/2158/84td.jpg
 
    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-   =Town=
+   =county=
+
+   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+   Town of the distribution.
+
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+   =municipality=
+
+   <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+   Town of the distribution.
+
+   <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+   =locality=
 
    <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
