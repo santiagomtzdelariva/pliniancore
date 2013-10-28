@@ -1,4 +1,4 @@
-#labels Class,DistributionAtomized,State,Region,Town,Catalogue,GeographicEntity
+#labels Class,DistributionAtomized,country,stateProvince,county,locality,municipality,CV,ControlledVocabulary
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 http://img42.imageshack.us/img42/2158/84td.jpg
