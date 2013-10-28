@@ -13,12 +13,13 @@ http://img209.imageshack.us/img209/6484/w6v8.jpg
 
      =Distribution Scope=
 
-     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> 
      
 <blockquote>
-        ==Type Distribution==
+        ==Type==
 
+        <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+       
         <b>Attribute:</b>
      
         Controled vocabulary: Historical, Current, Restricted and Wide.
@@ -37,6 +38,12 @@ http://img209.imageshack.us/img209/6484/w6v8.jpg
         <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
 </blockquote>
+
+     =Temporal Coverage=
+
+     This field specifies temporal coverage, and allows coverages to be a single point in time, multiple points in time, or a range of dates.
+
+     <b>Quick Reference:</b> http://knb.ecoinformatics.org/software/eml/eml-2.1.1/eml-coverage.html#temporalCoverage
 
 <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
