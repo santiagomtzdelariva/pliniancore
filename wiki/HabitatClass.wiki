@@ -1,4 +1,4 @@
-#labels Class,Habitat
+#labels Class,Habitat,CV,ControlledVocabulary
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>  
 
 General description of the sites where the species is found (ecosystem, forest, environment or microhabitat). (Placeholder). 
@@ -19,11 +19,14 @@ http://img855.imageshack.us/img855/212/zkfj.jpg
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
      A controlled vocabulary is recommended to use by user in <b>Atrribute</b> field of <b>DetailClass</b>.
+
      <b>e.g.</b> e.g. IUCN Habitats Classification Scheme,
 EUNIS
 
       
 ---------
+
+   <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
      =Habitat Unstructured=
 
