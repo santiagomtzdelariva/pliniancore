@@ -15,11 +15,16 @@ http://img34.imageshack.us/img34/2770/qhlf.jpg
 
      =Ecological Atomized=
 
-     <b>Controlled vocabulary</b>
-     
      Structured information. 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+
+     A <b>controlled vocabulary</b>  is recommended to use by user in <b>Attribute</b> field of <b>DetailClass</b>:
+     <b>e.g.</b> Predator, Top predator, Decomposer, Disperser, Pollinator, Primary producer
+
+     <b>References:</b>
+        - Martínez Ramos, M. 2008. Grupos funcionales, en Capital natural de México, vol. I: Conocimiento actual de la biodiver¬sidad. Conabio, México, pp. 365-412.
+
 
 --------
    <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
