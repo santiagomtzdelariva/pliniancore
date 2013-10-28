@@ -20,8 +20,7 @@ http://img855.imageshack.us/img855/212/zkfj.jpg
 
      A controlled vocabulary is recommended to use by user in <b>Atrribute</b> field of <b>DetailClass</b>.
 
-     <b>e.g.</b> e.g. IUCN Habitats Classification Scheme,
-EUNIS
+     <b>e.g.</b> e.g. IUCN Habitats Classification Scheme,EUNIS.
 
       
 ---------
