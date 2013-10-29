@@ -3,6 +3,7 @@
 
 
 Organism that lives exclusively in a particular territory and not found anywhere else.
+
 http://img189.imageshack.us/img189/1682/q3ki.jpg
 
 <wiki:toc />
