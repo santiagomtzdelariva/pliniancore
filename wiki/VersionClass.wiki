@@ -32,9 +32,9 @@ http://img189.imageshack.us/img189/3091/byax.jpg
      Unconstrained text specifying status + optional number, e. g., 'beta', 'alpha', 'rc/release candidate', 'internal'. If missing, release status is assumed.
 
 
-     ==Date Issued==
+     =Date Issued=
 
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
      Source for Dublin-Core standard element Date.Issued: Citable 'publication date' of the current version (comp. Revision_Data/Date_Created and Date_Modified for version- independent dates). This date should be missing if the current version is not yet published!.
 
@@ -46,6 +46,14 @@ http://img189.imageshack.us/img189/3091/byax.jpg
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
      TRUE to indicate currente version when providers serve more than one record per taxon.
+
+     =dc:created=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     TRUE to indicate currente version when providers serve more than one record per taxon.
+
+
 
 <br>
 <h2>*Legend:*</h2>
