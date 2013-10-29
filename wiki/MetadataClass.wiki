@@ -22,7 +22,7 @@ http://img198.imageshack.us/img198/4955/jkw7.jpg
 
      The URI of an icon/logo symbolizing the project.
 
-     e.g. www.unex.es/theme/unex_theme/theme_img/img_logo.png
+     <b>e.g.</b> www.unex.es/theme/unex_theme/theme_img/img_logo.png
 
      <b>Class:</b> xs:anyURY
 
