@@ -51,7 +51,7 @@ http://img189.imageshack.us/img189/3091/byax.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     TRUE to indicate currente version when providers serve more than one record per taxon.
+     <b>Quick Reference:</b> http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-created
 
 
 
