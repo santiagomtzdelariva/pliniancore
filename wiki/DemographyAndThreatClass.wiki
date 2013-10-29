@@ -4,11 +4,11 @@
 Information concerning the demographic aspects of the species, as well as the conservation status.
 
 
-<wiki:toc />
+
 
 http://img534.imageshack.us/img534/5232/t5mr.jpg
 
-
+<wiki:toc />
 
 
 <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> 
@@ -47,7 +47,7 @@ http://img534.imageshack.us/img534/5232/t5mr.jpg
 
          Description of the threat status. A <b>controlled vocabulary</b> is recommended.
 
-        <b>e.g.</b> IUCN Red List  Categories.
+        <b>e.g.</b> IUCN Red List Categories.
 
          ==Authority==
 
@@ -81,7 +81,8 @@ http://img534.imageshack.us/img534/5232/t5mr.jpg
 
      Direct threats are the proximate human activities or processes that have caused, are causing, or may cause the destruction, degradation, and/or impairment of biodiversity targets (e.g., unsustainable fishing or logging). Direct threats are synonymous with sources of stress and proximate pressures. Threats can be past (historical), ongoing, and/or likely to occur in the future.
 
-       
+      A <b>controlled vocabulary</b>  is recommended to use by user in <b>Attribute</b> field of <b>DetailClass</b>.  
+     <b>e.g.</b> IUCN Threats Classification Scheme 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
