@@ -17,11 +17,9 @@ http://img822.imageshack.us/img822/7044/n7fp.jpg
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
      
 <blockquote>
-        ==Type==
+        ==Type (Attribute)==
 
         <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-       
-        <b>Attribute:</b>
      
         A <b>controled vocabulary</b> is recommended. <b>e.g.</b> Historical, Current, Restricted and Wide.
 
