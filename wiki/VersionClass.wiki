@@ -38,7 +38,7 @@ http://img189.imageshack.us/img189/3091/byax.jpg
 
      Source for Dublin-Core standard element Date.Issued: Citable 'publication date' of the current version (comp. Revision_Data/Date_Created and Date_Modified for version- independent dates). This date should be missing if the current version is not yet published!.
 
-     <b>Class:</b> xs:date.
+     <b>Quick Reference:</b> http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-issued.
 
 
      =Preferred Flag=
