@@ -5,7 +5,7 @@ http://img46.imageshack.us/img46/9366/l526.jpg
 
 <wiki:toc />
 
-     =type=
+     =type (Attribute)=
           
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
      
