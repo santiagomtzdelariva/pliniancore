@@ -4,9 +4,7 @@
 Information concerning the demographic aspects of the species, as well as the conservation status.
 
 
-
-
-http://img534.imageshack.us/img534/5232/t5mr.jpg
+http://img819.imageshack.us/img819/2391/s2ce.jpg
 
 <wiki:toc />
 
@@ -38,7 +36,6 @@ http://img534.imageshack.us/img534/5232/t5mr.jpg
 
      Information about the status of the taxon. 
 
-     
 
 <blockquote><blockquote>
           ==Threat Category==
