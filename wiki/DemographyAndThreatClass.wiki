@@ -91,18 +91,21 @@ http://img819.imageshack.us/img819/2391/s2ce.jpg
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/LegislationClass
 
-=Demography and Threat Unstructured=
+----------
+     <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
+     =Demography and Threat Unstructured=
 
-Unstructured information.
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> 
 
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+     Unstructured information.
 
-=Ancillary Data=
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+     =Ancillary Data=
 
-Ancillary information.
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+     Ancillary information.
+
+    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
