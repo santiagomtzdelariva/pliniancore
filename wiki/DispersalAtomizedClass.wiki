@@ -27,7 +27,8 @@ http://img22.imageshack.us/img22/8017/u6j2.jpg
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
      A controlled vocabulary is recommended.
-     e.g. Seed, Fruit, Vegetative structure, Spores, Gametes, Eggs, Offspring and Individuals
+
+     <b>e.g.</b> Seed, Fruit, Vegetative structure, Spores, Gametes, Eggs, Offspring and Individuals
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
