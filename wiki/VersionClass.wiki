@@ -53,7 +53,7 @@ http://img189.imageshack.us/img189/3091/byax.jpg
 
      <b>Quick Reference:</b> http://dublincore.org/documents/2012/06/14/dcmi-terms/?v=terms#terms-created
 
-
+-----------
 
 <br>
 <h2>*Legend:*</h2>
