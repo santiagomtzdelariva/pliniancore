@@ -21,12 +21,13 @@ http://img822.imageshack.us/img822/7044/n7fp.jpg
 
         <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
      
-        A <b>controled vocabulary</b> is recommended. <b>e.g.</b> Historical, Current, Restricted and Wide.
-
         List of regions structured and categorized.
 
-        <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+        A <b>controled vocabulary</b> is recommended. 
 
+       <b>e.g.</b> Historical, Current, Restricted and Wide.
+
+        <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
         ==Ancillary Data==
 
