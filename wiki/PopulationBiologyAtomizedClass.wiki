@@ -34,11 +34,8 @@ http://img191.imageshack.us/img191/3862/wdvw.jpg
      <b>Controlled vocabulary</b> is recommended.
 
      <b>e.g.</b>
-
         1. Clumped: distribution in which individuals occur in groups (Smith & Smith, 2003).
-
         2. Uniform: distribution in which individuals are more or less evenly spaced (Smith & Smith, 2003).
-
         3. Random: distribution in which the position of each individual is independent of the others (Smith & Smith, 2003).
 
 
