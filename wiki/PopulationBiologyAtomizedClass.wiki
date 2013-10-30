@@ -1,4 +1,4 @@
-#labels Class,PopulationBiologyAtomized,Abundace,Density,PatternDistribution,Size,SexRatio,Fecundity,MortalityRate,BirthRate,NumberIndividualsObservation,AverageDensity,Trend,Recruiment,GrowthRate,Emigration,Inmigration,DescriptionLifeStages,ProportionIndividualsPerStage,CarryingCapacity
+#labels Class,PopulationBiologyAtomized,Abundace,Density,PatternDistribution,Size,SexRatio,Fecundity,MortalityRate,BirthRate,NumberIndividualsObservation,AverageDensity,Trend,Recruiment,GrowthRate,Emigration,Inmigration,DescriptionLifeStages,ProportionIndividualsPerStage,CarryingCapacity,CV,ControlledVocabulary
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
 
