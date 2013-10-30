@@ -29,7 +29,7 @@ http://img191.imageshack.us/img191/3862/wdvw.jpg
 
      =Pattern Distribution=
 
-     <<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
      <b>Controlled vocabulary</b> is recommended.
 
