@@ -1,18 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- editado con XMLSpy v2013 sp1 (x64) (http://www.altova.com) por Santiago Martínez de la Riva/Francisco Pando (Real Jardín Botánico - CSIC) -->
+<!-- editado con XMLSpy v2013 sp1 (x64) (http://www.altova.com) por Francisco Pando (Real Jardín Botánico - CSIC) -->
 <!-- edited with XMLSpy v2013 (http://www.altova.com) by Santiago Martinez de la Riva/Francisco Pando (Real Jardín Botánico - CSIC) -->
 <!--  publisher: Plinian Core Initiative  -->
 <!--description: The Plinian Core v3.0 is a set of concepts that defines the necessary basic attributes to integrate and recover the information about species of organisms required by users specialized in biodiversity as well as users of other areas. The current version compiles a list of high-priority concepts selected by different groups of people interested in having apt mechanisms to access integrated information of species using Internet. -->
 <!--modified:2013-02-10-->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:plic="http://www.gbif.es/PliC/" xmlns:dc="http://purl.org/dc/terms/" xmlns:dcelem="http://purl.org/dc/elements/1.1/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:abcd="http://www.tdwg.org/schemas/abcd/2.06" xmlns:tcs="http://www.tdwg.org/schemas/tcs/1.01" xmlns:simple="http://rs.tdwg.org/dwc/xsd/simpledarwincore/" xmlns:gisin="http://www.gisin.org/gisin/SpeciesStatus" xmlns:eol="http://www.eol.org/transfer/content/0.3" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:sql="urn:schemas-microsoft-com:mapping-schema">
 	<xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dc.xsd"/>
-	<xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://darwincore.googlecode.com/svn/trunk/xsd/dublin_core.xsd"/>
+	<!--<xs:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dc.xsd"/>-->
+	<!--<xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/2008/02/11/dcterms.xsd"/>-->
+	<!--<xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://darwincore.googlecode.com/svn/trunk/xsd/dublin_core.xsd"/>-->
 	<xs:import namespace="http://www.tdwg.org/schemas/abcd/2.06" schemaLocation="http://rs.tdwg.org/abcd/2.06/ABCD_2.06.xsd"/>
 	<xs:import namespace="http://www.tdwg.org/schemas/tcs/1.01" schemaLocation="http://www.tdwg.org/uploads/media/v101.xsd"/>
 	<xs:import namespace="http://www.gisin.org/gisin/SpeciesStatus" schemaLocation="http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd"/>
 	<xs:import namespace="http://rs.tdwg.org/dwc/terms/" schemaLocation="http://darwincore.googlecode.com/svn/trunk/xsd/tdwg_dwc_extensions.xsd"/>
 	<xs:import namespace="eml://ecoinformatics.org/eml-2.1.1" schemaLocation="eml.xsd"/>
 	<xs:import namespace="http://www.eol.org/transfer/content/0.3" schemaLocation="content_0_3.xsd"/>
+	<xs:import namespace="http://purl.org/dc/terms/" schemaLocation="file:///C:/plic3_0/xsd/dc/dublin_core.xsd"/>
 	<xs:element name="Dataset">
 		<xs:annotation>
 			<xs:documentation>Root element from which all other elements will branch from</xs:documentation>
@@ -21,7 +24,7 @@
 			<xs:sequence>
 				<xs:element ref="Metadata">
 					<xs:annotation>
-						<xs:documentation>Information about the collections of records. This is an Extension of abcd: ContentMetadata.</xs:documentation>
+						<xs:documentation>Information about the collections of records.</xs:documentation>
 					</xs:annotation>
 				</xs:element>
 				<xs:element ref="TaxonRecord" maxOccurs="unbounded"/>
@@ -87,7 +90,7 @@
 				</xs:element>
 				<xs:element name="GlobalUniqueIdentifier" type="xs:string" minOccurs="0">
 					<xs:annotation>
-						<xs:documentation>An Uniform Resource Name (URN) used as an unique identifier of the taxon record.</xs:documentation>
+						<xs:documentation>An Uniform Resource Name (URN) used as an unique identifier of the taxon record. e.g: urn:lsid:ubio.org:namebank:11815</xs:documentation>
 					</xs:annotation>
 				</xs:element>
 				<xs:element ref="Abstract" minOccurs="0">
@@ -105,30 +108,6 @@
 	</xs:element>
 	<xs:element name="BehaviorAtomized" type="DetailType"/>
 	<xs:element name="BehaviorUnstructured" type="xs:string"/>
-	<xs:element name="Binary">
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element name="MIME-Type">
-					<xs:annotation>
-						<xs:documentation>Controlled Vocavulary: Application, Audio, Image, Message, Model, Multipart, Text and Video. http://www.iana.org/assignments/media-types/index.html</xs:documentation>
-					</xs:annotation>
-					<xs:simpleType>
-						<xs:restriction base="xs:string">
-							<xs:enumeration value="Application"/>
-							<xs:enumeration value="Audio"/>
-							<xs:enumeration value="Image"/>
-							<xs:enumeration value="Message"/>
-							<xs:enumeration value="Model"/>
-							<xs:enumeration value="Multipart"/>
-							<xs:enumeration value="Text"/>
-							<xs:enumeration value="Video"/>
-						</xs:restriction>
-					</xs:simpleType>
-				</xs:element>
-				<xs:group ref="dcelem:elementsGroup"/>
-			</xs:sequence>
-		</xs:complexType>
-	</xs:element>
 	<xs:element name="BriefDescription">
 		<xs:annotation>
 			<xs:documentation>Brief description which reflect only the diagnostic characters, i.e. those that distinguish a taxon from other related or close taxa.</xs:documentation>
@@ -166,33 +145,10 @@
 	<xs:element name="EcologicalAtomized" type="DetailType"/>
 	<xs:element name="EcologicalUnstructured" type="xs:string"/>
 	<xs:element name="Endemic" type="EndemicType"/>
-	<xs:element name="EndemicAtomized">
+	<xs:element name="EndemicAtomized" type="EndemicAtomizedType">
 		<xs:annotation>
 			<xs:documentation>List of areas structured and categorized the degree of safety.</xs:documentation>
 		</xs:annotation>
-		<xs:complexType>
-			<xs:sequence>
-				<xs:element name="EdemicTo" type="xs:string" minOccurs="0" maxOccurs="unbounded">
-					<xs:annotation>
-						<xs:documentation>The concept is applied to one or several countries. Ex:-	Giant panda (Ailuropoda melanoleuca (David, 1869) endemic to China. 
-	-	Quetzal Resplendent (Pharomachrus mocinno de la Llave, 1832) endemic to Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica and Panama
-	</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element name="EndemicIn" type="xs:string" minOccurs="0">
-					<xs:annotation>
-						<xs:documentation>The concept is applied to an area either multinational or local. Ex: 	- Vicuña (Vicugna vicugna Molina, 1782) endemic in the Andean region.
-	- Manzanilla Real (Artemisia granatensis Boiss.) endemic in the peaks of Sierra Nevada (Spain).
-	</xs:documentation>
-					</xs:annotation>
-				</xs:element>
-				<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded">
-					<xs:annotation>
-						<xs:documentation> </xs:documentation>
-					</xs:annotation>
-				</xs:element>
-			</xs:sequence>
-		</xs:complexType>
 	</xs:element>
 	<xs:element name="EnvironmentalEnvelope" type="EnvironmentalType"/>
 	<xs:element name="EnvironmentalUnstructured" type="xs:string"/>
@@ -207,23 +163,10 @@
 	<xs:element name="Folklore" type="FolkloreType"/>
 	<xs:element name="FolkloreAtomized" type="FolkloreAtomizedType"/>
 	<xs:element name="FolkloreUnstructured" type="xs:string"/>
-	<xs:element name="FullDescription">
+	<xs:element name="FullDescription" type="FullDescriptionType">
 		<xs:annotation>
 			<xs:documentation>Complete and detailed account of the taxonomic and systematic characters, i.e. those that define and allow to recognize an organism.</xs:documentation>
 		</xs:annotation>
-		<xs:complexType>
-			<xs:choice>
-				<xs:element ref="FullDescriptionAtomized" maxOccurs="unbounded"/>
-				<xs:sequence>
-					<xs:element ref="FullDescriptionUnstructured"/>
-					<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded">
-						<xs:annotation>
-							<xs:documentation> </xs:documentation>
-						</xs:annotation>
-					</xs:element>
-				</xs:sequence>
-			</xs:choice>
-		</xs:complexType>
 	</xs:element>
 	<xs:element name="FullDescriptionAtomized" type="DetailType"/>
 	<xs:element name="FullDescriptionUnstructured" type="xs:string"/>
@@ -405,7 +348,7 @@ If we are in a register of a genre, this register would include the keys of the 
 				</xs:element>
 				<xs:element ref="Invasiveness" minOccurs="0">
 					<xs:annotation>
-						<xs:documentation>Information about introduce exotic species that could threaten to ecosystem, habitats and species. Ref: www.cbd.int/doc/legal/cbd-es.pdf</xs:documentation>
+						<xs:documentation>Information about invasive exotic species that could threaten native species, their habitats, and negatively impact human health, the economy (i.e. tourism, agriculture), and native ecosystems. Reference: www.cbd.int/doc/legal/cbd-es.pdf</xs:documentation>
 					</xs:annotation>
 				</xs:element>
 				<xs:element ref="HabitatAndDistribution" minOccurs="0">
@@ -420,7 +363,6 @@ If we are in a register of a genre, this register would include the keys of the 
 				</xs:element>
 				<xs:element ref="UsesManagementAndConservation" minOccurs="0"/>
 				<xs:element ref="associatedParty" minOccurs="0"/>
-				<xs:element ref="References" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded"/>
 			</xs:sequence>
 		</xs:complexType>
@@ -486,17 +428,17 @@ If we are in a register of a genre, this register would include the keys of the 
 	<!--  =============================================   -->
 	<xs:complexType name="AnnualCycleAtomizedType">
 		<xs:sequence>
-			<xs:element name="Event">
+			<xs:element name="Event" type="xs:string">
 				<xs:annotation>
 					<xs:documentation>VC</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="startTimeInterval" minOccurs="0">
+			<xs:element name="startTimeInterval" type="xs:string" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>VC</xs:documentation>
 				</xs:annotation>
 			</xs:element>
-			<xs:element name="endTimeInterval" minOccurs="0">
+			<xs:element name="endTimeInterval" type="xs:string" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>VC</xs:documentation>
 				</xs:annotation>
@@ -663,11 +605,7 @@ If we are in a register of a genre, this register would include the keys of the 
 	</xs:complexType>
 	<xs:complexType name="DispersalAtomizedType">
 		<xs:sequence>
-			<xs:element name="Purpose" type="MeasurementOrFactType" minOccurs="0" maxOccurs="unbounded">
-				<xs:annotation>
-					<xs:documentation>Makes reference to any data being measured  </xs:documentation>
-				</xs:annotation>
-			</xs:element>
+			<xs:element name="Purpose" type="MeasurementOrFactType" minOccurs="0" maxOccurs="unbounded"/>
 			<xs:element name="Type" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation>VCR. Zoochory, Anemochory, Hydrochory, Barochory, Autochory</xs:documentation>
@@ -701,7 +639,7 @@ If we are in a register of a genre, this register would include the keys of the 
 			</xs:element>
 			<xs:element name="Distance" type="MeasurementOrFactType" minOccurs="0">
 				<xs:annotation>
-					<xs:documentation>(eg. 450)</xs:documentation>
+					<xs:documentation>e.g. Dispersal distance 450 m</xs:documentation>
 				</xs:annotation>
 			</xs:element>
 			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded">
@@ -715,7 +653,7 @@ If we are in a register of a genre, this register would include the keys of the 
 		<xs:sequence>
 			<xs:element name="DistributionScope" minOccurs="0">
 				<xs:complexType>
-					<xs:sequence>
+					<xs:sequence minOccurs="0">
 						<xs:element ref="AncillaryData">
 							<xs:annotation>
 								<xs:documentation> </xs:documentation>
@@ -776,6 +714,29 @@ If we are in a register of a genre, this register would include the keys of the 
 				</xs:element>
 			</xs:sequence>
 		</xs:choice>
+	</xs:complexType>
+	<xs:complexType name="EndemicAtomizedType">
+		<xs:sequence>
+			<xs:element name="EdemicTo" type="xs:string" minOccurs="0" maxOccurs="unbounded">
+				<xs:annotation>
+					<xs:documentation>The concept is applied to one or several countries. Ex:-	Giant panda (Ailuropoda melanoleuca (David, 1869) endemic to China. 
+	-	Quetzal Resplendent (Pharomachrus mocinno de la Llave, 1832) endemic to Mexico, Guatemala, Honduras, El Salvador, Nicaragua, Costa Rica and Panama
+	</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element name="EndemicIn" type="xs:string" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>The concept is applied to an area either multinational or local. Ex: 	- Vicuña (Vicugna vicugna Molina, 1782) endemic in the Andean region.
+	- Manzanilla Real (Artemisia granatensis Boiss.) endemic in the peaks of Sierra Nevada (Spain).
+	</xs:documentation>
+				</xs:annotation>
+			</xs:element>
+			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded">
+				<xs:annotation>
+					<xs:documentation> </xs:documentation>
+				</xs:annotation>
+			</xs:element>
+		</xs:sequence>
 	</xs:complexType>
 	<xs:complexType name="EnvironmentalType">
 		<xs:sequence>
@@ -873,6 +834,19 @@ If we are in a register of a genre, this register would include the keys of the 
 			</xs:extension>
 		</xs:complexContent>
 	</xs:complexType>
+	<xs:complexType name="FullDescriptionType">
+		<xs:choice>
+			<xs:element ref="FullDescriptionAtomized" maxOccurs="unbounded"/>
+			<xs:sequence>
+				<xs:element ref="FullDescriptionUnstructured"/>
+				<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded">
+					<xs:annotation>
+						<xs:documentation> </xs:documentation>
+					</xs:annotation>
+				</xs:element>
+			</xs:sequence>
+		</xs:choice>
+	</xs:complexType>
 	<xs:complexType name="HabitatAndDistributionType">
 		<xs:choice>
 			<xs:sequence>
@@ -883,7 +857,7 @@ If we are in a register of a genre, this register would include the keys of the 
 				</xs:element>
 				<xs:element ref="Distribution" minOccurs="0" maxOccurs="unbounded">
 					<xs:annotation>
-						<xs:documentation>Species geographical  distribution.</xs:documentation>
+						<xs:documentation>Comment about the distribution of the species based on information from the collection sites of the studied specimens.</xs:documentation>
 					</xs:annotation>
 				</xs:element>
 				<xs:element ref="Endemic" minOccurs="0">
@@ -1090,11 +1064,11 @@ If we are in a register of a genre, this register would include the keys of the 
 			<xs:element ref="gisin:localityName" minOccurs="0"/>
 			<xs:element ref="gisin:language" minOccurs="0"/>
 			<xs:element ref="gisin:citation" minOccurs="0"/>
-			<xs:element ref="gisin:abundance" minOccurs="0"/>
 			<xs:element ref="gisin:trend" minOccurs="0"/>
 			<xs:element ref="gisin:rateOfSpread" minOccurs="0"/>
 			<xs:element ref="gisin:regulatoryListing" minOccurs="0"/>
 			<xs:element ref="gisin:memo" minOccurs="0"/>
+			<xs:element ref="gisin:abundance" minOccurs="0"/>
 			<xs:element ref="gisin:publicationDate" minOccurs="0"/>
 			<xs:element ref="gisin:localityType" minOccurs="0"/>
 			<xs:element ref="gisin:locationValue" minOccurs="0"/>
@@ -1272,7 +1246,11 @@ If we are in a register of a genre, this register would include the keys of the 
 	</xs:complexType>
 	<xs:complexType name="MetadataType">
 		<xs:sequence>
-			<xs:element name="Dataset_ID" type="xs:string" minOccurs="0"/>
+			<xs:element name="Dataset_ID" type="xs:string" minOccurs="0">
+				<xs:annotation>
+					<xs:documentation>An identifier for the set of data. May be a global unique identifier</xs:documentation>
+				</xs:annotation>
+			</xs:element>
 			<xs:element name="IconURI" type="xs:anyURI" minOccurs="0">
 				<xs:annotation>
 					<xs:documentation xml:lang="en-us">The URI of an icon/logo symbolizing the project.</xs:documentation>
@@ -1411,7 +1389,7 @@ If we are in a register of a genre, this register would include the keys of the 
 				</xs:element>
 				<xs:element ref="LifeCycle" minOccurs="0">
 					<xs:annotation>
-						<xs:documentation>VC. Life history of a living organism: The course of developmental changes in an organism from fertilized zygote to maturity or stages through which an organism passes. </xs:documentation>
+						<xs:documentation>Life history of a living organism: The course of developmental changes in an organism from fertilized zygote to maturity or stages through which an organism passes. </xs:documentation>
 					</xs:annotation>
 				</xs:element>
 				<xs:element ref="Reproduction" minOccurs="0">
@@ -1466,7 +1444,7 @@ If we are in a register of a genre, this register would include the keys of the 
 				</xs:element>
 				<xs:element ref="EnvironmentalEnvelope" minOccurs="0">
 					<xs:annotation>
-						<xs:documentation>Environmental ranges in which species live, e.g. annual rainfall, average, 450 mm</xs:documentation>
+						<xs:documentation>Set of environmental conditions within which it is believed that the species can persist; that is where its environmental requirements can be satisfied.                   Reference: Walker, P.A. and Cocks, K.D. 1991. HABITAT. a procedure for modeling a disjoint environmental envelope for a plant or animal species. Global Ecology and Biogeography  Letter 1. 108-118.</xs:documentation>
 					</xs:annotation>
 				</xs:element>
 			</xs:sequence>
@@ -1495,7 +1473,7 @@ If we are in a register of a genre, this register would include the keys of the 
 				</xs:element>
 				<xs:element ref="CommonNames" minOccurs="0">
 					<xs:annotation>
-						<xs:documentation>List of  vernacular names.</xs:documentation>
+						<xs:documentation>List of vernacular names.</xs:documentation>
 					</xs:annotation>
 				</xs:element>
 				<xs:element ref="Hierarchy" minOccurs="0" maxOccurs="unbounded">
@@ -1679,7 +1657,7 @@ If we are in a register of a genre, this register would include the keys of the 
 			<xs:element name="SynonymName" type="tcs:ScientificName"/>
 			<xs:element name="SynonymStatus" type="xs:string" minOccurs="0">
 				<xs:annotation>
-					<xs:documentation>VC</xs:documentation>
+					<xs:documentation>VC. Nomenclature codes. Reference: http://www.iapt-taxon.org/nomen/main.php</xs:documentation>
 				</xs:annotation>
 			</xs:element>
 			<xs:element ref="AncillaryData" minOccurs="0" maxOccurs="unbounded"/>
