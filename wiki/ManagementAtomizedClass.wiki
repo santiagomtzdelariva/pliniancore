@@ -1,8 +1,74 @@
-#labels Class,ManagementAtomized,Objetives,Actions,Plan,EnvironmentalImpact
-<h2>*Schema and Legend:*</h2>
+#labels Class,ManagementAtomized,Objetives,Actions,Plan,EnvironmentalImpact,ControlledVocabulary,CV
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+
+
+http://imageshack.us/a/img845/5443/bvkz.jpg
+
+
 <wiki:toc />
 
-http://img837.imageshack.us/img837/9747/04rs.jpg
+
+=type (Attribute)=
+
+<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+<b>Controlled vocabulary</b> is recommended.</b>
+
+<b>e.g.</b> Conservation, management, restoration, eradication...
+     
+    <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
+-----------
+     =Objectives=
+
+     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+     <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
+     <blockquote><blockquote>
+
+     =Management Plan=
+
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+
+     =Actions=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+          ==type (Attribute)</h2>==
+
+          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
+
+          <b>Controlled vocabulary</b> is recommended.
+
+          <b>e.g.</b> IUCN Conservation Actions Classification Scheme
+
+          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+     </blockquote></blockquote>
+
+     =Environmental Impact=
+
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
+
+     =Ancillary Data=
+
+     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+
+     Ancillary information.
+
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
+
+
+----------
+<br>
+<h2>*Legend:*</h2>
 
 ||Image||Description||
 ||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
@@ -12,54 +78,3 @@ http://img837.imageshack.us/img837/9747/04rs.jpg
 ||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
 ||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
 ||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
-
-<h1><b>Management Atomized Class</b></h1>
-
-<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
-
-=Attribute-type=
-
-<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-     
-    <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
-
-     =Objectives=
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-     <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
-
-     <blockquote><blockquote>
-
-          =Actions=
-
-          <h2>-Attribute type-</h2>
-
-          <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
-
-          Actions are interventions undertaken to reach ultimate conservation goals (e.g., setting up a protected area or species population recovery).
-
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-          =Management Plan=
-
-     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-     </blockquote></blockquote>
-
-     =Environmental Impact=
-
-     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
-
-=Ancillary Data=
-
-<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
-
-Ancillary information.
-
-<b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncilliaryDataClass
