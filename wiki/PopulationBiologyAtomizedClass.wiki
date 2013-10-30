@@ -105,7 +105,7 @@ http://img191.imageshack.us/img191/3862/wdvw.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     A controlled vocabulary is recommended in <b>Attribute<b/> field of <b>DetailsClass</b>.
+     A controlled vocabulary is recommended in <b>Attribute</b> field of <b>DetailsClass</b>.
 
      <b>e.g.</b> Stable, Increasing and Dreasing.
 
