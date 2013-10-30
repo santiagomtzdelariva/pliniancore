@@ -1,32 +1,24 @@
-#labels Class,Uses,Management,Conservation,Folklore
+#labels Class,Uses,Management,Conservation,CV,ControlledVocavulary
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-<wiki:toc />
+
 
 http://img11.imageshack.us/img11/9599/yuce.jpg
 
-
+<wiki:toc />
 
      =Uses=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-     Ways in which species are utilized by people 
+     Ways in which species are utilized by people. Including Folklore
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/UsesClass 
-
-     =Folklore=
-
-     <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
-
-     Known myths or legends that people or literature contribute about the species.
-
-     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/FolkloreClass
 
      =Management and Conservation=
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-     Management: actions directed at conserving or restoring species / Conservation: interventions undertaken designed to preserve species . 
+     Management: actions directed at conserving or restoring species / Conservation: interventions undertaken designed to preserve species. 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ManagementAndConservationClass
