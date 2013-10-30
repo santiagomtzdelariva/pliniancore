@@ -1,9 +1,13 @@
 #labels Class,Uses,Management,Conservation,CV,ControlledVocavulary
-<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
 
 http://img11.imageshack.us/img11/9599/yuce.jpg
 
 <wiki:toc />
+
+<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>
+-------
+   <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
      =Uses=
 
@@ -17,25 +21,25 @@ http://img11.imageshack.us/img11/9599/yuce.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>
 
-     Management: actions directed at conserving or restoring species / Conservation: interventions undertaken designed to preserve species. 
+     Management: actions directed at conserving or restoring species / Conservation: interventions undertaken designed to preserve species.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ManagementAndConservationClass
 
 -------
 
+   <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
+
      =Use Management and Conservation Unstructured=
+     
+     <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 
-     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+     Unstructured information.
 
-     Ancillary information.
-
-    <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
-
-
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
      =Ancillary Data=
 
-     <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
+     <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>
 
      Ancillary information.
 
