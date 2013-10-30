@@ -38,7 +38,7 @@ http://imageshack.us/a/img845/5443/bvkz.jpg
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
 <blockquote><blockquote>
-          ==type (Attribute)</h2>==
+          ==type (Attribute)==
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
