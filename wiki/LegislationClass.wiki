@@ -35,7 +35,7 @@ http://img856.imageshack.us/img856/977/zjrd.jpg
 
      Ancillary information.
  
-     *Class:* http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
 
 
 --------
