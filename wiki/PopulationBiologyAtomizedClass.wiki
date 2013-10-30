@@ -31,7 +31,12 @@ http://img191.imageshack.us/img191/3862/wdvw.jpg
 
      <<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Controlled vocabulary: Clumped, Uniform and  Random.
+     A <b>controlled vocabulary</b> is recommended.
+     <b>e.g.</b>
+        1. Clumped: distribution in which individuals occur in groups (Smith & Smith, 2003).
+        2. Uniform: distribution in which individuals are more or less evenly spaced (Smith & Smith, 2003).
+        3. Random: distribution in which the position of each individual is independent of the others (Smith & Smith, 2003).
+
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -96,7 +101,9 @@ http://img191.imageshack.us/img191/3862/wdvw.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     Controlled vocabulary: Stable, Increasing and Dreasing.
+     A controlled vocabulary is recommended in <b>Attribute<b/> field of <b>DetailsClass</b>.
+
+     <b>e.g.</b> Stable, Increasing and Dreasing.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
 
