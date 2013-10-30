@@ -26,7 +26,6 @@ http://imageshack.us/a/img845/5443/bvkz.jpg
 
      <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-     <blockquote><blockquote>
 
      =Management Plan=
 
@@ -38,7 +37,7 @@ http://imageshack.us/a/img845/5443/bvkz.jpg
      =Actions=
 
      <img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>
-
+<blockquote><blockquote>
           ==type (Attribute)</h2>==
 
           <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
@@ -49,7 +48,7 @@ http://imageshack.us/a/img845/5443/bvkz.jpg
 
           <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
-     </blockquote></blockquote>
+</blockquote></blockquote>
 
      =Environmental Impact=
 
