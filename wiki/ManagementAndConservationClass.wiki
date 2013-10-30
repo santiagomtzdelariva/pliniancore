@@ -1,12 +1,12 @@
-#labels Class,Management,Conservation
+#labels Class,Management,Conservation,CV,ControlledVocabulary
 <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> 
 
 
 Management: actions directed at conserving or restoring species / Conservation: interventions undertaken designed to preserve species 
 
-<wiki:toc />
+http://img811.imageshack.us/img811/9669/eut6.jpg
 
-http://img43.imageshack.us/img43/7645/ih5q.jpg
+<wiki:toc />
 
      <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> 
 
@@ -15,6 +15,8 @@ http://img43.imageshack.us/img43/7645/ih5q.jpg
      =Management Atomized=
 
      <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>
+
+     <b>Controlled vocanulary</b> is recommended.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ManagementAtomizedClass
 
