@@ -68,6 +68,7 @@
            * [PopulationBiologyAtomizedClass PopulationBiologyAtomized Class]
         * [http://code.google.com/p/pliniancore/wiki/DemographyAndThreatClass#Threat_Status ThreatStatus]
         * [LegislationClass Legislation Class]
+           * [LegislationAtomizedClass LegislationAtomized Class]
         * [http://code.google.com/p/pliniancore/wiki/DemographyAndThreatClass#Direct_Threats DirectThreats]
            * [LegislationAtomizedClass LegislationAtomized Class]
      * [UsesManagementAndConservationClass UsesManagementAndConservation Class]
