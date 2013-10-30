@@ -1,23 +1,11 @@
 #labels Class,UsesAtomized
-<h2>*Schema and Legend:*</h2>
+<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
-<wiki:toc />
 
 http://img14.imageshack.us/img14/896/ah54.jpg
 
-||Image||Description||
-||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
-||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
-||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
-||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
-||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
-||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
-||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
+<wiki:toc />
 
-
-<h1>*Use Class:*</h1>
-
-<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/> <img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/> 
 
      <img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/> 
 
@@ -56,6 +44,8 @@ and language spo ken).
 
      Acc. TDWG Economic Botany. What is t he plant used for, or what negative values does it have (e.g . as a
 weed affecting f ood product ion, or as an accid ent al poison)?
+
+     <b>Controlled vocabulary</b> is reocmmended.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
@@ -180,3 +170,17 @@ poisons (e.g. insecticides), so cial products and some environmental purposes (e
      Ancillary information.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/AncillaryDataClass
+
+-----------
+
+<br>
+<h2>*Legend:*</h2>
+
+||Image||Description||
+||<img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/>||Complex Type||
+||<img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>||Sequence structure||
+||<img src="http://img266.imageshack.us/img266/2791/choice.jpg" width="26" height="24"/>||Choice structure||
+||<img src="http://img52.imageshack.us/img52/2777/elementkw.jpg"  width="26" height="24"/>||Obligatory element||
+||<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>||Optional element||
+||<img src="http://img19.imageshack.us/img19/4356/infinitol.jpg"  width="26" height="24"/>||minOccurs=0 maxOccurs=unbounded||
+||<img src="http://img198.imageshack.us/img198/6134/unoinfinito.jpg"  width="26" height="24"/>||minOccurs=1 maxOccurs=unbounded||
