@@ -25,16 +25,20 @@ http://img191.imageshack.us/img191/3862/wdvw.jpg
      Size of a population in relation to a definite unit of space.
  
 
-          <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass 
 
      =Pattern Distribution=
 
      <<img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/>
 
-     A <b>controlled vocabulary</b> is recommended.
+     <b>Controlled vocabulary</b> is recommended.
+
      <b>e.g.</b>
+
         1. Clumped: distribution in which individuals occur in groups (Smith & Smith, 2003).
+
         2. Uniform: distribution in which individuals are more or less evenly spaced (Smith & Smith, 2003).
+
         3. Random: distribution in which the position of each individual is independent of the others (Smith & Smith, 2003).
 
 
@@ -106,6 +110,10 @@ http://img191.imageshack.us/img191/3862/wdvw.jpg
      <b>e.g.</b> Stable, Increasing and Dreasing.
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/DetailClass
+
+     <b>References:</b>
+     
+       - Begon, M., J. L. Harper, et al. 1996. Ecology. Individuals, populations and communities. Osney Mead, Oxford, UK, Blackwell Science Ltd. 
 
      =Recruitment=
 
