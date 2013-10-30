@@ -28,6 +28,7 @@ http://img856.imageshack.us/img856/977/zjrd.jpg
 
      Information in unstructured format.
 
+     <b>Class:</b> http://code.google.com/p/pliniancore/wiki/NormalString
 
      =Ancillary Data=
 
