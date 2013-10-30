@@ -22,3 +22,5 @@ http://img11.imageshack.us/img11/9599/yuce.jpg
      Management: actions directed at conserving or restoring species / Conservation: interventions undertaken designed to preserve species. 
 
      <b>Class:</b> http://code.google.com/p/pliniancore/wiki/ManagementAndConservationClass
+
+---------
