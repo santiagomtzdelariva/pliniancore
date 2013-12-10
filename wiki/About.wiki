@@ -46,7 +46,7 @@
 ||ABCD||Description, IPRStatements.||http://www.tdwg.org/schemas/abcd/2.06||
 ||DC||created, pubdate.||http://purl.org/dc/terms/||
 ||DWC||taxonConceptID, Hierarchy, MeasurementOrFact, ResourceRelationShip.||http://rs.tdwg.org/dwc/terms/||
-||GISIN||origin, presence, persistence, distribution, harmful, modified, startValidDate, endValidDate, countryCode, stateProvince, county, localityName, county, language, citation, abundance...||http://www.gisin.org/gisin/SpeciesStatus||http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd||
+||GISIN||origin, presence, persistence, distribution, harmful, modified, startValidDate, endValidDate, countryCode, stateProvince, county, localityName, county, language, citation, abundance...||http://www.gisin.org/GISIN/SpeciesStatus_4_0_0.xsd||
 ||TCS||scientificName||http://www.tdwg.org/schemas/tcs/1.01||
 ||EOL||AncillaryData: DataObjectBase||http://www.eol.org/transfer/content/0.3||
 
