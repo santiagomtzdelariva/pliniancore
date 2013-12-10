@@ -1,13 +1,45 @@
 #summary One-sentence summary of this page.
 #labels About,PlinianCore3
 
-= Absrtact =
+= Abstract =
 
    Plinian Core aims to be a standard for sharing information mainly at the species level. It was conceived as a way to publish species information and to make it interoperable. By “species information” we refer to all kinds of properties and traits related to taxa (of any rank), including descriptions, nomenclature, conservation status, management, natural history, etc. Thus, Plinian Core coverage goes beyond taxonomic descriptions.
    The objective of this poster is to present the process and advances of the conceptual development of Plinian Core v3.1 (abstract model) and its implementation (application profiles).
 
 
-http://img822.imageshack.us/img822/7586/h309.jpg
+   http://img822.imageshack.us/img822/7586/h309.jpg
+
+   The development of Plinian Core has been leaded by the National Institute of Biodiversity (INBio, Costa Rica), the Spanish Node of GBIF (GBIF Spain), the University of Granada (UG, Spain), the Alexander von Humboldt Institute (IAvH , Colombia), the National Commission for the Knowledge and Use of Biodiversity (Conabio, Mexico) and the University of Sao Paulo (USP, Brazil). This group reviewed the existing data standards to reuse as many elements as possible and avoid redundancy. 
+
+   Plinian Core design requirements included to be  easy to use, self-contained, able to support  data integration from multiple databases, and ability to handle different levels of granularity. The current version of Plinian Core specifically supports species pages publication reasonably well, it is structured in 18 classes (i.e. complex elements) and it is well-documented: 
+
+   •	Abstract Model: (https://purl.org/pliniancore/am_v3.1)<br>
+   •	Application Profile (https://purl.org/pliniancore/ap_v3.1)<br>
+   •	Additional Plinian Core documentation can be seen at https://code.google.com/p/pliniancore/<br>
+
+
+   Plinian Core is currently used by the institutions mentioned above and the Chilean Ministry of Environment. Now we aim to make Plinian Core a truly global standard by bringing together teams and institutions from all over the world under the umbrella of TDWG.
+
+----------
+Santiago Martínez de la Riva, GBIF.es; Carmen Quesada, Universidad de Granada; Francisco Pando, GBIF.es; Bárbara Ayala-Orozco, CONABIO; Ángela M. Suárez-Mayorga, Universidad de los Andes; María Mora, Inbio; Danny Vélez, Humboldt Institute; Jose Trinidad Mendoza Gaytan, CONABIO; Daniel Lins da Silva, Universidade do Sao Paulo; María Esther Quintero Rivero, CONABIO; Aurelio Sanabria, Inbio; Patricia Koleff, CONABIO
+
+
+
+= History =
+
+
+   A previous version of Plinian Core, know as “Plinian Core Flat”, consisted  of a plain list of elements to represent the information associated to any given taxon. Limitations of this approach were evident and a new development was impulse to overcome them.
+
+
+   As a result of the process started in 2012, a new version, Plinian Core v3.1 was defined. This  provides more flexibility to fully represent the information of a species in a variety of scenarios. New elements to deal with aspects such as IPR, related resources, referenced, etc. were introduced, and elements already included were better-defined and documented.
+
+   http://img138.imageshack.us/img138/36/wpkg.jpg
+
+
+   Other new features are the possibility to represent each element in unstructured or structured terms,  and attach provenance, references, or license information to them. 
+
+   http://img46.imageshack.us/img46/8936/no02.jpg
+
 
 = Details =
 
