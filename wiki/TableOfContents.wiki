@@ -82,5 +82,6 @@
      * [ResourceRelationshipClass ResourceRelationship Class]
      * [NormalString NormalString]
      * [NormalDate NormalDate]
+  * [About Plinian Core 3]
   * [Examples Examples]
   * [Resources Resources]
