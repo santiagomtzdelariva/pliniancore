@@ -1,5 +1,7 @@
-#summary One-sentence summary of this page.
 #labels About,PlinianCore3
+Based on the poster presented at TDWG 2013. Fiorenze
+
+#summary One-sentence summary of this page.
 
 = Abstract =
 
@@ -68,6 +70,3 @@
 = Future directions =
 
    Species data is crucial for a large number of users, including decision makers worldwide. Therefore it is central to made data available in better-structured ways; thus, we aim to make Plinian Core the product of a wider and more diverse community, embedded in the processes of TDWG. This will definitely introduce some complexity in the decision-making processes, but we are also confident that the outcome will be more robust and usable for a wider community. We count on all interested parties in this new phase of Plinian Core. 
-
-
-   Based on the poster that was presented at TDWG meeting in Florence in 2013
