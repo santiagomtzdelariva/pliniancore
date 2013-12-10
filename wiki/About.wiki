@@ -3,17 +3,8 @@
 
 = Absrtact =
 
-   Plinian Core aims to be a standard for sharing information
-mainly at the species level. It was conceived as a way to publish
-species information and to make it interoperable. By “species
-information” we refer to all kinds of properties and traits
-related to taxa (of any rank), including descriptions,
-nomenclature, conservation status, management, natural
-history, etc. Thus, Plinian Core coverage goes beyond
-taxonomic descriptions.
-The objective of this poster is to present the process and
-advances of the conceptual development of Plinian Core v3.1
-(abstract model) and its implementation (application profiles).
+   Plinian Core aims to be a standard for sharing information mainly at the species level. It was conceived as a way to publish species information and to make it interoperable. By “species information” we refer to all kinds of properties and traits related to taxa (of any rank), including descriptions, nomenclature, conservation status, management, natural history, etc. Thus, Plinian Core coverage goes beyond taxonomic descriptions.
+   The objective of this poster is to present the process and advances of the conceptual development of Plinian Core v3.1 (abstract model) and its implementation (application profiles).
 
 
 http://img822.imageshack.us/img822/7586/h309.jpg
