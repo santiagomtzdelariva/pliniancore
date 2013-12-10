@@ -50,10 +50,15 @@ Santiago Martínez de la Riva, GBIF.es; Carmen Quesada, Universidad de Granada; 
 
    As the Plinian Core Abstract Model would be impractical to implement, a generic application Profile –intended for production implementations, including GBIF’s IPT--  was developed. Besides, species information gathered under previous versions of Plinian Core can be easily imported into the new application profile. 
 
-   <img src="http://img600.imageshack.us/img600/6194/x9u4.jpg" align="middle">
+   <img src="http://img600.imageshack.us/img600/6194/x9u4.jpg" style="aling:center;">
 
    The use of controlled vocabularies is recommended in Plinian Core v3.1 for many elements. A controlled vocabulary will improve datasets interoperability and allow final users to search for detailed information from all structured fields.
 
 
+= DataFlow =
 
+   http://img12.imageshack.us/img12/7862/zoxa.jpg
 
+= Future directions =
+
+   Species data is crucial for a large number of users, including decision makers worldwide. Therefore it is central to made data available in better-structured ways; thus, we aim to make Plinian Core the product of a wider and more diverse community, embedded in the processes of TDWG. This will definitely introduce some complexity in the decision-making processes, but we are also confident that the outcome will be more robust and usable for a wider community. We count on all interested parties in this new phase of Plinian Core. 
