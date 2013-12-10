@@ -55,7 +55,7 @@ Santiago Martínez de la Riva, GBIF.es; Carmen Quesada, Universidad de Granada; 
    The use of controlled vocabularies is recommended in Plinian Core v3.1 for many elements. A controlled vocabulary will improve datasets interoperability and allow final users to search for detailed information from all structured fields.
 
 
-= DataFlow =
+= Data Flow =
 
    http://img12.imageshack.us/img12/7862/zoxa.jpg
 
