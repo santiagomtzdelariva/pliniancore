@@ -15,7 +15,6 @@
 
    •	Abstract Model: (https://purl.org/pliniancore/am_v3.1)<br>
    •	Application Profile (https://purl.org/pliniancore/ap_v3.1)<br>
-   •	Additional Plinian Core documentation can be seen at https://code.google.com/p/pliniancore/<br>
 
 
    Plinian Core is currently used by the institutions mentioned above and the Chilean Ministry of Environment. Now we aim to make Plinian Core a truly global standard by bringing together teams and institutions from all over the world under the umbrella of TDWG.
@@ -69,3 +68,6 @@
 = Future directions =
 
    Species data is crucial for a large number of users, including decision makers worldwide. Therefore it is central to made data available in better-structured ways; thus, we aim to make Plinian Core the product of a wider and more diverse community, embedded in the processes of TDWG. This will definitely introduce some complexity in the decision-making processes, but we are also confident that the outcome will be more robust and usable for a wider community. We count on all interested parties in this new phase of Plinian Core. 
+
+
+   Based on the poster that was presented at TDWG meeting in Florence in 2013
