@@ -41,9 +41,19 @@ Santiago Martínez de la Riva, GBIF.es; Carmen Quesada, Universidad de Granada; 
    http://img46.imageshack.us/img46/8936/no02.jpg
 
 
-= Details =
+= Other standards =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+   Plinian Core v3.1 incorporates a number of elements already defined within standards in use. This is an important consideration in advancing towards robust semantic web architecture for biodiversity information. The following table depicts the relationships between other standards and the elements used by Plinian Core v3.1:
+
+
+= Application Profile = 
+
+   As the Plinian Core Abstract Model would be impractical to implement, a generic application Profile –intended for production implementations, including GBIF’s IPT--  was developed. Besides, species information gathered under previous versions of Plinian Core can be easily imported into the new application profile. 
+
+   <img src="http://img600.imageshack.us/img600/6194/x9u4.jpg" align="middle">
+
+   The use of controlled vocabularies is recommended in Plinian Core v3.1 for many elements. A controlled vocabulary will improve datasets interoperability and allow final users to search for detailed information from all structured fields.
+
+
+
+
