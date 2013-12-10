@@ -1,7 +1,5 @@
 #labels About,PlinianCore3
-Based on the poster presented at TDWG 2013. Fiorenze
-
-#summary One-sentence summary of this page.
+Based on the poster presented at TDWG 2013. Fiorenze http://purl.org/pliniancore/posterTDWG2013
 
 = Abstract =
 
