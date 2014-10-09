@@ -66,7 +66,7 @@
         * [http://code.google.com/p/pliniancore/wiki/DemographyAndThreatClass#Threat_Status ThreatStatus]
         * [LegislationClass Legislation Class]
         * [http://code.google.com/p/pliniancore/wiki/DemographyAndThreatClass#Direct_Threats DirectThreats]
-           * [LegislationAtomizedClass LegislationAtomized Class]
+           * [DetailClass Detail Class]
      * [UsesManagementAndConservationClass UsesManagementAndConservation Class]
         * [UsesClass Uses Class]
            * [UsesAtomizedClass UsesAtomized Class]
