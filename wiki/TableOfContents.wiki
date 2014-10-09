@@ -70,7 +70,7 @@
         * [LegislationClass Legislation Class]
            * [LegislationAtomizedClass LegislationAtomized Class]
         * [http://code.google.com/p/pliniancore/wiki/DemographyAndThreatClass#Direct_Threats DirectThreats]
-           * [LegislationAtomizedClass LegislationAtomized Class]
+           * [DetailClass Detail Class]
      * [UsesManagementAndConservationClass UsesManagementAndConservation Class]
         * [UsesClass Uses Class]
            * [UsesAtomizedClass UsesAtomized Class]
