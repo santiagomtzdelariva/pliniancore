@@ -14,7 +14,7 @@ http://img29.imageshack.us/img29/337/vyvt.jpg
 
      <img src="http://img585.imageshack.us/img585/4808/optional.jpg"  width="26" height="24"/> <img src="http://imageshack.us/a/img16/5397/multipleg.jpg" width="26" height="24"/> <img src="http://img6.imageshack.us/img6/1315/sequencej.jpg" width="26" height="24"/>
 
-     Acc. TDWG Economic Botany. Is the source personal observation, or from else where? If the latter, reference citations sho uld be given. Where appropriate, voucher specimen details should be provided (collector, number, date, herbari um) and detai ls of the inform ant recorded (name, gender, approximate age, occupation, ethnic identi t y, locality and language spo ken).
+     Acc. TDWG Economic Botany. Is the source personal observation, or from else where? If the latter, reference citations should be given. Where appropriate, voucher specimen details should be provided (collector, number, date, herbari um) and detai ls of the inform ant recorded (name, gender, approximate age, occupation, ethnic identi t y, locality and language spo ken).
 
 <blockquote>
 
