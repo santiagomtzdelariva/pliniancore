@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by Francisco Pando (Real Jardín Botánico - CSIC) -->
 <xsd:schema xmlns="http://www.eol.org/transfer/content/0.3" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#" xmlns:dwc="http://rs.tdwg.org/dwc/dwcore/" targetNamespace="http://www.eol.org/transfer/content/0.3" elementFormDefault="qualified" version="0.3">
 	<xsd:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://services.eol.org/schema/xml.xsd"/>
 	<xsd:import namespace="http://purl.org/dc/elements/1.1/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dc.xsd"/>
-	<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="http://darwincore.googlecode.com/svn/trunk/xsd/dublin_core.xsd"/>
+	<xsd:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd"/>
 	<xsd:import namespace="http://www.w3.org/2003/01/geo/wgs84_pos#" schemaLocation="http://services.eol.org/schema/w3c_geo.xsd"/>
 	<xsd:import namespace="http://rs.tdwg.org/dwc/dwcore/" schemaLocation="http://services.eol.org/schema/tdwg_dw_core.xsd"/>
 	<xsd:element name="response" type="responseType"/>

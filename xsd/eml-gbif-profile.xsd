@@ -5,7 +5,7 @@
 <!-- For NCD - see Natural Collections Descriptions (NCD) v0.9 2008  http://wiki.tdwg.org/twiki/bin/viewfile/NCD/WebHome?rev=1;filename=NCD-v090_TDWG.doc -->
 <xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:dc="http://purl.org/dc/terms/" elementFormDefault="qualified" version="1.0.1">
 	<xs:import namespace="eml://ecoinformatics.org/eml-2.1.1" schemaLocation="eml.xsd"/>
-	<xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://darwincore.googlecode.com/svn/trunk/xsd/dublin_core.xsd"/>
+	<xs:import namespace="http://purl.org/dc/terms/" schemaLocation="http://dublincore.org/schemas/xmls/qdc/dcterms.xsd"/>
 	<xs:import namespace="http://www.w3.org/XML/1998/namespace" schemaLocation="http://www.w3.org/2001/xml.xsd"/>
 	<xs:element name="dataset">
 		<xs:annotation>
