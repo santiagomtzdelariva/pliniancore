@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- editado con XMLSpy v2013 sp1 (x64) (http://www.altova.com) por Santiago Martínez de la Riva (Real Jardín Botánico - CSIC) -->
-<!-- edited with XMLSpy v2013 (http://www.altova.com) by Santiago Martínez de la Riva (Real Jardín Botánico - CSIC) -->
+<!-- edited with XMLSpy v2013 (http://www.altova.com) by Francisco Pando (Real Jardín Botánico - CSIC) -->
 <xs:schema xmlns:pce="http://www.pliniancore.org/pc2.2/pcelement" xmlns:pcc="http://rs.tdwg.org/dwc/pccore/" xmlns:dwc="http://rs.tdwg.org/dwc/terms/" xmlns:gisin="http://www.gisin.org/gisin/SpeciesStatus" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:plic="http://www.gbif.es/PliC/" targetNamespace="http://rs.tdwg.org/dwc/pccore/" elementFormDefault="qualified">
 	<xs:include schemaLocation="http://rs.tdwg.org/dwc/tdwg_basetypes.xsd"/>
 	<xs:import namespace="http://rs.tdwg.org/dwc/terms/" schemaLocation="http://darwincore.googlecode.com/svn/trunk/xsd/tdwg_dwc_extensions.xsd"/>
@@ -34,13 +34,13 @@
 				<xs:element ref="Hierarchy" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="BriefDescription" minOccurs="0"/>
 				<xs:element ref="FullDescription" minOccurs="0"/>
-				<xs:element ref="IdentificationKeysUnstructured" minOccurs="0"/>
+				<xs:element ref="IdentificationKeys" minOccurs="0"/>
 				<xs:element ref="LifeFormAtomized" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="LifeCycleUnstructured" minOccurs="0"/>
-				<xs:element ref="ReproductionAtomized" minOccurs="0"/>
+				<xs:element ref="ReproductionAtomized" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="AnnualCycleAtomized" minOccurs="0"/>
 				<xs:element ref="FeedingAtomized" minOccurs="0"/>
-				<xs:element ref="DispersaAtomized" minOccurs="0"/>
+				<xs:element ref="DispersalAtomized" minOccurs="0"/>
 				<xs:element ref="Behavior" minOccurs="0"/>
 				<xs:element ref="InteractionUnstructured" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="MolecularDataAtomized" minOccurs="0"/>
@@ -48,14 +48,14 @@
 				<xs:element ref="EcologicalAtomized" minOccurs="0"/>
 				<xs:element ref="EnvironmentalEnvelope" minOccurs="0"/>
 				<xs:element ref="Invasiveness" minOccurs="0"/>
-				<xs:element ref="HabitatsAtomized" minOccurs="0"/>
+				<xs:element ref="HabitatAtomized" minOccurs="0"/>
 				<xs:element ref="DistributionAtomized" minOccurs="0"/>
 				<xs:element ref="EndemicAtomized" minOccurs="0"/>
 				<xs:element ref="TerritoryUnstructured" minOccurs="0"/>
 				<xs:element ref="PopulationBiologyAtomized" minOccurs="0"/>
-				<xs:element ref="ThreatStatus" minOccurs="0"/>
+				<xs:element ref="ThreatStatus" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="DirectThreats" minOccurs="0"/>
-				<xs:element ref="LegislationAtomized" minOccurs="0"/>
+				<xs:element ref="LegislationAtomized" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="Uses" minOccurs="0"/>
 				<xs:element ref="ManagementAndConservationAtomized" minOccurs="0"/>
 				<xs:element ref="associatedParty" minOccurs="0" maxOccurs="unbounded"/>
@@ -67,4 +67,3 @@
 		</xs:complexType>
 	</xs:element>
 </xs:schema>
-
