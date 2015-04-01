@@ -1,0 +1,1 @@
+**Quick Reference:** http://code.google.com/p/pliniancore/wiki/UsesAndManagementClass

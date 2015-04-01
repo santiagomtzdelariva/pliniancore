@@ -1,0 +1,1 @@
+**Quick Reference:** http://www.bgbm.org/tdwg/codata/schema/ABCD_2.06/HTML/ABCD_2.06.html#complexType_ContentMetadata_Link030627E8
